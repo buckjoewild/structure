@@ -1,0 +1,1684 @@
+Log session starting at 20:01:32 on Thursday, 7 August 2025.
+[  OK  ]  - Mudlet-lua API & Geyser Layout manager loaded.
+[ INFO ]  - Reading map. Format version: 20. File:
+            "C:/Users/wilds/.config/mudlet/profiles/PANTHEON1/map/2025-07-28#05-04-04map.dat",
+            please wait...
+[ INFO ]  - Successfully read the map file (0.01s), checking some
+            consistency details...
+[ INFO ]  - Map audit starting...
+[  OK  ]  - Auditing of map completed (0.00s). Enjoy your game...
+[  OK  ]  - Map loaded successfully (0.01s).
+[ INFO ]  - Looking up the IP address of server: avendar.net:9999 ...
+[ INFO ]  - The IP address of avendar.net has been found. It is: 74.91.112.143
+[ INFO ]  - Trying to connect to 74.91.112.143:9999 ...
+[ INFO ]  - A connection has been established successfully.
+                
+                
+
+          <| 
+           A              
+          /.          
+     \<|  [""M#         
+      A   | #                   AVENDAR: THE CRUCIBLE OF LEGENDS 
+     /. \[""M#                         [avendar.net 9999] 
+    [""M# | #  U"U#U                  
+     | #  | #   \.:/    Original DikuMUD by Hans Staerfeldt, Katja Nyboe, 
+     | #  | #___| #     Tom Madsen, Michael Seifert, and Sebastian Hammer 
+     | "--'     .-"     Based on MERC 2.1 code by Hatchet, Furey, and Kahn 
+   |"-"-"-"-"-#-#-##    ROM 2.4 copyright (c) 1993-1996 Russ Taylor 
+   |     # ## ######      
+           \.::::'/     Avendar created by Matt Wallace, Thane Williams, 
+           \::::'/      and Brandon Downey.  See HELP AVENDAR for more. 
+   :8a|    # # ##       
+   ::88a      ###       Avendar is maintained and developed by the Avendar 
+  ::::888a  8a ##::.                   Immortal staff. 
+  ::::::888a88a[]:::: 
+ :::::::::SUNDOGa8a::::. ..               
+ :::::8::::888:Y8888:::::::::...       
+::':::88::::888::Y88a______________________________________________________ 
+:: ::::88a::::88a:Y88a                                  __---__-- __ 
+' .: ::Y88a:::::8a:Y88a                            __----_-- -------_-__ 
+  :' ::::8P::::::::::88aa.                   _ _- --  --_ --- __  --- __-- 
+,::  :::::::::::::::::::Y88as88a...s88aa.
+
+Under what name shall your deeds be recorded?
+Account 'Tyeric' logging in.  Password: 
+
+
+The following characters are currently associated with this account:
+
+Qeqskil
+Veljik
+
+To create a new character, enter an original name at the following prompt.
+Enter character name to use: 
+veljik
+Password: 
+
+-------------- READ THE MOTD -- Last Modified: Apr 2025 -------------------
+|                                                                         |
+| . -You are responsible for knowing the rules-. See "help RULES".        |
+|                                                                         |
+| . For more information and discussion about the game, see:              |
+|                                                                         |
+|     . The Avendar Website:      https://avendar.net                     |
+|     . The Avendar Discord:      http://discord.gg/DXsZwVBsBV            |
+|                                                                         |
+| . The changelog (type CHANGES) is updated regularly with updates to     |
+|   Avendar.  Last Updated: 29 Apr 2025                                   |
+|                                                                         |
+| . Avendar is currently presented AS-IS. You may encounter errors or     |
+|   bugs. It is YOUR RESPONSIBILITY to not exploit them.                  |
+|                                                                         |
+---------------------------------------------------------------------------
+whe
+
+You open your eyes and cast your gaze upon the land.
+You received 405 experience today.
+The North Gates of Earendam
+  Earendam's north gates are forged from black iron, built between the
+stone walls of the city.  Reinforced by stout iron bars, the gates are built
+thick, for increased security.  Outside the gates lie the expanse of the
+northern grasslands, across which runs the Earendam road, which leads all
+the way to the Brintors.  Inside, Tyril Square marks the beginning of
+Earendam proper.  
+
+[Exits: north south]
+An Earendam gate guard stands at attention.
+An Earendam gate guard stands at attention.
+You have 1 new note waiting.
+
+<581hp 538m 304mv> 
+who
+[24 Swo] Veljik v'Edaris the Student of the Reed
+
+Players found: 1
+
+<581hp 538m 304mv> 
+note
+[  1] Immortal: Equipment recycled
+Thu Aug  7 22:01:43 2025
+To: Veljik
+During your long absence from the realm, the following limited items
+were taken from your possession:
+
+a bracelet of spiked bones
+
+See help 'LIMITED EQUIPMENT' for more details.
+
+<581hp 538m 304mv> 
+l
+The North Gates of Earendam
+  Earendam's north gates are forged from black iron, built between the
+stone walls of the city.  Reinforced by stout iron bars, the gates are built
+thick, for increased security.  Outside the gates lie the expanse of the
+northern grasslands, across which runs the Earendam road, which leads all
+the way to the Brintors.  Inside, Tyril Square marks the beginning of
+Earendam proper.  
+
+[Exits: north south]
+An Earendam gate guard stands at attention.
+An Earendam gate guard stands at attention.
+
+<581hp 538m 304mv> 
+s
+North of Tyril Square
+  The north part of Tyril square lies very near the gates of Earendam,
+which lie to the north.  Past the gates are grasslands, and eventually the
+Brintor mountains, which provide most of the source of Earendam's mineral
+wealth and its building materials.  The gate is mainly used by Brintorean
+miners, traders, or the occasionally diplomatic party from Kor Thrandir. 
+East and west, the corners of the square end in arched buildings, while a
+central fountain dominates the square to the south.  
+
+[Exits: north east south west]
+
+<581hp 538m 303mv> 
+s
+Center of Tyril Square
+  The center of Tyril square is dominated by a marble statue, serving as
+the centerpiece for a concentric series of fountains.  Serving as the
+junction for travel between Earendam's north gate, the mercantile quarter,
+the artisan's district, and the occasional nobleman from Old Earendam across
+the Dantaron, the square is nevertheless well-maintained, and covered with a
+glazed brown cobblestone of Brintorean stone.  The main throughfares of the
+square are Frinian Way, which intersects the square in the east and picks
+up again in the west, and Tyril Way, which opens onto the square to the
+south.  
+
+[Exits: north east south west]
+A muscular protector is loitering here, surveying the area casually.
+
+<581hp 538m 302mv> 
+e
+East of Tyril Square
+  The east of Tyril Square is covered with a smooth cobblestone of glazed
+brown bricks.  Near the north gate of Earendam, Tyril Square is filled with
+the traffic of artisans and scholars who inhabit this part of the city.  The
+center of the square is west, where a marble statue rises out of the silver
+base of a large fountain.  South and north are the edges of the square,
+where scholars have set up shop to ply the wares of some of Avendar's most
+famous magicks.  To the east Frinian Way heads into the heart of the
+artisan's quarter, where scholars and craftsman come to learn and ply their
+trade.  
+
+[Exits: north east south west]
+
+e
+e
+<581hp 538m 301mv> 
+e
+East Frinian Way
+  East Frinian Way begins here, serving as a throughway for the scholars
+and craftsman who travel to and from Tyril Square to the west and the
+artisan's district of Earendam further east.  To the south of the street,
+marble stairs lead up to enter some sort of scholar's shop, while the
+building to the north is less ostentatious, being a simple stone block
+guarded by gate archways.  Home to the Company of the Ram, the building
+houses one of Earendam's chartered mercenary companies.  
+
+[Exits: north east south west]
+
+<581hp 538m 300mv> 
+n
+East Frinian Way
+  East Frinian Way heads in a straight east-west line through Earendam's
+artisan's district.  Frequented by the city's craftsmen, the street serves
+to connect the Glallian School to the east with Tyril Square which lies
+further west down the street.  A small side street leads north, and a stone
+wall prevents further travel southward.  
+
+[Exits: north east west]
+A city watchman patrols the streets of Earendam.
+
+<581hp 538m 299mv> 
+East Frinian Way
+  East Frinian Way heads in a straight east-west line through Earendam's
+artisan's district.  Lining the street are shops bearing the products of the
+craftsmen who work in this part of the city.  To the south is a jeweller's
+shop, which is successful enough to have a plate glass window to display its
+wares.  The weapon maker's shop to the north has no such trappings, but
+nevertheless bears the symbols of its wares on a stout wooden sign.  Frinian
+continues much the same to both the east and west.  
+
+[Exits: north east south west]
+
+list
+<581hp 538m 298mv> 
+Vandar's Blades
+  Vandar's Blades is a well-furnished shop, offering the wares created by
+the craftsman who inhabit the artisan's district of Earendam.  With no forge
+in evidence, the shop is remarkably comfortable, offering a wide variety of
+weapons on display on the walls behind the counter that takes up the north
+half of the room.  The wall to the east is rather thin, and is broken by a
+pine door.  A doorway also leads southward onto Frinian Way, which runs in
+past the front of the shop.  
+
+[Exits: east south]
+Vandar is here, displaying his wares.
+
+<581hp 538m 297mv> 
+[Qty Price       ] Item
+[  3  2p 9g 2s 5c] a curved razor
+[  3 36p 1g 7s 2c] a curved dagger
+[  1 27p 6g 5s 1c] a black spear
+[  1        9p 6g] a punching dagger
+[  1  2p 9g 2s 5c] a thin branch of swampwood tipped with rough-edged bone
+[  1     9p 4g 5s] the sharp dagger, "Agony"
+[  1 18p 4g 3s 4c] a crude club carved from stone
+[  1           3p] a crude stone knife
+[  1           3p] a crude, stone-tipped spear
+[  2           3p] a crude axe with a stone head
+[  1         156p] a huge axe with a stone head
+[  2        7p 2g] the white spear, "Frost"
+[  1       16p 5g] a blood-encrusted claymore
+[  3           9p] the bone flail, "Nightfall"
+[  2           6p] a runed black scimitar
+[  2          15p] a coiled black whip
+[  1 24p 6g 9s 6c] a black chain whip tipped with embers
+[  1    35p 2g 5s] a black crescent-moon sword
+[  6     7p 6g 5s] the jaws of a hammerhead shark
+[  3     4g 6s 8c] the chieftain's iron spear
+[  9  2p 7g 3s 1c] a Yithoul dagger
+[  1 12p 7g 2s 7c] a bone-hilted rapier
+[  1     4g 6s 8c] an ornate halberd
+[  2  1p 2g 4s 8c] a long-handled axe
+[  2 18p 4g 3s 4c] a toothed boarding axe
+[  2 13p 7g 3s 5c] a spiked black staff
+[  2        9p 3g] a jagged iron poleaxe
+[  2          12p] a battleaxe named, "Herald of Darkness"
+[  2           9p] a black glaive encircled in flames
+[  2        9p 6g] the chaja smith's hammer
+[  5 12p 3g 3s 1c] a thin longsword with black trim
+[  6     1p 3g 5s] an unfinished dagger
+[  5  9p 1g 7s 2c] a black dagger
+[  4 10p 7g 3s 5c] a barb-tipped dagger
+[  2  9p 1g 7s 2c] a dark-bladed sword
+[  3       22p 5g] a skull-shaped mace
+[  3       10p 5g] a crimson war-axe
+[  3           9p] a spear carved from dragonbone
+[  3          15p] a wickedly spiked mace
+[---           2p] a whip adorned with a diamond
+[---           2p] a carved silver dagger
+[---     3p 1g 5s] a hammer inlaid with gold
+[---           3p] a ruby-hilted sabre
+
+<581hp 538m 297mv> 
+e
+Elrith's Armory
+  Elrith's Armory specializes in the fine plate armors produced by the
+artisans and earth scholars of Earendam, providing wares for the cities
+wealthier nobility.  With most of the merchandise furnished by the artisans
+in the surrounding parts of the city, the shop lacks the forge common in
+most such places.  The north part of the room is taken up with a counter,
+beside which a full set of field plate is arranged on a pole.  A pine door
+leads through a wall to the west, and the way onto the street lies south.  
+
+[Exits: south west]
+Elrith carefully polishes a piece of armor.
+
+<581hp 538m 296mv> 
+list
+[Qty Price       ] Item
+[  4     2p 3g 7c] a blood-soaked robe
+[  1           3p] a black steel helm
+[  1  2p 9g 1s 7c] a pair of chaja armguards
+[  1  2p 6g 5s 5c] a black neckplate
+[  1        4p 5g] an enchanted lantern
+[  2     2p 5g 3s] a primitive belt woven from roots
+[  2  1p 7g 9s 1c] a crude belt decorated with bone fragments
+[  1  8p 2g 6s 3c] a belt woven with bone shards
+[  1  3p 9g 3s 6c] a Ring of Void
+[  1    12p 5g 7s] a Ring of Fire
+[  1 21p 9g 2s 5c] the Robe of Power
+[  1     2g 7s 3c] a pair of tasseled boots
+[  1        7p 5s] a pearl and diamond bracelet
+[  1        8p 1g] a golden band set with a yellow diamond
+[  1     7g 2s 8c] a sooty hide cloak
+[  1     8g 7s 4c] a pair of finely crafted armguards
+[  1        6g 5c] a pair of gauntlets of shining steel
+[ 12     8p 2g 5s] a shuddeni priest's robe
+[  6        2g 7s] a pair of toeless, mud-soaked hide boots
+[  6     2p 1s 5c] a tattered, mud-caked leather bracer
+[ 10  2p 3g 3s 2c] a brass chain lanessus with dangling bone beads
+[  5  1p 2g 1s 3c] a pair of fur-lined tattered hide sleeves
+[  6     2p 4g 9c] a bone mask crafted from a saurian half-skull
+[  2  2p 6g 7s 3c] a dark templar's shield
+[---        3p 2g] a pair of plated steel gauntlets
+[---        7g 2s] a pair of plate armguards
+[---           6g] a pair of steel-toed boots
+[---     2p 7s 5c] a helmet of plated steel
+[---     6g 9s 2c] a set of plate leggings
+[---     9g 4s 4c] a plate mail chest plate
+
+<581hp 538m 296mv> 
+eq
+You are using:
+<worn on finger>    (Glowing) a Ring of Fire
+<worn on finger>    a golden band set with a yellow diamond
+<worn around neck>  a short, silken neck-scarf
+<worn around neck>  a short, silken neck-scarf
+<worn on torso>     a wrapped silk shirt
+<worn on head>      a row of hawk feathers
+<worn on legs>      a set of plate leggings
+<worn on feet>      an embroidered pair of flat shoes
+<worn on hands>     a griffinrider's leather gloves
+<worn on arms>      a pair of fur-lined sleeves
+<worn about body>   an opulent robe with a dripping hexagon clasp
+<worn about waist>  a woven belt
+<worn around wrist> a tattered, mud-caked leather bracer
+<worn around wrist> a pearl and diamond bracelet
+<wielded>           (Humming) the tapered shortsword "Biter"
+<floating nearby>   a tiny shield of ice
+<dual wielded>      a runed black scimitar
+<branded>           the Sigil of the School of Heroes
+
+<581hp 538m 296mv> 
+w
+Vandar's Blades
+  Vandar's Blades is a well-furnished shop, offering the wares created by
+the craftsman who inhabit the artisan's district of Earendam.  With no forge
+in evidence, the shop is remarkably comfortable, offering a wide variety of
+weapons on display on the walls behind the counter that takes up the north
+half of the room.  The wall to the east is rather thin, and is broken by a
+pine door.  A doorway also leads southward onto Frinian Way, which runs in
+past the front of the shop.  
+
+[Exits: east south]
+Vandar is here, displaying his wares.
+
+<581hp 538m 303mv> 
+list
+[Qty Price       ] Item
+[  3  2p 9g 2s 5c] a curved razor
+[  3 36p 1g 7s 2c] a curved dagger
+[  1 27p 6g 5s 1c] a black spear
+[  1        9p 6g] a punching dagger
+[  1  2p 9g 2s 5c] a thin branch of swampwood tipped with rough-edged bone
+[  1     9p 4g 5s] the sharp dagger, "Agony"
+[  1 18p 4g 3s 4c] a crude club carved from stone
+[  1           3p] a crude stone knife
+[  1           3p] a crude, stone-tipped spear
+[  2           3p] a crude axe with a stone head
+[  1         156p] a huge axe with a stone head
+[  2        7p 2g] the white spear, "Frost"
+[  1       16p 5g] a blood-encrusted claymore
+[  3           9p] the bone flail, "Nightfall"
+[  2           6p] a runed black scimitar
+[  2          15p] a coiled black whip
+[  1 24p 6g 9s 6c] a black chain whip tipped with embers
+[  1    35p 2g 5s] a black crescent-moon sword
+[  6     7p 6g 5s] the jaws of a hammerhead shark
+[  3     4g 6s 8c] the chieftain's iron spear
+[  9  2p 7g 3s 1c] a Yithoul dagger
+[  1 12p 7g 2s 7c] a bone-hilted rapier
+[  1     4g 6s 8c] an ornate halberd
+[  2  1p 2g 4s 8c] a long-handled axe
+[  2 18p 4g 3s 4c] a toothed boarding axe
+[  2 13p 7g 3s 5c] a spiked black staff
+[  2        9p 3g] a jagged iron poleaxe
+[  2          12p] a battleaxe named, "Herald of Darkness"
+[  2           9p] a black glaive encircled in flames
+[  2        9p 6g] the chaja smith's hammer
+[  5 12p 3g 3s 1c] a thin longsword with black trim
+[  6     1p 3g 5s] an unfinished dagger
+[  5  9p 1g 7s 2c] a black dagger
+[  4 10p 7g 3s 5c] a barb-tipped dagger
+[  2  9p 1g 7s 2c] a dark-bladed sword
+[  3       22p 5g] a skull-shaped mace
+[  3       10p 5g] a crimson war-axe
+[  3           9p] a spear carved from dragonbone
+[  3          15p] a wickedly spiked mace
+[---           2p] a whip adorned with a diamond
+[---           2p] a carved silver dagger
+[---     3p 1g 5s] a hammer inlaid with gold
+[---           3p] a ruby-hilted sabre
+
+<581hp 538m 303mv> 
+w
+Alas, you cannot go that way.
+
+<581hp 538m 303mv> 
+s
+East Frinian Way
+  East Frinian Way heads in a straight east-west line through Earendam's
+artisan's district.  Lining the street are shops bearing the products of the
+craftsmen who work in this part of the city.  To the south is a jeweller's
+shop, which is successful enough to have a plate glass window to display its
+wares.  The weapon maker's shop to the north has no such trappings, but
+nevertheless bears the symbols of its wares on a stout wooden sign.  Frinian
+continues much the same to both the east and west.  
+
+[Exits: north east south west]
+
+<581hp 538m 302mv> 
+e
+East Frinian Way
+  East Frinian Way heads in a straight east-west line through Earendam's
+artisan's district.  Lining the street are shops bearing the products of the
+craftsmen who work in this part of the city.  To the south is a jeweller's
+shop, which is successful enough to have a plate glass window to display its
+wares.  The armorer's shop to the north has no such trappings, but
+nevertheless bears the symbols of its wares on a stout wooden sign.  Frinian
+comes to an end to the east, but continues along its current path to the
+west.  
+
+[Exits: north east south west]
+
+e
+<581hp 538m 301mv> 
+Intersection of Glallia Street and Frinian Way
+  Glallia Street heads north and south through the heart of Earendam's
+artisan's district, where it intersects East Frinian Way to the west. 
+Heading north away from the course of the Dantaron, Glallia passes by the
+building which is its namesake to the east.  Towering over the street, the
+Glallian School is an exercise in the classical Republican style.  A paegant
+of marble columns and arches, the building nevertheless seems shaped out of
+a single stone from the Brintor mountainside.  Marble stairs lead up to an
+entrance to the school to the east, and Glallia comes to an end to the
+north.  
+
+[Exits: north east south west]
+
+e
+<581hp 538m 300mv> 
+e
+Stairs of the Glallian School
+  These steep stairs climb the side of the Glallian School, heading upward
+towards the entrance.  Made from the sturdy stone of the Brintors, the steps
+show no signs of chisel mark or hammer strike.  The massive block of the
+stairs turns to the south, and ascends to the east.  
+
+[Exits: north east south west]
+
+e
+<581hp 538m 299mv> 
+Landing near the Glallian School
+  This landing provides entrance to the main part of the Glallian School,
+directly east of here.  The school is both grandiose and extravagant as a
+study in Earendam's classical Republican style.  Multi-levelled and
+intricately carved with bas reliefs and statuery, the school's varying parts
+compete to gain the attention of the observer.  Supporting the building are
+a series of marble columns, framing a series of archways which lead eastward
+into the building.  The building shows no signs of breaks or seams in its
+constituent marble, and the entire structure seems molded, rather than
+chiselled.  Stairs lead down to the west, and the landing continues to the
+north, and bends to the south.  
+
+[Exits: north south west]
+
+<581hp 538m 298mv> 
+Alas, you cannot go that way.
+
+<581hp 538m 298mv> 
+w
+w
+Stairs of the Glallian School
+  These steep stairs climb the side of the Glallian School, heading upward
+towards the entrance.  Made from the sturdy stone of the Brintors, the steps
+show no signs of chisel mark or hammer strike.  The massive block of the
+stairs turns to the south, and ascends to the east.  
+
+[Exits: north east south west]
+
+w
+<581hp 538m 297mv> 
+w
+Intersection of Glallia Street and Frinian Way
+  Glallia Street heads north and south through the heart of Earendam's
+artisan's district, where it intersects East Frinian Way to the west. 
+Heading north away from the course of the Dantaron, Glallia passes by the
+building which is its namesake to the east.  Towering over the street, the
+Glallian School is an exercise in the classical Republican style.  A paegant
+of marble columns and arches, the building nevertheless seems shaped out of
+a single stone from the Brintor mountainside.  Marble stairs lead up to an
+entrance to the school to the east, and Glallia comes to an end to the
+north.  
+
+[Exits: north east south west]
+
+w
+<581hp 538m 296mv> 
+East Frinian Way
+  East Frinian Way heads in a straight east-west line through Earendam's
+artisan's district.  Lining the street are shops bearing the products of the
+craftsmen who work in this part of the city.  To the south is a jeweller's
+shop, which is successful enough to have a plate glass window to display its
+wares.  The armorer's shop to the north has no such trappings, but
+nevertheless bears the symbols of its wares on a stout wooden sign.  Frinian
+comes to an end to the east, but continues along its current path to the
+west.  
+
+[Exits: north east south west]
+
+<581hp 538m 295mv> 
+East Frinian Way
+  East Frinian Way heads in a straight east-west line through Earendam's
+artisan's district.  Lining the street are shops bearing the products of the
+craftsmen who work in this part of the city.  To the south is a jeweller's
+shop, which is successful enough to have a plate glass window to display its
+wares.  The weapon maker's shop to the north has no such trappings, but
+nevertheless bears the symbols of its wares on a stout wooden sign.  Frinian
+continues much the same to both the east and west.  
+
+[Exits: north east south west]
+
+<581hp 538m 294mv> 
+East Frinian Way
+  East Frinian Way heads in a straight east-west line through Earendam's
+artisan's district.  Frequented by the city's craftsmen, the street serves
+to connect the Glallian School to the east with Tyril Square which lies
+further west down the street.  A small side street leads north, and a stone
+wall prevents further travel southward.  
+
+[Exits: north east west]
+
+<581hp 538m 293mv> 
+w
+East Frinian Way
+  East Frinian Way begins here, serving as a throughway for the scholars
+and craftsman who travel to and from Tyril Square to the west and the
+artisan's district of Earendam further east.  To the south of the street,
+marble stairs lead up to enter some sort of scholar's shop, while the
+building to the north is less ostentatious, being a simple stone block
+guarded by gate archways.  Home to the Company of the Ram, the building
+houses one of Earendam's chartered mercenary companies.  
+
+[Exits: north east south west]
+A city watchman patrols the streets of Earendam.
+
+n
+<581hp 538m 303mv> 
+Entrance to the Company of the Ram
+  The entrance hall to the Company of the Ram is a well-tended place, with
+a martial aura about it.  The brick walls and floors of the place are free
+of the typical dust and rubbish of a fighting company, with even the
+masonry's cracks and nicks kept mended.  Arched portcullises lead east and
+west, and the street lies through a southern entranceway.  North of the
+entrance is the main body of this compound.  
+
+[Exits: north east south west]
+A templar swordsman stands at attention, guarding the doorway to the north.
+
+w
+<581hp 538m 302mv> 
+Northeast of Tyril Square
+  The northeast corner of Tyril Square is formed by the intersection of
+Earendam's massive north wall and a squat brownstone building to the east. 
+Covered with a cobblestone of glazed brown bricks, the square stretches off
+south and west, heading toward the north gates of town to the west, and a
+central fountain to the southwest.  The occasional armed patrol lingers
+around an arched portcullis to the east, usually coming from or going to the
+north gates of the town.  
+
+[Exits: east south west]
+A traveling weapon merchant stretches his arms over his head, yawning.
+
+n
+<581hp 538m 301mv> 
+Alas, you cannot go that way.
+
+<581hp 538m 301mv> 
+w
+North of Tyril Square
+  The north part of Tyril square lies very near the gates of Earendam,
+which lie to the north.  Past the gates are grasslands, and eventually the
+Brintor mountains, which provide most of the source of Earendam's mineral
+wealth and its building materials.  The gate is mainly used by Brintorean
+miners, traders, or the occasionally diplomatic party from Kor Thrandir. 
+East and west, the corners of the square end in arched buildings, while a
+central fountain dominates the square to the south.  
+
+[Exits: north east south west]
+
+n
+<581hp 538m 300mv> 
+The North Gates of Earendam
+  Earendam's north gates are forged from black iron, built between the
+stone walls of the city.  Reinforced by stout iron bars, the gates are built
+thick, for increased security.  Outside the gates lie the expanse of the
+northern grasslands, across which runs the Earendam road, which leads all
+the way to the Brintors.  Inside, Tyril Square marks the beginning of
+Earendam proper.  
+
+[Exits: north south]
+An Earendam gate guard stands at attention.
+An Earendam gate guard stands at attention.
+
+n
+<581hp 538m 299mv> 
+The Earendam Road
+  A narrow strip of stones that leads north into the grasslands, the
+Earendam Road was once heavily travelled by caravans trading with the
+mountain outposts to the north.  It has since fallen into disuse, but is
+still nominally maintained by Earendam.  
+
+[Exits: north east south west]
+     A section of the stone wall is discolored with grime.
+
+<581hp 538m 298mv> 
+w
+Outside the Northern Wall of Earendam
+  The granite walls of the city Earendam tower before you to the south,
+their blocks well worn by the elements.  Notches are carved near the tops of
+the battlements for archers to peer out at the plains to the north of the
+city. Beyond the walls, the Grasslands of Earendam spread like a green sea.
+
+[Exits: north east west]
+     A section of the stone wall is discolored with grime.
+
+w
+<581hp 538m 297mv> 
+w
+Outside the Northern Wall of Earendam
+  The granite walls of the city Earendam tower before you to the south,
+their blocks well worn by the elements.  Notches are carved near the tops of
+the battlements for archers to peer out at the plains to the north of the
+city.  Beyond the walls, the Grasslands of Earendam spread like a green sea.
+
+[Exits: north east west]
+     A section of the stone wall is discolored with grime.
+
+w
+<581hp 538m 296mv> 
+w
+Outside the Northern Wall of Earendam
+  The granite walls of the city Earendam tower before you to the south,
+their blocks well worn by the elements.  Notches are carved near the tops of
+the battlements for archers to peer out at the plains to the north of the
+city.  Beyond the walls, the Grasslands of Earendam spread like a green sea.
+
+[Exits: north east west]
+     A section of the stone wall is discolored with grime.
+
+s
+<581hp 538m 295mv> 
+Outside the Northern Wall of Earendam
+  The granite walls of the city Earendam tower before you to the south,
+their blocks well worn by the elements.  Notches are carved near the tops of
+the battlements for archers to peer out at the plains to the north of the
+city. Beyond the walls, the Grasslands of Earendam spread like a green sea.
+
+[Exits: north east west]
+     A simple scaffold is erected next to the wall here.
+     A section of the stone wall is discolored with grime.
+(!) A foreman, chisel in hand, shapes a block of stone.
+The foreman tells you, 'There's a bunch of things that need doing around here.  You lookin' for some
+work?'
+
+s
+s
+<581hp 538m 294mv> 
+Outside the Northern Wall of Earendam
+  The granite walls of the city Earendam tower before you to the south,
+their blocks well worn by the elements.  Notches are carved near the tops of
+the battlements for archers to peer out at the plains to the north of the
+city. Beyond the walls, the Grasslands of Earendam spread like a green sea.
+
+[Exits: north east west]
+     A section of the stone wall is discolored with grime.
+A city worker of Earendam goes about his business.
+
+s
+<581hp 538m 293mv> 
+s
+Alas, you cannot go that way.
+
+<581hp 538m 293mv> Alas, you cannot go that way.
+
+<581hp 538m 293mv> Alas, you cannot go that way.
+
+<581hp 538m 293mv> Alas, you cannot go that way.
+
+<581hp 538m 293mv> Alas, you cannot go that way.
+
+w
+<581hp 538m 293mv> 
+Outside the Northern Wall of Earendam
+  The granite walls of the city Earendam tower before you to the southeast,
+their blocks well worn by the elements.  Notches are carved near the tops of
+the battlements for archers to peer out at the plains to the north of the
+city.  Beyond the walls, the Grasslands of Earendam spread like a green sea.
+
+[Exits: north east south west]
+     A section of the stone wall is discolored with grime.
+A citizen of Earendam meanders around the city.
+
+s
+<581hp 538m 292mv> 
+Outside the Western Wall of Earendam
+  The granite walls of the city Earendam tower before you to the east,
+their blocks well worn by the elements.  Notches are carved near the tops of
+the battlements for archers to peer out at the plains to the west of the
+city.  Beyond the walls, the Grasslands of Earendam spread like a green sea.
+
+[Exits: north south west]
+     A section of the stone wall is discolored with grime.
+
+s
+<581hp 538m 291mv> 
+s
+Outside the Western Wall of Earendam
+  The granite walls of the city Earendam tower before you to the east,
+their blocks well worn by the elements.  Notches are carved near the tops of
+the battlements for archers to peer out at the plains to the west of the
+city. Beyond the walls, the Grasslands of Earendam spread like a green sea.
+
+[Exits: north south west]
+     A section of the stone wall is discolored with grime.
+
+s
+<581hp 538m 290mv> 
+s
+Outside the Western Wall of Earendam
+  The granite walls of the city Earendam tower before you to the east,
+their blocks well worn by the elements.  Notches are carved near the tops of
+the battlements for archers to peer out at the plains to the west of the
+city. Beyond the walls, the Grasslands of Earendam spread like a green sea.
+
+[Exits: north south west]
+
+<581hp 538m 289mv> 
+Outside the Western Wall of Earendam
+  The granite walls of the city Earendam tower before you to the east,
+their blocks well worn by the elements.  Notches are carved near the tops of
+the battlements for archers to peer out at the plains to the west of the
+city. Beyond the walls, the Grasslands of Earendam spread like a green sea.
+
+[Exits: north south west]
+     A section of the stone wall is discolored with grime.
+
+<581hp 538m 288mv> 
+The Arien Road
+  Outside the western gates of Earendam, the Arien Road stretches into the
+distance to the west.  Leading through the Plains of Arien to Var Bandor,
+the broad strip of stones accomodates a great number of caravans, travelers
+and merchants.  
+
+[Exits: north east south west]
+
+s
+<581hp 538m 287mv> 
+The Earendam Docks
+  A wide wooden docks has been erected just to the north of the River
+Dantaron, flowing sluggishly to the south under the city wall.  The docks
+are clear of clutter, incoming cargo being regulated closely and required to
+move immediately.  An occasional raft or barge can be seen on the river,
+arriving or leaving the city.  To the east, the granite walls of Earendam
+tower above the dock area.  Several ladders and wooden walkways lead
+downward to the water of the river itself.  
+
+[Exits: north south west down]
+     A section of the stone wall is discolored with grime.
+A dockhand is here working tirelessly.
+A dockhand is here working tirelessly.
+A dockhand is here working tirelessly.
+
+<581hp 538m 286mv> 
+w
+The Earendam Docks
+  A wide wooden docks has been erected just to the north of the River
+Dantaron, flowing sluggishly to the south under the city wall.  The docks
+are clear of clutter, incoming cargo being regulated closely and required to
+move immediately.  An occasional raft or barge can be seen on the river,
+arriving or leaving the city.  Several ladders and wooden walkways lead
+downward to the water of the river itself.  
+
+[Exits: north east south west down]
+     A pile of worn fishing nets sits at the edge of the dock.
+A dockhand is here working tirelessly.
+A dockhand is here working tirelessly.
+A dockhand is here working tirelessly.
+
+w
+<581hp 538m 285mv> 
+w
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the north, the Arien Road
+travels between Var Bandor and Earendam.  Immediately east, the docks of
+Earendam bustle with activity.  
+
+[Exits: north east west]
+
+<581hp 538m 284mv> 
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the north, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: north east west]
+
+<581hp 538m 283mv> 
+wear all
+You require both hands free to wield that.
+You require both hands free to wield that.
+Your hands are full.
+Your hands are full.
+Your hands are full.
+
+w
+<581hp 538m 283mv> 
+w
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the north, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: north east west]
+
+w
+<581hp 538m 282mv> 
+w
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the north, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: north east west]
+
+w
+<581hp 538m 281mv> 
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the north, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: north east west]
+
+w
+w
+<581hp 538m 280mv> 
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the north, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: north east west]
+
+w
+w
+<581hp 538m 279mv> 
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the north, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: north east south west]
+
+<581hp 538m 278mv> 
+The Arien Road
+  The broad strip of stones known to travelers as the Arien Road stretches
+into the distance to the west, curving slightly to the north at this bend. 
+The flat monotony of the Plains of Arien are the only view to the north and
+south.  Far to the east, the gray walls of the city Earendam rise, barely
+visible in the distance.  
+
+[Exits: north east south west]
+A woman trudges along the road to Earendam.
+
+<581hp 538m 277mv> 
+The Arien Road
+  The broad strip of stones known to travelers as the Arien Road stretches
+into the distance to the west.  The flat monotony of the Plains of Arien are
+the only view to the north and south.  Far to the east, the gray walls of
+the city Earendam rise, barely visible in the distance.
+
+[Exits: north east south west]
+An aelin bard flies over the road.
+A man of Earendam walks along the road, heading for Var Bandor.
+
+<581hp 538m 276mv> 
+The Arien Road
+  The broad strip of stone known to travelers as the Arien Road stretches
+into the distance to the east and west.  The flat monotony of the Plains of
+Arien are the only view to the north and south, the neatly laid stones of
+the road providing the only change.  
+
+[Exits: north east south west]
+A burly guard walks along, protecting the caravan.
+A burly guard walks along, protecting the caravan.
+A merchant of Var Bandor travels with his caravan.
+A merchant of Var Bandor travels with his caravan.
+
+<581hp 538m 275mv> 
+The Arien Road
+  The broad strip of stone known to travelers as the Arien Road stretches
+into the distance to the east and west.  The flat monotony of the Plains of
+Arien are the only view to the north and south, the neatly laid stones of
+the road providing the only change.
+
+[Exits: north east south west]
+A burly guard walks along, protecting the caravan.
+A burly guard walks along, protecting the caravan.
+A merchant of Var Bandor travels with his caravan.
+A merchant of Var Bandor travels with his caravan.
+A merchant of Var Bandor travels with his caravan.
+
+<581hp 538m 274mv> 
+get bracelet backpack
+I see nothing like that in the backpack.
+
+<581hp 538m 274mv> 
+wear bacele
+You do not have that item.
+
+w
+<581hp 538m 274mv> 
+w
+The Arien Road
+  The broad strip of stone known to travelers as the Arien Road stretches
+into the distance to the east and west.  The flat monotony of the Plains of
+Arien are the only view to the north and south, the neatly laid stones of
+the road providing the only change.
+
+[Exits: north east south west]
+A burly guard walks along, protecting the caravan.
+A burly guard walks along, protecting the caravan.
+A merchant of Var Bandor travels with his caravan.
+A merchant of Var Bandor travels with his caravan.
+A merchant of Var Bandor travels with his caravan.
+
+w
+<581hp 538m 273mv> 
+w
+The Arien Road
+  The broad strip of stone known to travelers as the Arien Road stretches
+into the distance to the east and west.  The flat monotony of the Plains of
+Arien are the only view to the north and south, the neatly laid stones of
+the road providing the only change.  
+
+[Exits: north east south west]
+A man of Earendam walks along the road, heading for Var Bandor.
+
+<581hp 538m 272mv> 
+w
+The Arien Road
+  The broad strip of stone known to travelers as the Arien Road stretches
+into the distance to the east and west.  The flat monotony of the Plains of
+Arien are the only view to the north and south, the neatly laid stones of
+the road providing the only change.  To the west, a dirt road intersects
+with the Arien Road.  
+
+[Exits: north east south west]
+
+<581hp 538m 271mv> 
+w
+The Brintor Crossroads
+  The Arien Road stretches endlessly through the plains to the east and
+west.  From the north, the wide dirt track known as the Brintor Road cuts
+through the prairie, intersecting with the more widely traveled stone
+highway.  Deep ruts in the dirt mark the passage of wagon wheels to the
+north, toward the Brintor Mountains.  
+
+[Exits: north east south west]
+     A sun-bleached signpost stands in the grey soil.
+A man of Earendam walks along the road, heading for Var Bandor.
+
+w
+<581hp 538m 270mv> 
+w
+The Arien Road
+  The broad strip of stone known to travelers as the Arien Road stretches
+into the distance to the east and west.  The flat monotony of the Plains of
+Arien are the only view to the north and south, the neatly laid stones of
+the road providing the only change.  To the east, a wide dirt road
+intersects with the Arien Road.  
+
+[Exits: north east south west]
+
+w
+<581hp 538m 269mv> 
+The Arien Road
+  The broad strip of stone known to travelers as the Arien Road stretches
+into the distance to the east and west, curving south at this bend.  The
+flat monotony of the Plains of Arien are the only view to the north and
+south, the neatly laid stones of the road providing the only change.  
+
+[Exits: north east south west]
+
+w
+<581hp 538m 268mv> 
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: north east south west]
+
+w
+<581hp 538m 267mv> 
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south west]
+
+<581hp 538m 266mv> 
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south west]
+
+<581hp 538m 265mv> 
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south west]
+
+<581hp 538m 264mv> 
+w
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south west]
+
+<581hp 538m 263mv> 
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south west]
+
+<581hp 538m 262mv> 
+w
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south west]
+
+w
+<581hp 538m 261mv> 
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south west]
+
+w
+w
+<581hp 538m 260mv> 
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south west]
+
+w
+<581hp 538m 290mv> 
+w
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south west]
+
+<581hp 538m 289mv> 
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south]
+
+<581hp 538m 288mv> 
+Alas, you cannot go that way.
+
+<581hp 538m 288mv> 
+s
+The Arien Road
+  The broad stone strip known as the Arien Road turns to the south at this
+point, leading to the waters of the Dantaron River, and beyond to Var
+Bandor.  The Arien Plains spread to the north and west, their unbroken
+monotony extending as far as eye can see.  
+
+[Exits: north east south west]
+
+<581hp 538m 287mv> 
+s
+The Arien Plains
+  The broad stone strip known as the Arien Road turns to the south at this
+point, leading to the waters of the Dantaron River, and beyond to Var
+Bandor. The Arien Plains spread to the north and west, their unbroken
+monotony extending as far as eye can see.
+
+[Exits: north east south]
+
+s
+<581hp 538m 286mv> 
+A Ferry Station
+  The waters of the Dantaron River flow placidly to the south, a muddy
+brown barrier to merchants, carts, and foot travelers.  A small wooden dock
+has been erected at the water's edge, and several large ferries run by
+riverfolk carry passengers back and forth between the Arien Road and the
+outskirts of Var Bandor.  
+A wooden sign stands at the edge of the docks.
+
+[Exits: north south]
+A ferryman stands on the docks, offering his services for gold.
+
+s
+<581hp 538m 285mv> 
+s
+The Dantaron River
+  The winding Dantaron River turns to the east, flowing by the city of Var
+Bandor.  The placid, muddy waters ripple gently as they run their course,
+eventually leading to Earendam eastward.  The stone walls of Var Bandor
+tower menacingly to the south, and north and south of the river ferry
+stations have been set up.  
+
+[Exits: north east south west]
+
+s
+<581hp 538m 284mv> 
+s
+A Ferry Station
+  The waters of the Dantaron River flow placidly to the north, a muddy
+brown barrier to merchants, carts, and foot travelers.  A small wooden dock
+has been erected at the water's edge, and several large ferries run by
+riverfolk carry passengers back and forth between the Arien Road and the
+outskirts of Var Bandor.
+
+[Exits: north south]
+The ferryman stands along the river, offering to transport travelers.
+
+s
+<581hp 538m 283mv> 
+The Outskirts of Var Bandor
+  You stand outside the north wall of Var Bandor.  In the distance to the
+north, the Dantaron river splits into two forks which flow around Var Bandor
+on either side.  The ground here is muddy and level, with little grass
+growing. Behind you to the south, the stone wall of the city overshadows
+the outskirts. 
+
+[Exits: north east south west]
+
+s
+<581hp 538m 282mv> 
+Outside the Northern Gatehouse
+  The towering gates of Var Bandor rise to the south.  Huge, heavy wooden
+doors reinforced with iron bars, the gates are maintained rigorously.  The
+walls to the east and west are solid stone, with murder slits.  To the
+north, the river Dantaron splits into two mighty forks which flow by Var
+Bandor on either side.  
+
+[Exits: north east south west]
+
+ss
+<581hp 538m 281mv> 
+ss
+Inside the Northern Gatehouse
+  This gatehouse house is built behind the gates of Sadrent, the oldest of
+the gates into Var Bandor.  Outside, to the north, a ferry leads across the
+Dantaron river, while to the south Sadrent road snakes its way into the
+city.  The gatehouse is ill-tended, leading in to the poorest section of the
+city, and consequently little attention is paid to the traffic of riff-raff
+and n'er-do-wells through these wrought iron gates.  
+
+[Exits: north south]
+A soldier of the Var Bandor Guard watches the gatehouse.
+
+s
+<581hp 538m 280mv> 
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.  To the east and west is a squalid
+alley.  
+
+[Exits: north east south west]
+
+s
+s
+<581hp 538m 279mv> 
+Huh?
+
+s
+<581hp 538m 279mv> Huh?
+
+<581hp 538m 279mv> Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.  The road turns north and west here.  
+
+[Exits: north west]
+
+s
+<581hp 538m 278mv> 
+Alas, you cannot go that way.
+
+s
+<581hp 538m 278mv> Alas, you cannot go that way.
+
+s
+<581hp 538m 278mv> Alas, you cannot go that way.
+
+<581hp 538m 278mv> Alas, you cannot go that way.
+
+<581hp 538m 278mv> Alas, you cannot go that way.
+
+<581hp 538m 278mv> Alas, you cannot go that way.
+
+<581hp 538m 278mv> 
+w
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.  The road turns east and south.  
+
+[Exits: east south]
+
+s
+<581hp 538m 277mv> 
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.  To the east, Dretch street leads into
+the most notorious neighborhoods of Var Bandor.  
+
+[Exits: north east south]
+
+s
+<581hp 538m 276mv> 
+s
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.  To the west, Iron Street leads
+through the industrial section of Var Bandor.  To the east, the scent of
+fresh bread wafts from a corner bakery.  
+
+[Exits: north east south west]
+
+s
+<581hp 538m 275mv> 
+s
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.
+
+[Exits: north south]
+A shifty-eyed vagrant stumbles along, glaring about spitefully.
+
+s
+<581hp 538m 274mv> 
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.  To the west, Iron Street leads into
+the industrial section of Var Bandor, and to the east, Raddin street winds
+through some run-down buildings.  
+
+[Exits: north east south west]
+
+s
+<581hp 538m 273mv> 
+s
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.
+
+[Exits: north south]
+
+s
+<581hp 538m 272mv> 
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.
+
+[Exits: north south]
+A shifty-eyed vagrant stumbles along, glaring about spitefully.
+
+<581hp 538m 271mv> 
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.  To the south is the central square of
+Var Bandor.  
+
+[Exits: north south]
+
+<581hp 538m 270mv> 
+Center Square
+  A burbling fountain dominates the center of the square.  The fountain is
+made of gray marble veined with blue.  Large sculptures of dancing otters
+and leaping trout, gazing skyward and spouting water from their mouths, sit
+within the circular basin.  The rim of the basin appears designed for
+seating, but is sprinkled with water.  The square is mortared with rounded
+cobblestone radiating outwards from the fountain.  The sounds and smells of
+the market and other popular locales nearby mingle in the air.  
+
+[Exits: north east south west]
+     A long, iron file is here, its tip sharpened to a point.
+     A large marble fountain gurgles peacefully here.
+A grey pigeon walks about tentatively, looking for scraps of food.
+A grey pigeon walks about tentatively, looking for scraps of food.
+An armed enforcer of Var Bandor stands here.
+An armed enforcer of Var Bandor stands here.
+
+<581hp 538m 269mv> 
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.  The Var Bandor Center Square is to the north.  
+
+[Exits: north south]
+
+<581hp 538m 268mv> 
+s
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.  To the west is the guild of watchers, while Naidji Alley lies to
+the east.  
+
+[Exits: north east south west]
+
+s
+<581hp 538m 267mv> 
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.
+
+[Exits: north south]
+
+s
+<581hp 538m 266mv> 
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.  To the east, Arcanos Street winds among the scholars' towers,
+and to the west Commerce Street leads to the merchant quarter.  
+
+[Exits: north east south west]
+
+w
+<581hp 538m 265mv> 
+Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets.  To
+the north is an elegant inn, and to the east is Ilrin Street.  
+
+[Exits: north east west]
+
+w
+w
+<581hp 538m 264mv> 
+Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets. 
+Commerce Street runs east and west.  To the north is an open house of some
+sort, around which a crowd of merchants gather.  
+
+[Exits: north east west]
+
+n
+<581hp 538m 263mv> 
+Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets.  To
+the north is the Var Bandor bank.  
+
+[Exits: north east west]
+
+<581hp 538m 262mv> 
+The Bank of Var Bandor
+  The most noticeable feature in the Bank is the line of teller windows
+along the far wall.  The keen eyes of bankers peer out from behind the
+barred windows, scrutinizing their clientele.  Plants and small wooden
+benches provide the decor for those waiting for service, and a doorway leads
+southwards onto Commerce Street.  
+
+[Exits: south]
+An armed enforcer of Var Bandor patrols here.
+
+<581hp 538m 261mv> 
+conv all
+You convert some coins.
+You receive 1 platinum, 3 gold, 7 silver, 6 copper.
+
+<581hp 538m 261mv> 
+bal
+You have 4 platinum in your account.
+
+s
+<581hp 538m 261mv> 
+Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets.  To
+the north is the Var Bandor bank.  
+
+[Exits: north east west]
+
+w
+<581hp 538m 260mv> 
+s
+Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets. 
+Commerce Street turns south and east at this point, and to the west is a
+magnificent structure, the headquarters of the Var Bandor Merchant Council. 
+
+[Exits: east south (west)]
+An enforcer of Var Bandor patrols here, scrutinizing every passing face.
+
+<581hp 538m 259mv> 
+Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets.  To
+the east is the armory, and to the west is the cartographer's store.  
+
+[Exits: north east south west]
+An armed enforcer of Var Bandor patrols here.
+
+<581hp 538m 258mv> 
+e
+The Armorer
+  The sounds of a hammer ringing as it strikes a piece of iron is the first
+thing that assaults your ears as you enter the store.  You can also hear the
+whishing of the bellows as it blows into the furnace to increase the heat of
+the fire.  Shirts made of fine steel, leggings, sleeves, and assorted mails
+of all type are all on display hanging from the walls.  Besides the forge
+near the back of the store, the rest of the building looks immaculately
+clean giving a sense of regality not normally associated with a smithy-type
+shop.  You can exit back to the west.  
+
+[Exits: west]
+     A simple copper helmet is here.
+The armorer shows off his wares.
+
+<581hp 538m 257mv> 
+list
+[Qty Price       ] Item
+[  1           9p] an elegant midnight blue robe
+[  2        3p 9g] a breastplate of black steel
+[  1     1p 9s 5c] a faded green hood
+[  1  1p 7g 2s 5c] a polished breastplate
+[  1       10p 5g] an apron made of thin, rubbery hide
+[  2           3p] a pair of black steel armguards
+[ 20 17p 7g 3s 8c] a thick, reptilian hide
+[  1     1g 6s 5c] a plumed bronze helmet
+[  1    12p 9s 1c] a pair of glittering golden wingblades
+[  1        2p 7g] a pair of black steel leg guards
+[  2     1p 2g 9s] a pair of pale green slippers
+[  1       11p 4g] a runed shield made of jagged plates
+[  2  2p 7g 1s 6c] a painted leather adarga
+[  2  2p 9g 3s 8c] a Krilin signet pendant
+[  2        7p 5g] an opulent robe with a dripping hexagon clasp
+[  2     1p 2g 9s] a pair of pale green gloves
+[  2        2p 4g] a simple-looking brown tunic
+[  1        9g 6s] a set of pale blue robes
+[  2           3p] a black steel shield
+[ 14  1p 4g 1s 7c] a bracelet of spiked bones
+[  7     8g 7s 4c] a pair of finely crafted armguards
+[  8        6g 5c] a pair of gauntlets of shining steel
+[  7     1p 4s 2c] a belt of woven wood
+[  7     3g 8s 2c] a cloak of oak leaves
+[---     1g 9s 5c] a tempered steel helmet
+[---     1g 6s 5c] a tempered steel body shield
+[---        1g 8s] tempered steel boots
+[---     1g 9s 5c] tempered steel greaves
+[---        2g 2c] tempered steel bracers
+[---     2g 2s 5c] a tempered steel breastplate
+
+<581hp 538m 257mv> 
+w
+Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets.  To
+the east is the armory, and to the west is the cartographer's store.  
+
+[Exits: north east south west]
+An armed enforcer of Var Bandor patrols here.
+
+s
+<581hp 538m 287mv> 
+e
+Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets.  To
+the east is a fine weapon store, and to the west is a gem shop.  
+
+[Exits: north east south west]
+
+<581hp 538m 286mv> 
+The Gleaming Blade
+  Torches adorn both side walls and sit upright in their gilded holders. 
+Their light flickers and causes the various bladed weapons to glint sharply.
+Several studded maces, and various other weapons of destruction are lined
+along the walls in weapon racks.  A spinning stone wheel, used for
+sharpening blades, stands near the back of the shop with a bucket of water
+next to it to help with the enormous amount of heat produced during the
+process.  You can exit back to the west.  
+
+[Exits: west]
+     A pair of copper chainmail leggings is here.
+     An iron key, frosted over with ice, sits here.
+A journeyman templar of the Var Bandor faction walks along the street.
+A pompous aelin merchant strolls along.
+The weaponsmith polishes his arsenal, keeping it in good condition.
+
+<581hp 538m 285mv> 
+list
+[Qty Price      ] Item
+[  1   30p 5g 8c] a glowing knife with a wooden handle
+[  3       9p 6g] a punching dagger
+[  1       6s 6c] a large wooden walking stick
+[  2       5p 7g] a barbed whip with an ebony grip
+[  2          9p] a long, cruelly-spiked poleaxe
+[  2      11p 4g] a pair of spiked cesti
+[  1      11p 4g] an ebony-hafted iron axe
+[  1       5p 4g] a dark iron sword with an ebony hilt
+[  7 1p 2g 4s 8c] a long-handled axe
+[  7    4g 6s 8c] an ornate halberd
+[  7    4g 6s 8c] a ceremonial sickle of carved obsidian
+[---       1g 8c] a steel-shod staff
+[---    1g 9s 5c] a steel-tipped spear
+[---       7s 5c] an axe made from tempered steel
+[---       5s 6c] a mace of well tempered steel
+[---       5s 6c] a dagger made from tempered steel
+[---       5s 6c] a steel chained flail
+[---       5s 6c] a finely tooled leather whip
+[---    1g 9s 5c] a tempered steel polearm
+[---       7s 5c] a sword of tempered steel
+
+<581hp 538m 285mv> 
+w
+Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets.  To
+the east is a fine weapon store, and to the west is a gem shop.  
+
+[Exits: north east south west]
+
+<581hp 538m 284mv> 
+whe
+Notables in Avendar (currently in Var Bandor):
+  (PK) Veljik                Commerce Street                   [present]    
+
+Total found: 1
+
+<581hp 538m 284mv> 
+who
+[24 Swo] Veljik v'Edaris the Student of the Reed
+
+Players found: 1
+
+n
+<581hp 538m 284mv> 
+Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets.  To
+the east is the armory, and to the west is the cartographer's store.  
+
+[Exits: north east south west]
+An armed enforcer of Var Bandor patrols here.
+
+n
+<581hp 538m 283mv> 
+Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets. 
+Commerce Street turns south and east at this point, and to the west is a
+magnificent structure, the headquarters of the Var Bandor Merchant Council. 
+
+[Exits: east south (west)]
+An enforcer of Var Bandor patrols here, scrutinizing every passing face.
+
+<581hp 538m 282mv> 
+quit
+Your adrenaline is gushing!  Not now!
+

@@ -1,0 +1,16 @@
+Log session starting at 19:58:36 on Monday, 18 August 2025.
+[  OK  ]  - Mudlet-lua API & Geyser Layout manager loaded.
+[ INFO ]  - Reading map. Format version: 20. File:
+            "C:/Users/wilds/.config/mudlet/profiles/PANTHEON1/map/2025-08-18#19-32-38map.dat",
+            please wait...
+[ INFO ]  - Successfully read the map file (0.01s), checking some
+            consistency details...
+[ INFO ]  - Map audit starting...
+[  OK  ]  - Auditing of map completed (0.00s). Enjoy your game...
+[  OK  ]  - Map loaded successfully (0.01s).
+[ INFO ]  - Looking up the IP address of server: avendar.net:9999 ...
+[ ERROR ] - Host name lookup Failure!
+            Connection cannot be established.
+            The server name is not correct, not working properly,
+            or your nameservers are not working properly.
+rhuinzek

@@ -1,0 +1,4638 @@
+Log session starting at 20:54:02 on Saturday, 16 August 2025.
+[  OK  ]  - Mudlet-lua API & Geyser Layout manager loaded.
+[ INFO ]  - Reading map. Format version: 20. File:
+            "C:/Users/wilds/.config/mudlet/profiles/PANTHEON1/map/2025-08-16#19-34-57map.dat",
+            please wait...
+[ INFO ]  - Successfully read the map file (0.01s), checking some
+            consistency details...
+[ INFO ]  - Map audit starting...
+[  OK  ]  - Auditing of map completed (0.00s). Enjoy your game...
+[  OK  ]  - Map loaded successfully (0.01s).
+[ INFO ]  - Looking up the IP address of server: avendar.net:9999 ...
+[ INFO ]  - The IP address of avendar.net has been found. It is: 74.91.112.143
+[ INFO ]  - Trying to connect to 74.91.112.143:9999 ...
+[ INFO ]  - A connection has been established successfully.
+                
+                
+
+          <| 
+           A              
+          /.          
+     \<|  [""M#         
+      A   | #                   AVENDAR: THE CRUCIBLE OF LEGENDS 
+     /. \[""M#                         [avendar.net 9999] 
+    [""M# | #  U"U#U                  
+     | #  | #   \.:/    Original DikuMUD by Hans Staerfeldt, Katja Nyboe, 
+     | #  | #___| #     Tom Madsen, Michael Seifert, and Sebastian Hammer 
+     | "--'     .-"     Based on MERC 2.1 code by Hatchet, Furey, and Kahn 
+   |"-"-"-"-"-#-#-##    ROM 2.4 copyright (c) 1993-1996 Russ Taylor 
+   |     # ## ######      
+           \.::::'/     Avendar created by Matt Wallace, Thane Williams, 
+           \::::'/      and Brandon Downey.  See HELP AVENDAR for more. 
+   :8a|    # # ##       
+   ::88a      ###       Avendar is maintained and developed by the Avendar 
+  ::::888a  8a ##::.                   Immortal staff. 
+  ::::::888a88a[]:::: 
+ :::::::::SUNDOGa8a::::. ..               
+ :::::8::::888:Y8888:::::::::...       
+::':::88::::888::Y88a______________________________________________________ 
+:: ::::88a::::88a:Y88a                                  __---__-- __ 
+' .: ::Y88a:::::8a:Y88a                            __----_-- -------_-__ 
+  :' ::::8P::::::::::88aa.                   _ _- --  --_ --- __  --- __-- 
+,::  :::::::::::::::::::Y88as88a...s88aa.
+
+Under what name shall your deeds be recorded?
+Account 'Tyeric' logging in.  Password: 
+
+
+The following characters are currently associated with this account:
+
+Qeqskil
+Veljik
+Kephautis
+
+To create a new character, enter an original name at the following prompt.
+Enter character name to use: 
+kephautis
+Password: 
+
+-------------- READ THE MOTD -- Last Modified: Apr 2025 -------------------
+|                                                                         |
+| . -You are responsible for knowing the rules-. See "help RULES".        |
+|                                                                         |
+| . For more information and discussion about the game, see:              |
+|                                                                         |
+|     . The Avendar Website:      https://avendar.net                     |
+|     . The Avendar Discord:      http://discord.gg/DXsZwVBsBV            |
+|                                                                         |
+| . The changelog (type CHANGES) is updated regularly with updates to     |
+|   Avendar.  Last Updated: 29 Apr 2025                                   |
+|                                                                         |
+| . Avendar is currently presented AS-IS. You may encounter errors or     |
+|   bugs. It is YOUR RESPONSIBILITY to not exploit them.                  |
+|                                                                         |
+---------------------------------------------------------------------------
+achilles
+
+You open your eyes and cast your gaze upon the land.
+Dretch Street
+  The dingy cobbled street is narrow and flanked by looming tenements or
+ancient houses, many hollowed out by flame or disrepair.  Spherical
+magelights shine day and night atop tall iron poles, illuminating the
+perpetual muck that accumulates on the road.  The smell of baking bread
+drifts out of the building to the south.  
+
+[Exits: east south west]
+You have no unread notes.
+
+<204hp 170m 165mv> 
+whe
+Notables in Avendar (currently in Var Bandor):
+  Kephautis                  Dretch Street                     [present]    
+
+Total found: 1
+
+who
+<204hp 170m 165mv> 
+[ 6 Swo] Kephautis v'Eda the Swift-Blade
+
+Players found: 1
+
+<204hp 170m 165mv> 
+l
+Dretch Street
+  The dingy cobbled street is narrow and flanked by looming tenements or
+ancient houses, many hollowed out by flame or disrepair.  Spherical
+magelights shine day and night atop tall iron poles, illuminating the
+perpetual muck that accumulates on the road.  The smell of baking bread
+drifts out of the building to the south.  
+
+[Exits: east south west]
+
+<204hp 170m 165mv> 
+sk
+
+Level  1: dagger              75%        sword               75%        
+          parry               75%        grace               75%        
+          recover             75%        
+Level  2: enhanced damage     75%        
+Level  3: dual wield          75%        
+Level  4: dodge               75%        
+Level  5: rescue               1%        
+Level  6: fast healing         1%        
+Level  7: meditation         n/a      
+Level  8: offhand parry      n/a      
+Level  9: second attack      n/a      
+Level 10: meditative strike  n/a      
+Level 12: stunning blow      n/a      
+Level 14: disarm             n/a      
+Level 15: third attack       n/a      
+Level 17: trance             n/a      
+Level 20: offhand disarm     n/a      
+Level 25: fourth attack      n/a      
+Level 30: feint              n/a      
+Level 35: reversal of fortune n/a      
+Level 40: versatility        n/a      
+[Hit Return to continue]
+sp
+
+<204hp 170m 165mv> 
+
+The clouds begin to disperse, clearing the sky.
+
+<204hp 170m 165mv> 
+
+The sun rises in the east.
+Clouds move into the area, obscuring the sky.
+
+<204hp 170m 165mv> 
+
+You are hungry.
+
+<204hp 170m 165mv> 
+
+You are hungry.
+
+<204hp 170m 165mv> 
+
+You are hungry.
+
+<204hp 170m 165mv> 
+
+You are hungry.
+
+<204hp 170m 165mv> 
+
+You are hungry.
+
+<204hp 170m 165mv> 
+
+You are hungry.
+
+<204hp 170m 165mv> 
+
+You disappear into the void.
+You are hungry.
+
+<204hp 170m 165mv> 
+
+You are hungry.
+
+<204hp 170m 165mv> 
+
+[TIPS] Earendam is divided into two sections: the old city, south of the Dantaron River, and the new
+city, north of it.
+
+<204hp 170m 165mv> 
+
+You are hungry.
+
+<204hp 170m 165mv> 
+
+You are hungry.
+
+<204hp 170m 165mv> 
+Feyhlss
+Huh?
+
+<204hp 170m 165mv> 
+whe
+Notables in Avendar (currently in Var Bandor):
+  Kephautis                  Dretch Street                     [present]    
+
+Total found: 1
+
+who
+<204hp 170m 165mv> 
+[ 6 Swo] Kephautis v'Eda the Swift-Blade
+
+Players found: 1
+
+l
+<204hp 170m 165mv> Dretch Street
+  The dingy cobbled street is narrow and flanked by looming tenements or
+ancient houses, many hollowed out by flame or disrepair.  Spherical
+magelights shine day and night atop tall iron poles, illuminating the
+perpetual muck that accumulates on the road.  The smell of baking bread
+drifts out of the building to the south.  
+
+[Exits: east south west]
+
+<204hp 170m 165mv> 
+help rules
+/---------------------------------------------------------------------------\
+|          Rules of Avendar                                                 |
+\---------------------------------------------------------------------------/
+
+Avendar is a MUD that supports roleplaying, player versus environment
+(PvE), and player versus player (PvP) modes of play.  This page will discuss
+what that means and what our expectations with regards to behavior are. 
+These standards and guidelines apply to players and staff alike. 
+Individuals that violate these guidelines will face penalties ranging from
+uncomfortable conversations to denial to removal of all privileges and
+access to the game entirely.  
+
+Avendar is not a business or a service and we do not have customers.  This
+is a hobby which we invite others to enjoy with us in a space we curate. 
+Every part of the game will always be free, and no advantage will ever be
+offered to a player character for donations given to assist Avendar in its
+operation costs.  
+
+The atmosphere we want to cultivate is that of a group of acquaintances
+coming together at a person's house to play a tabletop adventure game with a
+big roleplaying aspect, such as Pathfinder.  Even as our characters may
+engage in conflicts both along and against one another, those should not
+[Hit Return to continue]
+
+influence how we treat one another around the table, so to speak.  We don't
+have to be best friends, but we expect civility and for people to refrain
+from behavior that is malicious, harmful, or unsportsmanlike.  If you aren't
+sure whether something is going to be a problem, ask.  If something
+genuinely bothers to you, politely bring it up either directly or with a
+staff member.  This applies to every space within the locus of our control,
+including the Avendar game itself, the official Discord server, and this
+wiki.  
+
+We have no interest in developing an exhaustive and specific list of things
+you can and cannot do and instead advise you use all of the above as a
+guideline.  That said, this is a short list of activities which are
+egregiously unacceptable, and will get you immediately denied and/or
+banned:
+
+* Any expression of real-world bigotry including but not limited to racism,
+misogyny, homophobia, or transphobia
+* Pedophilia or explicit child sexual material of any kind
+* Explicit depictions or discussions of rape or sexual assault
+* Out-of-character stalking, harassment, or bullying, regardless of where it
+happens
+[Hit Return to continue]
+
+You are hungry.
+[Hit Return to continue]
+
+
+In general, we emphasize remembering that there are real people that will be
+reading whatever you write within the game.  As we detail in HELP
+ROLEPLAYING, we do not shy away from scenes or stories about difficult
+subjects, but we do expect it to be approached in a way that is responsible
+and respectful of others.  For more detailed information about what that
+entails, please read HELP ROLEPLAYING.  
+
+While PvP is uncommon, whenever you are logged in there is a chance you will
+become engaged in PvP with another player which may result in the death of
+your character and the theft of that character's items.  Murder and theft
+are permitted and encouraged forms of play.  Staff will not intervene in or
+adjudicate in-character conflicts between player characters.  We expect
+those who engage in PvP to behave in a way that is sportsmanlike and fair;
+behaviors such as (but not limited to) timing your log-ins to avoid
+retribution or deliberately targeting new players will not be tolerated.  
+
+The game environment including the world and mechanics of Avendar are
+provided to you as-is to enjoy and may be incomplete or buggy.  Knowingly
+abusing an exploit for any reason will result in all of a player's current
+characters being denied and, depending on the severity, being banned from
+the game entirely.  
+[Hit Return to continue]
+
+
+See also: HELP ROLEPLAYING, HELP BACKGROUND, HELP DESCRIPTION, HELP MULTICHAR
+
+<204hp 170m 165mv> 
+whe
+Notables in Avendar (currently in Var Bandor):
+  Kephautis                  Dretch Street                     [present]    
+
+Total found: 1
+
+who
+<204hp 170m 165mv> 
+[ 6 Swo] Kephautis v'Eda the Swift-Blade
+
+Players found: 1
+
+l
+<204hp 170m 165mv> 
+Dretch Street
+  The dingy cobbled street is narrow and flanked by looming tenements or
+ancient houses, many hollowed out by flame or disrepair.  Spherical
+magelights shine day and night atop tall iron poles, illuminating the
+perpetual muck that accumulates on the road.  The smell of baking bread
+drifts out of the building to the south.  
+
+[Exits: east south west]
+
+<204hp 170m 165mv> 
+thought
+You tap your fingers together thoughtfully.
+
+<204hp 170m 165mv> 
+l
+Dretch Street
+  The dingy cobbled street is narrow and flanked by looming tenements or
+ancient houses, many hollowed out by flame or disrepair.  Spherical
+magelights shine day and night atop tall iron poles, illuminating the
+perpetual muck that accumulates on the road.  The smell of baking bread
+drifts out of the building to the south.  
+
+[Exits: east south west]
+
+<204hp 170m 165mv> 
+s
+You gained 1 exploration point and 50 experience points!
+All You Knead Bakery
+  Two entrances lead into this corner bakery, from Sadrent Road on the west
+and Dretch Street to the north.  Many-paned windows on each wall allow
+natural light, providing a view of the streets through the bubbled glass.  A
+seat is built under the western window, with room for two.  A few brightly
+painted tables occupy the space, notably a long magenta table and a round
+teal table.  The walls are a soft, inviting yellow and decorated with local
+art.  A large counter displays a plethora of baked goods and supports a
+heavy, steaming apparatus.  Further in, an oven is kept warm and the bakery
+shelves stocked.  A staircase leads up to a private apartment.  
+
+[Exits: north west (up)]
+     A hastily-painted sign sits on the counter.
+In the back, Nupane rolls out some dough.
+A tattooed alatharya, Tefory, works the coffee apparatus.
+
+s
+s
+<204hp 170m 164mv> 
+Alas, you cannot go that way.
+
+<204hp 170m 164mv> Alas, you cannot go that way.
+
+<204hp 170m 164mv> 
+n
+Dretch Street
+  The dingy cobbled street is narrow and flanked by looming tenements or
+ancient houses, many hollowed out by flame or disrepair.  Spherical
+magelights shine day and night atop tall iron poles, illuminating the
+perpetual muck that accumulates on the road.  The smell of baking bread
+drifts out of the building to the south.  
+
+[Exits: east south west]
+
+whe
+<204hp 170m 163mv> 
+You are hungry.
+
+<204hp 170m 165mv> Notables in Avendar (currently in Var Bandor):
+  Kephautis                  Dretch Street                     [present]    
+
+Total found: 1
+
+who
+<204hp 170m 165mv> [ 6 Swo] Kephautis v'Eda the Swift-Blade
+
+Players found: 1
+
+s
+<204hp 170m 165mv> All You Knead Bakery
+  Two entrances lead into this corner bakery, from Sadrent Road on the west
+and Dretch Street to the north.  Many-paned windows on each wall allow
+natural light, providing a view of the streets through the bubbled glass.  A
+seat is built under the western window, with room for two.  A few brightly
+painted tables occupy the space, notably a long magenta table and a round
+teal table.  The walls are a soft, inviting yellow and decorated with local
+art.  A large counter displays a plethora of baked goods and supports a
+heavy, steaming apparatus.  Further in, an oven is kept warm and the bakery
+shelves stocked.  A staircase leads up to a private apartment.  
+
+[Exits: north west (up)]
+     A hastily-painted sign sits on the counter.
+In the back, Nupane rolls out some dough.
+A tattooed alatharya, Tefory, works the coffee apparatus.
+
+<204hp 170m 164mv> 
+list
+[Qty Price   ] Item
+[--- 4g 2s 4c] a cup of alatharya caravan tea
+[---    2p 2g] a cup of spiced chai
+[---    4g 8s] a buttery golden kouign-amann
+[---       6g] a slice of honey-drenched baklava
+[---    5g 2s] a tightly-rolled cinnamon rugelach
+[---    4g 8s] a golden-brown croissant smeared with sweet cream
+[---       1g] a rectangular loaf of nut-filled brown soda bread
+[---       1g] an oblong loaf of dense, dark rye bread
+
+<204hp 170m 164mv> 
+in
+You are carrying:
+     a canoe
+
+<204hp 170m 164mv> 
+eq
+You are using:
+<worn on finger>    (Glowing) a gleaming gold ring
+<worn on finger>    [nothing]
+<worn around neck>  a patched cloak
+<worn around neck>  [nothing]
+<worn on torso>     a doublet of meshed steel
+<worn on head>      a felt hat
+<worn on legs>      a skirt of meshed steel
+<worn on feet>      a pair of green boots
+<worn on hands>     a pair of leather gloves
+<worn on arms>      some sleeves of meshed steel
+<worn as shield>    [nothing]
+<worn about body>   a foul-smelling bear skin
+<worn about waist>  a black leather belt
+<worn around wrist> [nothing]
+<worn around wrist> [nothing]
+<wielded>           [nothing]
+<dual wielded>      [nothing]
+
+<204hp 170m 164mv> 
+n
+Dretch Street
+  The dingy cobbled street is narrow and flanked by looming tenements or
+ancient houses, many hollowed out by flame or disrepair.  Spherical
+magelights shine day and night atop tall iron poles, illuminating the
+perpetual muck that accumulates on the road.  The smell of baking bread
+drifts out of the building to the south.  
+
+[Exits: east south west]
+
+w
+<204hp 170m 163mv> 
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.  To the east, Dretch street leads into
+the most notorious neighborhoods of Var Bandor.  
+
+[Exits: north east south]
+
+<204hp 170m 162mv> 
+s
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.  To the west, Iron Street leads
+through the industrial section of Var Bandor.  To the east, the scent of
+fresh bread wafts from a corner bakery.  
+
+[Exits: north east south west]
+An enforcer of Var Bandor patrols here, scrutinizing every passing face.
+
+s
+<204hp 170m 161mv> 
+s
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.
+
+[Exits: north south]
+An armed enforcer of Var Bandor patrols here.
+
+<204hp 170m 160mv> 
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.  To the west, Iron Street leads into
+the industrial section of Var Bandor, and to the east, Raddin street winds
+through some run-down buildings.  
+
+[Exits: north east south west]
+
+<204hp 170m 159mv> 
+s
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.
+
+[Exits: north south]
+A grey pigeon walks about tentatively, looking for scraps of food.
+
+<204hp 170m 158mv> 
+s
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.
+
+[Exits: north south]
+A grey pigeon walks about tentatively, looking for scraps of food.
+
+<204hp 170m 157mv> 
+s
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.  To the south is the central square of
+Var Bandor.  
+
+[Exits: north south]
+
+<204hp 170m 156mv> 
+s
+Center Square
+  A burbling fountain dominates the center of the square.  The fountain is
+made of gray marble veined with blue.  Large sculptures of dancing otters
+and leaping trout, gazing skyward and spouting water from their mouths, sit
+within the circular basin.  The rim of the basin appears designed for
+seating, but is sprinkled with water.  The square is mortared with rounded
+cobblestone radiating outwards from the fountain.  The sounds and smells of
+the market and other popular locales nearby mingle in the air.  
+
+[Exits: north east south west]
+     A large marble fountain gurgles peacefully here.
+A grey pigeon walks about tentatively, looking for scraps of food.
+A nefortu peddler stands in a corner of the square, his goods on a tray before him.
+An armed enforcer of Var Bandor stands here.
+An armed enforcer of Var Bandor stands here.
+
+<204hp 170m 155mv> 
+
+You are hungry.
+
+<204hp 170m 165mv> 
+
+You are hungry.
+
+<204hp 170m 165mv> 
+Feythss
+Huh?
+
+<204hp 170m 165mv> 
+remove all
+You stop using a patched cloak.
+You stop using a pair of green boots.
+You stop using a pair of leather gloves.
+You stop using a black leather belt.
+You stop using a felt hat.
+You stop using a doublet of meshed steel.
+You stop using a skirt of meshed steel.
+You are now unencumbered by your equipment.
+You stop using some sleeves of meshed steel.
+You stop using a foul-smelling bear skin.
+You stop using a gleaming gold ring.
+
+<204hp 170m 165mv> 
+drop all
+You drop a patched cloak.
+You drop a pair of green boots.
+You drop a pair of leather gloves.
+You drop a black leather belt.
+You drop a felt hat.
+You drop a doublet of meshed steel.
+You drop a skirt of meshed steel.
+You drop some sleeves of meshed steel.
+You drop a foul-smelling bear skin.
+You drop a gleaming gold ring.
+You drop a canoe.
+
+l
+<204hp 170m 165mv> Center Square
+  A burbling fountain dominates the center of the square.  The fountain is
+made of gray marble veined with blue.  Large sculptures of dancing otters
+and leaping trout, gazing skyward and spouting water from their mouths, sit
+within the circular basin.  The rim of the basin appears designed for
+seating, but is sprinkled with water.  The square is mortared with rounded
+cobblestone radiating outwards from the fountain.  The sounds and smells of
+the market and other popular locales nearby mingle in the air.  
+
+[Exits: north east south west]
+     A wooden one-man canoe sits here.
+     (Glowing) A gleaming gold ring glows with eerie light.
+     A foul-smelling bear skin is piled here.
+     Some sleeves of meshed steel rest here.
+     A skirt of meshed steel is here.
+     A doublet of meshed steel is here.
+     A felt hat sits on the floor.
+     A black leather belt rests here.
+     A pair of leather gloves is here.
+     A pair of green boots is on the floor.
+     A patched cloak, spattered with stains, rests here.
+     A large marble fountain gurgles peacefully here.
+A nefortu peddler stands in a corner of the square, his goods on a tray before him.
+An armed enforcer of Var Bandor stands here.
+An armed enforcer of Var Bandor stands here.
+
+<204hp 170m 165mv> 
+whe
+Notables in Avendar (currently in Var Bandor):
+  Kephautis                  Center Square                     [present]    
+
+Total found: 1
+
+who
+<204hp 170m 165mv> 
+[ 6 Swo] Kephautis v'Eda the Swift-Blade
+
+Players found: 1
+
+<204hp 170m 165mv> 
+delete
+Type delete again to confirm this command.
+WARNING: this command is irreversible.
+Typing delete with an argument will undo delete status.
+
+<204hp 170m 165mv> 
+delete
+    
+[ ALERT ] - Socket got disconnected.
+            Reason: The remote host closed the connection
+[ INFO ]  - Connection time: 00:10:01.957
+                
+[ INFO ]  - Looking up the IP address of server: avendar.net:9999 ...
+[ INFO ]  - The IP address of avendar.net has been found. It is: 74.91.112.143
+[ INFO ]  - Trying to connect to 74.91.112.143:9999 ...
+[ INFO ]  - A connection has been established successfully.
+                
+                
+
+          <| 
+           A              
+          /.          
+     \<|  [""M#         
+      A   | #                   AVENDAR: THE CRUCIBLE OF LEGENDS 
+     /. \[""M#                         [avendar.net 9999] 
+    [""M# | #  U"U#U                  
+     | #  | #   \.:/    Original DikuMUD by Hans Staerfeldt, Katja Nyboe, 
+     | #  | #___| #     Tom Madsen, Michael Seifert, and Sebastian Hammer 
+     | "--'     .-"     Based on MERC 2.1 code by Hatchet, Furey, and Kahn 
+   |"-"-"-"-"-#-#-##    ROM 2.4 copyright (c) 1993-1996 Russ Taylor 
+   |     # ## ######      
+           \.::::'/     Avendar created by Matt Wallace, Thane Williams, 
+           \::::'/      and Brandon Downey.  See HELP AVENDAR for more. 
+   :8a|    # # ##       
+   ::88a      ###       Avendar is maintained and developed by the Avendar 
+  ::::888a  8a ##::.                   Immortal staff. 
+  ::::::888a88a[]:::: 
+ :::::::::SUNDOGa8a::::. ..               
+ :::::8::::888:Y8888:::::::::...       
+::':::88::::888::Y88a______________________________________________________ 
+:: ::::88a::::88a:Y88a                                  __---__-- __ 
+' .: ::Y88a:::::8a:Y88a                            __----_-- -------_-__ 
+  :' ::::8P::::::::::88aa.                   _ _- --  --_ --- __  --- __-- 
+,::  :::::::::::::::::::Y88as88a...s88aa.
+
+Under what name shall your deeds be recorded?
+Account 'Tyeric' logging in.  Password: 
+
+
+The following characters are currently associated with this account:
+
+Qeqskil
+Veljik
+
+To create a new character, enter an original name at the following prompt.
+Enter character name to use: 
+Feythfl
+We don't have a character named Feythfl.
+Attach new character Feythfl to account Tyeric (y/n)? 
+n
+Ok, what IS it, then? 
+Feythis
+We don't have a character named Feythis.
+Attach new character Feythis to account Tyeric (y/n)? 
+y
+/--------------------------------------------------------------------------\
+|                              Name Guidelines                             |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| * Avendar is an early modern-era fantasy roleplaying game.               |
+| * Real life names are allowed, but references to real people are not.    |
+| * All character names must be unique and may not reference other         |
+|   settings or works of fiction outside Avendar.                          |
+| * For more detailed information and examples, see HELP NAME.             |
+\--------------------------------------------------------------------------/
+
+Does your name fit these conditions? 
+y
+/--------------------------------------------------------------------------\
+|                           Surname Guidelines                             |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| * Surnames may be chosen at creation, but are not required.              |
+| * Refer to the same general rules as a given name.                       |
+| * Unusual capitalization, such as MacDugal or a'Ganylosha, is allowed.   |
+| * Surnames may contain spaces; be reasonable about it.                   |
+| * For more detailed information and examples, read HELP NAME.            |
+\--------------------------------------------------------------------------/
+
+Please enter a surname (enter for none): 
+du'This
+
+"Feythis du'This", is this correct? 
+y
+
+/--------------------------------------------------------------------------\
+|                                  Color                                   |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| Avendar, like most MUDs, uses colored text to help highlight what is     |
+| happening during play.  This includes communication channels, damage     |
+| dealt or received, and many other uses.  Regardless of your selection,   |
+| it may be toggled at any time with the 'colour' command.                 |
+\--------------------------------------------------------------------------/
+
+Do you wish to use ANSI color? 
+y
+
+/--------------------------------------------------------------------------\
+|                            Password Selection                            |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| * Avoid using passwords that are easily guessed, both in character and   |
+|   in real life.                                                          |
+| * Don't use your birthday, real name, your character's name, or any      |
+|   permutation thereof.                                                   |
+| * Don't use dictionary words as passwords, unless you append additional  |
+|   letters or numbers.                                                    |
+| * Do not forget your password.                                           |
+\--------------------------------------------------------------------------/
+
+Enter a password for Feythis: 
+
+Please retype password: 
+
+
+/--------------------------------------------------------------------------\
+|                               Online Help                                |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| * The online help system is available to you while you make decisions    |
+|   about your character.                                                  |
+| * To access it, type HELP or HELP <topic>.                               |
+| * Players new to Avendar, or to MUDs in general, have additional help    |
+|   available to them in-game if they need it.                             |
+| * Answering 'yes' to this question will also slightly simplify character |
+|   creation, removing advanced options that could be harmful for the      |
+|   inexperienced.                                                         |
+\--------------------------------------------------------------------------/
+Are you new to Avendar: The Crucible of Legends? 
+n
+
+[ Press Enter to continue ]
+n
+/--------------------------------------------------------------------------\
+|                        The Lineages of Avendar                           |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| Human:     Gregarious and flexible, known as great empire-builders.      |
+| Aelin:     Slight with feathered wings, known for their grace and pride. |
+| Alatharya: Giants with silvery skin, the First People cannot use magic.  |
+| Caladaran: Sagely, tree-like people famed for their monastic traditions. |
+| Chaja:     Caprine and reclusive giants with wooly hair and small horns. |
+| Ch'taren:  Curious and alien beings the golden hue of their auras.       |
+| Ethron:    Small, amphibious plant-loving people with colourful skin.    |
+| Nefortu:   Chiropteran people known for their cunning and alacrity.      |
+| Shuddeni:  Eyeless subterranean marsupials connected to demonkind.       |
+| Srryn:     Bipedal reptiles known for adaptability and territoriality.   |
+|                                                                          |
+| All lineages are physically humanoid but different species. Hybrids do   |
+| not exist. All characters roll up at the age of mental and physical      |
+| maturity for their lineage, which may vary between species.              |
+|                                                                          |
+| Each lineage will have different innate traits (such as flight or        |
+| darkvision) and a different spread of maximum statistics. For more       |
+| information, including a table of max stats, see HELP STATISTICS.        |
+
+Select your lineage (help for more information)? [Hit Return to continue]
+srryn
+srryn
+/--------------------------------------------------------------------------\
+|                                 Srryn                                    |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| The srryn emerged the triumphant children of Fenthira from the Sotuei    |
+| Cauldron, spreading across Avendar with alacrity and defending their     |
+| claimed territories with famous brutality.  A srryn's body is covered in |
+| thick scales that can be nearly any shade or pattern and they have long, |
+| flexible tails.  Their claws are sharp and sturdy, and serve them as     |
+| vicious weapons.  Due to their reptilian nature, they are resistant to   |
+| fire but vulnerable to the cold.  For more information, read HELP SRRYN. |
+\--------------------------------------------------------------------------/
+
+Are you sure this is the lineage you wish to choose? 
+y
+
+/--------------------------------------------------------------------------\
+|                                  Gender                                  |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| You may choose the gender of your character during creation.  We allow   |
+| characters to create as neutral-gender; the pronoun 'they' will be used  |
+| for such characters.                                                     |
+\--------------------------------------------------------------------------/
+
+How would you like to be addressed (M/F/N)? 
+m
+
+/--------------------------------------------------------------------------\
+|                        The Professions of Avendar                        |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| Warriors:    Uses brute force or combat expertise to their advange.      |
+|              Includes fighters, swordmasters, and gladiators.            |
+| Rogues:      Rely on stealth, concealment, and cunning to achieve their  |
+|              goals. Includes thieves, bandits, and bards.                |
+| Scholars:    Mages who are schooled in elemental magic. They may study   |
+|              the spheres of Fire, Water, Earth, Air, Spirit, or Void.    |
+| Templars:    Spellswords who forgo mastery to blend their talents. They  |
+|              study one of the six elemental spheres.                     |
+| Naturalists: Devotees of the wild who are strongest outdoors. Includes   |
+|              rangers, barbarians, and druids.                            |
+| Mentalists:  Disciples of the mind who learn psionic abilities. Includes |
+|              assassins, watchers, and psionicists.                       |
+\--------------------------------------------------------------------------/
+
+Select an available profession from those listed below.
+ [Scholar Templar Rogue Warrior Naturalist Mentalist ]: 
+rogue
+
+/--------------------------------------------------------------------------\
+|                               Rogue Classes                              |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| Thief:   Wily and quick, thieves specialize in stealth, acrobatics,      |
+|          precision, and, of course, robbery.                             |
+| Bandit:  Brutal highwaymen, bandits eschew the grace of the thief in     |
+|          favor of power.  Known for their unarmed brawling.              |
+| Bard:    Whether wandering minstrel or court herald, bards can perform   |
+|          songs that evoke powerful effects.                              |
+\--------------------------------------------------------------------------/
+
+Available classes are: 
+ [ thief bandit bard ] (or 'back' to choose again) 
+
+Which of these classes do you wish to follow? 
+thief
+
+/--------------------------------------------------------------------------\
+|                                Alignment                                 |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| You must designate an alignment for your character during the creation   |
+| process.  While this is primarily a roleplay device, the alignments      |
+| available to you are dependent on your race and class selection.  During |
+| play, your alignment may help or hinder you when gaining experience.     |
+| More information on individual alignments is available in our tutorial   |
+| area.                                                                    |
+\--------------------------------------------------------------------------/
+
+Choose one of the following [ Good Neutral Evil ]: 
+n
+
+/--------------------------------------------------------------------------\
+|                                  Ethos                                   |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| In addition to alignment, you must also designate an ethos for your new  |
+| character.  This is a roleplay device which acts as a modifier on the    |
+| alignment you have chosen.  The ethoi available to you is dependent upon |
+| your race and class selection.  Additional information on particular     |
+| ethos and alignment combinations is in our tutorial area.                |
+\--------------------------------------------------------------------------/
+
+Choose one of the following [ Lawful Neutral Chaotic ]: 
+n
+
+/--------------------------------------------------------------------------\
+|                                Hometowns                                 |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| During the creation process, you must specify a location which your      |
+| character considers home.  There are a number of cities, towns, and      |
+| settlements to choose from.  Some locations are more accessible, while   |
+| others have special bonuses or features.  When you die, your character's |
+| ghost will reappear at an altar in their hometown.                       |
+\--------------------------------------------------------------------------/
+
+You may pick one of the following hometowns:
+
+Var Bandor
+Earendam
+
+From which location do you hail? 
+var bandor
+/--------------------------------------------------------------------------\
+|                             Trait Selection                              |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| Traits represent unusual abilities, training, or expertise in a niche    |
+| area.  Many classes automatically receive one or more traits for free    |
+| during creation, which represents part of your character's training      |
+| during their time in the School of Heroes.                               |
+|                                                                          |
+| You have five total points to spend on traits. Religion and god touch    |
+| is the last step in character creation; please remember to keep 3 of     |
+| your trait points if you desire a god touch. For a mechanical breakdown  |
+| of each, please see HELP TRAITS and HELP GOD TOUCH.                      |
+\--------------------------------------------------------------------------/
+
+Select from the following groups of traits: 
+background
+general
+magical
+physical
+
+Please enter a group name, or 'done' to exit: 
+background
+
+The following background traits are available:
+
+aristocrat: When you have matured some, you will be granted an inheritance from your estate. (2
+trains)
+weapon maintenance: You are trained to repair metal weapons when they are damaged. (1 train)
+streetwise: A life spent growing up on the streets has left you wise to many common tricks. (2
+trains)
+mortician: You are quite skilled at dismembering and dissecting corpses. (1 train)
+loremaster: You have studied extensively, and have a mastery of rare lore and esoterica. (1 train)
+forger: You have studied and practiced various methods of forgery. (1 train)
+
+Please select a trait, or 'back' to return to group select: 
+loremaster
+Trait 'loremaster' selected.  This trait costs 1 train.
+This would reduce your starting trains to 4.  Are you sure? 
+y
+Trait 'loremaster' added to character.
+Do you wish to continue selecting traits? 
+y
+
+
+Select from the following groups of traits:
+
+background
+general
+magical
+physical
+
+Please enter a group name, or 'done' to exit: 
+general
+
+The following general traits are available:
+
+brave: You are braver than most in the face of danger. (2 trains)
+cynic: You are difficult to fool. (2 trains)
+frugal: You are quite persuasive when it comes to bartering with merchants. (1 train)
+linguistic: You can more easily hear the subtle variations in different languages, and learn them at
+a faster rate than most people. (1 train)
+
+Please select a trait, or 'back' to return to group select: 
+frugal
+Trait 'frugal' selected.  This trait costs 1 train.
+This would reduce your starting trains to 3.  Are you sure? 
+y
+Trait 'frugal' added to character.
+Do you wish to continue selecting traits? 
+y
+
+
+Select from the following groups of traits:
+
+background
+general
+magical
+physical
+
+Please enter a group name, or 'done' to exit: 
+physical
+
+The following physical traits are available:
+
+ambidextrous: You are good at balancing your weapons, when fighting with two. (2 trains)
+charming: You have the potential to be extraordinarily charismatic. (2 trains)
+cold-natured: You don't really notice cold weather. (1 train)
+eagle-eyed: You have sharp vision, allowing you to see further. (2 trains)
+endurance: You can go longer without drink and nourishment. (1 train)
+hollow leg: You can eat more than most before you get full. (1 train)
+iron stomach: You can eat almost anything without becoming ill. (1 train)
+long-lived: You're likely to have a longer than average lifespan. (1 train)
+survivor: You have a firm grasp on the material world, and will resist your final death longer than
+others. (1 train)
+light sleeper: You can sense nearby activity while sleeping. (1 train)
+
+Please select a trait, or 'back' to return to group select: 
+cold-natured
+Trait 'cold-natured' selected.  This trait costs 1 train.
+This would reduce your starting trains to 2.  Are you sure? 
+y
+Trait 'cold-natured' added to character.
+Do you wish to continue selecting traits? 
+y
+
+
+Select from the following groups of traits:
+
+background
+general
+magical
+physical
+
+Please enter a group name, or 'done' to exit: 
+physical
+
+The following physical traits are available:
+
+ambidextrous: You are good at balancing your weapons, when fighting with two. (2 trains)
+charming: You have the potential to be extraordinarily charismatic. (2 trains)
+eagle-eyed: You have sharp vision, allowing you to see further. (2 trains)
+endurance: You can go longer without drink and nourishment. (1 train)
+hollow leg: You can eat more than most before you get full. (1 train)
+iron stomach: You can eat almost anything without becoming ill. (1 train)
+long-lived: You're likely to have a longer than average lifespan. (1 train)
+survivor: You have a firm grasp on the material world, and will resist your final death longer than
+others. (1 train)
+light sleeper: You can sense nearby activity while sleeping. (1 train)
+
+Please select a trait, or 'back' to return to group select: 
+ambidextrous
+Trait 'ambidextrous' selected.  This trait costs 2 trains.
+This would reduce your starting trains to 0.  Are you sure? 
+y
+Trait 'ambidextrous' added to character.
+
+/--------------------------------------------------------------------------\
+|                              God Selection                               |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| If you wish, you may declare your character as associated with a one of  |
+| Avendar's deities upon creation.  While this choice will be invisible to |
+| other players, it will be available for the consideration of staff.  By  |
+| specifying a deity now, any sacrifices you make to that deity will lead  |
+| to greater responses than they would otherwise receive.                  |
+\--------------------------------------------------------------------------/
+
+Do you wish to select a god to follow? 
+enirra
+Please enter 'Y' or 'N': 
+y
+
+You may pick from the following list of gods:
+Aeoleri
+Alil
+Ayaunj
+Chadraln
+Dolgrael
+Elanthe
+Enirra
+Fenthira
+Kurion
+Kyana
+Lielqan
+Lilune
+Serachel
+Yolsei
+
+Select a god, or type 'cancel' to continue: 
+enirra
+
+[ Press Enter to continue ]
+y
+
+/--------------------------------------------------------------------------\
+| Feythis du'This the Street Urchin                                        |
+\--------------------------------------------------------------------------/
+/-------------\/-----------------------------------------------------------\
+| Str: 17(17) || Lineage: srryn       Class: thief           Level:  1     |
+| Int: 11(11) || Gender : male        Age  : 15 (youthful)   Hours: 0      |
+| Wis: 11(11) ||                                                           |
+| Dex: 17(17) || Hit : 100/100        Experience : 1800      Hitroll: 8    |
+| Con: 19(19) || Mana: 100/100        Exper/level: 1300      Damroll: 8    |
+| Chr: 11(11) || Move: 100/100        Exploration: 0         Saves  : -3   |
+\-------------/\-----------------------------------------------------------/
+/-------------------------------------\/-----------------------------------\
+| Resonance: None                     || Items : 0     Max Items : 100     |
+| Alignment: True Neutral             || Weight: 0     Max Weight: 379     |
+| Total AC : very vulnerable   (132)  || Wealth: 100c                      |
+\-------------------------------------/\-----------------------------------/
+/--------------------------------------------------------------------------\
+| You were born at 12 o'clock, Nimensday, 10th day of Converumir.          |
+| You are getting hungry.                                                  |
+| You are ambidextrous.                                                    |
+| You are cold-natured.                                                    |
+| You are a coward.                                                        |
+| You are fleet.                                                           |
+| You are frugal.                                                          |
+| You are skilled in thieves cant.                                         |
+| You are adept at hiding in the shadows.                                  |
+| You are trained in the use of stealth.                                   |
+| You are well-versed in the ancient lore.                                 |
+\--------------------------------------------------------------------------/
+
+Are you satisfied with this character? 
+y
+Character accepted.
+-------------- READ THE MOTD -- Last Modified: Apr 2025 -------------------
+|                                                                         |
+| . -You are responsible for knowing the rules-. See "help RULES".        |
+|                                                                         |
+| . For more information and discussion about the game, see:              |
+|                                                                         |
+|     . The Avendar Website:      https://avendar.net                     |
+|     . The Avendar Discord:      http://discord.gg/DXsZwVBsBV            |
+|                                                                         |
+| . The changelog (type CHANGES) is updated regularly with updates to     |
+|   Avendar.  Last Updated: 29 Apr 2025                                   |
+|                                                                         |
+| . Avendar is currently presented AS-IS. You may encounter errors or     |
+|   bugs. It is YOUR RESPONSIBILITY to not exploit them.                  |
+|                                                                         |
+---------------------------------------------------------------------------
+
+
+You open your eyes and cast your gaze upon the land.
+You gained 1 exploration point and 50 experience points!
+
+Welcome!  If you are new to MUDs, you may want to read "help starting".  
+
+The Beginning
+  The School of Heroes is hidden in a remote valley in the Yagash
+Mountains, and the cold bite of high elevation swirls around you under a
+perpetually overcast sky.  Gilded symbols of the gods Dolgrael, Lilune, and
+Jolinn have been lovingly sculpted into massive doors of dark basalt that
+lock fast behind you.  There is no way back; only forward.  
+
+Whether due to triumph or tragedy, a drive to desperate heroism or sadistic
+villainy, you have come to this remote place and secured your adventurer's
+license from the School of Heroes.  You have completed your official
+training and registration and stand now before the Tower of Testing, where
+your final practical examinations await you.  
+
+You may leave through the portals connected to different towns on the
+continent of Avendar in the Tower of Testing ahead, but you are encouraged
+to proceed with your practical examination, as it will impart many valuable
+skills and items for your life ahead.  
+
+[OOC: Welcome to Avendar!  You may type HELP to access our help system
+and the NEWBIE channel is available to request out-of-character
+assistance from staff or other players.]
+
+[Exits: north]
+Type "newbie" if you wish to enable the global new players channel.
+You have 1 new note waiting.
+
+prompt 
+prompt all
+Prompt set to <%hhp %mm %vmv> 
+
+l
+<100hp 100m 100mv> The Beginning
+  The School of Heroes is hidden in a remote valley in the Yagash
+Mountains, and the cold bite of high elevation swirls around you under a
+perpetually overcast sky.  Gilded symbols of the gods Dolgrael, Lilune, and
+Jolinn have been lovingly sculpted into massive doors of dark basalt that
+lock fast behind you.  There is no way back; only forward.  
+
+Whether due to triumph or tragedy, a drive to desperate heroism or sadistic
+villainy, you have come to this remote place and secured your adventurer's
+license from the School of Heroes.  You have completed your official
+training and registration and stand now before the Tower of Testing, where
+your final practical examinations await you.  
+
+You may leave through the portals connected to different towns on the
+continent of Avendar in the Tower of Testing ahead, but you are encouraged
+to proceed with your practical examination, as it will impart many valuable
+skills and items for your life ahead.  
+
+[OOC: Welcome to Avendar!  You may type HELP to access our help system
+and the NEWBIE channel is available to request out-of-character
+assistance from staff or other players.]
+
+[Exits: north]
+
+<100hp 100m 100mv> 
+n
+You gained 1 exploration point and 50 experience points!
+Before the Gates of the School of Heroes
+  Before you stand the gates of the School of Heroes, the renowned center
+of training for young adventurers.  It is an enormous structure, composed of
+marble, stone, and brick, and has been built upon a rocky hill.  The gates
+are forged of wrought iron, and remain open to travelers of every size,
+affiliation, and creed.  The central foyer of the School lies ahead, the
+marble edifice looming over its well-worn gates.  A small courtyard opens
+here, with a beautiful central fountain and a circle of low bushes.  
+
+[Exits: north south]
+     A beautiful golden fountain gushes water.
+
+whe
+<100hp 100m 99mv> 
+Notables in Avendar (currently in The School of Heroes):
+  Feythis                    Before the Gates of the School of Heroes [present]    
+
+Total found: 1
+
+<100hp 100m 99mv> 
+s
+You gained 1 exploration point and 50 experience points!
+The Portal Chamber
+  This cubical room is made from blocks of hewn marble.  Benches of similar
+stone are set diagonally against the corners of the room, and an open
+skylight provides illumination from above.  However, this room is unique in
+that it contains four magical gateways which connect the School of Heroes to
+various locations in Avendar.  Each glowing with soft blue light, the three
+vertical portals are set into the eastern, western, and southern walls.  The
+fourth portal is horizontal and circular, and is set into the floor directly
+beneath the skylight.  A more mundane doorway leads north, to the courtyard
+before the entrance to the School proper.  
+
+[Exits: north east south west down]
+(Translucent) A magic mouth hovers in mid-air, grinning nonchalantly.
+The magic mouth tells you, 'Are you sure you're ready to leave the School?'
+The magic mouth tells you, 'If you're ready, then you're ready...'
+The magic mouth tells you, 'If you want to know about the portal destinations, say the name of the
+direction you want to go.'
+
+<100hp 100m 98mv> 
+e
+You gained 1 exploration point and 50 experience points!
+Office of Applied Theology
+  The office exudes an air of cold formality, dominated by sleek white
+marble walls and polished floors that reflect the bright light of hanging
+magelights.  The western wall features an expansive mural depicting the
+liberation of Var Bandor, set before a wide, heavy desk.  The environment
+feels almost sterile, both imposing and inescapable despite the large double
+doors perpetually open to Dantaron street.  
+
+[Exits: north east south down]
+(White Aura) Nistaru stands behind the desk, sneering at petitioners.
+
+<100hp 100m 97mv> 
+s
+You gained 1 exploration point and 50 experience points!
+Dantaron Street
+  Dantaron Street bisects the west half of Var Bandor, leading from Center
+Square to the docks outside the western gatehouse.  Sailors and dockmen
+abound in this section of the city, wandering the streets while off-duty. 
+The street is composed of well-worn cobblestones, with a few broken and
+missing.  To the north, a large temple constructed of fine white marble
+rises over the street.  To the south is a traveller's inn.  
+
+[Exits: north east south west]
+An armed enforcer of Var Bandor patrols here.
+
+<100hp 100m 96mv> 
+e
+You gained 1 exploration point and 50 experience points!
+Dantaron Street
+  Dantaron Street bisects the west half of Var Bandor, leading from Center
+Square to the docks outside the western gatehouse.  Sailors and dockmen
+abound in this section of the city, wandering the streets while off-duty. 
+The street is composed of well-worn cobblestones, with a few broken and
+missing.  To the east is Center Square.  
+
+[Exits: east south west]
+
+e
+<100hp 100m 95mv> 
+You gained 1 exploration point and 50 experience points!
+Center Square
+  A burbling fountain dominates the center of the square.  The fountain is
+made of gray marble veined with blue.  Large sculptures of dancing otters
+and leaping trout, gazing skyward and spouting water from their mouths, sit
+within the circular basin.  The rim of the basin appears designed for
+seating, but is sprinkled with water.  The square is mortared with rounded
+cobblestone radiating outwards from the fountain.  The sounds and smells of
+the market and other popular locales nearby mingle in the air.  
+
+[Exits: north east south west]
+     A wooden one-man canoe sits here.
+     (Glowing) A gleaming gold ring glows with eerie light.
+     A foul-smelling bear skin is piled here.
+     Some sleeves of meshed steel rest here.
+     A skirt of meshed steel is here.
+     A doublet of meshed steel is here.
+     A felt hat sits on the floor.
+     A black leather belt rests here.
+     A pair of leather gloves is here.
+     A pair of green boots is on the floor.
+     A patched cloak, spattered with stains, rests here.
+     A large marble fountain gurgles peacefully here.
+A grey pigeon walks about tentatively, looking for scraps of food.
+A nefortu peddler stands in a corner of the square, his goods on a tray before him.
+An armed enforcer of Var Bandor stands here.
+An armed enforcer of Var Bandor stands here.
+
+<100hp 100m 94mv> 
+get all
+You get a canoe.
+You get a gleaming gold ring.
+You get a foul-smelling bear skin.
+You get some sleeves of meshed steel.
+You get a skirt of meshed steel.
+You get a doublet of meshed steel.
+You get a felt hat.
+You get a black leather belt.
+You get a pair of leather gloves.
+You get a pair of green boots.
+You get a patched cloak.
+
+<100hp 100m 94mv> 
+wear all
+You wear a patched cloak around your neck.
+You wear a pair of green boots on your feet.
+You wear a pair of leather gloves on your hands.
+You wear a black leather belt about your waist.
+You wear a felt hat on your head.
+You wear a doublet of meshed steel on your torso.
+You are now lightly encumbered by your equipment.
+You wear a skirt of meshed steel on your legs.
+You wear some sleeves of meshed steel on your arms.
+You wear a foul-smelling bear skin about your torso.
+You wear a gleaming gold ring on your left finger.
+
+<100hp 100m 94mv> 
+in
+You are carrying:
+     a canoe
+
+<100hp 100m 94mv> 
+w
+Dantaron Street
+  Dantaron Street bisects the west half of Var Bandor, leading from Center
+Square to the docks outside the western gatehouse.  Sailors and dockmen
+abound in this section of the city, wandering the streets while off-duty. 
+The street is composed of well-worn cobblestones, with a few broken and
+missing.  To the east is Center Square.  
+
+[Exits: east south west]
+
+<100hp 100m 93mv> 
+w
+Dantaron Street
+  Dantaron Street bisects the west half of Var Bandor, leading from Center
+Square to the docks outside the western gatehouse.  Sailors and dockmen
+abound in this section of the city, wandering the streets while off-duty. 
+The street is composed of well-worn cobblestones, with a few broken and
+missing.  To the north, a large temple constructed of fine white marble
+rises over the street.  To the south is a traveller's inn.  
+
+[Exits: north east south west]
+An armed enforcer of Var Bandor patrols here.
+
+n
+<100hp 100m 92mv> 
+Office of Applied Theology
+  The office exudes an air of cold formality, dominated by sleek white
+marble walls and polished floors that reflect the bright light of hanging
+magelights.  The western wall features an expansive mural depicting the
+liberation of Var Bandor, set before a wide, heavy desk.  The environment
+feels almost sterile, both imposing and inescapable despite the large double
+doors perpetually open to Dantaron street.  
+
+[Exits: north east south down]
+(White Aura) Nistaru stands behind the desk, sneering at petitioners.
+
+n
+<100hp 100m 91mv> 
+You gained 1 exploration point and 50 experience points!
+Office of Applied Theology
+  The office interior exudes an air of cold formality, dominated by sleek
+white marble walls and polished floors that reflect the bright light of
+hanging magelights.  An angular obelisk of pure white marble sits in the
+middle of the chamber, deeply graven with images that shimmer with ethereal
+golden light.  
+
+[Exits: east south]
+     A number of neatly-sorted bins rest against the walls.
+
+<100hp 100m 90mv> 
+exam altar
+A number of neatly-sorted bins rest against the walls.
+A bin labeled 'Lost and Found' holds:
+     Nothing.
+
+e
+<100hp 100m 90mv> You gained 1 exploration point and 50 experience points!
+Office of Applied Theology
+  The office interior exudes an air of cold formality, dominated by sleek
+white marble walls and polished floors that reflect the bright light of
+hanging magelights.  An angular obelisk of grey marble sits in the middle of
+the chamber, deeply graven with images and humming with a low, almost
+imperceptible vibration.  
+
+[Exits: south west]
+     A number of neatly-sorted bins rest against the walls.
+An armed enforcer of Var Bandor patrols here.
+
+<100hp 100m 89mv> 
+exam altar
+A number of neatly-sorted bins rest against the walls.
+A bin labeled 'Lost and Found' holds:
+     Nothing.
+
+s
+<100hp 100m 89mv> You gained 1 exploration point and 50 experience points!
+Office of Applied Theology
+  The office interior exudes an air of cold formality, dominated by sleek
+white marble walls and polished floors that reflect the bright light of
+hanging magelights.  An angular obelisk of black marble sits in the middle
+of the chamber, deeply graven with images that spark with poisonous crimson
+light.  
+
+[Exits: north west]
+     A number of neatly-sorted bins rest against the walls.
+
+<100hp 100m 88mv> 
+exam altar
+A number of neatly-sorted bins rest against the walls.
+A bin labeled 'Lost and Found' holds:
+     Nothing.
+
+w
+<100hp 100m 88mv> Office of Applied Theology
+  The office exudes an air of cold formality, dominated by sleek white
+marble walls and polished floors that reflect the bright light of hanging
+magelights.  The western wall features an expansive mural depicting the
+liberation of Var Bandor, set before a wide, heavy desk.  The environment
+feels almost sterile, both imposing and inescapable despite the large double
+doors perpetually open to Dantaron street.  
+
+[Exits: north east south down]
+(White Aura) Nistaru stands behind the desk, sneering at petitioners.
+
+s
+<100hp 100m 87mv> 
+Dantaron Street
+  Dantaron Street bisects the west half of Var Bandor, leading from Center
+Square to the docks outside the western gatehouse.  Sailors and dockmen
+abound in this section of the city, wandering the streets while off-duty. 
+The street is composed of well-worn cobblestones, with a few broken and
+missing.  To the north, a large temple constructed of fine white marble
+rises over the street.  To the south is a traveller's inn.  
+
+[Exits: north east south west]
+An armed enforcer of Var Bandor patrols here.
+
+<100hp 100m 86mv> 
+e
+e
+Dantaron Street
+  Dantaron Street bisects the west half of Var Bandor, leading from Center
+Square to the docks outside the western gatehouse.  Sailors and dockmen
+abound in this section of the city, wandering the streets while off-duty. 
+The street is composed of well-worn cobblestones, with a few broken and
+missing.  To the east is Center Square.  
+
+[Exits: east south west]
+
+<100hp 100m 85mv> 
+Center Square
+  A burbling fountain dominates the center of the square.  The fountain is
+made of gray marble veined with blue.  Large sculptures of dancing otters
+and leaping trout, gazing skyward and spouting water from their mouths, sit
+within the circular basin.  The rim of the basin appears designed for
+seating, but is sprinkled with water.  The square is mortared with rounded
+cobblestone radiating outwards from the fountain.  The sounds and smells of
+the market and other popular locales nearby mingle in the air.  
+
+[Exits: north east south west]
+     A large marble fountain gurgles peacefully here.
+A grey pigeon walks about tentatively, looking for scraps of food.
+A nefortu peddler stands in a corner of the square, his goods on a tray before him.
+An armed enforcer of Var Bandor stands here.
+An armed enforcer of Var Bandor stands here.
+
+<100hp 100m 84mv> 
+n
+You gained 1 exploration point and 50 experience points!
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.  To the south is the central square of
+Var Bandor.  
+
+[Exits: north south]
+A grey pigeon walks about tentatively, looking for scraps of food.
+
+n
+<100hp 100m 83mv> 
+n
+You gained 1 exploration point and 50 experience points!
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.
+
+[Exits: north south]
+A grey pigeon walks about tentatively, looking for scraps of food.
+
+n
+n
+<100hp 100m 82mv> 
+n
+You gained 1 exploration point and 50 experience points!
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.
+
+[Exits: north south]
+A grey pigeon walks about tentatively, looking for scraps of food.
+
+<100hp 100m 81mv> 
+You gained 1 exploration point and 50 experience points!
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.  To the west, Iron Street leads into
+the industrial section of Var Bandor, and to the east, Raddin street winds
+through some run-down buildings.  
+
+[Exits: north east south west]
+
+<107hp 100m 100mv> 
+You gained 1 exploration point and 50 experience points!
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.
+
+[Exits: north south]
+An armed enforcer of Var Bandor patrols here.
+
+<107hp 100m 99mv> 
+You gained 1 exploration point and 50 experience points!
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.  To the west, Iron Street leads
+through the industrial section of Var Bandor.  To the east, the scent of
+fresh bread wafts from a corner bakery.  
+
+[Exits: north east south west]
+An enforcer of Var Bandor patrols here, scrutinizing every passing face.
+
+<107hp 100m 98mv> 
+n
+You gained 1 exploration point and 50 experience points!
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.  To the east, Dretch street leads into
+the most notorious neighborhoods of Var Bandor.  
+
+[Exits: north east south]
+A young nefortu dressed in filthy rags steps from the shadows.
+The nefortu tells you 'Find the guild under the house north of Ogat's Goods.'
+The young nefortu steps into the shadows and disappears.
+
+n
+<107hp 100m 97mv> 
+You gained 1 exploration point and 50 experience points!
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.  The road turns east and south.  
+
+[Exits: east south]
+A shifty-eyed vagrant stumbles along, glaring about spitefully.
+
+<107hp 100m 96mv> 
+e
+You gained 1 exploration point and 50 experience points!
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.  The road turns north and west here.  
+
+[Exits: north west]
+
+n
+<107hp 100m 95mv> 
+n
+You gained 1 exploration point and 50 experience points!
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.  To the east and west is a squalid
+alley.  
+
+[Exits: north east south west]
+A young man clad in soiled clothes grins menacingly at passersby.
+
+n
+n
+<107hp 100m 94mv> 
+n
+You gained 1 exploration point and 50 experience points!
+Inside the Northern Gatehouse
+  This gatehouse house is built behind the gates of Sadrent, the oldest of
+the gates into Var Bandor.  Outside, to the north, a ferry leads across the
+Dantaron river, while to the south Sadrent road snakes its way into the
+city.  The gatehouse is ill-tended, leading in to the poorest section of the
+city, and consequently little attention is paid to the traffic of riff-raff
+and n'er-do-wells through these wrought iron gates.  
+
+[Exits: north south]
+A soldier of the Var Bandor Guard watches the gatehouse.
+The Var Bandor guard beckons you over.
+The Var Bandor guard whispers, 'Pssssst. Feythis. I might open or shut the gate for you for a couple
+of gold coins.'
+The Var Bandor guard winks suggestively at you.
+
+<107hp 100m 93mv> 
+You gained 1 exploration point and 50 experience points!
+Outside the Northern Gatehouse
+  The towering gates of Var Bandor rise to the south.  Huge, heavy wooden
+doors reinforced with iron bars, the gates are maintained rigorously.  The
+walls to the east and west are solid stone, with murder slits.  To the
+north, the river Dantaron splits into two mighty forks which flow by Var
+Bandor on either side.  
+
+[Exits: north east south west]
+
+<107hp 100m 92mv> 
+You gained 1 exploration point and 50 experience points!
+The Outskirts of Var Bandor
+  You stand outside the north wall of Var Bandor.  In the distance to the
+north, the Dantaron river splits into two forks which flow around Var Bandor
+on either side.  The ground here is muddy and level, with little grass
+growing. Behind you to the south, the stone wall of the city overshadows
+the outskirts. 
+
+[Exits: north east south west]
+
+<107hp 100m 91mv> 
+n
+You gained 1 exploration point and 50 experience points!
+A Ferry Station
+  The waters of the Dantaron River flow placidly to the north, a muddy
+brown barrier to merchants, carts, and foot travelers.  A small wooden dock
+has been erected at the water's edge, and several large ferries run by
+riverfolk carry passengers back and forth between the Arien Road and the
+outskirts of Var Bandor.
+
+[Exits: north south]
+The ferryman stands along the river, offering to transport travelers.
+
+n
+<107hp 100m 90mv> 
+n
+n
+You gained 1 exploration point and 50 experience points!
+The Dantaron River
+  The winding Dantaron River turns to the east, flowing by the city of Var
+Bandor.  The placid, muddy waters ripple gently as they run their course,
+eventually leading to Earendam eastward.  The stone walls of Var Bandor
+tower menacingly to the south, and north and south of the river ferry
+stations have been set up.  
+
+[Exits: north east south west]
+
+<107hp 100m 89mv> 
+You are promoted!!  You gain 18 hit points, 8 mana, and 16 movement.
+You gained 1 exploration point and 50 experience points!
+A Ferry Station
+  The waters of the Dantaron River flow placidly to the south, a muddy
+brown barrier to merchants, carts, and foot travelers.  A small wooden dock
+has been erected at the water's edge, and several large ferries run by
+riverfolk carry passengers back and forth between the Arien Road and the
+outskirts of Var Bandor.  
+A wooden sign stands at the edge of the docks.
+
+[Exits: north south]
+A ferryman stands on the docks, offering his services for gold.
+
+<107hp 100m 88mv> 
+n
+You gained 1 exploration point and 50 experience points!
+The Arien Plains
+  The broad stone strip known as the Arien Road turns to the south at this
+point, leading to the waters of the Dantaron River, and beyond to Var
+Bandor. The Arien Plains spread to the north and west, their unbroken
+monotony extending as far as eye can see.
+
+[Exits: north east south]
+An ethron ranger walks along stealthily.
+
+n
+n
+<107hp 100m 87mv> 
+n
+You gained 1 exploration point and 50 experience points!
+The Arien Road
+  The broad stone strip known as the Arien Road turns to the south at this
+point, leading to the waters of the Dantaron River, and beyond to Var
+Bandor.  The Arien Plains spread to the north and west, their unbroken
+monotony extending as far as eye can see.  
+
+[Exits: north east south west]
+
+n
+<107hp 100m 86mv> 
+You gained 1 exploration point and 50 experience points!
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south]
+
+<107hp 100m 85mv> 
+Alas, you cannot go that way.
+
+clear
+<107hp 100m 85mv> Buffer cleared.
+
+e
+<107hp 100m 85mv> You gained 1 exploration point and 50 experience points!
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south west]
+
+e
+e
+<107hp 100m 84mv> 
+e
+You gained 1 exploration point and 50 experience points!
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south west]
+
+e
+<107hp 100m 83mv> 
+e
+You gained 1 exploration point and 50 experience points!
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south west]
+
+e
+e
+<107hp 100m 82mv> 
+e
+You gained 1 exploration point and 50 experience points!
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south west]
+
+e
+e
+<107hp 100m 81mv> 
+e
+You gained 1 exploration point and 50 experience points!
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south west]
+
+e
+<107hp 100m 80mv> 
+e
+You gained 1 exploration point and 50 experience points!
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south west]
+
+<107hp 100m 79mv> 
+You gained 1 exploration point and 50 experience points!
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south west]
+
+<107hp 100m 78mv> 
+You gained 1 exploration point and 50 experience points!
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south west]
+
+<107hp 100m 77mv> 
+You gained 1 exploration point and 50 experience points!
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south west]
+
+<107hp 100m 76mv> 
+You gained 1 exploration point and 50 experience points!
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: north east south west]
+
+<107hp 100m 75mv> 
+You gained 1 exploration point and 50 experience points!
+The Arien Road
+  The broad strip of stone known to travelers as the Arien Road stretches
+into the distance to the east and west, curving south at this bend.  The
+flat monotony of the Plains of Arien are the only view to the north and
+south, the neatly laid stones of the road providing the only change.  
+
+[Exits: north east south west]
+
+<107hp 100m 74mv> 
+You gained 1 exploration point and 50 experience points!
+The Arien Road
+  The broad strip of stone known to travelers as the Arien Road stretches
+into the distance to the east and west.  The flat monotony of the Plains of
+Arien are the only view to the north and south, the neatly laid stones of
+the road providing the only change.  To the east, a wide dirt road
+intersects with the Arien Road.  
+
+[Exits: north east south west]
+
+<107hp 100m 73mv> 
+You gained 1 exploration point and 50 experience points!
+The Brintor Crossroads
+  The Arien Road stretches endlessly through the plains to the east and
+west.  From the north, the wide dirt track known as the Brintor Road cuts
+through the prairie, intersecting with the more widely traveled stone
+highway.  Deep ruts in the dirt mark the passage of wagon wheels to the
+north, toward the Brintor Mountains.  
+
+[Exits: north east south west]
+     A sun-bleached signpost stands in the grey soil.
+A dusty brown goose waddles about nervously.
+A man of Earendam walks along the road, heading for Var Bandor.
+
+clear
+<107hp 100m 72mv> 
+Buffer cleared.
+
+n
+<107hp 100m 72mv> 
+n
+You gained 1 exploration point and 50 experience points!
+The Brintor Road
+  The wide dirt way known as the Brintor Road leads north through the Arien
+Plains, gashing a brown line through the monotony of the prairies.  Deep ruts
+carved into the road indicate the passing of carts and caravans seeking
+trade with the people of the Brintor Mountains to the north.  South, the
+Arien Road leads between Earendam and Var Bandor.  
+
+[Exits: north east south west]
+
+n
+n
+<107hp 100m 71mv> 
+n
+You gained 1 exploration point and 50 experience points!
+The Brintor Road
+  The wide dirt way known as the Brintor Road leads north through the Arien
+Plains, gashing a brown line through the monotony of the praries.  Deep ruts
+carved into the road indicate the passing of carts and caravans seeking
+trade with the people of the Brintor Mountains to the north.  South, the
+Arien Road leads between Earendam and Var Bandor.
+
+[Exits: north south]
+
+<107hp 100m 70mv> 
+n
+You gained 1 exploration point and 50 experience points!
+The Brintor Road
+  The wide dirt way known as the Brintor Road leads north through the Arien
+Plains, gashing a brown line through the monotony of the praries.  Deep ruts
+carved into the road indicate the passing of carts and caravans seeking
+trade with the people of the Brintor Mountains to the north.  South, the
+Arien Road leads between Earendam and Var Bandor.
+
+[Exits: north south]
+
+n
+n
+<107hp 100m 69mv> 
+n
+You gained 1 exploration point and 50 experience points!
+The Brintor Road
+  The wide dirt way known as the Brintor Road leads north through the Arien
+Plains, gashing a brown line through the monotony of the praries.  Deep ruts
+carved into the road indicate the passing of carts and caravans seeking
+trade with the people of the Brintor Mountains to the north.  
+
+[Exits: north south]
+
+n
+n
+<107hp 100m 68mv> 
+You gained 1 exploration point and 50 experience points!
+The Brintor Road
+  The wide dirt way known as the Brintor Road leads north through the Arien
+Plains, gashing a brown line through the monotony of the praries.  Deep ruts
+carved into the road indicate the passing of carts and caravans seeking
+trade with the people of the Brintor Mountains to the north.   
+
+[Exits: north south]
+
+<107hp 100m 67mv> 
+You gained 1 exploration point and 50 experience points!
+The Brintor Road
+  The wide dirt way known as the Brintor Road leads north through the Arien
+Plains, gashing a brown line through the monotony of the praries.  Deep ruts
+carved into the road indicate the passing of carts and caravans seeking
+trade with the people of the Brintor Mountains to the north.
+
+[Exits: north south]
+
+<107hp 100m 66mv> 
+You gained 1 exploration point and 50 experience points!
+The Brintor Road
+  The wide dirt way known as the Brintor Road leads north through the Arien
+Plains, gashing a brown line through the monotony of the praries.  Deep ruts
+carved into the road indicate the passing of carts and caravans seeking
+trade with the people of the Brintor Mountains to the north.
+
+[Exits: north south]
+
+<107hp 100m 65mv> 
+You gained 1 exploration point and 50 experience points!
+The Brintor Road
+  The wide dirt way known as the Brintor Road leads north through the Arien
+Plains, gashing a brown line through the monotony of the praries.  Deep ruts
+carved into the road indicate the passing of carts and caravans seeking
+trade with the people of the Brintor Mountains to the north.
+
+[Exits: north south]
+
+<107hp 100m 64mv> 
+You gained 1 exploration point and 50 experience points!
+The Brintor Road
+  The wide dirt way known as the Brintor Road leads north through the Arien
+Plains, gashing a brown line through the monotony of the praries.  Deep ruts
+carved into the road indicate the passing of carts and caravans seeking
+trade with the people of the Brintor Mountains to the north.
+
+[Exits: north south]
+
+<107hp 100m 63mv> 
+You gained 1 exploration point and 50 experience points!
+The Brintor Road
+  The wide dirt way known as the Brintor Road leads north out of the Arien
+Plains, now giving way to the rolling foothills of the Brintor Mountains. 
+The low scrub bushes that populated the praries are now interspersed with
+struggling evergreens and patches of rough grass.  Far to the north you can
+make out the outline of the Brintor peaks against the sky. 
+
+[Exits: north south]
+
+<107hp 100m 62mv> 
+You gained 1 exploration point and 50 experience points!
+The Brintor Road
+  The wide dirt way known as the Brintor Road leads north out of the Arien
+Plains, now giving way to the rolling foothills of the Brintor Mountains. 
+The low scrub bushes that populated the praries are now interspersed with
+struggling evergreens and patches of rough grass.  Far to the north you can
+make out the outline of the Brintor peaks against the sky. 
+
+[Exits: south west]
+
+<107hp 100m 61mv> 
+w
+You gained 1 exploration point and 50 experience points!
+The Brintor Road
+  The wide dirt way known as the Brintor Road leads north out of the Arien
+Plains, now giving way to the rolling foothills of the Brintor Mountains. 
+The low scrub bushes that populated the praries are now interspersed with
+struggling evergreens and patches of rough grass.  Far to the north you can
+make out the outline of the Brintor peaks against the sky. 
+
+[Exits: north east]
+
+n
+n
+<107hp 100m 60mv> 
+e
+You gained 1 exploration point and 50 experience points!
+The Brintor Road
+  The wide dirt way known as the Brintor Road leads north out of the Arien
+Plains, now giving way to the rolling foothills of the Brintor Mountains. 
+The low scrub bushes that populated the praries are now interspersed with
+struggling evergreens and patches of rough grass.  Far to the north you can
+make out the outline of the Brintor peaks against the sky. 
+
+[Exits: north south]
+
+e
+<107hp 100m 59mv> 
+You gained 1 exploration point and 50 experience points!
+The Brintor Road
+  The wide dirt way known as the Brintor Road leads north out of the Arien
+Plains, now giving way to the rolling foothills of the Brintor Mountains. 
+The low scrub bushes that populated the praries are now interspersed with
+struggling evergreens and patches of rough grass.  Far to the north you can
+make out the outline of the Brintor peaks against the sky.  A small side
+path, formed by the recent passing of wagon wheels, leads toward a small
+cluster of hills to the east.  
+
+[Exits: north east south]
+
+<107hp 100m 58mv> 
+You gained 1 exploration point and 50 experience points!
+A Path Through the Foothills
+  A small path formed by the recent passing of wagon wheels leads through
+the foothills, sinking deeply into the earth of the foothills.  To the
+north, the trail bends toward a group of foothills rising above the others. 
+To the west, the trail returns toward the Brintor Road.  
+
+[Exits: east west]
+
+<107hp 100m 57mv> 
+n
+You gained 1 exploration point and 50 experience points!
+A Path Through the Foothills
+  A small path formed by the recent passing of wagon wheels leads through
+the foothills, sinking deeply into the earth of the foothills.  To the
+north, the trail bends toward a group of foothills rising above the others. 
+To the west, the trail returns toward the Brintor Road.  
+
+[Exits: north west]
+
+n
+n
+<107hp 100m 56mv> 
+You gained 1 exploration point and 50 experience points!
+A Path to a Hill
+  To the north, the path veers sharply toward a cluster of low foothills. 
+An opening in the face of the nearest hill leads into a cavern, and to the
+south, the lower foothills spread vastly.  Far in the distance, the peaks of
+the Brintor Mountains tower above the horizon, a grand spectacle in the
+background.  
+
+[Exits: north south]
+
+<107hp 100m 55mv> 
+You are promoted!!  You gain 18 hit points, 8 mana, and 16 movement.
+You gained 1 exploration point and 50 experience points!
+The Mouth of the Cave
+  A gap in the face of the hill opens into a large cave.  The walls are
+slick with condensed moisture and growths of fungus.  There is a musty air
+to the natural passage that leads north.  Many footprints mar the soft dirt
+of the cave floor, packing it into a regular path in some areas.  
+
+[Exits: north south]
+
+<107hp 100m 54mv> 
+You gained 1 exploration point and 50 experience points!
+A Damp Cave
+  The damp cave continues, leading into the darkness to the north, and
+toward the light of a cave mouth to the south.  The cave walls drip with
+moisture, and subterranean fungi grow in colored patches.  The dirt of the
+floor is packed by many footprints.  
+
+[Exits: north south]
+
+<107hp 100m 52mv> 
+n
+You gained 1 exploration point and 50 experience points!
+The Mining Camp
+  This stretch of cave is crowded with mining equipment, bedrolls for
+several men, provisions, and various clutter.  Apparently this is the
+temporary camp of a mining party.  Further evidence lies in a mine shaft
+sunk into the west wall of the cave, and three mine carts partially filled
+with ore.  The main cave continues north and south.  
+
+[Exits: north south west]
+     A mining cart carries recently mined ore.
+The leader of the mining expedition supervises his men's progress.
+A burly miner, hardened by years of work, digs tirelessly at the cave wall.
+A miner bends to his work, carving away at the cave wall.
+
+<107hp 100m 50mv> 
+n
+You gained 1 exploration point and 50 experience points!
+The Mining Camp
+  This stretch of cave is crowded with mining equipment, bedrolls for
+several men, provisions, and various clutter.  Apparently this is the
+temporary camp of a mining party.  Further evidence lies in mine shafts sunk
+into the east and west walls of the cave, and mine carts partially filled
+with ore.  The main cave continues north and south.  
+
+[Exits: north east south west]
+     A mining cart carries recently mined ore.
+A burly miner, hardened by years of work, digs tirelessly at the cave wall.
+A miner bends to his work, carving away at the cave wall.
+
+<107hp 100m 48mv> 
+n
+You gained 1 exploration point and 50 experience points!
+A Damp Cave
+  The damp cave winds its way north and south.  Moisture trickles down the
+stone walls, and patches of fungus grow in red and brown patterns.  The soft
+dirt of the cave floor is disturbed by occasional footprints.  
+
+[Exits: north south]
+
+<107hp 100m 46mv> 
+n
+You gained 1 exploration point and 50 experience points!
+A Damp Cave
+  The winding cave splits into a four-way intersection, with one branch
+twisting north and the other branches curving west, south, and east.  Water
+drips from the ceiling, forming puddles on the cave floor, and the soft
+earth that lines the cave floor to the south slowly fades to the north and
+west.  
+
+[Exits: north east south west]
+A black cave bat clings to the wall.
+
+w
+<107hp 100m 44mv> 
+w
+You gained 1 exploration point and 50 experience points!
+A Damp Cave
+  The damp cave floor is slick with the water dripping from the ceiling and
+walls. Fungus and slime molds contribute to the lack of friction underfoot.
+The air is stale and musty.  The damp cave twists east and west.
+
+[Exits: east west]
+A large white cave grub squirms sightlessly.
+
+w
+w
+<107hp 100m 42mv> 
+w
+w
+You gained 1 exploration point and 50 experience points!
+A Damp Cave Intersection
+  The walls and floor of this cave are slick with moisture and fungus.  The
+ceiling dips down at this point, so that a tall man must bend over to
+continue.  The cave runs east and west, with a side tunnel branching to the
+north.  
+
+[Exits: north east west]
+
+w
+w
+<114hp 106m 60mv> 
+You gained 1 exploration point and 50 experience points!
+A Damp Cave
+  The damp cave floor is slick with the water dripping from the ceiling and
+walls.  Fungus and slime molds contribute to the lack of friction underfoot.
+The air is stale and musty.  The damp cave twists to the east, and to the
+west it slopes upward into a small, dry cave.  
+
+[Exits: east west]
+
+<114hp 106m 58mv> 
+You gained 1 exploration point and 50 experience points!
+A Dry Cave Intersection
+  Four cave tunnels intersect in this small, dry cave.  To the north, a
+broad cave passage curves through the rock.  To the east, a small damp
+tunnel twists downward.  To the south and west are tunnels that emanate a
+faint glow.  
+
+[Exits: north east south west]
+A red cave beetle flexes its mandibles threateningly.
+A large black cave beetle scurries along.
+
+<114hp 106m 56mv> 
+You gained 1 exploration point and 50 experience points!
+A Luminous Cave
+  The walls and ceiling of this rounded cave are coated with multicolored
+fungi which give off a faint luminesence.  The red, green, and yellow
+glowing patches provide enough light to see without further aid.  Trails of
+slime criss-cross the walls, disturbing the patterns of colored light. 
+Littering the floor are dried pieces of chitin and shards of a thick shell.
+
+[Exits: east south west]
+A large black cave beetle scurries along.
+A large white cave grub squirms sightlessly.
+A large black cave beetle scurries along.
+A red cave beetle flexes its mandibles threateningly.
+A large black cave beetle scurries along.
+
+<114hp 106m 54mv> 
+n
+You gained 1 exploration point and 50 experience points!
+A Luminous Cave
+  The walls and ceiling of this rounded cave are coated with multicolored
+fungi which give off a faint luminesence.  The red, green, and yellow
+glowing patches provide enough light to see without further aid.  Trails of
+slime criss-cross the walls, disturbing the patterns of colored light. 
+Littering the floor are dried pieces of chitin and shards of a thick shell.
+
+[Exits: north east west]
+A red cave beetle flexes its mandibles threateningly.
+A large white cave snail crawls along the stone wall.
+
+<114hp 106m 52mv> 
+You gained 1 exploration point and 50 experience points!
+A Luminous Cave
+  The walls and ceiling of this rounded cave are coated with multicolored
+fungi which give off a faint luminesence.  The red, green, and yellow
+glowing patches provide enough light to see without further aid.  Trails of
+slime criss-cross the walls, disturbing the patterns of colored light. 
+Littering the floor are dried pieces of chitin and shards of a thick shell. 
+
+[Exits: east south west]
+A red cave beetle flexes its mandibles threateningly.
+A large white cave snail crawls along the stone wall.
+A red cave beetle flexes its mandibles threateningly.
+
+<114hp 106m 50mv> 
+You gained 1 exploration point and 50 experience points!
+A Side Tunnel
+  This side tunnel branches off from the luminous cave to the east.  The
+walls and ceiling are coated with a thick layer of slime mold, a
+russet-colored fungus that ripples slightly, as if sensing your presence. 
+The tunnel curves to the north, or leads back to the east.  
+
+[Exits: north east]
+
+<114hp 106m 48mv> 
+You gained 1 exploration point and 50 experience points!
+A Side Tunnel
+  The side tunnel comes to an abrupt end as the cave walls curve together,
+forming a small, rounded cave.  The walls are thinly coated with slime mold,
+and to the south, a greater amount of the fungus is visible.  
+
+[Exits: south]
+     The corpse of a deceased adventurer is here.
+A giant leech feeds on the decaying corpse.
+
+get all corpse
+<114hp 106m 46mv> 
+You get a felt hat from the corpse.
+You get a black leather belt from the corpse.
+You get a pair of leather gloves from the corpse.
+You get a pair of green boots from the corpse.
+You get a patched cloak from the corpse.
+
+s
+<114hp 106m 46mv> 
+A Side Tunnel
+  This side tunnel branches off from the luminous cave to the east.  The
+walls and ceiling are coated with a thick layer of slime mold, a
+russet-colored fungus that ripples slightly, as if sensing your presence. 
+The tunnel curves to the north, or leads back to the east.  
+
+[Exits: north east]
+
+e
+e
+<114hp 106m 44mv> 
+e
+A Luminous Cave
+  The walls and ceiling of this rounded cave are coated with multicolored
+fungi which give off a faint luminesence.  The red, green, and yellow
+glowing patches provide enough light to see without further aid.  Trails of
+slime criss-cross the walls, disturbing the patterns of colored light. 
+Littering the floor are dried pieces of chitin and shards of a thick shell. 
+
+[Exits: east south west]
+A red cave beetle flexes its mandibles threateningly.
+A large white cave snail crawls along the stone wall.
+A red cave beetle flexes its mandibles threateningly.
+
+e
+e
+<114hp 106m 42mv> 
+e
+A Luminous Cave
+  The walls and ceiling of this rounded cave are coated with multicolored
+fungi which give off a faint luminesence.  The red, green, and yellow
+glowing patches provide enough light to see without further aid.  Trails of
+slime criss-cross the walls, disturbing the patterns of colored light. 
+Littering the floor are dried pieces of chitin and shards of a thick shell.
+
+[Exits: north east west]
+A red cave beetle flexes its mandibles threateningly.
+A large white cave snail crawls along the stone wall.
+
+e
+<114hp 106m 40mv> 
+A Luminous Cave
+  The walls and ceiling of this rounded cave are coated with multicolored
+fungi which give off a faint luminesence.  The red, green, and yellow
+glowing patches provide enough light to see without further aid.  Trails of
+slime criss-cross the walls, disturbing the patterns of colored light. 
+Littering the floor are dried pieces of chitin and shards of a thick shell.
+
+[Exits: east south west]
+A large black cave beetle scurries along.
+A large white cave grub squirms sightlessly.
+A large black cave beetle scurries along.
+A red cave beetle flexes its mandibles threateningly.
+A large black cave beetle scurries along.
+
+e
+<114hp 106m 38mv> 
+A Dry Cave Intersection
+  Four cave tunnels intersect in this small, dry cave.  To the north, a
+broad cave passage curves through the rock.  To the east, a small damp
+tunnel twists downward.  To the south and west are tunnels that emanate a
+faint glow.  
+
+[Exits: north east south west]
+A red cave beetle flexes its mandibles threateningly.
+A large black cave beetle scurries along.
+
+s
+<114hp 106m 36mv> 
+s
+A Damp Cave
+  The damp cave floor is slick with the water dripping from the ceiling and
+walls.  Fungus and slime molds contribute to the lack of friction underfoot.
+The air is stale and musty.  The damp cave twists to the east, and to the
+west it slopes upward into a small, dry cave.  
+
+[Exits: east west]
+
+s
+s
+<114hp 106m 34mv> 
+A Damp Cave Intersection
+  The walls and floor of this cave are slick with moisture and fungus.  The
+ceiling dips down at this point, so that a tall man must bend over to
+continue.  The cave runs east and west, with a side tunnel branching to the
+north.  
+
+[Exits: north east west]
+
+<114hp 106m 32mv> 
+A Damp Cave
+  The damp cave floor is slick with the water dripping from the ceiling and
+walls. Fungus and slime molds contribute to the lack of friction underfoot.
+The air is stale and musty.  The damp cave twists east and west.
+
+[Exits: east west]
+A large white cave grub squirms sightlessly.
+
+<114hp 106m 30mv> 
+A Damp Cave
+  The winding cave splits into a four-way intersection, with one branch
+twisting north and the other branches curving west, south, and east.  Water
+drips from the ceiling, forming puddles on the cave floor, and the soft
+earth that lines the cave floor to the south slowly fades to the north and
+west.  
+
+[Exits: north east south west]
+A black cave bat clings to the wall.
+
+<114hp 106m 28mv> 
+A Damp Cave
+  The damp cave winds its way north and south.  Moisture trickles down the
+stone walls, and patches of fungus grow in red and brown patterns.  The soft
+dirt of the cave floor is disturbed by occasional footprints.  
+
+[Exits: north south]
+
+<114hp 106m 26mv> 
+The Mining Camp
+  This stretch of cave is crowded with mining equipment, bedrolls for
+several men, provisions, and various clutter.  Apparently this is the
+temporary camp of a mining party.  Further evidence lies in mine shafts sunk
+into the east and west walls of the cave, and mine carts partially filled
+with ore.  The main cave continues north and south.  
+
+[Exits: north east south west]
+     A mining cart carries recently mined ore.
+A burly miner, hardened by years of work, digs tirelessly at the cave wall.
+A miner bends to his work, carving away at the cave wall.
+
+<114hp 106m 24mv> 
+The Mining Camp
+  This stretch of cave is crowded with mining equipment, bedrolls for
+several men, provisions, and various clutter.  Apparently this is the
+temporary camp of a mining party.  Further evidence lies in a mine shaft
+sunk into the west wall of the cave, and three mine carts partially filled
+with ore.  The main cave continues north and south.  
+
+[Exits: north south west]
+     A mining cart carries recently mined ore.
+The leader of the mining expedition supervises his men's progress.
+A burly miner, hardened by years of work, digs tirelessly at the cave wall.
+A miner bends to his work, carving away at the cave wall.
+
+<114hp 106m 22mv> 
+A Damp Cave
+  The damp cave continues, leading into the darkness to the north, and
+toward the light of a cave mouth to the south.  The cave walls drip with
+moisture, and subterranean fungi grow in colored patches.  The dirt of the
+floor is packed by many footprints.  
+
+[Exits: north south]
+
+<114hp 106m 20mv> 
+s
+s
+s
+The Mouth of the Cave
+  A gap in the face of the hill opens into a large cave.  The walls are
+slick with condensed moisture and growths of fungus.  There is a musty air
+to the natural passage that leads north.  Many footprints mar the soft dirt
+of the cave floor, packing it into a regular path in some areas.  
+
+[Exits: north south]
+
+<114hp 106m 18mv> 
+whe
+A Path to a Hill
+  To the north, the path veers sharply toward a cluster of low foothills. 
+An opening in the face of the nearest hill leads into a cavern, and to the
+south, the lower foothills spread vastly.  Far in the distance, the peaks of
+the Brintor Mountains tower above the horizon, a grand spectacle in the
+background.  
+
+[Exits: north south]
+
+<114hp 106m 17mv> 
+who
+A Path Through the Foothills
+  A small path formed by the recent passing of wagon wheels leads through
+the foothills, sinking deeply into the earth of the foothills.  To the
+north, the trail bends toward a group of foothills rising above the others. 
+To the west, the trail returns toward the Brintor Road.  
+
+[Exits: north west]
+
+s
+<114hp 106m 16mv> 
+s
+Notables in Avendar (currently in The Brintor Road):
+  Feythis                    A Path Through the Foothills      [present]    
+
+Total found: 1
+
+s
+<114hp 106m 16mv> [ 3 Thi] Feythis du'This the Filcher
+
+Players found: 1
+
+<114hp 106m 16mv> Alas, you cannot go that way.
+
+whe
+<114hp 106m 16mv> Alas, you cannot go that way.
+
+sk
+<114hp 106m 16mv> Alas, you cannot go that way.
+
+<114hp 106m 16mv> Notables in Avendar (currently in The Brintor Road):
+  Feythis                    A Path Through the Foothills      [present]    
+
+Total found: 1
+
+<114hp 106m 16mv> 
+Level  1: dagger              75%        sword                1%        
+          whip                 1%        backstab             1%        
+          hand to hand         1%        steal                1%        
+          recover              1%        
+Level  2: peek                 1%        
+Level  3: dirt kicking         1%        
+Level  4: dual wield         n/a      dodge              n/a      
+Level  5: pick lock          n/a      
+Level  6: obscure evidence   n/a      
+Level  7: kick               n/a      
+Level  8: listen             n/a      detect theft       n/a      
+Level  9: enhanced damage    n/a      
+Level 10: detect hidden      n/a      second attack      n/a      
+Level 11: trip               n/a      
+Level 12: haggle             n/a      tumbling           n/a      
+Level 13: fast healing       n/a      plant              n/a      
+Level 14: conceal            n/a      
+Level 15: cower              n/a      
+Level 16: relock             n/a      
+Level 17: throw              n/a      
+Level 18: dash               n/a      
+[Hit Return to continue]
+
+Level 19: disarm             n/a      flourish           n/a      
+Level 20: third attack       n/a      waylay             n/a      
+Level 21: trap               n/a      lunge              n/a      
+Level 22: meditation         n/a      
+Level 23: bargain            n/a      
+Level 24: retreat            n/a      distract           n/a      
+Level 25: slice              n/a      
+Level 26: sleeve             n/a      
+Level 27: loot               n/a      
+Level 29: opportunism        n/a      
+Level 30: circle stab        n/a      
+Level 31: scramble           n/a      
+Level 32: cutpurse           n/a      
+Level 34: final strike       n/a      
+Level 36: defensive roll     n/a      
+Level 38: dual backstab      n/a      
+Level 40: shadow mastery     n/a      
+
+<114hp 106m 16mv> 
+scroll 0
+Paging disabled.
+
+<114hp 106m 16mv> 
+sk
+
+Level  1: dagger              75%        sword                1%        
+          whip                 1%        backstab             1%        
+          hand to hand         1%        steal                1%        
+          recover              1%        
+Level  2: peek                 1%        
+Level  3: dirt kicking         1%        
+Level  4: dual wield         n/a      dodge              n/a      
+Level  5: pick lock          n/a      
+Level  6: obscure evidence   n/a      
+Level  7: kick               n/a      
+Level  8: listen             n/a      detect theft       n/a      
+Level  9: enhanced damage    n/a      
+Level 10: detect hidden      n/a      second attack      n/a      
+Level 11: trip               n/a      
+Level 12: haggle             n/a      tumbling           n/a      
+Level 13: fast healing       n/a      plant              n/a      
+Level 14: conceal            n/a      
+Level 15: cower              n/a      
+Level 16: relock             n/a      
+Level 17: throw              n/a      
+Level 18: dash               n/a      
+Level 19: disarm             n/a      flourish           n/a      
+Level 20: third attack       n/a      waylay             n/a      
+Level 21: trap               n/a      lunge              n/a      
+Level 22: meditation         n/a      
+Level 23: bargain            n/a      
+Level 24: retreat            n/a      distract           n/a      
+Level 25: slice              n/a      
+Level 26: sleeve             n/a      
+Level 27: loot               n/a      
+Level 29: opportunism        n/a      
+Level 30: circle stab        n/a      
+Level 31: scramble           n/a      
+Level 32: cutpurse           n/a      
+Level 34: final strike       n/a      
+Level 36: defensive roll     n/a      
+Level 38: dual backstab      n/a      
+Level 40: shadow mastery     n/a      
+
+<114hp 106m 16mv> 
+l
+A Path Through the Foothills
+  A small path formed by the recent passing of wagon wheels leads through
+the foothills, sinking deeply into the earth of the foothills.  To the
+north, the trail bends toward a group of foothills rising above the others. 
+To the west, the trail returns toward the Brintor Road.  
+
+[Exits: north west]
+
+<114hp 106m 16mv> 
+whe
+Notables in Avendar (currently in The Brintor Road):
+  Feythis                    A Path Through the Foothills      [present]    
+
+Total found: 1
+
+<114hp 106m 16mv> 
+in
+You are carrying:
+     a patched cloak
+     a pair of green boots
+     a pair of leather gloves
+     a black leather belt
+     a felt hat
+     a canoe
+
+<114hp 106m 16mv> 
+wear all
+You wear a patched cloak around your neck.
+
+<114hp 106m 16mv> 
+eq
+You are using:
+<worn on finger>    (Glowing) a gleaming gold ring
+<worn on finger>    [nothing]
+<worn around neck>  a patched cloak
+<worn around neck>  a patched cloak
+<worn on torso>     a doublet of meshed steel
+<worn on head>      a felt hat
+<worn on legs>      a skirt of meshed steel
+<worn on feet>      a pair of green boots
+<worn on hands>     a pair of leather gloves
+<worn on arms>      some sleeves of meshed steel
+<worn as shield>    [nothing]
+<worn about body>   a foul-smelling bear skin
+<worn about waist>  a black leather belt
+<worn around wrist> [nothing]
+<worn around wrist> [nothing]
+<wielded>           [nothing]
+<dual wielded>      [nothing]
+
+<114hp 106m 16mv> 
+hiss
+You give a menacing hiss.
+
+<120hp 112m 36mv> 
+grin
+You grin broadly.
+
+st
+<120hp 112m 36mv> 
+s
+You are already standing.
+
+w
+<120hp 112m 36mv> Alas, you cannot go that way.
+
+<120hp 112m 36mv> A Path Through the Foothills
+  A small path formed by the recent passing of wagon wheels leads through
+the foothills, sinking deeply into the earth of the foothills.  To the
+north, the trail bends toward a group of foothills rising above the others. 
+To the west, the trail returns toward the Brintor Road.  
+
+[Exits: east west]
+
+<120hp 112m 35mv> 
+w
+The Brintor Road
+  The wide dirt way known as the Brintor Road leads north out of the Arien
+Plains, now giving way to the rolling foothills of the Brintor Mountains. 
+The low scrub bushes that populated the praries are now interspersed with
+struggling evergreens and patches of rough grass.  Far to the north you can
+make out the outline of the Brintor peaks against the sky.  A small side
+path, formed by the recent passing of wagon wheels, leads toward a small
+cluster of hills to the east.  
+
+[Exits: north east south]
+
+w
+<120hp 112m 34mv> 
+Alas, you cannot go that way.
+
+s
+s
+<120hp 112m 34mv> The Brintor Road
+  The wide dirt way known as the Brintor Road leads north out of the Arien
+Plains, now giving way to the rolling foothills of the Brintor Mountains. 
+The low scrub bushes that populated the praries are now interspersed with
+struggling evergreens and patches of rough grass.  Far to the north you can
+make out the outline of the Brintor peaks against the sky. 
+
+[Exits: north south]
+
+<120hp 112m 33mv> 
+The Brintor Road
+  The wide dirt way known as the Brintor Road leads north out of the Arien
+Plains, now giving way to the rolling foothills of the Brintor Mountains. 
+The low scrub bushes that populated the praries are now interspersed with
+struggling evergreens and patches of rough grass.  Far to the north you can
+make out the outline of the Brintor peaks against the sky. 
+
+[Exits: north east]
+
+<120hp 112m 32mv> 
+e
+The Brintor Road
+  The wide dirt way known as the Brintor Road leads north out of the Arien
+Plains, now giving way to the rolling foothills of the Brintor Mountains. 
+The low scrub bushes that populated the praries are now interspersed with
+struggling evergreens and patches of rough grass.  Far to the north you can
+make out the outline of the Brintor peaks against the sky. 
+
+[Exits: south west]
+
+s
+s
+<120hp 112m 31mv> 
+s
+The Brintor Road
+  The wide dirt way known as the Brintor Road leads north out of the Arien
+Plains, now giving way to the rolling foothills of the Brintor Mountains. 
+The low scrub bushes that populated the praries are now interspersed with
+struggling evergreens and patches of rough grass.  Far to the north you can
+make out the outline of the Brintor peaks against the sky. 
+
+[Exits: north south]
+
+s
+<120hp 112m 30mv> 
+The Brintor Road
+  The wide dirt way known as the Brintor Road leads north through the Arien
+Plains, gashing a brown line through the monotony of the praries.  Deep ruts
+carved into the road indicate the passing of carts and caravans seeking
+trade with the people of the Brintor Mountains to the north.
+
+[Exits: north south]
+
+<120hp 112m 29mv> 
+The Brintor Road
+  The wide dirt way known as the Brintor Road leads north through the Arien
+Plains, gashing a brown line through the monotony of the praries.  Deep ruts
+carved into the road indicate the passing of carts and caravans seeking
+trade with the people of the Brintor Mountains to the north.
+
+[Exits: north south]
+
+<120hp 112m 28mv> 
+The Brintor Road
+  The wide dirt way known as the Brintor Road leads north through the Arien
+Plains, gashing a brown line through the monotony of the praries.  Deep ruts
+carved into the road indicate the passing of carts and caravans seeking
+trade with the people of the Brintor Mountains to the north.
+
+[Exits: north south]
+
+<120hp 112m 27mv> 
+s
+s
+The Brintor Road
+  The wide dirt way known as the Brintor Road leads north through the Arien
+Plains, gashing a brown line through the monotony of the praries.  Deep ruts
+carved into the road indicate the passing of carts and caravans seeking
+trade with the people of the Brintor Mountains to the north.
+
+[Exits: north south]
+
+s
+<120hp 112m 26mv> 
+The Brintor Road
+  The wide dirt way known as the Brintor Road leads north through the Arien
+Plains, gashing a brown line through the monotony of the praries.  Deep ruts
+carved into the road indicate the passing of carts and caravans seeking
+trade with the people of the Brintor Mountains to the north.   
+
+[Exits: north south]
+
+<120hp 112m 25mv> 
+The Brintor Road
+  The wide dirt way known as the Brintor Road leads north through the Arien
+Plains, gashing a brown line through the monotony of the praries.  Deep ruts
+carved into the road indicate the passing of carts and caravans seeking
+trade with the people of the Brintor Mountains to the north.  
+
+[Exits: north south]
+
+<120hp 112m 24mv> 
+s
+The Brintor Road
+  The wide dirt way known as the Brintor Road leads north through the Arien
+Plains, gashing a brown line through the monotony of the praries.  Deep ruts
+carved into the road indicate the passing of carts and caravans seeking
+trade with the people of the Brintor Mountains to the north.  South, the
+Arien Road leads between Earendam and Var Bandor.
+
+[Exits: north south]
+
+s
+<120hp 112m 23mv> 
+s
+The Brintor Road
+  The wide dirt way known as the Brintor Road leads north through the Arien
+Plains, gashing a brown line through the monotony of the praries.  Deep ruts
+carved into the road indicate the passing of carts and caravans seeking
+trade with the people of the Brintor Mountains to the north.  South, the
+Arien Road leads between Earendam and Var Bandor.
+
+[Exits: north south]
+
+s
+<120hp 112m 22mv> 
+The Brintor Road
+  The wide dirt way known as the Brintor Road leads north through the Arien
+Plains, gashing a brown line through the monotony of the prairies.  Deep ruts
+carved into the road indicate the passing of carts and caravans seeking
+trade with the people of the Brintor Mountains to the north.  South, the
+Arien Road leads between Earendam and Var Bandor.  
+
+[Exits: north east south west]
+
+<120hp 112m 21mv> 
+The Brintor Crossroads
+  The Arien Road stretches endlessly through the plains to the east and
+west.  From the north, the wide dirt track known as the Brintor Road cuts
+through the prairie, intersecting with the more widely traveled stone
+highway.  Deep ruts in the dirt mark the passage of wagon wheels to the
+north, toward the Brintor Mountains.  
+
+[Exits: north east south west]
+     A sun-bleached signpost stands in the grey soil.
+A dusty brown goose waddles about nervously.
+A man of Earendam walks along the road, heading for Var Bandor.
+
+<120hp 112m 20mv> 
+e
+e
+You gained 1 exploration point and 50 experience points!
+The Arien Road
+  The broad strip of stone known to travelers as the Arien Road stretches
+into the distance to the east and west.  The flat monotony of the Plains of
+Arien are the only view to the north and south, the neatly laid stones of
+the road providing the only change.  To the west, a dirt road intersects
+with the Arien Road.  
+
+[Exits: north east south west]
+
+e
+<120hp 112m 19mv> 
+You gained 1 exploration point and 50 experience points!
+The Arien Road
+  The broad strip of stone known to travelers as the Arien Road stretches
+into the distance to the east and west.  The flat monotony of the Plains of
+Arien are the only view to the north and south, the neatly laid stones of
+the road providing the only change.  
+
+[Exits: north east south west]
+A man of Earendam walks along the road, heading for Var Bandor.
+
+e
+<120hp 112m 18mv> 
+e
+You gained 1 exploration point and 50 experience points!
+The Arien Road
+  The broad strip of stone known to travelers as the Arien Road stretches
+into the distance to the east and west.  The flat monotony of the Plains of
+Arien are the only view to the north and south, the neatly laid stones of
+the road providing the only change.
+
+[Exits: north east south west]
+A burly guard walks along, protecting the caravan.
+A burly guard walks along, protecting the caravan.
+A merchant of Var Bandor travels with his caravan.
+A merchant of Var Bandor travels with his caravan.
+A merchant of Var Bandor travels with his caravan.
+
+e
+e
+<120hp 112m 17mv> 
+e
+You gained 1 exploration point and 50 experience points!
+The Arien Road
+  The broad strip of stone known to travelers as the Arien Road stretches
+into the distance to the east and west.  The flat monotony of the Plains of
+Arien are the only view to the north and south, the neatly laid stones of
+the road providing the only change.
+
+[Exits: north east south west]
+A burly guard walks along, protecting the caravan.
+A burly guard walks along, protecting the caravan.
+A merchant of Var Bandor travels with his caravan.
+A merchant of Var Bandor travels with his caravan.
+A merchant of Var Bandor travels with his caravan.
+
+<120hp 112m 16mv> 
+You gained 1 exploration point and 50 experience points!
+The Arien Road
+  The broad strip of stone known to travelers as the Arien Road stretches
+into the distance to the east and west.  The flat monotony of the Plains of
+Arien are the only view to the north and south, the neatly laid stones of
+the road providing the only change.  
+
+[Exits: north east south west]
+A burly guard walks along, protecting the caravan.
+A burly guard walks along, protecting the caravan.
+A merchant of Var Bandor travels with his caravan.
+A merchant of Var Bandor travels with his caravan.
+
+e
+<120hp 112m 15mv> 
+e
+You gained 1 exploration point and 50 experience points!
+The Arien Road
+  The broad strip of stones known to travelers as the Arien Road stretches
+into the distance to the west.  The flat monotony of the Plains of Arien are
+the only view to the north and south.  Far to the east, the gray walls of
+the city Earendam rise, barely visible in the distance.
+
+[Exits: north east south west]
+A man of Earendam walks along the road, heading for Var Bandor.
+
+e
+e
+<120hp 112m 14mv> 
+You gained 1 exploration point and 50 experience points!
+The Arien Road
+  The broad strip of stones known to travelers as the Arien Road stretches
+into the distance to the west, curving slightly to the north at this bend. 
+The flat monotony of the Plains of Arien are the only view to the north and
+south.  Far to the east, the gray walls of the city Earendam rise, barely
+visible in the distance.  
+
+[Exits: north east south west]
+A woman trudges along the road to Earendam.
+
+<120hp 112m 13mv> 
+You gained 1 exploration point and 50 experience points!
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the north, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: north east south west]
+
+<120hp 112m 12mv> 
+e
+You gained 1 exploration point and 50 experience points!
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the north, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: north east west]
+
+e
+e
+e
+<120hp 112m 11mv> 
+You gained 1 exploration point and 50 experience points!
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the north, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: north east west]
+
+<120hp 112m 10mv> 
+You gained 1 exploration point and 50 experience points!
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the north, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: north east west]
+
+<120hp 112m 9mv> 
+You gained 1 exploration point and 50 experience points!
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the north, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: north east west]
+
+<120hp 112m 8mv> 
+You gained 1 exploration point and 50 experience points!
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the north, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: north east west]
+
+<120hp 112m 7mv> 
+You gained 1 exploration point and 50 experience points!
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the north, the Arien Road
+travels between Var Bandor and Earendam.  Immediately east, the docks of
+Earendam bustle with activity.  
+
+[Exits: north east west]
+
+<120hp 112m 6mv> 
+You gained 1 exploration point and 50 experience points!
+The Earendam Docks
+  A wide wooden docks has been erected just to the north of the River
+Dantaron, flowing sluggishly to the south under the city wall.  The docks
+are clear of clutter, incoming cargo being regulated closely and required to
+move immediately.  An occasional raft or barge can be seen on the river,
+arriving or leaving the city.  Several ladders and wooden walkways lead
+downward to the water of the river itself.  
+
+[Exits: north east south west down]
+     A pile of worn fishing nets sits at the edge of the dock.
+A dockhand is here working tirelessly.
+A dockhand is here working tirelessly.
+A dockhand is here working tirelessly.
+
+<120hp 112m 5mv> 
+You gained 1 exploration point and 50 experience points!
+The Earendam Docks
+  A wide wooden docks has been erected just to the north of the River
+Dantaron, flowing sluggishly to the south under the city wall.  The docks
+are clear of clutter, incoming cargo being regulated closely and required to
+move immediately.  An occasional raft or barge can be seen on the river,
+arriving or leaving the city.  To the east, the granite walls of Earendam
+tower above the dock area.  Several ladders and wooden walkways lead
+downward to the water of the river itself.  
+
+[Exits: north south west down]
+     A section of the stone wall is discolored with grime.
+A dockhand is here working tirelessly.
+A dockhand is here working tirelessly.
+A dockhand is here working tirelessly.
+
+clear
+<120hp 112m 4mv> Buffer cleared.
+
+<120hp 112m 4mv> 
+e
+e
+Alas, you cannot go that way.
+
+e
+<120hp 112m 4mv> Alas, you cannot go that way.
+
+<120hp 112m 4mv> Alas, you cannot go that way.
+
+<120hp 112m 4mv> 
+n
+You gained 1 exploration point and 50 experience points!
+The Arien Road
+  Outside the western gates of Earendam, the Arien Road stretches into the
+distance to the west.  Leading through the Plains of Arien to Var Bandor,
+the broad strip of stones accomodates a great number of caravans, travelers
+and merchants.  
+
+[Exits: north east south west]
+
+<120hp 112m 3mv> 
+e
+e
+You gained 1 exploration point and 50 experience points!
+The West Gate of Earendam
+  Earendam's west gates are made of sturdy iron, built between two tall
+stone pillars.  Reinforcing these gates are several stout bars of iron,
+treated to preserve them from wear.  Outside the gates, the Arien Road heads
+west, cutting across the plains which give it its namesake.  Inside, the
+Arien Plaza opens, marking the beginning of Earendam proper.  
+
+[Exits: east west]
+An Earendam gate guard stands at attention.
+An Earendam gate guard stands at attention.
+
+<120hp 112m 2mv> 
+You gained 1 exploration point and 50 experience points!
+The Western Arien Plaza
+  The Arien Plaza comes to an end here as it approaches the western gate of
+Earendam.  Travelers and merchants head out through this gate onto the
+Arien road, bringing goods to and from the lands to the west.  Set in the
+northwestern portion of the city, this plaza is a square ringed on all
+sides by the buildings and walls of New Earendam.  Paved with cobblestones
+long worn smooth by the feet of travelers entering the city from the Arien
+road, the center of the square lies eastward, where an ornate fountain
+serves as a resting place for the main body of the populace in the immediate
+area.  Shops line the northern edge of the square, while southward the plaza
+eventually terminates in a stone wall.  
+
+[Exits: north east south west]
+A hulking alatharya porter carries goods for a merchant.
+A merchant from Var Bandor strolls through the plaza.
+
+<120hp 112m 1mv> 
+whe
+Notables in Avendar (currently in Earendam):
+  Feythis                    The Western Arien Plaza           [present]    
+
+Total found: 1
+
+w
+<120hp 112m 1mv> The West Gate of Earendam
+  Earendam's west gates are made of sturdy iron, built between two tall
+stone pillars.  Reinforcing these gates are several stout bars of iron,
+treated to preserve them from wear.  Outside the gates, the Arien Road heads
+west, cutting across the plains which give it its namesake.  Inside, the
+Arien Plaza opens, marking the beginning of Earendam proper.  
+
+[Exits: east west]
+An Earendam gate guard stands at attention.
+An Earendam gate guard stands at attention.
+
+<120hp 112m 0mv> 
+w
+You are too exhausted.
+
+n
+n
+<120hp 112m 0mv> Alas, you cannot go that way.
+
+n
+<120hp 112m 0mv> Alas, you cannot go that way.
+
+n
+<120hp 112m 0mv> Alas, you cannot go that way.
+
+<120hp 112m 0mv> Alas, you cannot go that way.
+
+<120hp 112m 0mv> 
+slee
+You go to sleep.
+
+whe
+<120hp 112m 0mv> 
+In your dreams, or what?
+
+who
+<120hp 112m 0mv> [ 3 Thi] Feythis du'This the Filcher
+
+Players found: 1
+Your sleep grows deep and truly restful.
+
+<132hp 116m 44mv> 
+gr
+Feythis's group:
+[ 3 Thi] Feythis           132/ 150 hp  116/ 116 mana   44/ 157 mv 
+
+<132hp 116m 44mv> 
+st
+You wake and stand up.
+
+l
+<132hp 116m 44mv> 
+w
+The West Gate of Earendam
+  Earendam's west gates are made of sturdy iron, built between two tall
+stone pillars.  Reinforcing these gates are several stout bars of iron,
+treated to preserve them from wear.  Outside the gates, the Arien Road heads
+west, cutting across the plains which give it its namesake.  Inside, the
+Arien Plaza opens, marking the beginning of Earendam proper.  
+
+[Exits: east west]
+An Earendam gate guard stands at attention.
+An Earendam gate guard stands at attention.
+
+<132hp 116m 44mv> The Arien Road
+  Outside the western gates of Earendam, the Arien Road stretches into the
+distance to the west.  Leading through the Plains of Arien to Var Bandor,
+the broad strip of stones accomodates a great number of caravans, travelers
+and merchants.  
+
+[Exits: north east south west]
+
+<132hp 116m 43mv> 
+w
+You gained 1 exploration point and 50 experience points!
+The Arien Road
+  Outside the western gates of Earendam, the Arien Road stretches into the
+distance to the west.  Leading through the Plains of Arien to Var Bandor,
+the broad strip of stones accomodates a great number of caravans, travelers
+and merchants.
+
+[Exits: north east south west]
+
+n
+<132hp 116m 42mv> 
+n
+You gained 1 exploration point and 50 experience points!
+Western Outskirts of Earendam
+  Beyond the bare ground of the city walls begin the Grasslands of
+Earendam, a vast sea of green vegetation that stirs and whispers softly in
+the breeze.  The long Earendam grasses grow to your waist, and so densely as
+to slow progress through the area.  The walls of the city Earendam are
+visible nearby to the east.  To the south the Arien Road cuts through the
+grass.  
+
+[Exits: north east south west]
+
+n
+<132hp 116m 41mv> 
+n
+You gained 1 exploration point and 50 experience points!
+Western Outskirts of Earendam
+  Beyond the bare ground of the city walls begin the Grasslands of
+Earendam, a vast sea of green vegetation that stirs and whispers softly in
+the breeze.  The long Earendam grasses grow to your waist, and so densely as
+to slow progress through the area.  The walls of the city Earendam are
+visible nearby to the east.
+
+[Exits: north east south]
+
+n
+<132hp 116m 40mv> 
+You gained 1 exploration point and 50 experience points!
+Western Outskirts of Earendam
+  Beyond the bare ground of the city walls begin the Grasslands of
+Earendam, a vast sea of green vegetation that stirs and whispers softly in
+the breeze.  The long Earendam grasses grow to your waist, and so densely as
+to slow progress through the area.  The walls of the city Earendam are
+visible nearby to the east.
+
+[Exits: north east south]
+
+<132hp 116m 39mv> 
+You gained 1 exploration point and 50 experience points!
+Western Outskirts of Earendam
+  Beyond the bare ground of the city walls begin the Grasslands of
+Earendam, a vast sea of green vegetation that stirs and whispers softly in
+the breeze.  The long Earendam grasses grow to your waist, and so densely as
+to slow progress through the area.  The walls of the city Earendam are
+visible nearby to the east.
+
+[Exits: north east south]
+
+e
+<132hp 116m 38mv> 
+e
+You are promoted!!  You gain 18 hit points, 8 mana, and 16 movement.
+You gained 1 exploration point and 50 experience points!
+Western Outskirts of Earendam
+  Beyond the bare ground of the city walls begin the Grasslands of
+Earendam, a vast sea of green vegetation that stirs and whispers softly in
+the breeze.  The long Earendam grasses grow to your waist, and so densely as
+to slow progress through the area.  The walls of the city Earendam are
+visible nearby to the east.
+
+[Exits: north east south]
+
+e
+<132hp 116m 37mv> 
+e
+You gained 1 exploration point and 50 experience points!
+Outside the Northern Wall of Earendam
+  The granite walls of the city Earendam tower before you to the southeast,
+their blocks well worn by the elements.  Notches are carved near the tops of
+the battlements for archers to peer out at the plains to the north of the
+city.  Beyond the walls, the Grasslands of Earendam spread like a green sea.
+
+[Exits: north east south west]
+     A section of the stone wall is discolored with grime.
+
+e
+e
+<132hp 116m 36mv> 
+You gained 1 exploration point and 50 experience points!
+Outside the Northern Wall of Earendam
+  The granite walls of the city Earendam tower before you to the south,
+their blocks well worn by the elements.  Notches are carved near the tops of
+the battlements for archers to peer out at the plains to the north of the
+city. Beyond the walls, the Grasslands of Earendam spread like a green sea.
+
+[Exits: north east west]
+     A section of the stone wall is discolored with grime.
+
+<132hp 116m 35mv> 
+You gained 1 exploration point and 50 experience points!
+Outside the Northern Wall of Earendam
+  The granite walls of the city Earendam tower before you to the south,
+their blocks well worn by the elements.  Notches are carved near the tops of
+the battlements for archers to peer out at the plains to the north of the
+city. Beyond the walls, the Grasslands of Earendam spread like a green sea.
+
+[Exits: north east west]
+     A simple scaffold is erected next to the wall here.
+     A section of the stone wall is discolored with grime.
+A foreman stands here, wiping his brow.
+The foreman hmphs at you.
+
+<132hp 116m 34mv> 
+You gained 1 exploration point and 50 experience points!
+Outside the Northern Wall of Earendam
+  The granite walls of the city Earendam tower before you to the south,
+their blocks well worn by the elements.  Notches are carved near the tops of
+the battlements for archers to peer out at the plains to the north of the
+city.  Beyond the walls, the Grasslands of Earendam spread like a green sea.
+
+[Exits: north east west]
+     A section of the stone wall is discolored with grime.
+
+<132hp 116m 33mv> 
+You gained 1 exploration point and 50 experience points!
+Outside the Northern Wall of Earendam
+  The granite walls of the city Earendam tower before you to the south,
+their blocks well worn by the elements.  Notches are carved near the tops of
+the battlements for archers to peer out at the plains to the north of the
+city.  Beyond the walls, the Grasslands of Earendam spread like a green sea.
+
+[Exits: north east west]
+     A section of the stone wall is discolored with grime.
+A small child laughs and plays in the tall grasses.
+
+<132hp 116m 32mv> 
+You gained 1 exploration point and 50 experience points!
+Outside the Northern Wall of Earendam
+  The granite walls of the city Earendam tower before you to the south,
+their blocks well worn by the elements.  Notches are carved near the tops of
+the battlements for archers to peer out at the plains to the north of the
+city. Beyond the walls, the Grasslands of Earendam spread like a green sea.
+
+[Exits: north east west]
+     A section of the stone wall is discolored with grime.
+
+s
+<132hp 116m 31mv> 
+Alas, you cannot go that way.
+
+<132hp 116m 31mv> 
+e
+s
+You gained 1 exploration point and 50 experience points!
+The Earendam Road
+  A narrow strip of stones that leads north into the grasslands, the
+Earendam Road was once heavily travelled by caravans trading with the
+mountain outposts to the north.  It has since fallen into disuse, but is
+still nominally maintained by Earendam.  
+
+[Exits: north east south west]
+     A section of the stone wall is discolored with grime.
+
+<132hp 116m 30mv> 
+You gained 1 exploration point and 50 experience points!
+The North Gates of Earendam
+  Earendam's north gates are forged from black iron, built between the
+stone walls of the city.  Reinforced by stout iron bars, the gates are built
+thick, for increased security.  Outside the gates lie the expanse of the
+northern grasslands, across which runs the Earendam road, which leads all
+the way to the Brintors.  Inside, Tyril Square marks the beginning of
+Earendam proper.  
+
+[Exits: north south]
+An Earendam gate guard stands at attention.
+An Earendam gate guard stands at attention.
+
+<132hp 116m 29mv> 
+s
+You gained 1 exploration point and 50 experience points!
+North of Tyril Square
+  The north part of Tyril square lies very near the gates of Earendam,
+which lie to the north.  Past the gates are grasslands, and eventually the
+Brintor mountains, which provide most of the source of Earendam's mineral
+wealth and its building materials.  The gate is mainly used by Brintorean
+miners, traders, or the occasionally diplomatic party from Kor Thrandir. 
+East and west, the corners of the square end in arched buildings, while a
+central fountain dominates the square to the south.  
+
+[Exits: north east south west]
+A city watchman patrols the streets of Earendam.
+
+<132hp 116m 28mv> 
+s
+You gained 1 exploration point and 50 experience points!
+Center of Tyril Square
+  The center of Tyril square is dominated by a marble statue, serving as
+the centerpiece for a concentric series of fountains.  Serving as the
+junction for travel between Earendam's north gate, the mercantile quarter,
+the artisan's district, and the occasional nobleman from Old Earendam across
+the Dantaron, the square is nevertheless well-maintained, and covered with a
+glazed brown cobblestone of Brintorean stone.  The main throughfares of the
+square are Frinian Way, which intersects the square in the east and picks
+up again in the west, and Tyril Way, which opens onto the square to the
+south.  
+
+[Exits: north east south west]
+A muscular protector is loitering here, surveying the area casually.
+
+<132hp 116m 27mv> 
+e
+You gained 1 exploration point and 50 experience points!
+East of Tyril Square
+  The east of Tyril Square is covered with a smooth cobblestone of glazed
+brown bricks.  Near the north gate of Earendam, Tyril Square is filled with
+the traffic of artisans and scholars who inhabit this part of the city.  The
+center of the square is west, where a marble statue rises out of the silver
+base of a large fountain.  South and north are the edges of the square,
+where scholars have set up shop to ply the wares of some of Avendar's most
+famous magicks.  To the east Frinian Way heads into the heart of the
+artisan's quarter, where scholars and craftsman come to learn and ply their
+trade.  
+
+[Exits: north east south west]
+
+e
+<132hp 116m 26mv> 
+You gained 1 exploration point and 50 experience points!
+East Frinian Way
+  East Frinian Way begins here, serving as a throughway for the scholars
+and craftsman who travel to and from Tyril Square to the west and the
+artisan's district of Earendam further east.  To the south of the street,
+marble stairs lead up to enter some sort of scholar's shop, while the
+building to the north is less ostentatious, being a simple stone block
+guarded by gate archways.  Home to the Company of the Ram, the building
+houses one of Earendam's chartered mercenary companies.  
+
+[Exits: north east south west]
+
+<132hp 116m 25mv> 
+e
+You gained 1 exploration point and 50 experience points!
+East Frinian Way
+  East Frinian Way heads in a straight east-west line through Earendam's
+artisan's district.  Frequented by the city's craftsmen, the street serves
+to connect the Glallian School to the east with Tyril Square which lies
+further west down the street.  A small side street leads north, and a stone
+wall prevents further travel southward.  
+
+[Exits: north east west]
+
+n
+<132hp 116m 24mv> 
+You gained 1 exploration point and 50 experience points!
+Cul de Sac
+  This small cul de sac is formed by a northward spur off East Frinian Way.
+It is bounded by the north wall of Earendam, along with the side of a shop
+to the east.  No entrance is visible into the shop, but the building west
+lies through a gated archway.  A square metal grate is set in the northern
+edge of the street.  
+
+[Exits: south west (down)]
+
+list
+<132hp 116m 23mv> 
+You can't do that here.
+
+<132hp 116m 23mv> 
+s
+East Frinian Way
+  East Frinian Way heads in a straight east-west line through Earendam's
+artisan's district.  Frequented by the city's craftsmen, the street serves
+to connect the Glallian School to the east with Tyril Square which lies
+further west down the street.  A small side street leads north, and a stone
+wall prevents further travel southward.  
+
+[Exits: north east west]
+
+e
+<132hp 116m 22mv> 
+n
+You gained 1 exploration point and 50 experience points!
+East Frinian Way
+  East Frinian Way heads in a straight east-west line through Earendam's
+artisan's district.  Lining the street are shops bearing the products of the
+craftsmen who work in this part of the city.  To the south is a jeweller's
+shop, which is successful enough to have a plate glass window to display its
+wares.  The weapon maker's shop to the north has no such trappings, but
+nevertheless bears the symbols of its wares on a stout wooden sign.  Frinian
+continues much the same to both the east and west.  
+
+[Exits: north east south west]
+
+<139hp 122m 41mv> 
+You gained 1 exploration point and 50 experience points!
+Vandar's Blades
+  Vandar's Blades is a well-furnished shop, offering the wares created by
+the craftsman who inhabit the artisan's district of Earendam.  With no forge
+in evidence, the shop is remarkably comfortable, offering a wide variety of
+weapons on display on the walls behind the counter that takes up the north
+half of the room.  The wall to the east is rather thin, and is broken by a
+pine door.  A doorway also leads southward onto Frinian Way, which runs in
+past the front of the shop.  
+
+[Exits: east south]
+Vandar is here, displaying his wares.
+
+list
+<139hp 122m 40mv> 
+[Qty Price   ] Item
+[---       2p] a whip adorned with a diamond
+[---       2p] a carved silver dagger
+[--- 3p 1g 5s] a hammer inlaid with gold
+[---       3p] a ruby-hilted sabre
+
+<139hp 122m 40mv> 
+s
+East Frinian Way
+  East Frinian Way heads in a straight east-west line through Earendam's
+artisan's district.  Lining the street are shops bearing the products of the
+craftsmen who work in this part of the city.  To the south is a jeweller's
+shop, which is successful enough to have a plate glass window to display its
+wares.  The weapon maker's shop to the north has no such trappings, but
+nevertheless bears the symbols of its wares on a stout wooden sign.  Frinian
+continues much the same to both the east and west.  
+
+[Exits: north east south west]
+
+e
+<139hp 122m 39mv> 
+n
+You gained 1 exploration point and 50 experience points!
+East Frinian Way
+  East Frinian Way heads in a straight east-west line through Earendam's
+artisan's district.  Lining the street are shops bearing the products of the
+craftsmen who work in this part of the city.  To the south is a jeweller's
+shop, which is successful enough to have a plate glass window to display its
+wares.  The armorer's shop to the north has no such trappings, but
+nevertheless bears the symbols of its wares on a stout wooden sign.  Frinian
+comes to an end to the east, but continues along its current path to the
+west.  
+
+[Exits: north east south west]
+
+<139hp 122m 38mv> 
+list
+You gained 1 exploration point and 50 experience points!
+Elrith's Armory
+  Elrith's Armory specializes in the fine plate armors produced by the
+artisans and earth scholars of Earendam, providing wares for the cities
+wealthier nobility.  With most of the merchandise furnished by the artisans
+in the surrounding parts of the city, the shop lacks the forge common in
+most such places.  The north part of the room is taken up with a counter,
+beside which a full set of field plate is arranged on a pole.  A pine door
+leads through a wall to the west, and the way onto the street lies south.  
+
+[Exits: south west]
+Elrith carefully polishes a piece of armor.
+
+<139hp 122m 37mv> 
+[Qty Price   ] Item
+[---    3p 2g] a pair of plated steel gauntlets
+[---    7g 2s] a pair of plate armguards
+[---       6g] a pair of steel-toed boots
+[--- 2p 7s 5c] a helmet of plated steel
+[--- 6g 9s 2c] a set of plate leggings
+[--- 9g 4s 4c] a plate mail chest plate
+
+<139hp 122m 37mv> 
+whe
+Notables in Avendar (currently in Earendam):
+  Feythis                    Elrith's Armory                   [present]    
+
+Total found: 1
+
+who
+<139hp 122m 37mv> [ 4 Thi] Feythis du'This the Novice of Acrobatics
+
+Players found: 1
+
+<139hp 122m 37mv> 
+recall
+Office of Applied Theology
+  The office interior exudes an air of cold formality, dominated by sleek
+white marble walls and polished floors that reflect the bright light of
+hanging magelights.  An angular obelisk of grey marble sits in the middle of
+the chamber, deeply graven with images and humming with a low, almost
+imperceptible vibration.  
+
+[Exits: south west]
+     A number of neatly-sorted bins rest against the walls.
+
+<139hp 122m 18mv> 
+alias 1 exam altar
+1 is now aliased to 'exam altar'.
+
+1
+<139hp 122m 18mv> 
+A number of neatly-sorted bins rest against the walls.
+A bin labeled 'Lost and Found' holds:
+     Nothing.
+
+s
+<139hp 122m 18mv> Office of Applied Theology
+  The office interior exudes an air of cold formality, dominated by sleek
+white marble walls and polished floors that reflect the bright light of
+hanging magelights.  An angular obelisk of black marble sits in the middle
+of the chamber, deeply graven with images that spark with poisonous crimson
+light.  
+
+[Exits: north west]
+     A number of neatly-sorted bins rest against the walls.
+
+w
+<139hp 122m 17mv> 
+Office of Applied Theology
+  The office exudes an air of cold formality, dominated by sleek white
+marble walls and polished floors that reflect the bright light of hanging
+magelights.  The western wall features an expansive mural depicting the
+liberation of Var Bandor, set before a wide, heavy desk.  The environment
+feels almost sterile, both imposing and inescapable despite the large double
+doors perpetually open to Dantaron street.  
+
+[Exits: north east south down]
+An armed enforcer of Var Bandor patrols here.
+(White Aura) Nistaru stands behind the desk, sneering at petitioners.
+An armed enforcer of Var Bandor patrols here.
+
+<139hp 122m 16mv> 
+s
+Dantaron Street
+  Dantaron Street bisects the west half of Var Bandor, leading from Center
+Square to the docks outside the western gatehouse.  Sailors and dockmen
+abound in this section of the city, wandering the streets while off-duty. 
+The street is composed of well-worn cobblestones, with a few broken and
+missing.  To the north, a large temple constructed of fine white marble
+rises over the street.  To the south is a traveller's inn.  
+
+[Exits: north east south west]
+
+e
+<139hp 122m 15mv> 
+e
+Dantaron Street
+  Dantaron Street bisects the west half of Var Bandor, leading from Center
+Square to the docks outside the western gatehouse.  Sailors and dockmen
+abound in this section of the city, wandering the streets while off-duty. 
+The street is composed of well-worn cobblestones, with a few broken and
+missing.  To the east is Center Square.  
+
+[Exits: east south west]
+A grey pigeon walks about tentatively, looking for scraps of food.
+
+<139hp 122m 14mv> 
+Center Square
+  A burbling fountain dominates the center of the square.  The fountain is
+made of gray marble veined with blue.  Large sculptures of dancing otters
+and leaping trout, gazing skyward and spouting water from their mouths, sit
+within the circular basin.  The rim of the basin appears designed for
+seating, but is sprinkled with water.  The square is mortared with rounded
+cobblestone radiating outwards from the fountain.  The sounds and smells of
+the market and other popular locales nearby mingle in the air.  
+
+[Exits: north east south west]
+     A large marble fountain gurgles peacefully here.
+A nefortu peddler stands in a corner of the square, his goods on a tray before him.
+An armed enforcer of Var Bandor stands here.
+An armed enforcer of Var Bandor stands here.
+
+<139hp 122m 13mv> 
+rest
+You rest.
+
+<139hp 122m 13mv> 
+list
+[Qty Price    ] Item
+[  1 40p 3g 5c] a pair of glittering golden wingblades
+[  1 12p 6s 7c] a tiny floating dirk
+[  1 30p 4g 5s] a buoyant, magically floating hammock
+[  2     9g 5c] a spiked ruby earring
+[  1  1p 4s 5c] a matte-black dirk
+[---     3g 4c] a jar of spicy eel paste
+[---     2s 2c] a round cake of hardtack
+
+<139hp 122m 13mv> 
+nod
+You nod.
+
+<139hp 122m 13mv> 
+worth
+You have 100 copper, and 7650 experience (1395 exp to level).
+You have 117 exploration points (0 ep to level).
+You are lightly encumbered by your equipment.
+
+<139hp 122m 13mv> 
+say The hammock.
+You say, in srryn, 'The hammock.'
+
+<151hp 124m 44mv> 
+worth
+You have 100 copper, and 7650 experience (1395 exp to level).
+You have 117 exploration points (0 ep to level).
+You are lightly encumbered by your equipment.
+
+<151hp 124m 44mv> 
+whe
+Notables in Avendar (currently in Var Bandor):
+  Feythis                    Center Square                     [present]    
+
+Total found: 1
+
+who
+<151hp 124m 44mv> [ 4 Thi] Feythis du'This the Novice of Acrobatics
+
+Players found: 1
+
+<151hp 124m 44mv> 
+eq
+You are using:
+<worn on finger>    (Glowing) a gleaming gold ring
+<worn on finger>    [nothing]
+<worn around neck>  a patched cloak
+<worn around neck>  a patched cloak
+<worn on torso>     a doublet of meshed steel
+<worn on head>      a felt hat
+<worn on legs>      a skirt of meshed steel
+<worn on feet>      a pair of green boots
+<worn on hands>     a pair of leather gloves
+<worn on arms>      some sleeves of meshed steel
+<worn as shield>    [nothing]
+<worn about body>   a foul-smelling bear skin
+<worn about waist>  a black leather belt
+<worn around wrist> [nothing]
+<worn around wrist> [nothing]
+<wielded>           [nothing]
+<dual wielded>      [nothing]
+
+<151hp 124m 44mv> 
+sk
+
+Level  1: dagger              75%        sword                1%        
+          whip                 1%        backstab             1%        
+          hand to hand         1%        steal                1%        
+          recover              1%        
+Level  2: peek                 1%        
+Level  3: dirt kicking         1%        
+Level  4: dual wield           1%        dodge                1%        
+Level  5: pick lock          n/a      
+Level  6: obscure evidence   n/a      
+Level  7: kick               n/a      
+Level  8: listen             n/a      detect theft       n/a      
+Level  9: enhanced damage    n/a      
+Level 10: detect hidden      n/a      second attack      n/a      
+Level 11: trip               n/a      
+Level 12: haggle             n/a      tumbling           n/a      
+Level 13: fast healing       n/a      plant              n/a      
+Level 14: conceal            n/a      
+Level 15: cower              n/a      
+Level 16: relock             n/a      
+Level 17: throw              n/a      
+Level 18: dash               n/a      
+Level 19: disarm             n/a      flourish           n/a      
+Level 20: third attack       n/a      waylay             n/a      
+Level 21: trap               n/a      lunge              n/a      
+Level 22: meditation         n/a      
+Level 23: bargain            n/a      
+Level 24: retreat            n/a      distract           n/a      
+Level 25: slice              n/a      
+Level 26: sleeve             n/a      
+Level 27: loot               n/a      
+Level 29: opportunism        n/a      
+Level 30: circle stab        n/a      
+Level 31: scramble           n/a      
+Level 32: cutpurse           n/a      
+Level 34: final strike       n/a      
+Level 36: defensive roll     n/a      
+Level 38: dual backstab      n/a      
+Level 40: shadow mastery     n/a      
+
+<151hp 124m 44mv> 
+l
+Center Square
+  A burbling fountain dominates the center of the square.  The fountain is
+made of gray marble veined with blue.  Large sculptures of dancing otters
+and leaping trout, gazing skyward and spouting water from their mouths, sit
+within the circular basin.  The rim of the basin appears designed for
+seating, but is sprinkled with water.  The square is mortared with rounded
+cobblestone radiating outwards from the fountain.  The sounds and smells of
+the market and other popular locales nearby mingle in the air.  
+
+[Exits: north east south west]
+     A large marble fountain gurgles peacefully here.
+A nefortu peddler stands in a corner of the square, his goods on a tray before him.
+An armed enforcer of Var Bandor stands here.
+An armed enforcer of Var Bandor stands here.
+
+<151hp 124m 44mv> 
+
+[TIPS] Characters who reach level 51 are called "heroes", even if their actions aren't very heroic.
+
+<168hp 124m 106mv> 
+
+A pathetic mewling emanates from near the fountain.
+
+<168hp 124m 137mv> 
+desc + A large srryn covered in dull mottled green, brown and black scales this rogue is obviously 
+constantly casing his surroundings.
+Your description is:
+A large srryn covered in dull mottled green, brown and black scales this rogue is obviously
+constantly casing his surroundings.
+
+<168hp 124m 168mv> 
+
+Clouds move into the area, obscuring the sky.
+
+<168hp 124m 173mv> 
+desc + A suspicious glance cast at everything moving and a tendency to lurk attempting to be 
+obscure give him a shifty, almost nervous overall demeanor. 
+Your description is:
+A large srryn covered in dull mottled green, brown and black scales this rogue is obviously
+constantly casing his surroundings.
+A suspicious glance cast at everything moving and a tendency to lurk attempting to be obscure give
+him a shifty, almost nervous overall demeanor. 
+
+<168hp 124m 173mv> 
+desc format
+Description formatted.
+
+<168hp 124m 173mv> 
+whine
+You whine pathetically.
+
+<168hp 124m 173mv> 
+st
+You stand up.
+
+l
+<168hp 124m 173mv> 
+Center Square
+  A burbling fountain dominates the center of the square.  The fountain is
+made of gray marble veined with blue.  Large sculptures of dancing otters
+and leaping trout, gazing skyward and spouting water from their mouths, sit
+within the circular basin.  The rim of the basin appears designed for
+seating, but is sprinkled with water.  The square is mortared with rounded
+cobblestone radiating outwards from the fountain.  The sounds and smells of
+the market and other popular locales nearby mingle in the air.  
+
+[Exits: north east south west]
+     A bedraggled orange tabby cat with a tattered ear and a mournful expression is here.
+     A large marble fountain gurgles peacefully here.
+A nefortu peddler stands in a corner of the square, his goods on a tray before him.
+An armed enforcer of Var Bandor stands here.
+An armed enforcer of Var Bandor stands here.
+
+<168hp 124m 173mv> 
+get all
+You get a bedraggled orange tabby cat.
+
+<168hp 124m 173mv> 
+drop cat
+You drop a bedraggled orange tabby cat.
+
+<168hp 124m 173mv> 
+blink
+You blink.
+
+<168hp 124m 173mv> 
+l cat
+An orange tomcat of indeterminate age, his face is plump with
+downward-slanted yellow eyes that give him an air of faint but perpetual
+misery.  His tail is kinked at the end, and his tattered ear indicates a
+rough life as a stray.  In contrast with his grizzled and miserable
+appearance, his general behavior is quite affectionate, and he always seems
+to be purring happily.  
+
+<168hp 124m 173mv> 
+get cat
+You get a bedraggled orange tabby cat.
+
+<168hp 124m 173mv> 
+l cat
+An orange tomcat of indeterminate age, his face is plump with
+downward-slanted yellow eyes that give him an air of faint but perpetual
+misery.  His tail is kinked at the end, and his tattered ear indicates a
+rough life as a stray.  In contrast with his grizzled and miserable
+appearance, his general behavior is quite affectionate, and he always seems
+to be purring happily.  
+
+<168hp 124m 173mv> 
+pet cat
+They aren't here.
+
+<168hp 124m 173mv> 
+l
+Center Square
+  A burbling fountain dominates the center of the square.  The fountain is
+made of gray marble veined with blue.  Large sculptures of dancing otters
+and leaping trout, gazing skyward and spouting water from their mouths, sit
+within the circular basin.  The rim of the basin appears designed for
+seating, but is sprinkled with water.  The square is mortared with rounded
+cobblestone radiating outwards from the fountain.  The sounds and smells of
+the market and other popular locales nearby mingle in the air.  
+
+[Exits: north east south west]
+     A large marble fountain gurgles peacefully here.
+A nefortu peddler stands in a corner of the square, his goods on a tray before him.
+An armed enforcer of Var Bandor stands here.
+An armed enforcer of Var Bandor stands here.
+
+<168hp 124m 173mv> 
+l cat
+An orange tomcat of indeterminate age, his face is plump with
+downward-slanted yellow eyes that give him an air of faint but perpetual
+misery.  His tail is kinked at the end, and his tattered ear indicates a
+rough life as a stray.  In contrast with his grizzled and miserable
+appearance, his general behavior is quite affectionate, and he always seems
+to be purring happily.  
+
+<168hp 124m 173mv> 
+drop cat
+You drop a bedraggled orange tabby cat.
+
+<168hp 124m 173mv> 
+pet cat
+They aren't here.
+
+<168hp 124m 173mv> 
+in
+You are carrying:
+     a pair of green boots
+     a pair of leather gloves
+     a black leather belt
+     a felt hat
+     a canoe
+
+l
+<168hp 124m 173mv> 
+Center Square
+  A burbling fountain dominates the center of the square.  The fountain is
+made of gray marble veined with blue.  Large sculptures of dancing otters
+and leaping trout, gazing skyward and spouting water from their mouths, sit
+within the circular basin.  The rim of the basin appears designed for
+seating, but is sprinkled with water.  The square is mortared with rounded
+cobblestone radiating outwards from the fountain.  The sounds and smells of
+the market and other popular locales nearby mingle in the air.  
+
+[Exits: north east south west]
+     A bedraggled orange tabby cat with a tattered ear and a mournful expression is here.
+     A large marble fountain gurgles peacefully here.
+A nefortu peddler stands in a corner of the square, his goods on a tray before him.
+An armed enforcer of Var Bandor stands here.
+An armed enforcer of Var Bandor stands here.
+
+sk
+<168hp 124m 173mv> 
+Level  1: dagger              75%        sword                1%        
+          whip                 1%        backstab             1%        
+          hand to hand         1%        steal                1%        
+          recover              1%        
+Level  2: peek                 1%        
+Level  3: dirt kicking         1%        
+Level  4: dual wield           1%        dodge                1%        
+Level  5: pick lock          n/a      
+Level  6: obscure evidence   n/a      
+Level  7: kick               n/a      
+Level  8: listen             n/a      detect theft       n/a      
+Level  9: enhanced damage    n/a      
+Level 10: detect hidden      n/a      second attack      n/a      
+Level 11: trip               n/a      
+Level 12: haggle             n/a      tumbling           n/a      
+Level 13: fast healing       n/a      plant              n/a      
+Level 14: conceal            n/a      
+Level 15: cower              n/a      
+Level 16: relock             n/a      
+Level 17: throw              n/a      
+Level 18: dash               n/a      
+Level 19: disarm             n/a      flourish           n/a      
+Level 20: third attack       n/a      waylay             n/a      
+Level 21: trap               n/a      lunge              n/a      
+Level 22: meditation         n/a      
+Level 23: bargain            n/a      
+Level 24: retreat            n/a      distract           n/a      
+Level 25: slice              n/a      
+Level 26: sleeve             n/a      
+Level 27: loot               n/a      
+Level 29: opportunism        n/a      
+Level 30: circle stab        n/a      
+Level 31: scramble           n/a      
+Level 32: cutpurse           n/a      
+Level 34: final strike       n/a      
+Level 36: defensive roll     n/a      
+Level 38: dual backstab      n/a      
+Level 40: shadow mastery     n/a      
+
+<168hp 124m 173mv> 
+wear all
+
+<168hp 124m 173mv> 
+l
+Center Square
+  A burbling fountain dominates the center of the square.  The fountain is
+made of gray marble veined with blue.  Large sculptures of dancing otters
+and leaping trout, gazing skyward and spouting water from their mouths, sit
+within the circular basin.  The rim of the basin appears designed for
+seating, but is sprinkled with water.  The square is mortared with rounded
+cobblestone radiating outwards from the fountain.  The sounds and smells of
+the market and other popular locales nearby mingle in the air.  
+
+[Exits: north east south west]
+     A bedraggled orange tabby cat with a tattered ear and a mournful expression is here.
+     A large marble fountain gurgles peacefully here.
+A nefortu peddler stands in a corner of the square, his goods on a tray before him.
+An armed enforcer of Var Bandor stands here.
+An armed enforcer of Var Bandor stands here.
+
+s
+<168hp 124m 173mv> 
+s
+You gained 1 exploration point and 50 experience points!
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.  The Var Bandor Center Square is to the north.  
+
+[Exits: north south]
+A grey pigeon walks about tentatively, looking for scraps of food.
+
+<168hp 124m 172mv> 
+You gained 1 exploration point and 50 experience points!
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.  To the west is the guild of watchers, while Naidji Alley lies to
+the east.  
+
+[Exits: north east south west]
+An armed enforcer of Var Bandor patrols here.
+
+<168hp 124m 171mv> 
+n
+n
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.  The Var Bandor Center Square is to the north.  
+
+[Exits: north south]
+A grey pigeon walks about tentatively, looking for scraps of food.
+
+<168hp 124m 170mv> 
+Center Square
+  A burbling fountain dominates the center of the square.  The fountain is
+made of gray marble veined with blue.  Large sculptures of dancing otters
+and leaping trout, gazing skyward and spouting water from their mouths, sit
+within the circular basin.  The rim of the basin appears designed for
+seating, but is sprinkled with water.  The square is mortared with rounded
+cobblestone radiating outwards from the fountain.  The sounds and smells of
+the market and other popular locales nearby mingle in the air.  
+
+[Exits: north east south west]
+     A bedraggled orange tabby cat with a tattered ear and a mournful expression is here.
+     A large marble fountain gurgles peacefully here.
+A nefortu peddler stands in a corner of the square, his goods on a tray before him.
+An armed enforcer of Var Bandor stands here.
+An armed enforcer of Var Bandor stands here.
+
+<168hp 124m 169mv> 
+get all
+You get a bedraggled orange tabby cat.
+
+<168hp 124m 169mv> 
+drop cat
+You drop a bedraggled orange tabby cat.
+
+<168hp 124m 169mv> 
+follow cat
+They aren't here.
+
+<168hp 124m 169mv> 
+s
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.  The Var Bandor Center Square is to the north.  
+
+[Exits: north south]
+A grey pigeon walks about tentatively, looking for scraps of food.
+
+<168hp 124m 172mv> 
+n
+Center Square
+  A burbling fountain dominates the center of the square.  The fountain is
+made of gray marble veined with blue.  Large sculptures of dancing otters
+and leaping trout, gazing skyward and spouting water from their mouths, sit
+within the circular basin.  The rim of the basin appears designed for
+seating, but is sprinkled with water.  The square is mortared with rounded
+cobblestone radiating outwards from the fountain.  The sounds and smells of
+the market and other popular locales nearby mingle in the air.  
+
+[Exits: north east south west]
+     A bedraggled orange tabby cat with a tattered ear and a mournful expression is here.
+     A large marble fountain gurgles peacefully here.
+A nefortu peddler stands in a corner of the square, his goods on a tray before him.
+An armed enforcer of Var Bandor stands here.
+An armed enforcer of Var Bandor stands here.
+
+<168hp 124m 171mv> 
+gr cat
+They aren't here.
+
+<168hp 124m 171mv> 
+gr cat
+They aren't here.
+
+s
+<168hp 124m 171mv> Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.  The Var Bandor Center Square is to the north.  
+
+[Exits: north south]
+A grey pigeon walks about tentatively, looking for scraps of food.
+
+s
+<168hp 124m 170mv> 
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.  To the west is the guild of watchers, while Naidji Alley lies to
+the east.  
+
+[Exits: north east south west]
+An armed enforcer of Var Bandor patrols here.
+
+<168hp 124m 169mv> 
+s
+s
+You gained 1 exploration point and 50 experience points!
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.
+
+[Exits: north south]
+
+w
+<168hp 124m 168mv> 
+w
+You gained 1 exploration point and 50 experience points!
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.  To the east, Arcanos Street winds among the scholars' towers,
+and to the west Commerce Street leads to the merchant quarter.  
+
+[Exits: north east south west]
+
+w
+<168hp 124m 167mv> 
+You gained 1 exploration point and 50 experience points!
+Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets.  To
+the north is an elegant inn, and to the east is Ilrin Street.  
+
+[Exits: north east west]
+
+n
+<168hp 124m 166mv> 
+You gained 1 exploration point and 50 experience points!
+Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets. 
+Commerce Street runs east and west.  To the north is an open house of some
+sort, around which a crowd of merchants gather.  
+
+[Exits: north east west]
+
+<168hp 124m 165mv> 
+conv all
+You gained 1 exploration point and 50 experience points!
+Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets.  To
+the north is the Var Bandor bank.  
+
+[Exits: north east west]
+An armed enforcer of Var Bandor patrols here.
+
+<168hp 124m 164mv> 
+You gained 1 exploration point and 50 experience points!
+The Bank of Var Bandor
+  The most noticeable feature in the Bank is the line of teller windows
+along the far wall.  The keen eyes of bankers peer out from behind the
+barred windows, scrutinizing their clientele.  Plants and small wooden
+benches provide the decor for those waiting for service, and a doorway leads
+southwards onto Commerce Street.  
+
+[Exits: south]
+
+<168hp 124m 163mv> 
+You convert some coins.
+You receive 1 gold.
+
+<168hp 124m 163mv> 
+s
+Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets.  To
+the north is the Var Bandor bank.  
+
+[Exits: north east west]
+An armed enforcer of Var Bandor patrols here.
+
+<168hp 124m 162mv> 
+w
+You gained 1 exploration point and 50 experience points!
+Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets. 
+Commerce Street turns south and east at this point, and to the west is a
+magnificent structure, the headquarters of the Var Bandor Merchant Council. 
+
+[Exits: east south (west)]
+
+<168hp 124m 161mv> 
+e
+Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets.  To
+the north is the Var Bandor bank.  
+
+[Exits: north east west]
+An armed enforcer of Var Bandor patrols here.
+
+e
+e
+<168hp 124m 160mv> 
+e
+Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets. 
+Commerce Street runs east and west.  To the north is an open house of some
+sort, around which a crowd of merchants gather.  
+
+[Exits: north east west]
+
+<168hp 124m 159mv> 
+n
+Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets.  To
+the north is an elegant inn, and to the east is Ilrin Street.  
+
+[Exits: north east west]
+
+n
+n
+<168hp 124m 158mv> 
+n
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.  To the east, Arcanos Street winds among the scholars' towers,
+and to the west Commerce Street leads to the merchant quarter.  
+
+[Exits: north east south west]
+
+<168hp 124m 157mv> 
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.
+
+[Exits: north south]
+
+<168hp 124m 156mv> 
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.  To the west is the guild of watchers, while Naidji Alley lies to
+the east.  
+
+[Exits: north east south west]
+An armed enforcer of Var Bandor patrols here.
+
+<168hp 124m 155mv> 
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.  The Var Bandor Center Square is to the north.  
+
+[Exits: north south]
+A grey pigeon walks about tentatively, looking for scraps of food.
+
+<168hp 124m 154mv> 
+Center Square
+  A burbling fountain dominates the center of the square.  The fountain is
+made of gray marble veined with blue.  Large sculptures of dancing otters
+and leaping trout, gazing skyward and spouting water from their mouths, sit
+within the circular basin.  The rim of the basin appears designed for
+seating, but is sprinkled with water.  The square is mortared with rounded
+cobblestone radiating outwards from the fountain.  The sounds and smells of
+the market and other popular locales nearby mingle in the air.  
+
+[Exits: north east south west]
+     A bedraggled orange tabby cat with a tattered ear and a mournful expression is here.
+     A large marble fountain gurgles peacefully here.
+A nefortu peddler stands in a corner of the square, his goods on a tray before him.
+An armed enforcer of Var Bandor stands here.
+An armed enforcer of Var Bandor stands here.
+
+<168hp 124m 153mv> 
+whe
+Notables in Avendar (currently in Var Bandor):
+  Feythis                    Center Square                     [present]    
+
+Total found: 1
+
+who
+<168hp 124m 153mv> 
+[ 4 Thi] Feythis du'This the Novice of Acrobatics
+
+Players found: 1
+
+<168hp 124m 153mv> 
+rest
+You rest.
+
+<168hp 124m 153mv> 
+in
+You are carrying:
+     a pair of green boots
+     a pair of leather gloves
+     a black leather belt
+     a felt hat
+     a canoe
+
+sk
+<168hp 124m 153mv> 
+Level  1: dagger              75%        sword                1%        
+          whip                 1%        backstab             1%        
+          hand to hand         1%        steal                1%        
+          recover              1%        
+Level  2: peek                 1%        
+Level  3: dirt kicking         1%        
+Level  4: dual wield           1%        dodge                1%        
+Level  5: pick lock          n/a      
+Level  6: obscure evidence   n/a      
+Level  7: kick               n/a      
+Level  8: listen             n/a      detect theft       n/a      
+Level  9: enhanced damage    n/a      
+Level 10: detect hidden      n/a      second attack      n/a      
+Level 11: trip               n/a      
+Level 12: haggle             n/a      tumbling           n/a      
+Level 13: fast healing       n/a      plant              n/a      
+Level 14: conceal            n/a      
+Level 15: cower              n/a      
+Level 16: relock             n/a      
+Level 17: throw              n/a      
+Level 18: dash               n/a      
+Level 19: disarm             n/a      flourish           n/a      
+Level 20: third attack       n/a      waylay             n/a      
+Level 21: trap               n/a      lunge              n/a      
+Level 22: meditation         n/a      
+Level 23: bargain            n/a      
+Level 24: retreat            n/a      distract           n/a      
+Level 25: slice              n/a      
+Level 26: sleeve             n/a      
+Level 27: loot               n/a      
+Level 29: opportunism        n/a      
+Level 30: circle stab        n/a      
+Level 31: scramble           n/a      
+Level 32: cutpurse           n/a      
+Level 34: final strike       n/a      
+Level 36: defensive roll     n/a      
+Level 38: dual backstab      n/a      
+Level 40: shadow mastery     n/a      
+
+<168hp 124m 153mv> 
+eq
+You are using:
+<worn on finger>    (Glowing) a gleaming gold ring
+<worn on finger>    [nothing]
+<worn around neck>  a patched cloak
+<worn around neck>  a patched cloak
+<worn on torso>     a doublet of meshed steel
+<worn on head>      a felt hat
+<worn on legs>      a skirt of meshed steel
+<worn on feet>      a pair of green boots
+<worn on hands>     a pair of leather gloves
+<worn on arms>      some sleeves of meshed steel
+<worn as shield>    [nothing]
+<worn about body>   a foul-smelling bear skin
+<worn about waist>  a black leather belt
+<worn around wrist> [nothing]
+<worn around wrist> [nothing]
+<wielded>           [nothing]
+<dual wielded>      [nothing]
+
+<168hp 124m 153mv> 
+sp
+No spells found.
+
+<168hp 124m 153mv> 
+ab
+No psionic abilities found.
+
+<168hp 124m 153mv> 
+form
+No forms found.
+
+<168hp 124m 153mv> 
+help srryn
+/---------------------------------------------------------------------------\
+|          Srryn (Spell)                                                    |
+\---------------------------------------------------------------------------/
+
+Activation lag  :  2.0 rounds
+Activation cost :  0 mana
+
+Cunning and adaptable, the srryn are one of the most ancient lineages on
+Avendar, emerging from the jungles of the Sotuei Cauldron shortly after the
+Sundering.  Spreading north, they settled in Vrystet Fen and the swamp
+Sythtys, both the kind of marshy, wet environment they prefer.  They are
+proud, though the form and justification for that pride changes depending on
+the primary god of their sept: Fenthira, Sythrak, or Sitheus.  Their role in
+the War of Fire as well as skirmishes with those who enroach upon their
+territories have lended them a reputation for decisive brutality, and their
+innovative mastery of fire magic is almost unparalleled.  
+
+Sythtys houses the largest contiguous settlement on the continent and is
+regarded by nearby human-ruled Earendam as an existential threat.  This and
+their past conflicts with humanity have lead to the srryn being marginalized
+in places where humanity is abundant.  Despite this prejudice, many srryn
+have integrated into multi-species communities, as Fenthira's guiding hand
+brings forth their natural curiosity and adaptability.  City srryn can be
+found as shopkeepers, porters, guards, and gladiators; village srryn are
+often fishermen.  Among the Lsakia, srryn are tenders of their large docile
+reptilian cousins known as srorsians.  Srryn have contributed much to the
+world's adventuring guilds, bringing their mastery of extreme environments,
+innovations in fire magic, and new fighting techniques.  
+
+Srryn are massive cold-blooded humanoid reptiles, coming up to about eight
+feet on average.  Their features are distinctly crocodilian, with
+vertically-slit eyes, tough scales of nearly any colour and pattern, sharp
+claws and teeth, and long tails.  Their tails are not prehensile but they
+are quite flexible, being used extensively for balance and communication. 
+They have tough claws on both their hands and feet that may be used as
+weapons.  Like most reptiles, they are adversely affected by cold, but their
+thick scales lend them resistance to fire.  They are large enough to hold a
+normally two-handed weapon in one hand.  
+
+See also: STATISTICS
+
+<168hp 124m 153mv> 
+whe
+Notables in Avendar (currently in Var Bandor):
+  Feythis                    Center Square                     [present]    
+
+Total found: 1
+
+who
+<168hp 124m 173mv> 
+[ 4 Thi] Feythis du'This the Novice of Acrobatics
+
+Players found: 1
+
+in
+<168hp 124m 173mv> 
+You are carrying:
+     a pair of green boots
+     a pair of leather gloves
+     a black leather belt
+     a felt hat
+     a canoe
+
+eq
+<168hp 124m 173mv> 
+You are using:
+<worn on finger>    (Glowing) a gleaming gold ring
+<worn on finger>    [nothing]
+<worn around neck>  a patched cloak
+<worn around neck>  a patched cloak
+<worn on torso>     a doublet of meshed steel
+<worn on head>      a felt hat
+<worn on legs>      a skirt of meshed steel
+<worn on feet>      a pair of green boots
+<worn on hands>     a pair of leather gloves
+<worn on arms>      some sleeves of meshed steel
+<worn as shield>    [nothing]
+<worn about body>   a foul-smelling bear skin
+<worn about waist>  a black leather belt
+<worn around wrist> [nothing]
+<worn around wrist> [nothing]
+<wielded>           [nothing]
+<dual wielded>      [nothing]
+
+l
+<168hp 124m 173mv> 
+Center Square
+  A burbling fountain dominates the center of the square.  The fountain is
+made of gray marble veined with blue.  Large sculptures of dancing otters
+and leaping trout, gazing skyward and spouting water from their mouths, sit
+within the circular basin.  The rim of the basin appears designed for
+seating, but is sprinkled with water.  The square is mortared with rounded
+cobblestone radiating outwards from the fountain.  The sounds and smells of
+the market and other popular locales nearby mingle in the air.  
+
+[Exits: north east south west]
+     A bedraggled orange tabby cat with a tattered ear and a mournful expression is here.
+     A large marble fountain gurgles peacefully here.
+A nefortu peddler stands in a corner of the square, his goods on a tray before him.
+An armed enforcer of Var Bandor stands here.
+An armed enforcer of Var Bandor stands here.
+
+<168hp 124m 173mv> 
+quit
+Alas, all good things must come to an end.
+You are now unencumbered by your equipment.
+You are now unencumbered by your equipment.
+    
+[ ALERT ] - Socket got disconnected.
+            Reason: The remote host closed the connection
+[ INFO ]  - Connection time: 00:12:28.726
+                
+[ INFO ]  - Looking up the IP address of server: avendar.net:9999 ...
+[ INFO ]  - The IP address of avendar.net has been found. It is: 74.91.112.143
+[ INFO ]  - Trying to connect to 74.91.112.143:9999 ...
+[ INFO ]  - A connection has been established successfully.
+                
+                
+quit
+
+          <| 
+           A              
+          /.          
+     \<|  [""M#         
+      A   | #                   AVENDAR: THE CRUCIBLE OF LEGENDS 
+     /. \[""M#                         [avendar.net 9999] 
+    [""M# | #  U"U#U                  
+     | #  | #   \.:/    Original DikuMUD by Hans Staerfeldt, Katja Nyboe, 
+     | #  | #___| #     Tom Madsen, Michael Seifert, and Sebastian Hammer 
+     | "--'     .-"     Based on MERC 2.1 code by Hatchet, Furey, and Kahn 
+   |"-"-"-"-"-#-#-##    ROM 2.4 copyright (c) 1993-1996 Russ Taylor 
+   |     # ## ######      
+           \.::::'/     Avendar created by Matt Wallace, Thane Williams, 
+           \::::'/      and Brandon Downey.  See HELP AVENDAR for more. 
+   :8a|    # # ##       
+   ::88a      ###       Avendar is maintained and developed by the Avendar 
+  ::::888a  8a ##::.                   Immortal staff. 
+  ::::::888a88a[]:::: 
+ :::::::::SUNDOGa8a::::. ..               
+ :::::8::::888:Y8888:::::::::...       
+::':::88::::888::Y88a______________________________________________________ 
+:: ::::88a::::88a:Y88a                                  __---__-- __ 
+' .: ::Y88a:::::8a:Y88a                            __----_-- -------_-__ 
+  :' ::::8P::::::::::88aa.                   _ _- --  --_ --- __  --- __-- 
+,::  :::::::::::::::::::Y88as88a...s88aa.
+
+Under what name shall your deeds be recorded?
+We don't have a character named Quit.

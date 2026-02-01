@@ -1,0 +1,928 @@
+Log session starting at 20:15:22 on Friday, 22 August 2025.
+[  OK  ]  - Mudlet-lua API & Geyser Layout manager loaded.
+[ INFO ]  - Reading map. Format version: 20. File:
+            "C:/Users/wilds/.config/mudlet/profiles/PANTHEON1/map/2025-08-21#20-37-16map.dat",
+            please wait...
+[ INFO ]  - Successfully read the map file (0.02s), checking some
+            consistency details...
+[ INFO ]  - Map audit starting...
+[  OK  ]  - Auditing of map completed (0.00s). Enjoy your game...
+[  OK  ]  - Map loaded successfully (0.02s).
+[ INFO ]  - Looking up the IP address of server: avendar.net:9999 ...
+[ INFO ]  - The IP address of avendar.net has been found. It is: 74.91.112.143
+[ INFO ]  - Trying to connect to 74.91.112.143:9999 ...
+[ INFO ]  - A connection has been established successfully.
+                
+                
+
+          <| 
+           A              
+          /.          
+     \<|  [""M#         
+      A   | #                   AVENDAR: THE CRUCIBLE OF LEGENDS 
+     /. \[""M#                         [avendar.net 9999] 
+    [""M# | #  U"U#U                  
+     | #  | #   \.:/    Original DikuMUD by Hans Staerfeldt, Katja Nyboe, 
+     | #  | #___| #     Tom Madsen, Michael Seifert, and Sebastian Hammer 
+     | "--'     .-"     Based on MERC 2.1 code by Hatchet, Furey, and Kahn 
+   |"-"-"-"-"-#-#-##    ROM 2.4 copyright (c) 1993-1996 Russ Taylor 
+   |     # ## ######      
+           \.::::'/     Avendar created by Matt Wallace, Thane Williams, 
+           \::::'/      and Brandon Downey.  See HELP AVENDAR for more. 
+   :8a|    # # ##       
+   ::88a      ###       Avendar is maintained and developed by the Avendar 
+  ::::888a  8a ##::.                   Immortal staff. 
+  ::::::888a88a[]:::: 
+ :::::::::SUNDOGa8a::::. ..               
+ :::::8::::888:Y8888:::::::::...       
+::':::88::::888::Y88a______________________________________________________ 
+:: ::::88a::::88a:Y88a                                  __---__-- __ 
+' .: ::Y88a:::::8a:Y88a                            __----_-- -------_-__ 
+  :' ::::8P::::::::::88aa.                   _ _- --  --_ --- __  --- __-- 
+,::  :::::::::::::::::::Y88as88a...s88aa.
+
+Under what name shall your deeds be recorded?
+Account 'Tyeric' logging in.  Password: 
+
+
+The following characters are currently associated with this account:
+
+Qeqskil
+Feythis
+Khuruin
+Rhuinzek
+
+To create a new character, enter an original name at the following prompt.
+Enter character name to use: 
+Pyruin
+We don't have a character named Pyruin.
+Attach new character Pyruin to account Tyeric (y/n)? 
+y
+/--------------------------------------------------------------------------\
+|                              Name Guidelines                             |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| * Avendar is an early modern-era fantasy roleplaying game.               |
+| * Real life names are allowed, but references to real people are not.    |
+| * All character names must be unique and may not reference other         |
+|   settings or works of fiction outside Avendar.                          |
+| * For more detailed information and examples, see HELP NAME.             |
+\--------------------------------------------------------------------------/
+
+Does your name fit these conditions? 
+y
+/--------------------------------------------------------------------------\
+|                           Surname Guidelines                             |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| * Surnames may be chosen at creation, but are not required.              |
+| * Refer to the same general rules as a given name.                       |
+| * Unusual capitalization, such as MacDugal or a'Ganylosha, is allowed.   |
+| * Surnames may contain spaces; be reasonable about it.                   |
+| * For more detailed information and examples, read HELP NAME.            |
+\--------------------------------------------------------------------------/
+
+Please enter a surname (enter for none): 
+Veda
+
+"Pyruin Veda", is this correct? 
+y
+
+/--------------------------------------------------------------------------\
+|                                  Color                                   |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| Avendar, like most MUDs, uses colored text to help highlight what is     |
+| happening during play.  This includes communication channels, damage     |
+| dealt or received, and many other uses.  Regardless of your selection,   |
+| it may be toggled at any time with the 'colour' command.                 |
+\--------------------------------------------------------------------------/
+
+Do you wish to use ANSI color? 
+y
+
+/--------------------------------------------------------------------------\
+|                            Password Selection                            |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| * Avoid using passwords that are easily guessed, both in character and   |
+|   in real life.                                                          |
+| * Don't use your birthday, real name, your character's name, or any      |
+|   permutation thereof.                                                   |
+| * Don't use dictionary words as passwords, unless you append additional  |
+|   letters or numbers.                                                    |
+| * Do not forget your password.                                           |
+\--------------------------------------------------------------------------/
+
+Enter a password for Pyruin: 
+
+Please retype password: 
+
+
+/--------------------------------------------------------------------------\
+|                               Online Help                                |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| * The online help system is available to you while you make decisions    |
+|   about your character.                                                  |
+| * To access it, type HELP or HELP <topic>.                               |
+| * Players new to Avendar, or to MUDs in general, have additional help    |
+|   available to them in-game if they need it.                             |
+| * Answering 'yes' to this question will also slightly simplify character |
+|   creation, removing advanced options that could be harmful for the      |
+|   inexperienced.                                                         |
+\--------------------------------------------------------------------------/
+Are you new to Avendar: The Crucible of Legends? 
+y
+
+/--------------------------------------------------------------------------\
+|                            Welcome to Avendar!                           |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| We will now ask you a series of questions which will help shape your     |
+| initial character.  Once you have finished answering them, you will be   |
+| placed in a tutorial area to help you get comfortable with the basics.   |
+| Don't worry; while it may be a lot of information to take in, there are  |
+| many resources at your disposal.                                         |
+|--------------------------------------------------------------------------|
+| * In-game OOC (out of character) prompts designed for new players.       |
+| * The help system, available while playing and also on the website.      |
+| * The newbie channel, where other players can answer your questions.     |
+\--------------------------------------------------------------------------/
+
+[ Press Enter to continue ]
+
+/--------------------------------------------------------------------------\
+|                        The Lineages of Avendar                           |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| Human:     Gregarious and flexible, known as great empire-builders.      |
+| Aelin:     Slight with feathered wings, known for their grace and pride. |
+| Alatharya: Giants with silvery skin, the First People cannot use magic.  |
+| Caladaran: Sagely, tree-like people famed for their monastic traditions. |
+| Chaja:     Caprine and reclusive giants with wooly hair and small horns. |
+| Ch'taren:  Curious and alien beings the golden hue of their auras.       |
+| Ethron:    Small, amphibious plant-loving people with colourful skin.    |
+| Nefortu:   Chiropteran people known for their cunning and alacrity.      |
+| Shuddeni:  Eyeless subterranean marsupials connected to demonkind.       |
+| Srryn:     Bipedal reptiles known for adaptability and territoriality.   |
+|                                                                          |
+| All lineages are physically humanoid but different species. Hybrids do   |
+| not exist. All characters roll up at the age of mental and physical      |
+| maturity for their lineage, which may vary between species.              |
+|                                                                          |
+| Each lineage will have different innate traits (such as flight or        |
+| darkvision) and a different spread of maximum statistics. For more       |
+| information, including a table of max stats, see HELP STATISTICS.        |
+
+Select your lineage (help for more information)? [Hit Return to continue]
+chaja
+chaja
+/--------------------------------------------------------------------------\
+|                                  Chaja                                   |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| Most chaja communities live in isolated strongholds in the Brintor       |
+| mountains, ordering their lives by the stars.  Owing to this isolation,  |
+| chaja are most widely known across Avendar for their use by the shuddeni |
+| as slaves, particularly during the War of Night.  Chaja are caprine      |
+| giants with wooly hair covering most of their bodies, uniformly pale     |
+| eyes, and small, nubby horns.  They are nearly as tall as the alatharya, |
+| but have rounder, softer bodies with little muscle definition.  Their    |
+| size allows them to wield two-handed weapons in a single hand.  They     |
+| can see in darkness, and may safely eat nearly anything.  For more       |
+| information, read HELP CHAJA.                                            |
+\--------------------------------------------------------------------------/
+
+Are you sure this is the lineage you wish to choose? 
+y
+
+/--------------------------------------------------------------------------\
+|                                  Gender                                  |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| You may choose the gender of your character during creation.  We allow   |
+| characters to create as neutral-gender; the pronoun 'they' will be used  |
+| for such characters.                                                     |
+\--------------------------------------------------------------------------/
+
+How would you like to be addressed (M/F/N)? 
+m
+
+/--------------------------------------------------------------------------\
+|                        The Professions of Avendar                        |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| Warriors:    Uses brute force or combat expertise to their advange.      |
+|              Includes fighters, swordmasters, and gladiators.            |
+| Rogues:      Rely on stealth, concealment, and cunning to achieve their  |
+|              goals. Includes thieves, bandits, and bards.                |
+| Scholars:    Mages who are schooled in elemental magic. They may study   |
+|              the spheres of Fire, Water, Earth, Air, Spirit, or Void.    |
+| Templars:    Spellswords who forgo mastery to blend their talents. They  |
+|              study one of the six elemental spheres.                     |
+| Naturalists: Devotees of the wild who are strongest outdoors. Includes   |
+|              rangers, barbarians, and druids.                            |
+| Mentalists:  Disciples of the mind who learn psionic abilities. Includes |
+|              assassins, watchers, and psionicists.                       |
+\--------------------------------------------------------------------------/
+
+Select an available profession from those listed below.
+ [Scholar Templar Rogue Warrior Naturalist Mentalist ]: 
+warrior
+
+/--------------------------------------------------------------------------\
+|                              Warrior Classes                             |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| Fighter:     Soldiers and mercenaries trained by one of Avendar's city   |
+|              militias, who focus on formations and phalanxes.            |
+| Swordmaster: Students of the ancient ak'anginta, they devote themselves  |
+|              entirely to the sword, becoming their unrivaled masters.    |
+| Gladiator:   Pit-fighters trained in showy combat techniques, they are   |
+|              as charismatic as they are deadly.                          |
+\--------------------------------------------------------------------------/
+
+Available classes are: 
+ [ fighter swordmaster gladiator ] (or 'back' to choose again) 
+
+Which of these classes do you wish to follow? 
+gladiator
+
+/--------------------------------------------------------------------------\
+|                                Alignment                                 |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| You must designate an alignment for your character during the creation   |
+| process.  While this is primarily a roleplay device, the alignments      |
+| available to you are dependent on your race and class selection.  During |
+| play, your alignment may help or hinder you when gaining experience.     |
+| More information on individual alignments is available in our tutorial   |
+| area.                                                                    |
+\--------------------------------------------------------------------------/
+
+Choose one of the following [ Good Neutral Evil ]: 
+e
+
+/--------------------------------------------------------------------------\
+|                                  Ethos                                   |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| In addition to alignment, you must also designate an ethos for your new  |
+| character.  This is a roleplay device which acts as a modifier on the    |
+| alignment you have chosen.  The ethoi available to you is dependent upon |
+| your race and class selection.  Additional information on particular     |
+| ethos and alignment combinations is in our tutorial area.                |
+\--------------------------------------------------------------------------/
+
+Choose one of the following [ Lawful Neutral Chaotic ]: 
+n
+
+/--------------------------------------------------------------------------\
+|                                Hometowns                                 |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| During the creation process, you must specify a location which your      |
+| character considers home.  There are a number of cities, towns, and      |
+| settlements to choose from.  Some locations are more accessible, while   |
+| others have special bonuses or features.  When you die, your character's |
+| ghost will reappear at an altar in their hometown.                       |
+\--------------------------------------------------------------------------/
+
+As a new player, your starting city will be Var Bandor.
+[ Press Enter to Continue ]
+
+/--------------------------------------------------------------------------\
+|                             Trait Selection                              |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| Traits represent unusual abilities, training, or expertise in a niche    |
+| area.  Many classes automatically receive one or more traits for free    |
+| during creation, which represents part of your character's training      |
+| during their time in the School of Heroes.                               |
+|                                                                          |
+| You have five total points to spend on traits. Religion and god touch    |
+| is the last step in character creation; please remember to keep 3 of     |
+| your trait points if you desire a god touch. For a mechanical breakdown  |
+| of each, please see HELP TRAITS and HELP GOD TOUCH.                      |
+\--------------------------------------------------------------------------/
+
+Select from the following groups of traits: 
+background
+general
+magical
+physical
+
+Please enter a group name, or 'done' to exit: 
+    
+[ ALERT ] - Socket got disconnected.
+            Reason: User Disconnected
+[ INFO ]  - Connection time: 00:03:17.767
+                
+[ INFO ]  - Looking up the IP address of server: avendar.net:9999 ...
+[  OK  ]  - Mudlet-lua API & Geyser Layout manager loaded.
+[ INFO ]  - Reading map. Format version: 20. File:
+            "C:/Users/wilds/.config/mudlet/profiles/PANTHEON1/map/2025-08-21#20-37-16map.dat",
+            please wait...
+[ INFO ]  - The IP address of avendar.net has been found. It is: 74.91.112.143
+[ INFO ]  - Trying to connect to 74.91.112.143:9999 ...
+[ INFO ]  - Successfully read the map file (0.02s), checking some
+            consistency details...
+[ INFO ]  - Map audit starting...
+[  OK  ]  - Auditing of map completed (0.00s). Enjoy your game...
+[  OK  ]  - Map loaded successfully (0.02s).
+[ INFO ]  - Looking up the IP address of server: avendar.net:9999 ...
+[ INFO ]  - The IP address of avendar.net has been found. It is: 74.91.112.143
+[ INFO ]  - Trying to connect to 74.91.112.143:9999 ...
+[ INFO ]  - A connection has been established successfully.
+                
+                
+
+          <| 
+           A              
+          /.          
+     \<|  [""M#         
+      A   | #                   AVENDAR: THE CRUCIBLE OF LEGENDS 
+     /. \[""M#                         [avendar.net 9999] 
+    [""M# | #  U"U#U                  
+     | #  | #   \.:/    Original DikuMUD by Hans Staerfeldt, Katja Nyboe, 
+     | #  | #___| #     Tom Madsen, Michael Seifert, and Sebastian Hammer 
+     | "--'     .-"     Based on MERC 2.1 code by Hatchet, Furey, and Kahn 
+   |"-"-"-"-"-#-#-##    ROM 2.4 copyright (c) 1993-1996 Russ Taylor 
+   |     # ## ######      
+           \.::::'/     Avendar created by Matt Wallace, Thane Williams, 
+           \::::'/      and Brandon Downey.  See HELP AVENDAR for more. 
+   :8a|    # # ##       
+   ::88a      ###       Avendar is maintained and developed by the Avendar 
+  ::::888a  8a ##::.                   Immortal staff. 
+  ::::::888a88a[]:::: 
+ :::::::::SUNDOGa8a::::. ..               
+ :::::8::::888:Y8888:::::::::...       
+::':::88::::888::Y88a______________________________________________________ 
+:: ::::88a::::88a:Y88a                                  __---__-- __ 
+' .: ::Y88a:::::8a:Y88a                            __----_-- -------_-__ 
+  :' ::::8P::::::::::88aa.                   _ _- --  --_ --- __  --- __-- 
+,::  :::::::::::::::::::Y88as88a...s88aa.
+
+Under what name shall your deeds be recorded?
+Account 'Tyeric' logging in.  Password: 
+
+
+The following characters are currently associated with this account:
+
+Qeqskil
+Feythis
+Khuruin
+Rhuinzek
+
+To create a new character, enter an original name at the following prompt.
+Enter character name to use: 
+Pyruin
+We don't have a character named Pyruin.
+Attach new character Pyruin to account Tyeric (y/n)? 
+y
+/--------------------------------------------------------------------------\
+|                              Name Guidelines                             |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| * Avendar is an early modern-era fantasy roleplaying game.               |
+| * Real life names are allowed, but references to real people are not.    |
+| * All character names must be unique and may not reference other         |
+|   settings or works of fiction outside Avendar.                          |
+| * For more detailed information and examples, see HELP NAME.             |
+\--------------------------------------------------------------------------/
+
+Does your name fit these conditions? 
+y
+/--------------------------------------------------------------------------\
+|                           Surname Guidelines                             |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| * Surnames may be chosen at creation, but are not required.              |
+| * Refer to the same general rules as a given name.                       |
+| * Unusual capitalization, such as MacDugal or a'Ganylosha, is allowed.   |
+| * Surnames may contain spaces; be reasonable about it.                   |
+| * For more detailed information and examples, read HELP NAME.            |
+\--------------------------------------------------------------------------/
+
+Please enter a surname (enter for none): 
+Veda
+
+"Pyruin Veda", is this correct? 
+y
+
+/--------------------------------------------------------------------------\
+|                                  Color                                   |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| Avendar, like most MUDs, uses colored text to help highlight what is     |
+| happening during play.  This includes communication channels, damage     |
+| dealt or received, and many other uses.  Regardless of your selection,   |
+| it may be toggled at any time with the 'colour' command.                 |
+\--------------------------------------------------------------------------/
+
+Do you wish to use ANSI color? 
+y
+
+/--------------------------------------------------------------------------\
+|                            Password Selection                            |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| * Avoid using passwords that are easily guessed, both in character and   |
+|   in real life.                                                          |
+| * Don't use your birthday, real name, your character's name, or any      |
+|   permutation thereof.                                                   |
+| * Don't use dictionary words as passwords, unless you append additional  |
+|   letters or numbers.                                                    |
+| * Do not forget your password.                                           |
+\--------------------------------------------------------------------------/
+
+Enter a password for Pyruin: 
+
+Please retype password: 
+
+
+/--------------------------------------------------------------------------\
+|                               Online Help                                |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| * The online help system is available to you while you make decisions    |
+|   about your character.                                                  |
+| * To access it, type HELP or HELP <topic>.                               |
+| * Players new to Avendar, or to MUDs in general, have additional help    |
+|   available to them in-game if they need it.                             |
+| * Answering 'yes' to this question will also slightly simplify character |
+|   creation, removing advanced options that could be harmful for the      |
+|   inexperienced.                                                         |
+\--------------------------------------------------------------------------/
+Are you new to Avendar: The Crucible of Legends? 
+n
+
+[ Press Enter to continue ]
+
+/--------------------------------------------------------------------------\
+|                        The Lineages of Avendar                           |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| Human:     Gregarious and flexible, known as great empire-builders.      |
+| Aelin:     Slight with feathered wings, known for their grace and pride. |
+| Alatharya: Giants with silvery skin, the First People cannot use magic.  |
+| Caladaran: Sagely, tree-like people famed for their monastic traditions. |
+| Chaja:     Caprine and reclusive giants with wooly hair and small horns. |
+| Ch'taren:  Curious and alien beings the golden hue of their auras.       |
+| Ethron:    Small, amphibious plant-loving people with colourful skin.    |
+| Nefortu:   Chiropteran people known for their cunning and alacrity.      |
+| Shuddeni:  Eyeless subterranean marsupials connected to demonkind.       |
+| Srryn:     Bipedal reptiles known for adaptability and territoriality.   |
+|                                                                          |
+| All lineages are physically humanoid but different species. Hybrids do   |
+| not exist. All characters roll up at the age of mental and physical      |
+| maturity for their lineage, which may vary between species.              |
+|                                                                          |
+| Each lineage will have different innate traits (such as flight or        |
+| darkvision) and a different spread of maximum statistics. For more       |
+| information, including a table of max stats, see HELP STATISTICS.        |
+
+Select your lineage (help for more information)? [Hit Return to continue]
+chaja
+chaja
+/--------------------------------------------------------------------------\
+|                                  Chaja                                   |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| Most chaja communities live in isolated strongholds in the Brintor       |
+| mountains, ordering their lives by the stars.  Owing to this isolation,  |
+| chaja are most widely known across Avendar for their use by the shuddeni |
+| as slaves, particularly during the War of Night.  Chaja are caprine      |
+| giants with wooly hair covering most of their bodies, uniformly pale     |
+| eyes, and small, nubby horns.  They are nearly as tall as the alatharya, |
+| but have rounder, softer bodies with little muscle definition.  Their    |
+| size allows them to wield two-handed weapons in a single hand.  They     |
+| can see in darkness, and may safely eat nearly anything.  For more       |
+| information, read HELP CHAJA.                                            |
+\--------------------------------------------------------------------------/
+
+Are you sure this is the lineage you wish to choose? 
+y
+
+/--------------------------------------------------------------------------\
+|                                  Gender                                  |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| You may choose the gender of your character during creation.  We allow   |
+| characters to create as neutral-gender; the pronoun 'they' will be used  |
+| for such characters.                                                     |
+\--------------------------------------------------------------------------/
+
+How would you like to be addressed (M/F/N)? 
+m
+
+/--------------------------------------------------------------------------\
+|                        The Professions of Avendar                        |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| Warriors:    Uses brute force or combat expertise to their advange.      |
+|              Includes fighters, swordmasters, and gladiators.            |
+| Rogues:      Rely on stealth, concealment, and cunning to achieve their  |
+|              goals. Includes thieves, bandits, and bards.                |
+| Scholars:    Mages who are schooled in elemental magic. They may study   |
+|              the spheres of Fire, Water, Earth, Air, Spirit, or Void.    |
+| Templars:    Spellswords who forgo mastery to blend their talents. They  |
+|              study one of the six elemental spheres.                     |
+| Naturalists: Devotees of the wild who are strongest outdoors. Includes   |
+|              rangers, barbarians, and druids.                            |
+| Mentalists:  Disciples of the mind who learn psionic abilities. Includes |
+|              assassins, watchers, and psionicists.                       |
+\--------------------------------------------------------------------------/
+
+Select an available profession from those listed below.
+ [Scholar Templar Rogue Warrior Naturalist Mentalist ]: 
+warrior
+
+/--------------------------------------------------------------------------\
+|                              Warrior Classes                             |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| Fighter:     Soldiers and mercenaries trained by one of Avendar's city   |
+|              militias, who focus on formations and phalanxes.            |
+| Swordmaster: Students of the ancient ak'anginta, they devote themselves  |
+|              entirely to the sword, becoming their unrivaled masters.    |
+| Gladiator:   Pit-fighters trained in showy combat techniques, they are   |
+|              as charismatic as they are deadly.                          |
+\--------------------------------------------------------------------------/
+
+Available classes are: 
+ [ fighter swordmaster gladiator ] (or 'back' to choose again) 
+
+Which of these classes do you wish to follow? 
+gladiator
+
+/--------------------------------------------------------------------------\
+|                                Alignment                                 |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| You must designate an alignment for your character during the creation   |
+| process.  While this is primarily a roleplay device, the alignments      |
+| available to you are dependent on your race and class selection.  During |
+| play, your alignment may help or hinder you when gaining experience.     |
+| More information on individual alignments is available in our tutorial   |
+| area.                                                                    |
+\--------------------------------------------------------------------------/
+
+Choose one of the following [ Good Neutral Evil ]: 
+e
+
+/--------------------------------------------------------------------------\
+|                                  Ethos                                   |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| In addition to alignment, you must also designate an ethos for your new  |
+| character.  This is a roleplay device which acts as a modifier on the    |
+| alignment you have chosen.  The ethoi available to you is dependent upon |
+| your race and class selection.  Additional information on particular     |
+| ethos and alignment combinations is in our tutorial area.                |
+\--------------------------------------------------------------------------/
+
+Choose one of the following [ Lawful Neutral Chaotic ]: 
+n
+
+/--------------------------------------------------------------------------\
+|                                Hometowns                                 |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| During the creation process, you must specify a location which your      |
+| character considers home.  There are a number of cities, towns, and      |
+| settlements to choose from.  Some locations are more accessible, while   |
+| others have special bonuses or features.  When you die, your character's |
+| ghost will reappear at an altar in their hometown.                       |
+\--------------------------------------------------------------------------/
+
+You may pick one of the following hometowns:
+
+Var Bandor
+Earendam
+
+From which location do you hail? 
+earendam
+/--------------------------------------------------------------------------\
+|                             Trait Selection                              |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| Traits represent unusual abilities, training, or expertise in a niche    |
+| area.  Many classes automatically receive one or more traits for free    |
+| during creation, which represents part of your character's training      |
+| during their time in the School of Heroes.                               |
+|                                                                          |
+| You have five total points to spend on traits. Religion and god touch    |
+| is the last step in character creation; please remember to keep 3 of     |
+| your trait points if you desire a god touch. For a mechanical breakdown  |
+| of each, please see HELP TRAITS and HELP GOD TOUCH.                      |
+\--------------------------------------------------------------------------/
+
+Select from the following groups of traits: 
+background
+general
+magical
+physical
+
+Please enter a group name, or 'done' to exit: 
+background
+
+The following background traits are available:
+
+aristocrat: When you have matured some, you will be granted an inheritance from your estate. (2
+trains)
+weapon maintenance: You are trained to repair metal weapons when they are damaged. (1 train)
+streetwise: A life spent growing up on the streets has left you wise to many common tricks. (2
+trains)
+thieves cant: You know the silent hand signal language of thieves. (1 train)
+mortician: You are quite skilled at dismembering and dissecting corpses. (1 train)
+loremaster: You have studied extensively, and have a mastery of rare lore and esoterica. (1 train)
+forger: You have studied and practiced various methods of forgery. (1 train)
+
+Please select a trait, or 'back' to return to group select: 
+loremaster
+Trait 'loremaster' selected.  This trait costs 1 train.
+This would reduce your starting trains to 4.  Are you sure? 
+y
+Trait 'loremaster' added to character.
+Do you wish to continue selecting traits? 
+y
+
+
+Select from the following groups of traits:
+
+background
+general
+magical
+physical
+
+Please enter a group name, or 'done' to exit: 
+general
+
+The following general traits are available:
+
+brave: You are braver than most in the face of danger. (2 trains)
+cowardly: You are a coward, adept at escaping danger. (1 train)
+cynic: You are difficult to fool. (2 trains)
+frugal: You are quite persuasive when it comes to bartering with merchants. (1 train)
+linguistic: You can more easily hear the subtle variations in different languages, and learn them at
+a faster rate than most people. (1 train)
+
+Please select a trait, or 'back' to return to group select: 
+frugal
+Trait 'frugal' selected.  This trait costs 1 train.
+This would reduce your starting trains to 3.  Are you sure? 
+y
+Trait 'frugal' added to character.
+Do you wish to continue selecting traits? 
+y
+
+
+Select from the following groups of traits:
+
+background
+general
+magical
+physical
+
+Please enter a group name, or 'done' to exit: 
+magical
+
+The following magical traits are available:
+
+gifted: You may attempt to cast spells you do not have the energy for. (1 train)
+obscure: No one can make out the arcane words used in casting your spells. (1 train)
+pious: You can recall when not affected by adrenaline, and have a greater chance of reward when you
+sacrifice items. (2 trains)
+
+Please select a trait, or 'back' to return to group select: 
+back
+
+Select from the following groups of traits:
+
+background
+general
+magical
+physical
+
+Please enter a group name, or 'done' to exit: 
+physical
+
+The following physical traits are available:
+
+ambidextrous: You are good at balancing your weapons, when fighting with two. (2 trains)
+charming: You have the potential to be extraordinarily charismatic. (2 trains)
+cold-natured: You don't really notice cold weather. (1 train)
+eagle-eyed: You have sharp vision, allowing you to see further. (2 trains)
+endurance: You can go longer without drink and nourishment. (1 train)
+hollow leg: You can eat more than most before you get full. (1 train)
+long-lived: You're likely to have a longer than average lifespan. (1 train)
+survivor: You have a firm grasp on the material world, and will resist your final death longer than
+others. (1 train)
+light sleeper: You can sense nearby activity while sleeping. (1 train)
+
+Please select a trait, or 'back' to return to group select: 
+ambidextrous
+Trait 'ambidextrous' selected.  This trait costs 2 trains.
+This would reduce your starting trains to 1.  Are you sure? 
+y
+Trait 'ambidextrous' added to character.
+Do you wish to continue selecting traits? 
+y
+
+
+Select from the following groups of traits:
+
+background
+general
+magical
+physical
+
+Please enter a group name, or 'done' to exit: 
+background
+
+The following background traits are available:
+
+weapon maintenance: You are trained to repair metal weapons when they are damaged. (1 train)
+thieves cant: You know the silent hand signal language of thieves. (1 train)
+mortician: You are quite skilled at dismembering and dissecting corpses. (1 train)
+forger: You have studied and practiced various methods of forgery. (1 train)
+
+Please select a trait, or 'back' to return to group select: 
+back
+
+Select from the following groups of traits:
+
+background
+general
+magical
+physical
+
+Please enter a group name, or 'done' to exit: 
+general
+
+The following general traits are available:
+
+cowardly: You are a coward, adept at escaping danger. (1 train)
+linguistic: You can more easily hear the subtle variations in different languages, and learn them at
+a faster rate than most people. (1 train)
+
+Please select a trait, or 'back' to return to group select: 
+back
+
+Select from the following groups of traits:
+
+background
+general
+magical
+physical
+
+Please enter a group name, or 'done' to exit: 
+physical
+
+The following physical traits are available:
+
+cold-natured: You don't really notice cold weather. (1 train)
+endurance: You can go longer without drink and nourishment. (1 train)
+hollow leg: You can eat more than most before you get full. (1 train)
+long-lived: You're likely to have a longer than average lifespan. (1 train)
+survivor: You have a firm grasp on the material world, and will resist your final death longer than
+others. (1 train)
+light sleeper: You can sense nearby activity while sleeping. (1 train)
+
+Please select a trait, or 'back' to return to group select: 
+endurance
+Trait 'endurance' selected.  This trait costs 1 train.
+This would reduce your starting trains to 0.  Are you sure? 
+y
+Trait 'endurance' added to character.
+
+/--------------------------------------------------------------------------\
+|                              God Selection                               |
+\--------------------------------------------------------------------------/
+/--------------------------------------------------------------------------\
+| If you wish, you may declare your character as associated with a one of  |
+| Avendar's deities upon creation.  While this choice will be invisible to |
+| other players, it will be available for the consideration of staff.  By  |
+| specifying a deity now, any sacrifices you make to that deity will lead  |
+| to greater responses than they would otherwise receive.                  |
+\--------------------------------------------------------------------------/
+
+Do you wish to select a god to follow? 
+y
+
+You may pick from the following list of gods:
+Arkhural
+Ashur
+Bayyal
+Elanthe
+Fenthira
+Kurion
+Lilune
+Serachel
+Sitheus
+Sythrak
+
+Select a god, or type 'cancel' to continue: 
+kurion
+
+[ Press Enter to continue ]
+
+
+/--------------------------------------------------------------------------\
+| Pyruin Veda the Initiate of the Arena                                    |
+\--------------------------------------------------------------------------/
+/-------------\/-----------------------------------------------------------\
+| Str: 19(19) || Lineage: chaja       Class: gladiator       Level:  1     |
+| Int: 11(11) || Gender : male        Age  : 16 (youthful)   Hours: 0      |
+| Wis: 11(11) ||                                                           |
+| Dex: 17(17) || Hit : 100/100        Experience : 1800      Hitroll: 8    |
+| Con: 17(17) || Mana: 100/100        Exper/level: 1300      Damroll: 10   |
+| Chr: 11(11) || Move: 100/100        Exploration: 0         Saves  : -3   |
+\-------------/\-----------------------------------------------------------/
+/-------------------------------------\/-----------------------------------\
+| Resonance: Faint Red Aura           || Items : 0     Max Items : 100     |
+| Alignment: Neutral Evil             || Weight: 0     Max Weight: 406     |
+| Total AC : very vulnerable   (132)  || Wealth: 100c                      |
+\-------------------------------------/\-----------------------------------/
+/--------------------------------------------------------------------------\
+| You were born at 5 o'clock, Iolenday, 32nd day of The Sundering.         |
+| You are getting hungry.                                                  |
+| You are ambidextrous.                                                    |
+| You gain mana for successful melee attacks.                              |
+| You have a strong endurance.                                             |
+| You are fleet.                                                           |
+| You are frugal.                                                          |
+| You have an iron stomach.                                                |
+| You are skilled with exotic weapons.                                     |
+| You are well-versed in the ancient lore.                                 |
+\--------------------------------------------------------------------------/
+
+Are you satisfied with this character? 
+y
+Character accepted.
+-------------- READ THE MOTD -- Last Modified: Apr 2025 -------------------
+|                                                                         |
+| . -You are responsible for knowing the rules-. See "help RULES".        |
+|                                                                         |
+| . For more information and discussion about the game, see:              |
+|                                                                         |
+|     . The Avendar Website:      https://avendar.net                     |
+|     . The Avendar Discord:      http://discord.gg/DXsZwVBsBV            |
+|                                                                         |
+| . The changelog (type CHANGES) is updated regularly with updates to     |
+|   Avendar.  Last Updated: 29 Apr 2025                                   |
+|                                                                         |
+| . Avendar is currently presented AS-IS. You may encounter errors or     |
+|   bugs. It is YOUR RESPONSIBILITY to not exploit them.                  |
+|                                                                         |
+---------------------------------------------------------------------------
+y
+
+You open your eyes and cast your gaze upon the land.
+You gained 1 exploration point and 50 experience points!
+
+Welcome!  If you are new to MUDs, you may want to read "help starting".  
+
+The Beginning
+  The School of Heroes is hidden in a remote valley in the Yagash
+Mountains, and the cold bite of high elevation swirls around you under a
+perpetually overcast sky.  Gilded symbols of the gods Dolgrael, Lilune, and
+Jolinn have been lovingly sculpted into massive doors of dark basalt that
+lock fast behind you.  There is no way back; only forward.  
+
+Whether due to triumph or tragedy, a drive to desperate heroism or sadistic
+villainy, you have come to this remote place and secured your adventurer's
+license from the School of Heroes.  You have completed your official
+training and registration and stand now before the Tower of Testing, where
+your final practical examinations await you.  
+
+You may leave through the portals connected to different towns on the
+continent of Avendar in the Tower of Testing ahead, but you are encouraged
+to proceed with your practical examination, as it will impart many valuable
+skills and items for your life ahead.  
+
+[OOC: Welcome to Avendar!  You may type HELP to access our help system
+and the NEWBIE channel is available to request out-of-character
+assistance from staff or other players.]
+
+[Exits: north]
+Type "newbie" if you wish to enable the global new players channel.
+You have 1 new note waiting.
+
+prompt 
+prompt all
+Prompt set to <%hhp %mm %vmv> 
+
+whe
+<100hp 100m 100mv> 
+Notables in Avendar (currently in The School of Heroes):
+
+Total found: 0
+
+who
+<100hp 100m 100mv> [ 1 Gla] Pyruin Veda the Initiate of the Arena
+
+Players found: 1
+

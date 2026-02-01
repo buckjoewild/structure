@@ -1,0 +1,150 @@
+Log session starting at 19:34:41 on Saturday, 16 August 2025.
+[  OK  ]  - Mudlet-lua API & Geyser Layout manager loaded.
+[ INFO ]  - Reading map. Format version: 20. File:
+            "C:/Users/wilds/.config/mudlet/profiles/PANTHEON1/map/2025-08-16#18-42-20map.dat",
+            please wait...
+[ INFO ]  - Successfully read the map file (0.01s), checking some
+            consistency details...
+[ INFO ]  - Map audit starting...
+[  OK  ]  - Auditing of map completed (0.00s). Enjoy your game...
+[  OK  ]  - Map loaded successfully (0.01s).
+[ INFO ]  - Looking up the IP address of server: avendar.net:9999 ...
+[ INFO ]  - The IP address of avendar.net has been found. It is: 74.91.112.143
+[ INFO ]  - Trying to connect to 74.91.112.143:9999 ...
+[ INFO ]  - A connection has been established successfully.
+                
+                
+
+          <| 
+           A              
+          /.          
+     \<|  [""M#         
+      A   | #                   AVENDAR: THE CRUCIBLE OF LEGENDS 
+     /. \[""M#                         [avendar.net 9999] 
+    [""M# | #  U"U#U                  
+     | #  | #   \.:/    Original DikuMUD by Hans Staerfeldt, Katja Nyboe, 
+     | #  | #___| #     Tom Madsen, Michael Seifert, and Sebastian Hammer 
+     | "--'     .-"     Based on MERC 2.1 code by Hatchet, Furey, and Kahn 
+   |"-"-"-"-"-#-#-##    ROM 2.4 copyright (c) 1993-1996 Russ Taylor 
+   |     # ## ######      
+           \.::::'/     Avendar created by Matt Wallace, Thane Williams, 
+           \::::'/      and Brandon Downey.  See HELP AVENDAR for more. 
+   :8a|    # # ##       
+   ::88a      ###       Avendar is maintained and developed by the Avendar 
+  ::::888a  8a ##::.                   Immortal staff. 
+  ::::::888a88a[]:::: 
+ :::::::::SUNDOGa8a::::. ..               
+ :::::8::::888:Y8888:::::::::...       
+::':::88::::888::Y88a______________________________________________________ 
+:: ::::88a::::88a:Y88a                                  __---__-- __ 
+' .: ::Y88a:::::8a:Y88a                            __----_-- -------_-__ 
+  :' ::::8P::::::::::88aa.                   _ _- --  --_ --- __  --- __-- 
+,::  :::::::::::::::::::Y88as88a...s88aa.
+
+Under what name shall your deeds be recorded?
+Account 'Tyeric' logging in.  Password: 
+
+
+The following characters are currently associated with this account:
+
+Qeqskil
+Veljik
+Kephautis
+
+To create a new character, enter an original name at the following prompt.
+Enter character name to use: 
+kephautis
+Password: 
+
+-------------- READ THE MOTD -- Last Modified: Apr 2025 -------------------
+|                                                                         |
+| . -You are responsible for knowing the rules-. See "help RULES".        |
+|                                                                         |
+| . For more information and discussion about the game, see:              |
+|                                                                         |
+|     . The Avendar Website:      https://avendar.net                     |
+|     . The Avendar Discord:      http://discord.gg/DXsZwVBsBV            |
+|                                                                         |
+| . The changelog (type CHANGES) is updated regularly with updates to     |
+|   Avendar.  Last Updated: 29 Apr 2025                                   |
+|                                                                         |
+| . Avendar is currently presented AS-IS. You may encounter errors or     |
+|   bugs. It is YOUR RESPONSIBILITY to not exploit them.                  |
+|                                                                         |
+---------------------------------------------------------------------------
+achilles
+
+You open your eyes and cast your gaze upon the land.
+You received 135 experience today.
+Dretch Street
+  The dingy cobbled street is narrow and flanked by looming tenements or
+ancient houses, many hollowed out by flame or disrepair.  Spherical
+magelights shine day and night atop tall iron poles, illuminating the
+perpetual muck that accumulates on the road.  The smell of baking bread
+drifts out of the building to the south.  
+
+[Exits: east south west]
+You have 1 new note waiting.
+
+<187hp 157m 28mv> 
+whe
+Notables in Avendar (currently in Var Bandor):
+  Kephautis                  Dretch Street                     [present]    
+
+Total found: 1
+
+who
+<187hp 157m 28mv> [ 6 Swo] Kephautis v'Eda the Swift-Blade
+
+Players found: 1
+
+note
+<187hp 157m 28mv> 
+[  0] Iandir: Welcome to Avendar
+Tue Oct 29 22:51:07 2024
+To: all immortal
+Welcome to Avendar.  Whether this is your first character or the latest
+of many, we appreciate you joining us.  If you have not played in some time,
+be aware that there have been significant changes to classes, lineages,
+skills, spells, items, encounters, and the world in general.  Many things
+may be very different from how you remember them being.  
+
+A summary of some of our recent updates:
+
+- Most restrictions on possible lineage and class combinations have been
+removed.  
+
+- Stats, HP, and MP may no longer be trained.  HP/MP is now based on class
+alone.  Stats will automatically advance as you level.  Please see HELP
+STATS for more information.  
+
+- Skill practicing is now decoupled from stats.  Most skills will now always
+practice to 75%.  
+
+- All stats have been rebalanced and what each stat does has changed. 
+Please see HELP STATS for more information.  
+
+- All bonuses and penalties to experience gain based on resonance/aura have
+[Hit Return to continue]
+
+been removed.  This will still affect your own aura.  
+
+- Girikha is dead, slain by adventurers by command of Iandir.  
+
+- The saint/demigod Calaera no longer acts as an independent deity, and no
+longer issues sigils or god touches.  
+
+- The sacrifice and god touch mechanics have both been significantly
+revised.  Please see HELP SACRIFICE and HELP GOD TOUCH for more information.
+
+- The Guardians of Law are no longer a Great House.  - The role of Great
+Houses and their criteria for joining has changed.  Please see HELP GREAT
+HOUSE for more information.  
+
+- Kankoran are in the process of being removed entirely from Avendar and
+their existence retconned.  Kankoran NPCs still exist for now as do
+references to kankoran, but all are in the process of being rewritten, and
+new kankoran PCs may not be made.  Please see HELP KANKORAN for more
+information.  
+
+- Most lineages have been given significant expansions to their histories,

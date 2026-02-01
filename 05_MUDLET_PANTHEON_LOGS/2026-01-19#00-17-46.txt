@@ -1,0 +1,763 @@
+Log session starting at 00:17:46 on Monday, 19 January 2026.
+[  OK  ]  - Mudlet-lua API & Geyser Layout manager loaded.
+[ INFO ]  - Reading map. Format version: 20. File:
+            "C:/Users/wilds/.config/mudlet/profiles/PANTHEON1/map/2026-01-18#21-02-41map.dat",
+            please wait...
+[ INFO ]  - Successfully read the map file (0.01s), checking some
+            consistency details...
+[ INFO ]  - Map audit starting...
+[  OK  ]  - Auditing of map completed (0.00s). Enjoy your game...
+[  OK  ]  - Map loaded successfully (0.01s).
+[ INFO ]  - Looking up the IP address of server: avendar.net:9999 ...
+[ INFO ]  - The IP address of avendar.net has been found. It is: 144.208.64.82
+[ INFO ]  - Trying to connect to 144.208.64.82:9999 ...
+[ INFO ]  - A connection has been established successfully.
+                
+                
+
+          <| 
+           A              
+          /.          
+     \<|  [""M#         
+      A   | #                   AVENDAR: THE CRUCIBLE OF LEGENDS 
+     /. \[""M#                         [avendar.net 9999] 
+    [""M# | #  U"U#U                  
+     | #  | #   \.:/    Original DikuMUD by Hans Staerfeldt, Katja Nyboe, 
+     | #  | #___| #     Tom Madsen, Michael Seifert, and Sebastian Hammer 
+     | "--'     .-"     Based on MERC 2.1 code by Hatchet, Furey, and Kahn 
+   |"-"-"-"-"-#-#-##    ROM 2.4 copyright (c) 1993-1996 Russ Taylor 
+   |     # ## ######      
+           \.::::'/     Avendar created by Matt Wallace, Thane Williams, 
+           \::::'/      and Brandon Downey.  See HELP AVENDAR for more. 
+   :8a|    # # ##       
+   ::88a      ###       Avendar is maintained and developed by the Avendar 
+  ::::888a  8a ##::.                   Immortal staff. 
+  ::::::888a88a[]:::: 
+ :::::::::SUNDOGa8a::::. ..               
+ :::::8::::888:Y8888:::::::::...       
+::':::88::::888::Y88a______________________________________________________ 
+:: ::::88a::::88a:Y88a                                  __---__-- __ 
+' .: ::Y88a:::::8a:Y88a                            __----_-- -------_-__ 
+  :' ::::8P::::::::::88aa.                   _ _- --  --_ --- __  --- __-- 
+,::  :::::::::::::::::::Y88as88a...s88aa.
+
+Under what name shall your deeds be recorded?
+Account 'Tyeric' logging in.  Password: 
+
+
+The following characters are currently associated with this account:
+
+Bheyuk
+
+To create a new character, enter an original name at the following prompt.
+Enter character name to use: 
+bheyuk
+Password: 
+
+-------------- READ THE MOTD -- Last Modified: Apr 2025 -------------------
+|                                                                         |
+| . -You are responsible for knowing the rules-. See "help RULES".        |
+|                                                                         |
+| . For more information and discussion about the game, see:              |
+|                                                                         |
+|     . The Avendar Website:      https://avendar.net                     |
+|     . The Avendar Discord:      http://discord.gg/DXsZwVBsBV            |
+|                                                                         |
+| . The changelog (type CHANGES) is updated regularly with updates to     |
+|   Avendar.  Last Updated: 29 Apr 2025                                   |
+|                                                                         |
+| . Avendar is currently presented AS-IS. You may encounter errors or     |
+|   bugs. It is YOUR RESPONSIBILITY to not exploit them.                  |
+|                                                                         |
+---------------------------------------------------------------------------
+whe
+
+You open your eyes and cast your gaze upon the land.
+Center Square
+  A burbling fountain dominates the center of the square.  The fountain is
+made of gray marble veined with blue.  Large sculptures of dancing otters
+and leaping trout, gazing skyward and spouting water from their mouths, sit
+within the circular basin.  The rim of the basin appears designed for
+seating, but is sprinkled with water.  The square is mortared with rounded
+cobblestone radiating outwards from the fountain.  The sounds and smells of
+the market and other popular locales nearby mingle in the air.  
+
+[Exits: north east south west]
+     A single sheet of parchment lies here.
+     A large marble fountain gurgles peacefully here.
+A grey pigeon walks about tentatively, looking for scraps of food.
+A grey pigeon walks about tentatively, looking for scraps of food.
+An armed enforcer of Var Bandor stands here.
+An armed enforcer of Var Bandor stands here.
+There are 2 changes waiting to be read.
+
+who
+<317hp 174m 289mv> 
+[10 Bar] Bheyuk O'sos the Marauder
+[51 VSc] Zhunvell Arkwa the Archmage of Shadows
+[51 VSc] Kuralak Jxhanu'nin the Archmage of Shadows
+
+Players found: 3
+
+<317hp 174m 289mv> 
+
+You are hungry.
+
+<317hp 174m 289mv> 
+l
+Center Square
+  A burbling fountain dominates the center of the square.  The fountain is
+made of gray marble veined with blue.  Large sculptures of dancing otters
+and leaping trout, gazing skyward and spouting water from their mouths, sit
+within the circular basin.  The rim of the basin appears designed for
+seating, but is sprinkled with water.  The square is mortared with rounded
+cobblestone radiating outwards from the fountain.  The sounds and smells of
+the market and other popular locales nearby mingle in the air.  
+
+[Exits: north east south west]
+     A single sheet of parchment lies here.
+     A large marble fountain gurgles peacefully here.
+A grey pigeon walks about tentatively, looking for scraps of food.
+A grey pigeon walks about tentatively, looking for scraps of food.
+An armed enforcer of Var Bandor stands here.
+An armed enforcer of Var Bandor stands here.
+
+<317hp 174m 289mv> 
+whe
+Notables in Avendar (currently in Var Bandor):
+  Bheyuk                     Center Square                     [present]    
+  Zhunvell                   The Southern Fens                 [neighboring, west]
+  Kuralak                    The Southern Fens                 [neighboring, west]
+
+Total found: 3
+
+w
+<317hp 174m 289mv> 
+w
+Dantaron Street
+  Dantaron Street bisects the west half of Var Bandor, leading from Center
+Square to the docks outside the western gatehouse.  Sailors and dockmen
+abound in this section of the city, wandering the streets while off-duty. 
+The street is composed of well-worn cobblestones, with a few broken and
+missing.  To the east is Center Square.  
+
+[Exits: east south west]
+     A small rug of brown fur lies neatly beside the street.
+Chirakka is resting on a brown fur rug.
+
+<317hp 174m 288mv> 
+Dantaron Street
+  Dantaron Street bisects the west half of Var Bandor, leading from Center
+Square to the docks outside the western gatehouse.  Sailors and dockmen
+abound in this section of the city, wandering the streets while off-duty. 
+The street is composed of well-worn cobblestones, with a few broken and
+missing.  To the north, a large temple constructed of fine white marble
+rises over the street.  To the south is a traveller's inn.  
+
+[Exits: north east south west]
+A shifty-eyed vagrant stumbles along, glaring about spitefully.
+
+<317hp 174m 287mv> 
+n
+n
+Office of Applied Theology
+  The office exudes an air of cold formality, dominated by sleek white
+marble walls and polished floors that reflect the bright light of hanging
+magelights.  The western wall features an expansive mural depicting the
+liberation of Var Bandor, set before a wide, heavy desk.  The environment
+feels almost sterile, both imposing and inescapable despite the large double
+doors perpetually open to Dantaron street.  
+
+[Exits: north east south down]
+     This copper sword seems a sturdy weapon for a young adventurer.
+(White Aura) Nistaru stands behind the desk, sneering at petitioners.
+
+<317hp 174m 286mv> 
+Office of Applied Theology
+  The office interior exudes an air of cold formality, dominated by sleek
+white marble walls and polished floors that reflect the bright light of
+hanging magelights.  An angular obelisk of pure white marble sits in the
+middle of the chamber, deeply graven with images that shimmer with ethereal
+golden light.  
+
+[Exits: east south]
+     A number of neatly-sorted bins rest against the walls.
+
+1
+<317hp 174m 285mv> 
+A number of neatly-sorted bins rest against the walls.
+A bin labeled 'Lost and Found' holds:
+     Nothing.
+
+e
+<317hp 174m 285mv> Office of Applied Theology
+  The office interior exudes an air of cold formality, dominated by sleek
+white marble walls and polished floors that reflect the bright light of
+hanging magelights.  An angular obelisk of grey marble sits in the middle of
+the chamber, deeply graven with images and humming with a low, almost
+imperceptible vibration.  
+
+[Exits: south west]
+     A number of neatly-sorted bins rest against the walls.
+
+1
+<317hp 174m 284mv> 
+A number of neatly-sorted bins rest against the walls.
+A bin labeled 'Lost and Found' holds:
+     Nothing.
+
+s
+<317hp 174m 284mv> 
+1
+Office of Applied Theology
+  The office interior exudes an air of cold formality, dominated by sleek
+white marble walls and polished floors that reflect the bright light of
+hanging magelights.  An angular obelisk of black marble sits in the middle
+of the chamber, deeply graven with images that spark with poisonous crimson
+light.  
+
+[Exits: north west]
+( 6) A thin parchment packet lies here, bearing a red wax seal.
+     A number of neatly-sorted bins rest against the walls.
+
+<317hp 174m 283mv> 
+A number of neatly-sorted bins rest against the walls.
+A bin labeled 'Lost and Found' holds:
+     a packet of travel wafers
+
+w
+<317hp 174m 283mv> Office of Applied Theology
+  The office exudes an air of cold formality, dominated by sleek white
+marble walls and polished floors that reflect the bright light of hanging
+magelights.  The western wall features an expansive mural depicting the
+liberation of Var Bandor, set before a wide, heavy desk.  The environment
+feels almost sterile, both imposing and inescapable despite the large double
+doors perpetually open to Dantaron street.  
+
+[Exits: north east south down]
+     This copper sword seems a sturdy weapon for a young adventurer.
+(White Aura) Nistaru stands behind the desk, sneering at petitioners.
+
+s
+<317hp 174m 282mv> 
+Dantaron Street
+  Dantaron Street bisects the west half of Var Bandor, leading from Center
+Square to the docks outside the western gatehouse.  Sailors and dockmen
+abound in this section of the city, wandering the streets while off-duty. 
+The street is composed of well-worn cobblestones, with a few broken and
+missing.  To the north, a large temple constructed of fine white marble
+rises over the street.  To the south is a traveller's inn.  
+
+[Exits: north east south west]
+A shifty-eyed vagrant stumbles along, glaring about spitefully.
+
+<317hp 174m 281mv> 
+e
+e
+Dantaron Street
+  Dantaron Street bisects the west half of Var Bandor, leading from Center
+Square to the docks outside the western gatehouse.  Sailors and dockmen
+abound in this section of the city, wandering the streets while off-duty. 
+The street is composed of well-worn cobblestones, with a few broken and
+missing.  To the east is Center Square.  
+
+[Exits: east south west]
+     A small rug of brown fur lies neatly beside the street.
+Chirakka is resting on a brown fur rug.
+
+eq
+<317hp 174m 280mv> 
+Center Square
+  A burbling fountain dominates the center of the square.  The fountain is
+made of gray marble veined with blue.  Large sculptures of dancing otters
+and leaping trout, gazing skyward and spouting water from their mouths, sit
+within the circular basin.  The rim of the basin appears designed for
+seating, but is sprinkled with water.  The square is mortared with rounded
+cobblestone radiating outwards from the fountain.  The sounds and smells of
+the market and other popular locales nearby mingle in the air.  
+
+[Exits: north east south west]
+     A single sheet of parchment lies here.
+     A large marble fountain gurgles peacefully here.
+A grey pigeon walks about tentatively, looking for scraps of food.
+A grey pigeon walks about tentatively, looking for scraps of food.
+An armed enforcer of Var Bandor stands here.
+An armed enforcer of Var Bandor stands here.
+
+<317hp 174m 279mv> 
+You are using:
+<worn on finger>    (Glowing) a gleaming gold ring
+<worn on finger>    [nothing]
+<worn around neck>  a patched cloak
+<worn around neck>  a patched cloak
+<worn on torso>     a doublet of meshed steel
+<worn on head>      [nothing]
+<worn on legs>      a skirt of meshed steel
+<worn on feet>      a pair of green boots
+<worn on hands>     a pair of leather gloves
+<worn on arms>      some sleeves of meshed steel
+<worn about body>   a tough apron
+<worn about waist>  a black leather belt
+<worn around wrist> a copper bracer
+<worn around wrist> [nothing]
+<wielded>           a long-handled axe
+<floating nearby>   a gem of guarding
+<dual wielded>      an ornate ceremonial saber
+<branded>           the Sigil of the School of Heroes
+
+<317hp 174m 279mv> 
+desc
+Your description is:
+A tall rugged chaja male is here his hunched posture and grizzled
+physique allude to frequent time spent in combat.  His armor fits loose and
+he moves with the ease of youth.  Tangled black and brown fur jut from
+beneath his armor.  Two black horns push through his hair and continue to
+twist into a slight curl each in different directions.  
+
+<317hp 174m 279mv> 
+
+[TIPS] Most people in Avendar are literate, though formal education beyond that varies a great deal
+based on social class and location.
+
+<317hp 174m 279mv> 
+
+You are hungry.
+
+<317hp 174m 289mv> 
+
+You are hungry.
+
+<317hp 174m 289mv> 
+
+You are hungry.
+
+<317hp 174m 289mv> 
+
+An alleycat has arrived from the east.
+
+<317hp 174m 289mv> 
+
+Clouds move into the area, obscuring the sky.
+You are hungry.
+
+<317hp 174m 289mv> 
+
+You are hungry.
+
+<317hp 174m 289mv> 
+
+You are hungry.
+
+<317hp 174m 289mv> 
+
+You are hungry.
+
+<317hp 174m 289mv> 
+
+You are hungry.
+
+<317hp 174m 289mv> 
+
+You are hungry.
+
+<317hp 174m 289mv> 
+
+A grey pigeon coos softly.
+
+<317hp 174m 289mv> 
+desc + His shaggy beard extends over most of his face and the dark hair covers most of his stubby 
+mouth. One large eye twitches from overly open to half squinting. A deep straight, wide scar runs 
+vertical through the space of the other eye.
+Your description is:
+A tall rugged chaja male is here his hunched posture and grizzled
+physique allude to frequent time spent in combat.  His armor fits loose and
+he moves with the ease of youth.  Tangled black and brown fur jut from
+beneath his armor.  Two black horns push through his hair and continue to
+twist into a slight curl each in different directions.  
+His shaggy beard extends over most of his face and the dark hair covers most of his stubby mouth.
+One large eye twitches from overly open to half squinting. A deep straight, wide scar runs vertical 
+through the space of the other eye.
+
+<317hp 174m 289mv> 
+
+You are hungry.
+
+<317hp 174m 289mv> 
+
+You are hungry.
+
+<317hp 174m 289mv> 
+
+A grey pigeon is startled, and flies up over the city.
+
+<317hp 174m 289mv> 
+
+You are hungry.
+
+<317hp 174m 289mv> 
+
+You are hungry.
+
+<317hp 174m 289mv> 
+
+You are hungry.
+You are starving!
+You hit yourself.
+
+<308hp 167m 280mv> 
+desc + His size, hair, stubbed face and horns, and one wandering bright large eye gives him more 
+resemblance to a beast than human.
+Your description is:
+A tall rugged chaja male is here his hunched posture and grizzled
+physique allude to frequent time spent in combat.  His armor fits loose and
+he moves with the ease of youth.  Tangled black and brown fur jut from
+beneath his armor.  Two black horns push through his hair and continue to
+twist into a slight curl each in different directions.  
+His shaggy beard extends over most of his face and the dark hair covers most of his stubby mouth.
+One large eye twitches from overly open to half squinting. A deep straight, wide scar runs vertical 
+through the space of the other eye.
+His size, hair, stubbed face and horns, and one wandering bright large eye gives him more
+resemblance to a beast than human.
+
+<308hp 167m 280mv> 
+desc format
+Description formatted.
+
+l
+<308hp 167m 280mv> 
+Center Square
+  A burbling fountain dominates the center of the square.  The fountain is
+made of gray marble veined with blue.  Large sculptures of dancing otters
+and leaping trout, gazing skyward and spouting water from their mouths, sit
+within the circular basin.  The rim of the basin appears designed for
+seating, but is sprinkled with water.  The square is mortared with rounded
+cobblestone radiating outwards from the fountain.  The sounds and smells of
+the market and other popular locales nearby mingle in the air.  
+
+[Exits: north east south west]
+     A single sheet of parchment lies here.
+     A large marble fountain gurgles peacefully here.
+A filthy alleycat searches through the discarded refuse for food.
+A grey pigeon walks about tentatively, looking for scraps of food.
+An armed enforcer of Var Bandor stands here.
+An armed enforcer of Var Bandor stands here.
+
+<308hp 167m 280mv> 
+
+You are hungry.
+You are starving!
+You hit yourself.
+
+<301hp 162m 274mv> 
+whe
+Notables in Avendar (currently in Var Bandor):
+  Bheyuk                     Center Square                     [present]    
+  Zhunvell                   The Southern Fens                 [neighboring, west]
+  Kuralak                    The Southern Fens                 [neighboring, west]
+
+Total found: 3
+
+<301hp 162m 274mv> 
+in
+You are carrying:
+     a quilted bedroll
+     a handful of oak leaves
+     a packet of travel wafers
+     a whale-skin canoe
+( 6) a spicy, glazed bjorcha steak
+( 3) a woolen mantle
+     a foul-smelling bear skin
+
+<301hp 162m 274mv> 
+eat steak
+You eat a spicy, glazed bjorcha steak.
+The steak is rare and juicy, the spicy glazing leaving a lingering heat in your mouth.
+
+<301hp 162m 274mv> 
+whe
+Notables in Avendar (currently in Var Bandor):
+  Bheyuk                     Center Square                     [present]    
+  Zhunvell                   The Southern Fens                 [neighboring, west]
+  Kuralak                    The Southern Fens                 [neighboring, west]
+
+Total found: 3
+
+<301hp 162m 274mv> 
+l
+Center Square
+  A burbling fountain dominates the center of the square.  The fountain is
+made of gray marble veined with blue.  Large sculptures of dancing otters
+and leaping trout, gazing skyward and spouting water from their mouths, sit
+within the circular basin.  The rim of the basin appears designed for
+seating, but is sprinkled with water.  The square is mortared with rounded
+cobblestone radiating outwards from the fountain.  The sounds and smells of
+the market and other popular locales nearby mingle in the air.  
+
+[Exits: north east south west]
+     A single sheet of parchment lies here.
+     A large marble fountain gurgles peacefully here.
+A filthy alleycat searches through the discarded refuse for food.
+A grey pigeon walks about tentatively, looking for scraps of food.
+An armed enforcer of Var Bandor stands here.
+An armed enforcer of Var Bandor stands here.
+
+<301hp 162m 274mv> 
+eq
+You are using:
+<worn on finger>    (Glowing) a gleaming gold ring
+<worn on finger>    [nothing]
+<worn around neck>  a patched cloak
+<worn around neck>  a patched cloak
+<worn on torso>     a doublet of meshed steel
+<worn on head>      [nothing]
+<worn on legs>      a skirt of meshed steel
+<worn on feet>      a pair of green boots
+<worn on hands>     a pair of leather gloves
+<worn on arms>      some sleeves of meshed steel
+<worn about body>   a tough apron
+<worn about waist>  a black leather belt
+<worn around wrist> a copper bracer
+<worn around wrist> [nothing]
+<wielded>           a long-handled axe
+<floating nearby>   a gem of guarding
+<dual wielded>      an ornate ceremonial saber
+<branded>           the Sigil of the School of Heroes
+
+<301hp 162m 274mv> 
+in
+You are carrying:
+     a quilted bedroll
+     a handful of oak leaves
+     a packet of travel wafers
+     a whale-skin canoe
+( 5) a spicy, glazed bjorcha steak
+( 3) a woolen mantle
+     a foul-smelling bear skin
+
+<301hp 162m 274mv> 
+whe
+Notables in Avendar (currently in Var Bandor):
+  Bheyuk                     Center Square                     [present]    
+  Zhunvell                   The Southern Fens                 [neighboring, west]
+  Kuralak                    The Southern Fens                 [neighboring, west]
+
+Total found: 3
+
+<301hp 162m 274mv> 
+sk
+
+Level  1: axe                 75%        flail               75%        
+          mace                75%        sword               76%        
+          dodge               75%        hand to hand        75%        
+          recover             75%        
+Level  2: enhanced damage     76%        
+Level  3: second attack       76%        
+Level  4: dual wield          78%        
+Level  5: night vision        75%        lunge               75%        
+Level  6: dirt kicking        75%        fast healing        76%        
+Level  7: find water          75%        forage              75%        
+Level  8: savagery            75%        
+Level 10: third attack        75%        
+Level 11: swim               n/a      
+Level 12: bash               n/a      
+Level 13: endurance          n/a      
+Level 14: wildcraft          n/a      
+Level 15: disarm             n/a      
+Level 16: ram                n/a      distract           n/a      
+Level 17: fourth attack      n/a      
+Level 18: warcry             n/a      
+Level 19: fury               n/a      
+Level 20: poultice           n/a      bloodlust          n/a      
+Level 21: grapple            n/a      
+Level 22: rage               n/a      
+Level 23: warpath            n/a      
+Level 24: rend               n/a      
+Level 25: bludgeon           n/a      
+Level 26: tan                n/a      
+Level 27: fortitude          n/a      
+Level 28: blood sigil        n/a      
+Level 29: last word          n/a      
+Level 30: slaughter          n/a      
+Level 32: meditation         n/a      
+Level 34: ferocity           n/a      
+Level 36: boneshatter        n/a      
+Level 38: brutal damage      n/a      
+Level 40: berserk            n/a      
+
+<301hp 162m 274mv> 
+help wildcraft
+/---------------------------------------------------------------------------\
+|          Wildcraft (Skill)                                                |
+\---------------------------------------------------------------------------/
+
+Activation lag  :  1.5 rounds
+Activation cost :  10 mana
+
+
+Syntax: Wildcraft <item>
+
+Further enhancing their ability to live off the land, naturalists may craft a
+variety of objects while in the wild. As they gain in level, weapons they
+produce will be more powerful. Nets may be crafted in the woods, grasslands,
+or swamps, while all the others may only be created in the woods.
+
+Each individual class learns a different variety of tools; barbarians would
+gain little from crafting arrows, and only druids know the means of crafting
+totems, as an inexhaustive example. One may receive a list of craftable items
+by typing 'wildcraft' without argument.
+
+Hand-crafted arrows may be banded with varying colours. Hafts created by
+druids may be shaped with the shape timber spell.
+
+
+See also: ARCHERY, COOK, ENTANGLE, BAND ARROW, SHAPE TIMBER
+
+<301hp 162m 274mv> 
+sk
+
+Level  1: axe                 75%        flail               75%        
+          mace                75%        sword               76%        
+          dodge               75%        hand to hand        75%        
+          recover             75%        
+Level  2: enhanced damage     76%        
+Level  3: second attack       76%        
+Level  4: dual wield          78%        
+Level  5: night vision        75%        lunge               75%        
+Level  6: dirt kicking        75%        fast healing        76%        
+Level  7: find water          75%        forage              75%        
+Level  8: savagery            75%        
+Level 10: third attack        75%        
+Level 11: swim               n/a      
+Level 12: bash               n/a      
+Level 13: endurance          n/a      
+Level 14: wildcraft          n/a      
+Level 15: disarm             n/a      
+Level 16: ram                n/a      distract           n/a      
+Level 17: fourth attack      n/a      
+Level 18: warcry             n/a      
+Level 19: fury               n/a      
+Level 20: poultice           n/a      bloodlust          n/a      
+Level 21: grapple            n/a      
+Level 22: rage               n/a      
+Level 23: warpath            n/a      
+Level 24: rend               n/a      
+Level 25: bludgeon           n/a      
+Level 26: tan                n/a      
+Level 27: fortitude          n/a      
+Level 28: blood sigil        n/a      
+Level 29: last word          n/a      
+Level 30: slaughter          n/a      
+Level 32: meditation         n/a      
+Level 34: ferocity           n/a      
+Level 36: boneshatter        n/a      
+Level 38: brutal damage      n/a      
+Level 40: berserk            n/a      
+
+<301hp 162m 274mv> 
+whe
+Notables in Avendar (currently in Var Bandor):
+  Bheyuk                     Center Square                     [present]    
+  Zhunvell                   The Southern Fens                 [neighboring, west]
+  Kuralak                    The Southern Fens                 [a bit away, west]
+
+Total found: 3
+
+<307hp 169m 289mv> 
+n
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.  To the south is the central square of
+Var Bandor.  
+
+[Exits: north south]
+
+n
+<307hp 169m 288mv> 
+n
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.
+
+[Exits: north south]
+A young man clad in soiled clothes grins menacingly at passersby.
+
+n
+<307hp 169m 287mv> 
+n
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.
+
+[Exits: north south]
+
+n
+n
+<307hp 169m 286mv> 
+n
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.  To the west, Iron Street leads into
+the industrial section of Var Bandor, and to the east, Raddin street winds
+through some run-down buildings.  
+
+[Exits: north east south west]
+
+<307hp 169m 285mv> 
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.
+
+[Exits: north south]
+
+<307hp 169m 284mv> 
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.  To the west, Iron Street leads
+through the industrial section of Var Bandor.  To the east, the scent of
+fresh bread wafts from a corner bakery.  
+
+[Exits: north east south west]
+A grey pigeon walks about tentatively, looking for scraps of food.
+
+<307hp 169m 283mv> 
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.  To the east, Dretch street leads into
+the most notorious neighborhoods of Var Bandor.  
+
+[Exits: north east south]
+An armed enforcer of Var Bandor patrols here.
+An armed enforcer of Var Bandor patrols here.
+
+<307hp 169m 282mv> 
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.  The road turns east and south.  
+
+[Exits: east south]
+An armed enforcer of Var Bandor patrols here.
+

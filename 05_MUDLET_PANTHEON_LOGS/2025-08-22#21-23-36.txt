@@ -1,0 +1,2463 @@
+Log session starting at 21:23:36 on Friday, 22 August 2025.
+[  OK  ]  - Mudlet-lua API & Geyser Layout manager loaded.
+[ INFO ]  - Reading map. Format version: 20. File:
+            "C:/Users/wilds/.config/mudlet/profiles/PANTHEON1/map/2025-08-22#20-22-06map.dat",
+            please wait...
+[ INFO ]  - Successfully read the map file (0.01s), checking some
+            consistency details...
+[ INFO ]  - Map audit starting...
+[  OK  ]  - Auditing of map completed (0.00s). Enjoy your game...
+[  OK  ]  - Map loaded successfully (0.01s).
+[ INFO ]  - Looking up the IP address of server: avendar.net:9999 ...
+[ INFO ]  - The IP address of avendar.net has been found. It is: 74.91.112.143
+[ INFO ]  - Trying to connect to 74.91.112.143:9999 ...
+[ INFO ]  - A connection has been established successfully.
+                
+                
+
+          <| 
+           A              
+          /.          
+     \<|  [""M#         
+      A   | #                   AVENDAR: THE CRUCIBLE OF LEGENDS 
+     /. \[""M#                         [avendar.net 9999] 
+    [""M# | #  U"U#U                  
+     | #  | #   \.:/    Original DikuMUD by Hans Staerfeldt, Katja Nyboe, 
+     | #  | #___| #     Tom Madsen, Michael Seifert, and Sebastian Hammer 
+     | "--'     .-"     Based on MERC 2.1 code by Hatchet, Furey, and Kahn 
+   |"-"-"-"-"-#-#-##    ROM 2.4 copyright (c) 1993-1996 Russ Taylor 
+   |     # ## ######      
+           \.::::'/     Avendar created by Matt Wallace, Thane Williams, 
+           \::::'/      and Brandon Downey.  See HELP AVENDAR for more. 
+   :8a|    # # ##       
+   ::88a      ###       Avendar is maintained and developed by the Avendar 
+  ::::888a  8a ##::.                   Immortal staff. 
+  ::::::888a88a[]:::: 
+ :::::::::SUNDOGa8a::::. ..               
+ :::::8::::888:Y8888:::::::::...       
+::':::88::::888::Y88a______________________________________________________ 
+:: ::::88a::::88a:Y88a                                  __---__-- __ 
+' .: ::Y88a:::::8a:Y88a                            __----_-- -------_-__ 
+  :' ::::8P::::::::::88aa.                   _ _- --  --_ --- __  --- __-- 
+,::  :::::::::::::::::::Y88as88a...s88aa.
+
+Under what name shall your deeds be recorded?
+Account 'Tyeric' logging in.  Password: 
+
+
+The following characters are currently associated with this account:
+
+Qeqskil
+Feythis
+Khuruin
+Rhuinzek
+Pyruin
+
+To create a new character, enter an original name at the following prompt.
+Enter character name to use: 
+pyruin
+Password: 
+
+-------------- READ THE MOTD -- Last Modified: Apr 2025 -------------------
+|                                                                         |
+| . -You are responsible for knowing the rules-. See "help RULES".        |
+|                                                                         |
+| . For more information and discussion about the game, see:              |
+|                                                                         |
+|     . The Avendar Website:      https://avendar.net                     |
+|     . The Avendar Discord:      http://discord.gg/DXsZwVBsBV            |
+|                                                                         |
+| . The changelog (type CHANGES) is updated regularly with updates to     |
+|   Avendar.  Last Updated: 29 Apr 2025                                   |
+|                                                                         |
+| . Avendar is currently presented AS-IS. You may encounter errors or     |
+|   bugs. It is YOUR RESPONSIBILITY to not exploit them.                  |
+|                                                                         |
+---------------------------------------------------------------------------
+achilles
+
+You open your eyes and cast your gaze upon the land.
+The Beginning
+  The School of Heroes is hidden in a remote valley in the Yagash
+Mountains, and the cold bite of high elevation swirls around you under a
+perpetually overcast sky.  Gilded symbols of the gods Dolgrael, Lilune, and
+Jolinn have been lovingly sculpted into massive doors of dark basalt that
+lock fast behind you.  There is no way back; only forward.  
+
+Whether due to triumph or tragedy, a drive to desperate heroism or sadistic
+villainy, you have come to this remote place and secured your adventurer's
+license from the School of Heroes.  You have completed your official
+training and registration and stand now before the Tower of Testing, where
+your final practical examinations await you.  
+
+You may leave through the portals connected to different towns on the
+continent of Avendar in the Tower of Testing ahead, but you are encouraged
+to proceed with your practical examination, as it will impart many valuable
+skills and items for your life ahead.  
+
+[OOC: Welcome to Avendar!  You may type HELP to access our help system
+and the NEWBIE channel is available to request out-of-character
+assistance from staff or other players.]
+
+[Exits: north]
+Type "newbie" if you wish to enable the global new players channel.
+You have 1 new note waiting.
+
+whe
+<100hp 100m 100mv> 
+Notables in Avendar (currently in The School of Heroes):
+
+Total found: 0
+
+<100hp 100m 100mv> 
+who
+[ 1 Gla] Pyruin Veda the Initiate of the Arena
+
+Players found: 1
+
+<100hp 100m 100mv> 
+prompt all
+Prompt set to <%hhp %mm %vmv> 
+
+<100hp 100m 100mv> 
+whe
+Notables in Avendar (currently in The School of Heroes):
+
+Total found: 0
+
+who
+<100hp 100m 100mv> 
+[ 1 Gla] Pyruin Veda the Initiate of the Arena
+
+Players found: 1
+
+l
+<100hp 100m 100mv> 
+The Beginning
+  The School of Heroes is hidden in a remote valley in the Yagash
+Mountains, and the cold bite of high elevation swirls around you under a
+perpetually overcast sky.  Gilded symbols of the gods Dolgrael, Lilune, and
+Jolinn have been lovingly sculpted into massive doors of dark basalt that
+lock fast behind you.  There is no way back; only forward.  
+
+Whether due to triumph or tragedy, a drive to desperate heroism or sadistic
+villainy, you have come to this remote place and secured your adventurer's
+license from the School of Heroes.  You have completed your official
+training and registration and stand now before the Tower of Testing, where
+your final practical examinations await you.  
+
+You may leave through the portals connected to different towns on the
+continent of Avendar in the Tower of Testing ahead, but you are encouraged
+to proceed with your practical examination, as it will impart many valuable
+skills and items for your life ahead.  
+
+[OOC: Welcome to Avendar!  You may type HELP to access our help system
+and the NEWBIE channel is available to request out-of-character
+assistance from staff or other players.]
+
+[Exits: north]
+
+<100hp 100m 100mv> 
+n
+You gained 1 exploration point and 50 experience points!
+Before the Gates of the School of Heroes
+  Before you stand the gates of the School of Heroes, the renowned center
+of training for young adventurers.  It is an enormous structure, composed of
+marble, stone, and brick, and has been built upon a rocky hill.  The gates
+are forged of wrought iron, and remain open to travelers of every size,
+affiliation, and creed.  The central foyer of the School lies ahead, the
+marble edifice looming over its well-worn gates.  A small courtyard opens
+here, with a beautiful central fountain and a circle of low bushes.  
+
+[Exits: north south]
+     A beautiful golden fountain gushes water.
+
+<100hp 100m 99mv> 
+whe
+Notables in Avendar (currently in The School of Heroes):
+  Pyruin                     Before the Gates of the School of Heroes [present]    
+
+Total found: 1
+
+<100hp 100m 99mv> 
+s
+You gained 1 exploration point and 50 experience points!
+The Portal Chamber
+  This cubical room is made from blocks of hewn marble.  Benches of similar
+stone are set diagonally against the corners of the room, and an open
+skylight provides illumination from above.  However, this room is unique in
+that it contains four magical gateways which connect the School of Heroes to
+various locations in Avendar.  Each glowing with soft blue light, the three
+vertical portals are set into the eastern, western, and southern walls.  The
+fourth portal is horizontal and circular, and is set into the floor directly
+beneath the skylight.  A more mundane doorway leads north, to the courtyard
+before the entrance to the School proper.  
+
+[Exits: north east south west down]
+(Translucent) A magic mouth hovers in mid-air, grinning nonchalantly.
+The magic mouth tells you, 'Are you sure you're ready to leave the School?'
+The magic mouth tells you, 'If you're ready, then you're ready...'
+The magic mouth tells you, 'If you want to know about the portal destinations, say the name of the
+direction you want to go.'
+
+<100hp 100m 98mv> 
+s
+You gained 1 exploration point and 50 experience points!
+The Fortress Chapel
+  A large room of the upper floor of Krilin Fortress has been set aside for
+the worship of various deities of light.  The chapel is simply decorated,
+with plain wooden pews and a few holy symbols decorating the walls.  At the
+west end of the room, a wooden speaking stand has been erected.  To the
+north, a large alcove has been built into the chapel wall.  A door in the
+east wall leads out into the hallway.  
+
+[Exits: north (east) down]
+     A tall, circular table of finely polished wood stands in the alcove.
+(White Aura) Ygring Starid, the earth priest of Jolinn, stands in the chapel.
+
+<100hp 100m 97mv> 
+e
+The door is closed.
+
+<100hp 100m 97mv> 
+n
+You gained 1 exploration point and 50 experience points!
+A Shrine to Jolinn
+  An alcove built into the north wall of the Krilin chapel opens to reveal
+a sacred shrine, commissioned by Baron Krilin to show devotion to his patron
+deity, Jolinn.  The walls and floor have been tiled with deep blue marble,
+with mosaics on either side of the shrine depicting the symbol of the
+sapphire spear, and the symbol of the diamond shield.  Set in the center of
+the shrine is an altar of blue marble, upon which rests a large book encased
+in blue leather.  
+
+[Exits: south]
+     A blue marble altar is here.
+
+1
+<100hp 100m 96mv> 
+Huh?
+
+<100hp 100m 96mv> 
+alias 1 exam altar
+1 is now aliased to 'exam altar'.
+
+1
+<100hp 100m 96mv> A blue marble altar is here.
+The marble altar holds:
+     Nothing.
+
+s
+<100hp 100m 96mv> The Fortress Chapel
+  A large room of the upper floor of Krilin Fortress has been set aside for
+the worship of various deities of light.  The chapel is simply decorated,
+with plain wooden pews and a few holy symbols decorating the walls.  At the
+west end of the room, a wooden speaking stand has been erected.  To the
+north, a large alcove has been built into the chapel wall.  A door in the
+east wall leads out into the hallway.  
+
+[Exits: north (east) down]
+     A tall, circular table of finely polished wood stands in the alcove.
+(White Aura) Ygring Starid, the earth priest of Jolinn, stands in the chapel.
+
+<100hp 100m 95mv> 
+d
+Before the Gates of the School of Heroes
+  Before you stand the gates of the School of Heroes, the renowned center
+of training for young adventurers.  It is an enormous structure, composed of
+marble, stone, and brick, and has been built upon a rocky hill.  The gates
+are forged of wrought iron, and remain open to travelers of every size,
+affiliation, and creed.  The central foyer of the School lies ahead, the
+marble edifice looming over its well-worn gates.  A small courtyard opens
+here, with a beautiful central fountain and a circle of low bushes.  
+
+[Exits: north south]
+     A beautiful golden fountain gushes water.
+
+<100hp 100m 94mv> 
+s
+The Portal Chamber
+  This cubical room is made from blocks of hewn marble.  Benches of similar
+stone are set diagonally against the corners of the room, and an open
+skylight provides illumination from above.  However, this room is unique in
+that it contains four magical gateways which connect the School of Heroes to
+various locations in Avendar.  Each glowing with soft blue light, the three
+vertical portals are set into the eastern, western, and southern walls.  The
+fourth portal is horizontal and circular, and is set into the floor directly
+beneath the skylight.  A more mundane doorway leads north, to the courtyard
+before the entrance to the School proper.  
+
+[Exits: north east south west down]
+(Translucent) A magic mouth hovers in mid-air, grinning nonchalantly.
+The magic mouth tells you, 'Are you ready to travel the portals?'
+The magic mouth tells you, 'Just say the name of the direction you want to go to learn more.'
+
+<100hp 100m 93mv> 
+e
+You gained 1 exploration point and 50 experience points!
+Office of Applied Theology
+  The office exudes an air of cold formality, dominated by sleek white
+marble walls and polished floors that reflect the bright light of hanging
+magelights.  The western wall features an expansive mural depicting the
+liberation of Var Bandor, set before a wide, heavy desk.  The environment
+feels almost sterile, both imposing and inescapable despite the large double
+doors perpetually open to Dantaron street.  
+
+[Exits: north east south down]
+(White Aura) Nistaru stands behind the desk, sneering at petitioners.
+
+<100hp 100m 92mv> 
+n
+You gained 1 exploration point and 50 experience points!
+Office of Applied Theology
+  The office interior exudes an air of cold formality, dominated by sleek
+white marble walls and polished floors that reflect the bright light of
+hanging magelights.  An angular obelisk of pure white marble sits in the
+middle of the chamber, deeply graven with images that shimmer with ethereal
+golden light.  
+
+[Exits: east south]
+     A number of neatly-sorted bins rest against the walls.
+
+1
+<100hp 100m 91mv> 
+A number of neatly-sorted bins rest against the walls.
+A bin labeled 'Lost and Found' holds:
+     Nothing.
+
+e
+<100hp 100m 91mv> 
+You gained 1 exploration point and 50 experience points!
+Office of Applied Theology
+  The office interior exudes an air of cold formality, dominated by sleek
+white marble walls and polished floors that reflect the bright light of
+hanging magelights.  An angular obelisk of grey marble sits in the middle of
+the chamber, deeply graven with images and humming with a low, almost
+imperceptible vibration.  
+
+[Exits: south west]
+     A number of neatly-sorted bins rest against the walls.
+
+1
+<100hp 100m 90mv> 
+s
+A number of neatly-sorted bins rest against the walls.
+A bin labeled 'Lost and Found' holds:
+     Nothing.
+
+1
+<100hp 100m 100mv> You gained 1 exploration point and 50 experience points!
+Office of Applied Theology
+  The office interior exudes an air of cold formality, dominated by sleek
+white marble walls and polished floors that reflect the bright light of
+hanging magelights.  An angular obelisk of black marble sits in the middle
+of the chamber, deeply graven with images that spark with poisonous crimson
+light.  
+
+[Exits: north west]
+     A number of neatly-sorted bins rest against the walls.
+An armed enforcer of Var Bandor patrols here.
+
+<100hp 100m 99mv> 
+A number of neatly-sorted bins rest against the walls.
+A bin labeled 'Lost and Found' holds:
+     Nothing.
+
+w
+<100hp 100m 99mv> 
+s
+Office of Applied Theology
+  The office exudes an air of cold formality, dominated by sleek white
+marble walls and polished floors that reflect the bright light of hanging
+magelights.  The western wall features an expansive mural depicting the
+liberation of Var Bandor, set before a wide, heavy desk.  The environment
+feels almost sterile, both imposing and inescapable despite the large double
+doors perpetually open to Dantaron street.  
+
+[Exits: north east south down]
+(White Aura) Nistaru stands behind the desk, sneering at petitioners.
+
+<100hp 100m 98mv> 
+You gained 1 exploration point and 50 experience points!
+Dantaron Street
+  Dantaron Street bisects the west half of Var Bandor, leading from Center
+Square to the docks outside the western gatehouse.  Sailors and dockmen
+abound in this section of the city, wandering the streets while off-duty. 
+The street is composed of well-worn cobblestones, with a few broken and
+missing.  To the north, a large temple constructed of fine white marble
+rises over the street.  To the south is a traveller's inn.  
+
+[Exits: north east south west]
+A journeyman templar of the Var Bandor faction walks along the street.
+
+e
+<100hp 100m 97mv> 
+You gained 1 exploration point and 50 experience points!
+Dantaron Street
+  Dantaron Street bisects the west half of Var Bandor, leading from Center
+Square to the docks outside the western gatehouse.  Sailors and dockmen
+abound in this section of the city, wandering the streets while off-duty. 
+The street is composed of well-worn cobblestones, with a few broken and
+missing.  To the east is Center Square.  
+
+[Exits: east south west]
+     A small rug of brown fur lies neatly beside the street.
+Chirakka is resting on a brown fur rug.
+
+e
+<100hp 100m 96mv> 
+whe
+You gained 1 exploration point and 50 experience points!
+Center Square
+  A burbling fountain dominates the center of the square.  The fountain is
+made of gray marble veined with blue.  Large sculptures of dancing otters
+and leaping trout, gazing skyward and spouting water from their mouths, sit
+within the circular basin.  The rim of the basin appears designed for
+seating, but is sprinkled with water.  The square is mortared with rounded
+cobblestone radiating outwards from the fountain.  The sounds and smells of
+the market and other popular locales nearby mingle in the air.  
+
+[Exits: north east south west]
+     A large marble fountain gurgles peacefully here.
+A grey pigeon walks about tentatively, looking for scraps of food.
+A grey pigeon walks about tentatively, looking for scraps of food.
+An armed enforcer of Var Bandor stands here.
+An armed enforcer of Var Bandor stands here.
+
+<100hp 100m 95mv> 
+who
+Notables in Avendar (currently in Var Bandor):
+  Pyruin                     Center Square                     [present]    
+
+Total found: 1
+
+<100hp 100m 95mv> [ 1 Gla] Pyruin Veda the Initiate of the Arena
+
+Players found: 1
+
+<100hp 100m 95mv> 
+drink
+drink
+You drink water from the marble fountain.
+You are full.
+Your thirst is quenched.
+
+<100hp 100m 95mv> You drink water from the marble fountain.
+You are full.
+Your thirst is quenched.
+
+<100hp 100m 95mv> 
+s
+s
+You gained 1 exploration point and 50 experience points!
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.  The Var Bandor Center Square is to the north.  
+
+[Exits: north south]
+
+s
+<100hp 100m 94mv> 
+s
+You gained 1 exploration point and 50 experience points!
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.  To the west is the guild of watchers, while Naidji Alley lies to
+the east.  
+
+[Exits: north east south west]
+
+<100hp 100m 93mv> 
+You gained 1 exploration point and 50 experience points!
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.
+
+[Exits: north south]
+An enforcer of Var Bandor patrols here, scrutinizing every passing face.
+
+<100hp 100m 92mv> 
+You gained 1 exploration point and 50 experience points!
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.  To the east, Arcanos Street winds among the scholars' towers,
+and to the west Commerce Street leads to the merchant quarter.  
+
+[Exits: north east south west]
+
+w
+<100hp 100m 91mv> 
+w
+You gained 1 exploration point and 50 experience points!
+Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets.  To
+the north is an elegant inn, and to the east is Ilrin Street.  
+
+[Exits: north east west]
+
+w
+<100hp 100m 90mv> 
+w
+You gained 1 exploration point and 50 experience points!
+Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets. 
+Commerce Street runs east and west.  To the north is an open house of some
+sort, around which a crowd of merchants gather.  
+
+[Exits: north east west]
+
+<100hp 100m 89mv> 
+You gained 1 exploration point and 50 experience points!
+Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets.  To
+the north is the Var Bandor bank.  
+
+[Exits: north east west]
+
+<100hp 100m 88mv> 
+You gained 1 exploration point and 50 experience points!
+Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets. 
+Commerce Street turns south and east at this point, and to the west is a
+magnificent structure, the headquarters of the Var Bandor Merchant Council. 
+
+[Exits: east south (west)]
+An armed enforcer of Var Bandor patrols here.
+
+<100hp 100m 87mv> 
+s
+e
+You gained 1 exploration point and 50 experience points!
+Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets.  To
+the east is the armory, and to the west is the cartographer's store.  
+
+[Exits: north east south west]
+An enforcer of Var Bandor patrols here, scrutinizing every passing face.
+
+<100hp 100m 86mv> 
+You gained 1 exploration point and 50 experience points!
+The Armorer
+  The sounds of a hammer ringing as it strikes a piece of iron is the first
+thing that assaults your ears as you enter the store.  You can also hear the
+whishing of the bellows as it blows into the furnace to increase the heat of
+the fire.  Shirts made of fine steel, leggings, sleeves, and assorted mails
+of all type are all on display hanging from the walls.  Besides the forge
+near the back of the store, the rest of the building looks immaculately
+clean giving a sense of regality not normally associated with a smithy-type
+shop.  You can exit back to the west.  
+
+[Exits: west]
+The armorer shows off his wares.
+
+list
+<100hp 100m 85mv> 
+[Qty Price      ] Item
+[  1       1p 8g] a thin steel band
+[  1 1p 5g 3s 6c] a jet black robe
+[  1    1p 2g 3s] a suit of emerald dragonscale armor
+[  1    1p 2g 6s] a set of emerald dragonscale sleeves
+[  1    2p 4g 3s] a pair of emerald dragonscale boots
+[  2          3c] a medallion bearing the Merchant sigil
+[  1    9g 6s 3c] a lionskin cape
+[  1    2p 6g 7s] some thick hide armor
+[  1 1p 2g 1s 3c] a pair of fur-lined tattered hide sleeves
+[  1    3g 9s 1c] black hide gauntlets
+[  1    3g 9s 2c] some sleeves of meshed steel
+[  1    5g 4s 7c] a foul-smelling bear skin
+[  5 1p 9g 2s 4c] a leather thong strung with teeth
+[  2    1p 4s 2c] a belt of woven wood
+[  2    3g 8s 2c] a cloak of oak leaves
+[  1    5g 2s 5c] a doublet of meshed steel
+[  2    1g 9s 8c] a gleaming gold ring
+[  3    7p 7g 1c] a pendant shaped into a lightning bolt
+[  3    8g 7s 4c] a pair of finely crafted armguards
+[  3       6g 5c] a pair of gauntlets of shining steel
+[  1    4g 5s 1c] a skirt of meshed steel
+[---    1g 9s 5c] a tempered steel helmet
+[---    1g 6s 5c] a tempered steel body shield
+[---       1g 8s] tempered steel boots
+[---    1g 9s 5c] tempered steel greaves
+[---       2g 2c] tempered steel bracers
+[---    2g 2s 5c] a tempered steel breastplate
+
+<100hp 100m 85mv> 
+w
+Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets.  To
+the east is the armory, and to the west is the cartographer's store.  
+
+[Exits: north east south west]
+An enforcer of Var Bandor patrols here, scrutinizing every passing face.
+
+n
+<100hp 100m 84mv> 
+Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets. 
+Commerce Street turns south and east at this point, and to the west is a
+magnificent structure, the headquarters of the Var Bandor Merchant Council. 
+
+[Exits: east south (west)]
+An armed enforcer of Var Bandor patrols here.
+
+n
+<100hp 100m 83mv> 
+Alas, you cannot go that way.
+
+e
+<100hp 100m 83mv> Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets.  To
+the north is the Var Bandor bank.  
+
+[Exits: north east west]
+
+e
+<100hp 100m 82mv> 
+e
+Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets. 
+Commerce Street runs east and west.  To the north is an open house of some
+sort, around which a crowd of merchants gather.  
+
+[Exits: north east west]
+
+e
+<100hp 100m 81mv> 
+Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets.  To
+the north is an elegant inn, and to the east is Ilrin Street.  
+
+[Exits: north east west]
+
+<100hp 100m 80mv> 
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.  To the east, Arcanos Street winds among the scholars' towers,
+and to the west Commerce Street leads to the merchant quarter.  
+
+[Exits: north east south west]
+
+<100hp 100m 79mv> 
+n
+n
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.
+
+[Exits: north south]
+An enforcer of Var Bandor patrols here, scrutinizing every passing face.
+
+n
+<100hp 100m 78mv> 
+n
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.  To the west is the guild of watchers, while Naidji Alley lies to
+the east.  
+
+[Exits: north east south west]
+
+<100hp 100m 77mv> 
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.  The Var Bandor Center Square is to the north.  
+
+[Exits: north south]
+
+<100hp 100m 76mv> 
+n
+Center Square
+  A burbling fountain dominates the center of the square.  The fountain is
+made of gray marble veined with blue.  Large sculptures of dancing otters
+and leaping trout, gazing skyward and spouting water from their mouths, sit
+within the circular basin.  The rim of the basin appears designed for
+seating, but is sprinkled with water.  The square is mortared with rounded
+cobblestone radiating outwards from the fountain.  The sounds and smells of
+the market and other popular locales nearby mingle in the air.  
+
+[Exits: north east south west]
+     A large marble fountain gurgles peacefully here.
+A grey pigeon walks about tentatively, looking for scraps of food.
+A grey pigeon walks about tentatively, looking for scraps of food.
+An armed enforcer of Var Bandor stands here.
+An armed enforcer of Var Bandor stands here.
+
+n
+<100hp 100m 75mv> 
+n
+You gained 1 exploration point and 50 experience points!
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.  To the south is the central square of
+Var Bandor.  
+
+[Exits: north south]
+
+n
+<100hp 100m 74mv> 
+n
+You gained 1 exploration point and 50 experience points!
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.
+
+[Exits: north south]
+
+n
+n
+<100hp 100m 73mv> 
+You gained 1 exploration point and 50 experience points!
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.
+
+[Exits: north south]
+
+n
+<100hp 100m 72mv> 
+You are promoted!!  You gain 22 hit points, 8 mana, and 8 movement.
+You gained 1 exploration point and 50 experience points!
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.  To the west, Iron Street leads into
+the industrial section of Var Bandor, and to the east, Raddin street winds
+through some run-down buildings.  
+
+[Exits: north east south west]
+An armed enforcer of Var Bandor patrols here.
+
+<100hp 100m 71mv> 
+You gained 1 exploration point and 50 experience points!
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.
+
+[Exits: north south]
+An armed enforcer of Var Bandor patrols here.
+
+<100hp 100m 70mv> 
+clear
+Buffer cleared.
+s
+
+<100hp 100m 70mv> Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.  To the west, Iron Street leads into
+the industrial section of Var Bandor, and to the east, Raddin street winds
+through some run-down buildings.  
+
+[Exits: north east south west]
+An armed enforcer of Var Bandor patrols here.
+
+s
+s
+<100hp 100m 69mv> 
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.
+
+[Exits: north south]
+
+<100hp 100m 68mv> 
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.
+
+[Exits: north south]
+
+<100hp 100m 67mv> 
+s
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.  To the south is the central square of
+Var Bandor.  
+
+[Exits: north south]
+
+<100hp 100m 66mv> 
+s
+Center Square
+  A burbling fountain dominates the center of the square.  The fountain is
+made of gray marble veined with blue.  Large sculptures of dancing otters
+and leaping trout, gazing skyward and spouting water from their mouths, sit
+within the circular basin.  The rim of the basin appears designed for
+seating, but is sprinkled with water.  The square is mortared with rounded
+cobblestone radiating outwards from the fountain.  The sounds and smells of
+the market and other popular locales nearby mingle in the air.  
+
+[Exits: north east south west]
+     A large marble fountain gurgles peacefully here.
+A grey pigeon walks about tentatively, looking for scraps of food.
+A grey pigeon walks about tentatively, looking for scraps of food.
+An armed enforcer of Var Bandor stands here.
+An armed enforcer of Var Bandor stands here.
+
+<100hp 100m 65mv> 
+w
+Dantaron Street
+  Dantaron Street bisects the west half of Var Bandor, leading from Center
+Square to the docks outside the western gatehouse.  Sailors and dockmen
+abound in this section of the city, wandering the streets while off-duty. 
+The street is composed of well-worn cobblestones, with a few broken and
+missing.  To the east is Center Square.  
+
+[Exits: east south west]
+     A small rug of brown fur lies neatly beside the street.
+Chirakka is resting on a brown fur rug.
+
+<100hp 100m 64mv> 
+w
+Dantaron Street
+  Dantaron Street bisects the west half of Var Bandor, leading from Center
+Square to the docks outside the western gatehouse.  Sailors and dockmen
+abound in this section of the city, wandering the streets while off-duty. 
+The street is composed of well-worn cobblestones, with a few broken and
+missing.  To the north, a large temple constructed of fine white marble
+rises over the street.  To the south is a traveller's inn.  
+
+[Exits: north east south west]
+A journeyman templar of the Var Bandor faction walks along the street.
+
+w
+<100hp 100m 63mv> 
+s
+You gained 1 exploration point and 50 experience points!
+Dantaron Street
+  Dantaron Street bisects the west half of Var Bandor, leading from Center
+Square to the docks outside the western gatehouse.  Sailors and dockmen
+abound in this section of the city, wandering the streets while off-duty. 
+The street is composed of well-worn cobblestones, with a few broken and
+missing.  To the south is the boatseller's shop.  To the north, an alley
+snakes between the temple and a nearby warehouse.
+
+[Exits: north east south west]
+
+<100hp 100m 62mv> 
+You gained 1 exploration point and 50 experience points!
+The Boatseller's
+  The boatsellers shop is big out of necessity, the boats out for people to
+buy taking up a large amount of space.  The shop seems in good repair, and
+the boats you can examine are all well put together, and seem like quality
+workmanship.  The only exit is to the north, where the Dantaron Road runs
+along.  
+
+[Exits: north]
+An old mariner sits on a chair, taking orders for boats.
+
+<100hp 100m 61mv> 
+buy canoe
+You buy a canoe for 5 silver, 4 copper.
+
+n
+<100hp 100m 61mv> Dantaron Street
+  Dantaron Street bisects the west half of Var Bandor, leading from Center
+Square to the docks outside the western gatehouse.  Sailors and dockmen
+abound in this section of the city, wandering the streets while off-duty. 
+The street is composed of well-worn cobblestones, with a few broken and
+missing.  To the south is the boatseller's shop.  To the north, an alley
+snakes between the temple and a nearby warehouse.
+
+[Exits: north east south west]
+
+e
+<100hp 100m 60mv> 
+e
+Dantaron Street
+  Dantaron Street bisects the west half of Var Bandor, leading from Center
+Square to the docks outside the western gatehouse.  Sailors and dockmen
+abound in this section of the city, wandering the streets while off-duty. 
+The street is composed of well-worn cobblestones, with a few broken and
+missing.  To the north, a large temple constructed of fine white marble
+rises over the street.  To the south is a traveller's inn.  
+
+[Exits: north east south west]
+A journeyman templar of the Var Bandor faction walks along the street.
+
+e
+<100hp 100m 59mv> 
+n
+Dantaron Street
+  Dantaron Street bisects the west half of Var Bandor, leading from Center
+Square to the docks outside the western gatehouse.  Sailors and dockmen
+abound in this section of the city, wandering the streets while off-duty. 
+The street is composed of well-worn cobblestones, with a few broken and
+missing.  To the east is Center Square.  
+
+[Exits: east south west]
+     A small rug of brown fur lies neatly beside the street.
+Chirakka is resting on a brown fur rug.
+
+n
+<107hp 106m 78mv> 
+n
+Center Square
+  A burbling fountain dominates the center of the square.  The fountain is
+made of gray marble veined with blue.  Large sculptures of dancing otters
+and leaping trout, gazing skyward and spouting water from their mouths, sit
+within the circular basin.  The rim of the basin appears designed for
+seating, but is sprinkled with water.  The square is mortared with rounded
+cobblestone radiating outwards from the fountain.  The sounds and smells of
+the market and other popular locales nearby mingle in the air.  
+
+[Exits: north east south west]
+     A large marble fountain gurgles peacefully here.
+A grey pigeon walks about tentatively, looking for scraps of food.
+A grey pigeon walks about tentatively, looking for scraps of food.
+An armed enforcer of Var Bandor stands here.
+An armed enforcer of Var Bandor stands here.
+
+n
+n
+<107hp 106m 77mv> 
+n
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.  To the south is the central square of
+Var Bandor.  
+
+[Exits: north south]
+
+n
+<107hp 106m 76mv> 
+n
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.
+
+[Exits: north south]
+
+n
+n
+<107hp 106m 75mv> 
+n
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.
+
+[Exits: north south]
+
+n
+<107hp 106m 74mv> 
+n
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.  To the west, Iron Street leads into
+the industrial section of Var Bandor, and to the east, Raddin street winds
+through some run-down buildings.  
+
+[Exits: north east south west]
+An armed enforcer of Var Bandor patrols here.
+
+n
+<107hp 106m 73mv> 
+n
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.
+
+[Exits: north south]
+An armed enforcer of Var Bandor patrols here.
+
+n
+n
+<107hp 106m 72mv> 
+n
+You gained 1 exploration point and 50 experience points!
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.  To the west, Iron Street leads
+through the industrial section of Var Bandor.  To the east, the scent of
+fresh bread wafts from a corner bakery.  
+
+[Exits: north east south west]
+
+n
+<107hp 106m 71mv> 
+n
+You gained 1 exploration point and 50 experience points!
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.  To the east, Dretch street leads into
+the most notorious neighborhoods of Var Bandor.  
+
+[Exits: north east south]
+A young man clad in soiled clothes grins menacingly at passersby.
+
+n
+<107hp 106m 70mv> 
+You gained 1 exploration point and 50 experience points!
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.  The road turns east and south.  
+
+[Exits: east south]
+
+<107hp 106m 69mv> 
+Alas, you cannot go that way.
+
+clear
+<107hp 106m 69mv> Alas, you cannot go that way.
+
+e
+<107hp 106m 69mv> Buffer cleared.
+
+<107hp 106m 69mv> You gained 1 exploration point and 50 experience points!
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.  The road turns north and west here.  
+
+[Exits: north west]
+An armed enforcer of Var Bandor patrols here.
+A filthy alleycat searches through the discarded refuse for food.
+
+n
+<107hp 106m 68mv> 
+n
+You gained 1 exploration point and 50 experience points!
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.  To the east and west is a squalid
+alley.  
+
+[Exits: north east south west]
+A filthy alleycat searches through the discarded refuse for food.
+
+n
+n
+<107hp 106m 67mv> 
+n
+You gained 1 exploration point and 50 experience points!
+Inside the Northern Gatehouse
+  This gatehouse house is built behind the gates of Sadrent, the oldest of
+the gates into Var Bandor.  Outside, to the north, a ferry leads across the
+Dantaron river, while to the south Sadrent road snakes its way into the
+city.  The gatehouse is ill-tended, leading in to the poorest section of the
+city, and consequently little attention is paid to the traffic of riff-raff
+and n'er-do-wells through these wrought iron gates.  
+
+[Exits: north south]
+A soldier of the Var Bandor Guard watches the gatehouse.
+
+n
+<107hp 106m 66mv> 
+You gained 1 exploration point and 50 experience points!
+Outside the Northern Gatehouse
+  The towering gates of Var Bandor rise to the south.  Huge, heavy wooden
+doors reinforced with iron bars, the gates are maintained rigorously.  The
+walls to the east and west are solid stone, with murder slits.  To the
+north, the river Dantaron splits into two mighty forks which flow by Var
+Bandor on either side.  
+
+[Exits: north east south west]
+
+<107hp 106m 65mv> 
+You gained 1 exploration point and 50 experience points!
+The Outskirts of Var Bandor
+  You stand outside the north wall of Var Bandor.  In the distance to the
+north, the Dantaron river splits into two forks which flow around Var Bandor
+on either side.  The ground here is muddy and level, with little grass
+growing. Behind you to the south, the stone wall of the city overshadows
+the outskirts. 
+
+[Exits: north east south west]
+A child of Var Bandor runs along playfully, giggling and laughing.
+
+<107hp 106m 64mv> 
+You gained 1 exploration point and 50 experience points!
+A Ferry Station
+  The waters of the Dantaron River flow placidly to the north, a muddy
+brown barrier to merchants, carts, and foot travelers.  A small wooden dock
+has been erected at the water's edge, and several large ferries run by
+riverfolk carry passengers back and forth between the Arien Road and the
+outskirts of Var Bandor.
+
+[Exits: north south]
+The ferryman stands along the river, offering to transport travelers.
+
+n
+<107hp 106m 63mv> 
+n
+You gained 1 exploration point and 50 experience points!
+The Dantaron River
+  The winding Dantaron River turns to the east, flowing by the city of Var
+Bandor.  The placid, muddy waters ripple gently as they run their course,
+eventually leading to Earendam eastward.  The stone walls of Var Bandor
+tower menacingly to the south, and north and south of the river ferry
+stations have been set up.  
+
+[Exits: north east south west]
+
+n
+<107hp 106m 62mv> 
+You gained 1 exploration point and 50 experience points!
+A Ferry Station
+  The waters of the Dantaron River flow placidly to the south, a muddy
+brown barrier to merchants, carts, and foot travelers.  A small wooden dock
+has been erected at the water's edge, and several large ferries run by
+riverfolk carry passengers back and forth between the Arien Road and the
+outskirts of Var Bandor.  
+A wooden sign stands at the edge of the docks.
+
+[Exits: north south]
+A ferryman stands on the docks, offering his services for gold.
+
+n
+<107hp 106m 61mv> 
+n
+You gained 1 exploration point and 50 experience points!
+The Arien Plains
+  The broad stone strip known as the Arien Road turns to the south at this
+point, leading to the waters of the Dantaron River, and beyond to Var
+Bandor. The Arien Plains spread to the north and west, their unbroken
+monotony extending as far as eye can see.
+
+[Exits: north east south]
+
+<107hp 106m 60mv> 
+You gained 1 exploration point and 50 experience points!
+The Arien Road
+  The broad stone strip known as the Arien Road turns to the south at this
+point, leading to the waters of the Dantaron River, and beyond to Var
+Bandor.  The Arien Plains spread to the north and west, their unbroken
+monotony extending as far as eye can see.  
+
+[Exits: north east south west]
+
+<107hp 106m 59mv> 
+n
+You gained 1 exploration point and 50 experience points!
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south]
+
+n
+n
+<107hp 106m 58mv> 
+Alas, you cannot go that way.
+
+<107hp 106m 58mv> Alas, you cannot go that way.
+
+e
+<107hp 106m 58mv> Alas, you cannot go that way.
+
+<107hp 106m 58mv> Alas, you cannot go that way.
+
+e
+e
+e
+e
+<107hp 106m 58mv> You gained 1 exploration point and 50 experience points!
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south west]
+
+e
+e
+e
+e
+e
+e
+<107hp 106m 57mv> 
+You gained 1 exploration point and 50 experience points!
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south west]
+
+<107hp 106m 56mv> 
+You gained 1 exploration point and 50 experience points!
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south west]
+
+<107hp 106m 55mv> 
+You gained 1 exploration point and 50 experience points!
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south west]
+
+<107hp 106m 54mv> 
+You gained 1 exploration point and 50 experience points!
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south west]
+
+<107hp 106m 53mv> 
+You gained 1 exploration point and 50 experience points!
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south west]
+
+<107hp 106m 52mv> 
+You gained 1 exploration point and 50 experience points!
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south west]
+
+<107hp 106m 51mv> 
+You gained 1 exploration point and 50 experience points!
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south west]
+
+<107hp 106m 50mv> 
+You gained 1 exploration point and 50 experience points!
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south west]
+
+<107hp 106m 49mv> 
+You gained 1 exploration point and 50 experience points!
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: north east south west]
+
+<107hp 106m 48mv> 
+You gained 1 exploration point and 50 experience points!
+The Arien Road
+  The broad strip of stone known to travelers as the Arien Road stretches
+into the distance to the east and west, curving south at this bend.  The
+flat monotony of the Plains of Arien are the only view to the north and
+south, the neatly laid stones of the road providing the only change.  
+
+[Exits: north east south west]
+
+<107hp 106m 47mv> 
+e
+e
+You gained 1 exploration point and 50 experience points!
+The Arien Road
+  The broad strip of stone known to travelers as the Arien Road stretches
+into the distance to the east and west.  The flat monotony of the Plains of
+Arien are the only view to the north and south, the neatly laid stones of
+the road providing the only change.  To the east, a wide dirt road
+intersects with the Arien Road.  
+
+[Exits: north east south west]
+
+e
+<107hp 106m 46mv> 
+You gained 1 exploration point and 50 experience points!
+The Brintor Crossroads
+  The Arien Road stretches endlessly through the plains to the east and
+west.  From the north, the wide dirt track known as the Brintor Road cuts
+through the prairie, intersecting with the more widely traveled stone
+highway.  Deep ruts in the dirt mark the passage of wagon wheels to the
+north, toward the Brintor Mountains.  
+
+[Exits: north east south west]
+     A sun-bleached signpost stands in the grey soil.
+A courier dressed in the livery of the Patrician walks along briskly.
+A man of Earendam walks along the road, heading for Var Bandor.
+
+<107hp 106m 45mv> 
+You gained 1 exploration point and 50 experience points!
+The Arien Road
+  The broad strip of stone known to travelers as the Arien Road stretches
+into the distance to the east and west.  The flat monotony of the Plains of
+Arien are the only view to the north and south, the neatly laid stones of
+the road providing the only change.  To the west, a dirt road intersects
+with the Arien Road.  
+
+[Exits: north east south west]
+
+<107hp 106m 44mv> 
+e
+You gained 1 exploration point and 50 experience points!
+The Arien Road
+  The broad strip of stone known to travelers as the Arien Road stretches
+into the distance to the east and west.  The flat monotony of the Plains of
+Arien are the only view to the north and south, the neatly laid stones of
+the road providing the only change.  
+
+[Exits: north east south west]
+A man of Earendam walks along the road, heading for Var Bandor.
+
+<113hp 108m 63mv> 
+e
+You gained 1 exploration point and 50 experience points!
+The Arien Road
+  The broad strip of stone known to travelers as the Arien Road stretches
+into the distance to the east and west.  The flat monotony of the Plains of
+Arien are the only view to the north and south, the neatly laid stones of
+the road providing the only change.
+
+[Exits: north east south west]
+     A pile of copper coins.
+A burly guard walks along, protecting the caravan.
+A burly guard walks along, protecting the caravan.
+A merchant of Var Bandor travels with his caravan.
+A merchant of Var Bandor travels with his caravan.
+A merchant of Var Bandor travels with his caravan.
+
+<113hp 108m 62mv> 
+w
+The Arien Road
+  The broad strip of stone known to travelers as the Arien Road stretches
+into the distance to the east and west.  The flat monotony of the Plains of
+Arien are the only view to the north and south, the neatly laid stones of
+the road providing the only change.  
+
+[Exits: north east south west]
+A man of Earendam walks along the road, heading for Var Bandor.
+
+w
+w
+<113hp 108m 61mv> 
+w
+The Arien Road
+  The broad strip of stone known to travelers as the Arien Road stretches
+into the distance to the east and west.  The flat monotony of the Plains of
+Arien are the only view to the north and south, the neatly laid stones of
+the road providing the only change.  To the west, a dirt road intersects
+with the Arien Road.  
+
+[Exits: north east south west]
+
+<113hp 108m 60mv> 
+The Brintor Crossroads
+  The Arien Road stretches endlessly through the plains to the east and
+west.  From the north, the wide dirt track known as the Brintor Road cuts
+through the prairie, intersecting with the more widely traveled stone
+highway.  Deep ruts in the dirt mark the passage of wagon wheels to the
+north, toward the Brintor Mountains.  
+
+[Exits: north east south west]
+     A sun-bleached signpost stands in the grey soil.
+A courier dressed in the livery of the Patrician walks along briskly.
+A man of Earendam walks along the road, heading for Var Bandor.
+
+<113hp 108m 59mv> 
+The Arien Road
+  The broad strip of stone known to travelers as the Arien Road stretches
+into the distance to the east and west.  The flat monotony of the Plains of
+Arien are the only view to the north and south, the neatly laid stones of
+the road providing the only change.  To the east, a wide dirt road
+intersects with the Arien Road.  
+
+[Exits: north east south west]
+
+<113hp 108m 58mv> 
+e
+The Brintor Crossroads
+  The Arien Road stretches endlessly through the plains to the east and
+west.  From the north, the wide dirt track known as the Brintor Road cuts
+through the prairie, intersecting with the more widely traveled stone
+highway.  Deep ruts in the dirt mark the passage of wagon wheels to the
+north, toward the Brintor Mountains.  
+
+[Exits: north east south west]
+     A sun-bleached signpost stands in the grey soil.
+A courier dressed in the livery of the Patrician walks along briskly.
+A man of Earendam walks along the road, heading for Var Bandor.
+
+n
+<113hp 108m 57mv> 
+n
+You are promoted!!  You gain 22 hit points, 8 mana, and 8 movement.
+You gained 1 exploration point and 50 experience points!
+The Brintor Road
+  The wide dirt way known as the Brintor Road leads north through the Arien
+Plains, gashing a brown line through the monotony of the prairies.  Deep ruts
+carved into the road indicate the passing of carts and caravans seeking
+trade with the people of the Brintor Mountains to the north.  South, the
+Arien Road leads between Earendam and Var Bandor.  
+
+[Exits: north east south west]
+
+n
+n
+<113hp 108m 56mv> 
+n
+You gained 1 exploration point and 50 experience points!
+The Brintor Road
+  The wide dirt way known as the Brintor Road leads north through the Arien
+Plains, gashing a brown line through the monotony of the praries.  Deep ruts
+carved into the road indicate the passing of carts and caravans seeking
+trade with the people of the Brintor Mountains to the north.  South, the
+Arien Road leads between Earendam and Var Bandor.
+
+[Exits: north south]
+
+n
+<113hp 108m 55mv> 
+n
+You gained 1 exploration point and 50 experience points!
+The Brintor Road
+  The wide dirt way known as the Brintor Road leads north through the Arien
+Plains, gashing a brown line through the monotony of the praries.  Deep ruts
+carved into the road indicate the passing of carts and caravans seeking
+trade with the people of the Brintor Mountains to the north.  South, the
+Arien Road leads between Earendam and Var Bandor.
+
+[Exits: north south]
+
+n
+n
+<113hp 108m 54mv> 
+You gained 1 exploration point and 50 experience points!
+The Brintor Road
+  The wide dirt way known as the Brintor Road leads north through the Arien
+Plains, gashing a brown line through the monotony of the praries.  Deep ruts
+carved into the road indicate the passing of carts and caravans seeking
+trade with the people of the Brintor Mountains to the north.  
+
+[Exits: north south]
+
+n
+n
+<113hp 108m 53mv> 
+n
+You gained 1 exploration point and 50 experience points!
+The Brintor Road
+  The wide dirt way known as the Brintor Road leads north through the Arien
+Plains, gashing a brown line through the monotony of the praries.  Deep ruts
+carved into the road indicate the passing of carts and caravans seeking
+trade with the people of the Brintor Mountains to the north.   
+
+[Exits: north south]
+
+n
+<113hp 108m 52mv> 
+You gained 1 exploration point and 50 experience points!
+The Brintor Road
+  The wide dirt way known as the Brintor Road leads north through the Arien
+Plains, gashing a brown line through the monotony of the praries.  Deep ruts
+carved into the road indicate the passing of carts and caravans seeking
+trade with the people of the Brintor Mountains to the north.
+
+[Exits: north south]
+
+<113hp 108m 51mv> 
+You gained 1 exploration point and 50 experience points!
+The Brintor Road
+  The wide dirt way known as the Brintor Road leads north through the Arien
+Plains, gashing a brown line through the monotony of the praries.  Deep ruts
+carved into the road indicate the passing of carts and caravans seeking
+trade with the people of the Brintor Mountains to the north.
+
+[Exits: north south]
+
+<113hp 108m 50mv> 
+You gained 1 exploration point and 50 experience points!
+The Brintor Road
+  The wide dirt way known as the Brintor Road leads north through the Arien
+Plains, gashing a brown line through the monotony of the praries.  Deep ruts
+carved into the road indicate the passing of carts and caravans seeking
+trade with the people of the Brintor Mountains to the north.
+
+[Exits: north south]
+
+<113hp 108m 49mv> 
+You gained 1 exploration point and 50 experience points!
+The Brintor Road
+  The wide dirt way known as the Brintor Road leads north through the Arien
+Plains, gashing a brown line through the monotony of the praries.  Deep ruts
+carved into the road indicate the passing of carts and caravans seeking
+trade with the people of the Brintor Mountains to the north.
+
+[Exits: north south]
+
+<113hp 108m 48mv> 
+You gained 1 exploration point and 50 experience points!
+The Brintor Road
+  The wide dirt way known as the Brintor Road leads north out of the Arien
+Plains, now giving way to the rolling foothills of the Brintor Mountains. 
+The low scrub bushes that populated the praries are now interspersed with
+struggling evergreens and patches of rough grass.  Far to the north you can
+make out the outline of the Brintor peaks against the sky. 
+
+[Exits: north south]
+
+<113hp 108m 47mv> 
+w
+You gained 1 exploration point and 50 experience points!
+The Brintor Road
+  The wide dirt way known as the Brintor Road leads north out of the Arien
+Plains, now giving way to the rolling foothills of the Brintor Mountains. 
+The low scrub bushes that populated the praries are now interspersed with
+struggling evergreens and patches of rough grass.  Far to the north you can
+make out the outline of the Brintor peaks against the sky. 
+
+[Exits: south west]
+
+<113hp 108m 46mv> 
+Alas, you cannot go that way.
+
+n
+<113hp 108m 46mv> Alas, you cannot go that way.
+
+n
+<113hp 108m 46mv> You gained 1 exploration point and 50 experience points!
+The Brintor Road
+  The wide dirt way known as the Brintor Road leads north out of the Arien
+Plains, now giving way to the rolling foothills of the Brintor Mountains. 
+The low scrub bushes that populated the praries are now interspersed with
+struggling evergreens and patches of rough grass.  Far to the north you can
+make out the outline of the Brintor peaks against the sky. 
+
+[Exits: north east]
+
+e
+e
+<113hp 108m 45mv> 
+You gained 1 exploration point and 50 experience points!
+The Brintor Road
+  The wide dirt way known as the Brintor Road leads north out of the Arien
+Plains, now giving way to the rolling foothills of the Brintor Mountains. 
+The low scrub bushes that populated the praries are now interspersed with
+struggling evergreens and patches of rough grass.  Far to the north you can
+make out the outline of the Brintor peaks against the sky. 
+
+[Exits: north south]
+
+<113hp 108m 44mv> 
+n
+You gained 1 exploration point and 50 experience points!
+The Brintor Road
+  The wide dirt way known as the Brintor Road leads north out of the Arien
+Plains, now giving way to the rolling foothills of the Brintor Mountains. 
+The low scrub bushes that populated the praries are now interspersed with
+struggling evergreens and patches of rough grass.  Far to the north you can
+make out the outline of the Brintor peaks against the sky.  A small side
+path, formed by the recent passing of wagon wheels, leads toward a small
+cluster of hills to the east.  
+
+[Exits: north east south]
+
+n
+<113hp 108m 43mv> 
+n
+You gained 1 exploration point and 50 experience points!
+A Path Through the Foothills
+  A small path formed by the recent passing of wagon wheels leads through
+the foothills, sinking deeply into the earth of the foothills.  To the
+north, the trail bends toward a group of foothills rising above the others. 
+To the west, the trail returns toward the Brintor Road.  
+
+[Exits: east west]
+
+n
+<113hp 108m 42mv> 
+n
+You gained 1 exploration point and 50 experience points!
+A Path Through the Foothills
+  A small path formed by the recent passing of wagon wheels leads through
+the foothills, sinking deeply into the earth of the foothills.  To the
+north, the trail bends toward a group of foothills rising above the others. 
+To the west, the trail returns toward the Brintor Road.  
+
+[Exits: north west]
+
+n
+<113hp 108m 41mv> 
+You gained 1 exploration point and 50 experience points!
+A Path to a Hill
+  To the north, the path veers sharply toward a cluster of low foothills. 
+An opening in the face of the nearest hill leads into a cavern, and to the
+south, the lower foothills spread vastly.  Far in the distance, the peaks of
+the Brintor Mountains tower above the horizon, a grand spectacle in the
+background.  
+
+[Exits: north south]
+
+<113hp 108m 40mv> 
+You gained 1 exploration point and 50 experience points!
+The Mouth of the Cave
+  A gap in the face of the hill opens into a large cave.  The walls are
+slick with condensed moisture and growths of fungus.  There is a musty air
+to the natural passage that leads north.  Many footprints mar the soft dirt
+of the cave floor, packing it into a regular path in some areas.  
+
+[Exits: north south]
+
+<113hp 108m 39mv> 
+You gained 1 exploration point and 50 experience points!
+A Damp Cave
+  The damp cave continues, leading into the darkness to the north, and
+toward the light of a cave mouth to the south.  The cave walls drip with
+moisture, and subterranean fungi grow in colored patches.  The dirt of the
+floor is packed by many footprints.  
+
+[Exits: north south]
+
+<113hp 108m 37mv> 
+You gained 1 exploration point and 50 experience points!
+The Mining Camp
+  This stretch of cave is crowded with mining equipment, bedrolls for
+several men, provisions, and various clutter.  Apparently this is the
+temporary camp of a mining party.  Further evidence lies in a mine shaft
+sunk into the west wall of the cave, and three mine carts partially filled
+with ore.  The main cave continues north and south.  
+
+[Exits: north south west]
+     A mining cart carries recently mined ore.
+A miner bends to his work, carving away at the cave wall.
+The leader of the mining expedition supervises his men's progress.
+A burly miner, hardened by years of work, digs tirelessly at the cave wall.
+
+<113hp 108m 35mv> 
+You gained 1 exploration point and 50 experience points!
+The Mining Camp
+  This stretch of cave is crowded with mining equipment, bedrolls for
+several men, provisions, and various clutter.  Apparently this is the
+temporary camp of a mining party.  Further evidence lies in mine shafts sunk
+into the east and west walls of the cave, and mine carts partially filled
+with ore.  The main cave continues north and south.  
+
+[Exits: north east south west]
+     A mining cart carries recently mined ore.
+A burly miner, hardened by years of work, digs tirelessly at the cave wall.
+A miner bends to his work, carving away at the cave wall.
+A burly miner glances at you.
+
+n
+n
+<113hp 108m 33mv> 
+You gained 1 exploration point and 50 experience points!
+A Damp Cave
+  The damp cave winds its way north and south.  Moisture trickles down the
+stone walls, and patches of fungus grow in red and brown patterns.  The soft
+dirt of the cave floor is disturbed by occasional footprints.  
+
+[Exits: north south]
+
+<113hp 108m 31mv> 
+You gained 1 exploration point and 50 experience points!
+A Damp Cave
+  The winding cave splits into a four-way intersection, with one branch
+twisting north and the other branches curving west, south, and east.  Water
+drips from the ceiling, forming puddles on the cave floor, and the soft
+earth that lines the cave floor to the south slowly fades to the north and
+west.  
+
+[Exits: north east south west]
+
+<113hp 108m 29mv> 
+You gained 1 exploration point and 50 experience points!
+A Damp Cave
+  The damp cave floor is slick with the water dripping from the ceiling and
+walls.  Fungus and slime molds contribute to the lack of friction underfoot.
+The air is stale and musty.  The damp cave twists north and south.  
+
+[Exits: north south]
+
+w
+<113hp 108m 27mv> 
+Alas, you cannot go that way.
+
+<113hp 108m 27mv> 
+s
+A Damp Cave
+  The winding cave splits into a four-way intersection, with one branch
+twisting north and the other branches curving west, south, and east.  Water
+drips from the ceiling, forming puddles on the cave floor, and the soft
+earth that lines the cave floor to the south slowly fades to the north and
+west.  
+
+[Exits: north east south west]
+
+w
+w
+<113hp 108m 25mv> 
+w
+You gained 1 exploration point and 50 experience points!
+A Damp Cave
+  The damp cave floor is slick with the water dripping from the ceiling and
+walls. Fungus and slime molds contribute to the lack of friction underfoot.
+The air is stale and musty.  The damp cave twists east and west.
+
+[Exits: east west]
+
+w
+w
+<113hp 108m 23mv> 
+w
+You gained 1 exploration point and 50 experience points!
+A Damp Cave Intersection
+  The walls and floor of this cave are slick with moisture and fungus.  The
+ceiling dips down at this point, so that a tall man must bend over to
+continue.  The cave runs east and west, with a side tunnel branching to the
+north.  
+
+[Exits: north east west]
+A black cave bat clings to the wall.
+
+w
+<120hp 114m 41mv> 
+w
+You gained 1 exploration point and 50 experience points!
+A Damp Cave
+  The damp cave floor is slick with the water dripping from the ceiling and
+walls.  Fungus and slime molds contribute to the lack of friction underfoot.
+The air is stale and musty.  The damp cave twists to the east, and to the
+west it slopes upward into a small, dry cave.  
+
+[Exits: east west]
+
+w
+w
+<120hp 114m 39mv> 
+w
+You gained 1 exploration point and 50 experience points!
+A Dry Cave Intersection
+  Four cave tunnels intersect in this small, dry cave.  To the north, a
+broad cave passage curves through the rock.  To the east, a small damp
+tunnel twists downward.  To the south and west are tunnels that emanate a
+faint glow.  
+
+[Exits: north east south west]
+
+<120hp 114m 37mv> 
+You gained 1 exploration point and 50 experience points!
+A Luminous Cave
+  The walls and ceiling of this rounded cave are coated with multicolored
+fungi which give off a faint luminesence.  The red, green, and yellow
+glowing patches provide enough light to see without further aid.  Trails of
+slime criss-cross the walls, disturbing the patterns of colored light. 
+Littering the floor are dried pieces of chitin and shards of a thick shell.
+
+[Exits: east south west]
+A large white cave grub squirms sightlessly.
+
+n
+<120hp 114m 35mv> 
+You gained 1 exploration point and 50 experience points!
+A Luminous Cave
+  The walls and ceiling of this rounded cave are coated with multicolored
+fungi which give off a faint luminesence.  The red, green, and yellow
+glowing patches provide enough light to see without further aid.  Trails of
+slime criss-cross the walls, disturbing the patterns of colored light. 
+Littering the floor are dried pieces of chitin and shards of a thick shell.
+
+[Exits: north east west]
+A large black cave beetle scurries along.
+A large white cave snail crawls along the stone wall.
+A large white cave snail crawls along the stone wall.
+A large black cave beetle scurries along.
+
+<120hp 114m 33mv> 
+You gained 1 exploration point and 50 experience points!
+A Luminous Cave
+  The walls and ceiling of this rounded cave are coated with multicolored
+fungi which give off a faint luminesence.  The red, green, and yellow
+glowing patches provide enough light to see without further aid.  Trails of
+slime criss-cross the walls, disturbing the patterns of colored light. 
+Littering the floor are dried pieces of chitin and shards of a thick shell. 
+
+[Exits: east south west]
+A large black cave beetle scurries along.
+A large white cave grub squirms sightlessly.
+
+<120hp 114m 31mv> 
+You gained 1 exploration point and 50 experience points!
+A Side Tunnel
+  This side tunnel branches off from the luminous cave to the east.  The
+walls and ceiling are coated with a thick layer of slime mold, a
+russet-colored fungus that ripples slightly, as if sensing your presence. 
+The tunnel curves to the north, or leads back to the east.  
+
+[Exits: north east]
+A red cave beetle flexes its mandibles threateningly.
+A red cave beetle flexes its mandibles threateningly.
+
+get all corpse
+<120hp 114m 29mv> 
+Alas, you cannot go that way.
+
+<120hp 114m 29mv> Alas, you cannot go that way.
+
+<120hp 114m 29mv> Alas, you cannot go that way.
+
+s
+<120hp 114m 29mv> You gained 1 exploration point and 50 experience points!
+A Side Tunnel
+  The side tunnel comes to an abrupt end as the cave walls curve together,
+forming a small, rounded cave.  The walls are thinly coated with slime mold,
+and to the south, a greater amount of the fungus is visible.  
+
+[Exits: south]
+     The corpse of a deceased adventurer is here.
+A red cave beetle flexes its mandibles threateningly.
+A large white cave snail crawls along the stone wall.
+A large white cave grub squirms sightlessly.
+A giant leech feeds on the decaying corpse.
+
+<120hp 114m 27mv> 
+You get a felt hat from the corpse.
+You get a black leather belt from the corpse.
+You get a pair of leather gloves from the corpse.
+You get a pair of green boots from the corpse.
+You get a patched cloak from the corpse.
+
+e
+<120hp 114m 27mv> A Side Tunnel
+  This side tunnel branches off from the luminous cave to the east.  The
+walls and ceiling are coated with a thick layer of slime mold, a
+russet-colored fungus that ripples slightly, as if sensing your presence. 
+The tunnel curves to the north, or leads back to the east.  
+
+[Exits: north east]
+A red cave beetle flexes its mandibles threateningly.
+A red cave beetle flexes its mandibles threateningly.
+
+e
+<120hp 114m 25mv> 
+e
+A Luminous Cave
+  The walls and ceiling of this rounded cave are coated with multicolored
+fungi which give off a faint luminesence.  The red, green, and yellow
+glowing patches provide enough light to see without further aid.  Trails of
+slime criss-cross the walls, disturbing the patterns of colored light. 
+Littering the floor are dried pieces of chitin and shards of a thick shell. 
+
+[Exits: east south west]
+A large black cave beetle scurries along.
+A large white cave grub squirms sightlessly.
+
+e
+<120hp 114m 23mv> 
+e
+A Luminous Cave
+  The walls and ceiling of this rounded cave are coated with multicolored
+fungi which give off a faint luminesence.  The red, green, and yellow
+glowing patches provide enough light to see without further aid.  Trails of
+slime criss-cross the walls, disturbing the patterns of colored light. 
+Littering the floor are dried pieces of chitin and shards of a thick shell.
+
+[Exits: north east west]
+A large black cave beetle scurries along.
+A large white cave snail crawls along the stone wall.
+A large white cave snail crawls along the stone wall.
+A large black cave beetle scurries along.
+
+<120hp 114m 21mv> 
+e
+A Luminous Cave
+  The walls and ceiling of this rounded cave are coated with multicolored
+fungi which give off a faint luminesence.  The red, green, and yellow
+glowing patches provide enough light to see without further aid.  Trails of
+slime criss-cross the walls, disturbing the patterns of colored light. 
+Littering the floor are dried pieces of chitin and shards of a thick shell.
+
+[Exits: east south west]
+A large white cave grub squirms sightlessly.
+
+e
+<120hp 114m 19mv> 
+e
+A Dry Cave Intersection
+  Four cave tunnels intersect in this small, dry cave.  To the north, a
+broad cave passage curves through the rock.  To the east, a small damp
+tunnel twists downward.  To the south and west are tunnels that emanate a
+faint glow.  
+
+[Exits: north east south west]
+
+e
+<120hp 114m 17mv> 
+s
+A Damp Cave
+  The damp cave floor is slick with the water dripping from the ceiling and
+walls.  Fungus and slime molds contribute to the lack of friction underfoot.
+The air is stale and musty.  The damp cave twists to the east, and to the
+west it slopes upward into a small, dry cave.  
+
+[Exits: east west]
+
+s
+<120hp 114m 15mv> 
+s
+A Damp Cave Intersection
+  The walls and floor of this cave are slick with moisture and fungus.  The
+ceiling dips down at this point, so that a tall man must bend over to
+continue.  The cave runs east and west, with a side tunnel branching to the
+north.  
+
+[Exits: north east west]
+A black cave bat clings to the wall.
+
+s
+<120hp 114m 13mv> 
+s
+A Damp Cave
+  The damp cave floor is slick with the water dripping from the ceiling and
+walls. Fungus and slime molds contribute to the lack of friction underfoot.
+The air is stale and musty.  The damp cave twists east and west.
+
+[Exits: east west]
+
+<120hp 114m 11mv> 
+A Damp Cave
+  The winding cave splits into a four-way intersection, with one branch
+twisting north and the other branches curving west, south, and east.  Water
+drips from the ceiling, forming puddles on the cave floor, and the soft
+earth that lines the cave floor to the south slowly fades to the north and
+west.  
+
+[Exits: north east south west]
+
+<120hp 114m 9mv> 
+You gained 1 exploration point and 50 experience points!
+A Damp Cave
+  The walls of this cave are slick with the moisture dripping from the
+ceiling.  The beginnings of stalactites hang overhead, and the cave floor is
+puddled with muddy water.  The tunnel opens into an intersection to the
+west, and continues to the east.  
+
+[Exits: east west]
+A black cave bat clings to the wall.
+A large black cave beetle scurries along.
+A large white cave grub squirms sightlessly.
+
+<120hp 114m 7mv> 
+Alas, you cannot go that way.
+
+<120hp 114m 7mv> Alas, you cannot go that way.
+
+<120hp 114m 7mv> Alas, you cannot go that way.
+
+<120hp 114m 7mv> Alas, you cannot go that way.
+
+<120hp 114m 7mv> Alas, you cannot go that way.
+
+<120hp 114m 7mv> 
+e
+You gained 1 exploration point and 50 experience points!
+A Damp Cave
+  The walls of this cave are slick with the moisture dripping from the
+ceiling.  The beginnings of stalactites hang overhead, and the cave floor is
+puddled with muddy water.  The tunnel curves north, or continues west.  
+
+[Exits: north west]
+
+<120hp 114m 5mv> 
+n
+You gained 1 exploration point and 50 experience points!
+A Damp Cave
+  The walls of this cave are slick with the moisture dripping from the
+ceiling.  The beginnings of stalactites hang overhead, and the cave floor is
+puddled with muddy water.  The tunnel ends abruptly at this point.  The only
+exit visible is to the south.  
+
+[Exits: south]
+A large black cave beetle scurries along.
+A black cave bat clings to the wall.
+
+<120hp 114m 3mv> 
+s
+You are too exhausted.
+
+w
+<120hp 114m 3mv> Alas, you cannot go that way.
+
+<120hp 114m 3mv> 
+rest
+You rest.
+
+whe
+<120hp 114m 3mv> 
+Notables in Avendar (currently in The Chaja Caves):
+  Pyruin                     A Damp Cave                       [present]    
+
+Total found: 1
+
+who
+<120hp 114m 3mv> 
+[ 3 Gla] Pyruin Veda the Contestant
+
+Players found: 1
+
+<120hp 114m 3mv> 
+in
+You are carrying:
+     a patched cloak
+     a pair of green boots
+     a pair of leather gloves
+     a black leather belt
+     a felt hat
+     a canoe
+
+<120hp 114m 3mv> 
+sk
+
+Level  1: axe                  1%        dagger               1%        
+          flail                1%        mace                 1%        
+          spear               75%        sword                1%        
+          hand to hand         1%        recover              1%        
+          backstep             1%        
+Level  2: fast healing         1%        
+Level  3: dirt kicking         1%        
+Level  4: dodge              n/a      
+Level  5: enhanced damage    n/a      
+Level  6: corner             n/a      
+Level  7: bravado            n/a      
+Level  8: shield block       n/a      
+Level  9: kick               n/a      
+Level 10: provoke            n/a      
+Level 11: grip               n/a      
+Level 12: second attack      n/a      
+Level 13: gouge              n/a      
+Level 14: cross              n/a      
+Level 15: endure             n/a      
+Level 16: whirl              n/a      
+Level 17: knee shatter       n/a      
+[Hit Return to continue]
+
+Level 18: third attack       n/a      
+Level 19: shield bash        n/a      
+Level 20: taunt              n/a      
+Level 21: Kaslaug's vigor    n/a      
+Level 22: showmanship        n/a      
+Level 23: penetrating blow   n/a      
+Level 24: meditation         n/a      
+Level 25: fourth attack      n/a      
+Level 26: disarm             n/a      
+Level 27: retaliation        n/a      
+Level 28: retreat            n/a      
+Level 29: upstart's panache  n/a      
+Level 30: skullringer        n/a      
+Level 32: cyclone            n/a      
+Level 34: offhand disarm     n/a      
+Level 36: enthusiasm         n/a      
+Level 38: executioner's strike n/a      
+Level 40: decapitate         n/a      
+
+<120hp 114m 3mv> 
+scroll 0
+Paging disabled.
+
+<120hp 114m 3mv> 
+l
+A Damp Cave
+  The walls of this cave are slick with the moisture dripping from the
+ceiling.  The beginnings of stalactites hang overhead, and the cave floor is
+puddled with muddy water.  The tunnel ends abruptly at this point.  The only
+exit visible is to the south.  
+
+[Exits: south]
+A large black cave beetle scurries along.
+A black cave bat clings to the wall.
+
+<132hp 116m 34mv> 
+help decapitate
+/---------------------------------------------------------------------------\
+|          Decapitate (Skill)                                               |
+\---------------------------------------------------------------------------/
+
+Activation lag  :  1.5 rounds
+Activation cost :  0 mana
+
+
+Syntax: Automatic
+
+A gladiator wielding a weapon (or their own natural claws), when fighting a
+severely wounded foe, has a chance to swiftly lop off their head in a showy
+display of prowess. Certain powerful mobiles, or those who are particularly
+wary will not be able to be decapitated. Naturally, a gladiator who seeks to
+show mercy to their opponents will not attempt to remove anyone's heads.
+
+A decapitated corpse obviously cannot have its head trophied.
+
+Druids in sharkform will also benefit from this skill; rather than using a
+weapon, they'll use their gigantic shark teeth.
+
+
+See also: MERCY
+
+<132hp 116m 34mv> 
+l
+A Damp Cave
+  The walls of this cave are slick with the moisture dripping from the
+ceiling.  The beginnings of stalactites hang overhead, and the cave floor is
+puddled with muddy water.  The tunnel ends abruptly at this point.  The only
+exit visible is to the south.  
+
+[Exits: south]
+A large black cave beetle scurries along.
+A black cave bat clings to the wall.
+
+<132hp 116m 34mv> 
+st
+You stand up.
+
+s
+<132hp 116m 34mv> A Damp Cave
+  The walls of this cave are slick with the moisture dripping from the
+ceiling.  The beginnings of stalactites hang overhead, and the cave floor is
+puddled with muddy water.  The tunnel curves north, or continues west.  
+
+[Exits: north west]
+
+<132hp 116m 32mv> 
+w
+A Damp Cave
+  The walls of this cave are slick with the moisture dripping from the
+ceiling.  The beginnings of stalactites hang overhead, and the cave floor is
+puddled with muddy water.  The tunnel opens into an intersection to the
+west, and continues to the east.  
+
+[Exits: east west]
+A black cave bat clings to the wall.
+A large black cave beetle scurries along.
+A large white cave grub squirms sightlessly.
+
+n
+<132hp 116m 30mv> 
+Alas, you cannot go that way.
+
+<132hp 116m 30mv> 
+w
+A Damp Cave
+  The winding cave splits into a four-way intersection, with one branch
+twisting north and the other branches curving west, south, and east.  Water
+drips from the ceiling, forming puddles on the cave floor, and the soft
+earth that lines the cave floor to the south slowly fades to the north and
+west.  
+
+[Exits: north east south west]
+
+n
+<132hp 116m 28mv> 
+A Damp Cave
+  The damp cave floor is slick with the water dripping from the ceiling and
+walls.  Fungus and slime molds contribute to the lack of friction underfoot.
+The air is stale and musty.  The damp cave twists north and south.  
+
+[Exits: north south]
+A large white cave snail crawls along the stone wall.
+
+<132hp 116m 26mv> 
+n
+You gained 1 exploration point and 50 experience points!
+A Damp Cave
+  The damp cave floor is slick with the water dripping from the ceiling and
+walls.  Fungus and slime molds contribute to the lack of friction underfoot.
+The air is stale and musty.  The damp cave twists west and south.  
+
+[Exits: south west]
+
+w
+<132hp 116m 24mv> 
+You gained 1 exploration point and 50 experience points!
+A Damp Cave Intersection
+  The walls and ceiling of this cave are slick with condensed moisture and
+growths of fungus and slime mold.  The floor is smooth, and the dampness
+makes walking somewhat difficult.  The tunnel curves to the north and east,
+and a side passage leads west.  
+
+[Exits: north east west]
+
+<132hp 116m 22mv> 
+w
+You gained 1 exploration point and 50 experience points!
+A Damp Tunnel
+  The tunnel narrows at this point, making passage somewhat slower.  The
+walls and ceiling are slick with condensed moisture and fungus, and the
+smooth floor is slippery.  Branches of the tunnel lead east, west, and
+south.  
+
+[Exits: east south west]
+
+<132hp 116m 20mv> 
+s
+You are promoted!!  You gain 22 hit points, 8 mana, and 8 movement.
+You gained 1 exploration point and 50 experience points!
+A Damp Cave
+  The damp cave floor is slick with the water dripping from the ceiling and
+walls.  Fungus and slime molds contribute to the lack of friction underfoot.
+The air is stale and musty.  The damp cave twists north and south.  
+
+[Exits: north south]
+A large white cave grub squirms sightlessly.
+A black cave bat clings to the wall.
+A large white cave snail crawls along the stone wall.
+A large black cave beetle scurries along.
+
+s
+<132hp 116m 18mv> 
+A Damp Cave Intersection
+  The walls and floor of this cave are slick with moisture and fungus.  The
+ceiling dips down at this point, so that a tall man must bend over to
+continue.  The cave runs east and west, with a side tunnel branching to the
+north.  
+
+[Exits: north east west]
+
+<132hp 116m 16mv> 
+s
+s
+Alas, you cannot go that way.
+
+<132hp 116m 16mv> Alas, you cannot go that way.
+
+w
+<132hp 116m 16mv> A Damp Cave
+  The damp cave floor is slick with the water dripping from the ceiling and
+walls.  Fungus and slime molds contribute to the lack of friction underfoot.
+The air is stale and musty.  The damp cave twists to the east, and to the
+west it slopes upward into a small, dry cave.  
+
+[Exits: east west]
+
+s
+<132hp 116m 14mv> 
+Alas, you cannot go that way.
+
+<132hp 116m 14mv> 
+recall
+You gained 1 exploration point and 50 experience points!
+North Wall of the Temple of Darkness
+  Earendam's temple of darkness is an architectural hybrid, blending the
+classical Republican forms with the statuery of Yithoul and the intricate
+carvings of the Srryn.  The temple is topped by a barrel-vaulted roof, which
+leads from the southern entrance towards the altar which sits here against
+the north wall.  Supporting the ceiling are a series of onyx columns, whose
+intricate carvings serve to frame a set of statues in marble, forming a sort
+of gallery along the east and west walls.  The altar here is made from
+carved ebony, cunningly crafted with the symbols of the order which tends
+this temple.  Set on the altar are smoldering censers, which fill the
+surrounding air with the smell of myrrh.  
+
+[Exits: east south down]
+(White Aura) A priest of the Aklaju offers the services of the dark gods.
+
+<132hp 116m 7mv> 
+w
+Alas, you cannot go that way.
+
+<132hp 116m 7mv> 
+1
+This midnight black altar is made from carved ebony.
+A carved ebony altar holds:
+     Nothing.
+
+<139hp 122m 27mv> 
+d
+Before the Gates of the School of Heroes
+  Before you stand the gates of the School of Heroes, the renowned center
+of training for young adventurers.  It is an enormous structure, composed of
+marble, stone, and brick, and has been built upon a rocky hill.  The gates
+are forged of wrought iron, and remain open to travelers of every size,
+affiliation, and creed.  The central foyer of the School lies ahead, the
+marble edifice looming over its well-worn gates.  A small courtyard opens
+here, with a beautiful central fountain and a circle of low bushes.  
+
+[Exits: north south]
+     A beautiful golden fountain gushes water.
+
+<139hp 122m 26mv> 
+s
+The Portal Chamber
+  This cubical room is made from blocks of hewn marble.  Benches of similar
+stone are set diagonally against the corners of the room, and an open
+skylight provides illumination from above.  However, this room is unique in
+that it contains four magical gateways which connect the School of Heroes to
+various locations in Avendar.  Each glowing with soft blue light, the three
+vertical portals are set into the eastern, western, and southern walls.  The
+fourth portal is horizontal and circular, and is set into the floor directly
+beneath the skylight.  A more mundane doorway leads north, to the courtyard
+before the entrance to the School proper.  
+
+[Exits: north east south west down]
+(Translucent) A magic mouth hovers in mid-air, grinning nonchalantly.
+The magic mouth tells you, 'Are you ready to travel the portals?'
+The magic mouth tells you, 'Just say the name of the direction you want to go to learn more.'
+
+<139hp 122m 25mv> 
+whe
+Notables in Avendar (currently in The School of Heroes):
+  Pyruin                     The Portal Chamber                [present]    
+
+Total found: 1
+
+<139hp 122m 25mv> 
+s
+The Fortress Chapel
+  A large room of the upper floor of Krilin Fortress has been set aside for
+the worship of various deities of light.  The chapel is simply decorated,
+with plain wooden pews and a few holy symbols decorating the walls.  At the
+west end of the room, a wooden speaking stand has been erected.  To the
+north, a large alcove has been built into the chapel wall.  A door in the
+east wall leads out into the hallway.  
+
+[Exits: north (east) down]
+     A tall, circular table of finely polished wood stands in the alcove.
+(White Aura) Ygring Starid, the earth priest of Jolinn, stands in the chapel.
+
+e
+<139hp 122m 24mv> 
+The door is closed.
+
+whe
+<139hp 122m 24mv> 

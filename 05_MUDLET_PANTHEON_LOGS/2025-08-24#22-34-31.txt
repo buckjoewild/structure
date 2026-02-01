@@ -1,0 +1,3162 @@
+Log session starting at 22:34:31 on Sunday, 24 August 2025.
+[  OK  ]  - Mudlet-lua API & Geyser Layout manager loaded.
+[ INFO ]  - Reading map. Format version: 20. File:
+            "C:/Users/wilds/.config/mudlet/profiles/PANTHEON1/map/2025-08-23#11-22-53map.dat",
+            please wait...
+[ INFO ]  - Successfully read the map file (0.01s), checking some
+            consistency details...
+[ INFO ]  - Map audit starting...
+[  OK  ]  - Auditing of map completed (0.00s). Enjoy your game...
+[  OK  ]  - Map loaded successfully (0.01s).
+[ INFO ]  - Looking up the IP address of server: avendar.net:9999 ...
+[ INFO ]  - The IP address of avendar.net has been found. It is: 74.91.112.143
+[ INFO ]  - Trying to connect to 74.91.112.143:9999 ...
+[ INFO ]  - A connection has been established successfully.
+                
+                
+
+          <| 
+           A              
+          /.          
+     \<|  [""M#         
+      A   | #                   AVENDAR: THE CRUCIBLE OF LEGENDS 
+     /. \[""M#                         [avendar.net 9999] 
+    [""M# | #  U"U#U                  
+     | #  | #   \.:/    Original DikuMUD by Hans Staerfeldt, Katja Nyboe, 
+     | #  | #___| #     Tom Madsen, Michael Seifert, and Sebastian Hammer 
+     | "--'     .-"     Based on MERC 2.1 code by Hatchet, Furey, and Kahn 
+   |"-"-"-"-"-#-#-##    ROM 2.4 copyright (c) 1993-1996 Russ Taylor 
+   |     # ## ######      
+           \.::::'/     Avendar created by Matt Wallace, Thane Williams, 
+           \::::'/      and Brandon Downey.  See HELP AVENDAR for more. 
+   :8a|    # # ##       
+   ::88a      ###       Avendar is maintained and developed by the Avendar 
+  ::::888a  8a ##::.                   Immortal staff. 
+  ::::::888a88a[]:::: 
+ :::::::::SUNDOGa8a::::. ..               
+ :::::8::::888:Y8888:::::::::...       
+::':::88::::888::Y88a______________________________________________________ 
+:: ::::88a::::88a:Y88a                                  __---__-- __ 
+' .: ::Y88a:::::8a:Y88a                            __----_-- -------_-__ 
+  :' ::::8P::::::::::88aa.                   _ _- --  --_ --- __  --- __-- 
+,::  :::::::::::::::::::Y88as88a...s88aa.
+
+Under what name shall your deeds be recorded?
+Account 'Tyeric' already logged in.  Continuing to connect will disconnect existing session.
+Enter password to continue: 
+
+
+The following characters are currently associated with this account:
+
+Qeqskil
+Feythis
+Khuruin
+Rhuinzek
+Pyruin
+
+To create a new character, enter an original name at the following prompt.
+Enter character name to use: 
+pyruin
+Password: 
+
+-------------- READ THE MOTD -- Last Modified: Apr 2025 -------------------
+|                                                                         |
+| . -You are responsible for knowing the rules-. See "help RULES".        |
+|                                                                         |
+| . For more information and discussion about the game, see:              |
+|                                                                         |
+|     . The Avendar Website:      https://avendar.net                     |
+|     . The Avendar Discord:      http://discord.gg/DXsZwVBsBV            |
+|                                                                         |
+| . The changelog (type CHANGES) is updated regularly with updates to     |
+|   Avendar.  Last Updated: 29 Apr 2025                                   |
+|                                                                         |
+| . Avendar is currently presented AS-IS. You may encounter errors or     |
+|   bugs. It is YOUR RESPONSIBILITY to not exploit them.                  |
+|                                                                         |
+---------------------------------------------------------------------------
+achilles
+
+You open your eyes and cast your gaze upon the land.
+You received 150 experience today.
+You can't see anything, you're sleeping!
+You have no unread notes.
+
+<254hp 148m 248mv> 
+whe
+In your dreams, or what?
+
+<254hp 148m 248mv> 
+st
+You wake and stand up.
+
+<254hp 148m 248mv> 
+l
+The Northeast Corner of the First Floor
+  The Tower of Testing's first floor is a simple and rugged affair, built
+of heavy, rough-hewn bricks.  Torches line the grey walls, and a chill
+moisture clings to the air.  The floor underfoot is well-trod and packed
+with rough mortar.  The first level of the Tower opens up into a low-lit,
+open, and shadowy chamber.  There are no windows, and the dank air suggests
+that this part is still below ground level.  The chamber continues to the
+south and west, where the screeches of rats and the crackles of torches fill
+the quiet air.  To the north lies a stairwell leading to the second floor.  
+
+[Exits: north south west]
+An oversized rat scurries across the stone floor.
+An oversized rat sniffs and chews at some debris.
+
+<254hp 148m 248mv> 
+eq
+You are using:
+<worn on finger>    (Glowing) a gleaming gold ring
+<worn on finger>    [nothing]
+<worn around neck>  a patched cloak
+<worn around neck>  a patched cloak
+<worn on torso>     a copper chainmail shirt
+<worn on head>      a felt hat
+<worn on legs>      some copper chainmail leggings
+<worn on feet>      a pair of hide boots
+<worn on hands>     a pair of leather gloves
+<worn on arms>      a pair of fur-lined sleeves
+<worn as shield>    a copper shield
+<worn about body>   a foul-smelling bear skin
+<worn about waist>  a black leather belt
+<worn around wrist> a copper bracer
+<worn around wrist> [nothing]
+<wielded>           a jagged bone shortsword
+
+<254hp 148m 248mv> 
+in
+You are carrying:
+( 6) a copper javelin
+( 4) a copper dagger
+( 7) a copper chainmail shirt
+( 2) a copper shield
+     a simple pine staff
+( 2) a woolen mantle
+     a pair of hide boots
+     some copper chainmail leggings
+     a rawhide whip
+     a copper sword
+     a copper polearm
+     a light wool scarf
+     a pair of fur-lined sleeves
+     a three-balled flail
+     a canoe
+     a pair of green boots
+
+<254hp 148m 248mv> 
+[TIPS] Chaja have the least recorded history on the surface, as their communities remain extremely
+isolated.
+
+<254hp 148m 248mv> 
+l
+The Northeast Corner of the First Floor
+  The Tower of Testing's first floor is a simple and rugged affair, built
+of heavy, rough-hewn bricks.  Torches line the grey walls, and a chill
+moisture clings to the air.  The floor underfoot is well-trod and packed
+with rough mortar.  The first level of the Tower opens up into a low-lit,
+open, and shadowy chamber.  There are no windows, and the dank air suggests
+that this part is still below ground level.  The chamber continues to the
+south and west, where the screeches of rats and the crackles of torches fill
+the quiet air.  To the north lies a stairwell leading to the second floor.  
+
+[Exits: north south west]
+An oversized rat scurries across the stone floor.
+An oversized rat sniffs and chews at some debris.
+
+<254hp 148m 248mv> 
+who
+[ 7 Gla] Pyruin Veda the Challenger
+
+Players found: 1
+
+<254hp 148m 248mv> 
+n
+A Breezy Stairwell
+  This stairwell is in the far northeast, just outside of the first floor
+proper.  It is rugged and dark, lit with flickering torches.  However, as
+the stairs climb higher, the chill cling of the air lessens and the basement
+scent dims.  Warmer, fresher air travels downward on a faint breeze, causing
+the flames to dance wildly atop their torches.  The steps are worn and
+smooth, suggesting the passage of many feet.  To the south lies the
+rat-infested first floor of the Tower of Testing, while the second floor
+awaits above.  
+
+[Exits: south up]
+
+<254hp 148m 247mv> 
+n
+Alas, you cannot go that way.
+
+<254hp 148m 247mv> 
+u
+A Breezy Stairwell
+  This stairwell is on the far north side of the second floor of the Tower
+of Testing.  It is rugged and dark, lit with flickering torches.  As the
+stairs descend back to the first level, the air becomes colder and more
+dank.  Warmer, fresher air travels downward on a faint breeze, causing the
+flames to dance wildly atop their torches.  The steps are worn and smooth,
+suggesting the passage of many feet.  To the south lies the lizard habitat
+on the second floor of the Tower of Testing, while the first floor lay
+below.  
+
+A standing sign describes the area to come.
+
+[Exits: south down]
+
+<254hp 148m 246mv> 
+s
+s
+The Beginning of the Second Floor
+  The second floor of the Tower of Testing is at ground level, with high
+windows bringing in light from the outside.  The floor is generally shaped
+like a cross, with two long intersecting hallways.  The floor here is the
+same rough-hewn stone as the level below, except it is now marked by lizard
+droppings.  The scent of habitation is heavy in the air, but blissfully the
+many windows offer a breeze and some freshening air.  The ceiling is fairly
+high, and strung with oil lanterns.  This hallway continues south, while the
+stairwell to the first floor lies to the north.  
+
+[Exits: north south]
+A large lizard scratches at the floor with its short claws.
+A large lizard rests on the rough stone floor.
+A large lizard flexes its forward legs and claws.
+
+s
+<254hp 148m 245mv> 
+The Intersection on the Second Floor
+  The second floor of the Tower of Testing is at ground level, with high
+windows bringing in light from the outside.  The floor here is the same
+rough-hewn stone as the level below, except it is now marked by lizard
+droppings.  The scent of habitation is heavy in the air, but blissfully the
+many windows offer a breeze and some freshening air.  The ceiling is fairly
+high, and strung with oil lanterns.  This area serves as a point of
+intersection between the two hallways of the floor, with one going east and
+west, and the other going north and south.  
+
+[Exits: north east south west]
+A large lizard lets out a low, rumbling growl.
+A large lizard scratches its rear claws against the stone floor.
+
+<254hp 148m 244mv> 
+The Southern Section of the Second Floor
+  The second floor of the Tower of Testing is at ground level, with high
+windows bringing in light from the outside.  The floor is generally shaped
+like a cross, with two long intersecting hallways.  The floor here is the
+same rough-hewn stone as the level below, except it is now marked by lizard
+droppings.  The scent of habitation is heavy in the air, but blissfully the
+many windows offer a breeze and some freshening air.  The ceiling is fairly
+high, and strung with oil lanterns.  This hallway continues north, while the
+stairwell to the third floor lies to the south.  
+
+[Exits: north south]
+A large lizard scratches at the floor with its short claws.
+A large lizard rubs against the wall of the corridor as it moves.
+
+s
+<254hp 148m 243mv> 
+s
+A Glass Stairwell
+  The second floor comes to an end with a stairwell leading upward.  The
+tower here begins a transition away from the rough-hewn stone of the lower
+levels toward white brick and tile, much like that of the School of Heroes. 
+The ceilings are substantially higher than the floor below, with high glass
+panels that follow the stairs as they proceed further up.  From here you
+have a pleasant but commanding view of Avendar's distant horizons, with
+vents letting in further fresh air from above.  The stairway is
+significantly warmer than below.  
+
+[Exits: north up]
+
+<254hp 148m 242mv> 
+Alas, you cannot go that way.
+
+u
+<254hp 148m 242mv> 
+A Glass Stairwell
+  The glass stairwell leads upward to the third floor of the Tower of
+Testing.  The tower itself begins a transition away from the rough-hewn
+stone of the lower levels toward white brick and tile, much like that of the
+School of Heroes.  The ceilings are substantially higher than the floor
+below, with high glass panels that follow the stairs as they proceed further
+up.  From here you have a pleasant but commanding view of Avendar's distant
+horizons, with vents letting in further fresh air from above.  The stairway
+gets colder as it descends.  
+
+A standing sign describes the trials of this floor.
+
+[Exits: north down]
+
+n
+<254hp 148m 241mv> 
+The Beginning of the Third Floor
+  The third floor of the Tower of Testing is a stone and tile affair, much
+like the School of Heroes.  The bricks are white and lit by lanterns which
+hang from the ceiling, as well as the large glass windows which look out
+into the surrounding skyscape.  The tiles are dark and well-trod, showing
+the scuffs of many young adventurers.  The air on this floor is surprisingly
+clear and fresh due to better ventilation; however, it still stings the nose
+with the acrid scent of summoning.  Scratches and the spattering of dark
+blood mar the floor, ceiling and walls, with the high screech of imps never
+far from the ear.  To the south, a glass-enclosed stairwell descends to the
+second floor, while the current one continues to the north.  
+
+[Exits: north south]
+An emerald green imp leans its head back, letting out a shrill, angry chirp.
+An emerald green imp sees you and attacks!
+An emerald green imp's pitiful bite hits you.
+An emerald green imp's pitiful bite injures you.
+An emerald green imp is in excellent condition. 
+
+<239hp 148m 240mv> 
+
+Your average slash savages an emerald green imp.
+An emerald green imp's pitiful bite hits you.
+An emerald green imp has some small wounds and bruises. 
+
+<232hp 148m 240mv> 
+sk
+
+Level  1: axe                 75%        dagger              75%        
+          flail               75%        mace                75%        
+          spear               75%        sword               76%        
+          hand to hand        75%        recover             75%        
+          backstep            75%        
+Level  2: fast healing        75%        
+Level  3: dirt kicking        75%        
+Level  4: dodge               75%        
+Level  5: enhanced damage     75%        
+Level  6: corner               1%        
+Level  7: bravado              1%        
+Level  8: shield block       n/a      
+Level  9: kick               n/a      
+Level 10: provoke            n/a      
+Level 11: grip               n/a      
+Level 12: second attack      n/a      
+Level 13: gouge              n/a      
+Level 14: cross              n/a      
+Level 15: endure             n/a      
+Level 16: whirl              n/a      
+Level 17: knee shatter       n/a      
+Level 18: third attack       n/a      
+Level 19: shield bash        n/a      
+Level 20: taunt              n/a      
+Level 21: Kaslaug's vigor    n/a      
+Level 22: showmanship        n/a      
+Level 23: penetrating blow   n/a      
+Level 24: meditation         n/a      
+Level 25: fourth attack      n/a      
+Level 26: disarm             n/a      
+Level 27: retaliation        n/a      
+Level 28: retreat            n/a      
+Level 29: upstart's panache  n/a      
+Level 30: skullringer        n/a      
+Level 32: cyclone            n/a      
+Level 34: offhand disarm     n/a      
+Level 36: enthusiasm         n/a      
+Level 38: executioner's strike n/a      
+Level 40: decapitate         n/a      
+An emerald green imp has some small wounds and bruises. 
+
+<232hp 148m 240mv> 
+
+An emerald green imp narrowly dodges your attack.
+An emerald green imp's pitiful bite hits you.
+An emerald green imp has some small wounds and bruises. 
+
+<225hp 148m 240mv> 
+[ INFO ]  - Split-screen scrollback activated. Press <CTRL>+<ENTER> to cancel.
+
+Your slash misses an emerald green imp.
+You dodge an emerald green imp's attack.
+An emerald green imp has some small wounds and bruises. 
+
+<225hp 148m 240mv> 
+
+Your slash savages an emerald green imp.
+An emerald green imp's pitiful bite hits you.
+An emerald green imp has quite a few wounds. 
+
+<218hp 148m 240mv> 
+
+Your telling slash mangles an emerald green imp!
+An emerald green imp's pitiful bite injures you.
+An emerald green imp has some big nasty wounds and scratches. 
+
+<211hp 148m 240mv> 
+eq
+You are using:
+<worn on finger>    (Glowing) a gleaming gold ring
+<worn on finger>    [nothing]
+<worn around neck>  a patched cloak
+<worn around neck>  a patched cloak
+<worn on torso>     a copper chainmail shirt
+<worn on head>      a felt hat
+<worn on legs>      some copper chainmail leggings
+<worn on feet>      a pair of hide boots
+<worn on hands>     a pair of leather gloves
+<worn on arms>      a pair of fur-lined sleeves
+<worn as shield>    a copper shield
+<worn about body>   a foul-smelling bear skin
+<worn about waist>  a black leather belt
+<worn around wrist> a copper bracer
+<worn around wrist> [nothing]
+<wielded>           a jagged bone shortsword
+An emerald green imp has some big nasty wounds and scratches. 
+
+<211hp 148m 240mv> 
+
+Your telling slash dismembers an emerald green imp!
+You dodge an emerald green imp's attack.
+An emerald green imp looks pretty hurt. 
+
+<211hp 148m 240mv> 
+l
+The Beginning of the Third Floor
+  The third floor of the Tower of Testing is a stone and tile affair, much
+like the School of Heroes.  The bricks are white and lit by lanterns which
+hang from the ceiling, as well as the large glass windows which look out
+into the surrounding skyscape.  The tiles are dark and well-trod, showing
+the scuffs of many young adventurers.  The air on this floor is surprisingly
+clear and fresh due to better ventilation; however, it still stings the nose
+with the acrid scent of summoning.  Scratches and the spattering of dark
+blood mar the floor, ceiling and walls, with the high screech of imps never
+far from the ear.  To the south, a glass-enclosed stairwell descends to the
+second floor, while the current one continues to the north.  
+
+[Exits: north south]
+An emerald green imp is flying here, fighting YOU!
+An emerald green imp looks pretty hurt. 
+
+<211hp 148m 240mv> 
+
+Your mediocre slash sunders an emerald green imp.
+You escape an emerald green imp's attack with a practiced backstep.
+An emerald green imp is in awful condition. 
+
+<211hp 148m 240mv> 
+l
+The Beginning of the Third Floor
+  The third floor of the Tower of Testing is a stone and tile affair, much
+like the School of Heroes.  The bricks are white and lit by lanterns which
+hang from the ceiling, as well as the large glass windows which look out
+into the surrounding skyscape.  The tiles are dark and well-trod, showing
+the scuffs of many young adventurers.  The air on this floor is surprisingly
+clear and fresh due to better ventilation; however, it still stings the nose
+with the acrid scent of summoning.  Scratches and the spattering of dark
+blood mar the floor, ceiling and walls, with the high screech of imps never
+far from the ear.  To the south, a glass-enclosed stairwell descends to the
+second floor, while the current one continues to the north.  
+
+[Exits: north south]
+An emerald green imp is flying here, fighting YOU!
+An emerald green imp is in awful condition. 
+
+<211hp 148m 240mv> 
+
+Your telling slash utterly destroys an emerald green imp!
+An emerald green imp is DEAD!!
+You receive 563 experience points.
+An emerald green imp hits the ground with a dull thud.
+You get 5 copper coins from the corpse of an emerald green imp.
+You get 1 silver coins from the corpse of an emerald green imp.
+You quickly destroy the corpse of an emerald green imp.
+
+<211hp 148m 240mv> 
+n
+The West Side of the Third Floor
+  The third floor of the Tower of Testing is a stone and tile affair, much
+like the School of Heroes.  The bricks are white and lit by lanterns which
+hang from the ceiling, as well as the large glass windows which look out
+into the surrounding skyscape.  The tiles are dark and well-trod, showing
+the scuffs of many young adventurers.  The air on this floor is surprisingly
+clear and fresh due to better ventilation; however, it still stings the nose
+with the acrid scent of summoning.  Scratches and the spattering of dark
+blood mar the floor, ceiling and walls, with the high screech of imps never
+far from the ear.  The hall continues to the north and south.  
+
+[Exits: north south]
+An emerald green imp opens and closes its small claws irritably.
+An emerald green imp sees you and attacks!
+An emerald green imp's pitiful bite injures you.
+An emerald green imp is in excellent condition. 
+
+<210hp 148m 247mv> 
+worth
+You have 2 gold, 33 silver, 75 copper, and 16169 experience (1663 exp to level).
+You have 186 exploration points (0 ep to level).
+You are unencumbered by your equipment.
+An emerald green imp is in excellent condition. 
+
+<210hp 148m 247mv> 
+
+Your telling slash savages an emerald green imp!
+You dodge an emerald green imp's attack.
+An emerald green imp has some small wounds and bruises. 
+
+<210hp 148m 247mv> 
+recover
+You draw healing energy through your soulbond to Earendam.
+You feel better!
+An emerald green imp has some small wounds and bruises. 
+
+<254hp 148m 247mv> 
+
+Your paltry slash tears into an emerald green imp.
+You escape an emerald green imp's attack with a practiced backstep.
+An emerald green imp has quite a few wounds. 
+
+<254hp 148m 247mv> 
+
+Your average slash mutilates an emerald green imp.
+You dodge an emerald green imp's attack.
+An emerald green imp has quite a few wounds. 
+
+<254hp 148m 247mv> 
+
+Your strong slash devastates an emerald green imp!
+An emerald green imp's pitiful bite hits you.
+An emerald green imp looks pretty hurt. 
+
+<247hp 148m 247mv> 
+
+Your average slash dismembers an emerald green imp.
+You dodge an emerald green imp's attack.
+An emerald green imp is in awful condition. 
+
+<247hp 148m 247mv> 
+
+Your average slash butchers an emerald green imp.
+An emerald green imp is DEAD!!
+You receive 534 experience points.
+An emerald green imp's tail is cut from their body, twitching.
+You get 2 copper coins from the corpse of an emerald green imp.
+You get 1 silver coins from the corpse of an emerald green imp.
+You quickly destroy the corpse of an emerald green imp.
+
+<247hp 148m 247mv> 
+
+An emerald green imp sees you and attacks!
+You dodge an emerald green imp's attack.
+An emerald green imp is in excellent condition. 
+
+<254hp 148m 248mv> 
+
+You escape an emerald green imp's attack with a practiced backstep.
+Your mediocre slash rends an emerald green imp.
+An emerald green imp has some small wounds and bruises. 
+
+<254hp 148m 248mv> 
+desc + Gangly almost awkwardly tall and long-limbed this chaja's coarse fur is corralled by 
+spidersilk bands and braids.
+Your description is:
+A tall hairy chaja with milk-white eyes is here.  
+Gangly almost awkwardly tall and long-limbed this chaja's coarse fur is corralled by spidersilk
+bands and braids.
+An emerald green imp has some small wounds and bruises. 
+
+<254hp 148m 248mv> 
+l
+The West Side of the Third Floor
+  The third floor of the Tower of Testing is a stone and tile affair, much
+like the School of Heroes.  The bricks are white and lit by lanterns which
+hang from the ceiling, as well as the large glass windows which look out
+into the surrounding skyscape.  The tiles are dark and well-trod, showing
+the scuffs of many young adventurers.  The air on this floor is surprisingly
+clear and fresh due to better ventilation; however, it still stings the nose
+with the acrid scent of summoning.  Scratches and the spattering of dark
+blood mar the floor, ceiling and walls, with the high screech of imps never
+far from the ear.  The hall continues to the north and south.  
+
+[Exits: north south]
+     The tail of an emerald green imp is lying here.
+An emerald green imp is flying here, fighting YOU!
+An emerald green imp's pitiful bite hits you.
+You have become better at sword, and receive 77 experience!
+Your average slash savages an emerald green imp.
+Your telling slash maims an emerald green imp!
+An emerald green imp has some big nasty wounds and scratches. 
+
+<247hp 148m 248mv> 
+whe
+Notables in Avendar (currently in The Tower of Testing):
+  Pyruin                     The West Side of the Third Floor  [present]    
+
+Total found: 1
+An emerald green imp has some big nasty wounds and scratches. 
+
+<247hp 148m 248mv> 
+
+You dodge an emerald green imp's attack.
+Your slash mangles an emerald green imp.
+An emerald green imp looks pretty hurt. 
+
+scan n
+<247hp 148m 248mv> You peer intently north.
+=== 1 north ===
+An emerald green imp smiles viciously, baring its needle-like teeth.
+
+An emerald green imp looks pretty hurt. 
+
+<247hp 148m 248mv> 
+sk
+
+Level  1: axe                 75%        dagger              75%        
+          flail               75%        mace                75%        
+          spear               75%        sword               77%        
+          hand to hand        75%        recover             75%        
+          backstep            75%        
+Level  2: fast healing        75%        
+Level  3: dirt kicking        75%        
+Level  4: dodge               75%        
+Level  5: enhanced damage     75%        
+Level  6: corner               1%        
+Level  7: bravado              1%        
+Level  8: shield block       n/a      
+Level  9: kick               n/a      
+Level 10: provoke            n/a      
+Level 11: grip               n/a      
+Level 12: second attack      n/a      
+Level 13: gouge              n/a      
+Level 14: cross              n/a      
+Level 15: endure             n/a      
+Level 16: whirl              n/a      
+Level 17: knee shatter       n/a      
+Level 18: third attack       n/a      
+Level 19: shield bash        n/a      
+Level 20: taunt              n/a      
+Level 21: Kaslaug's vigor    n/a      
+Level 22: showmanship        n/a      
+Level 23: penetrating blow   n/a      
+Level 24: meditation         n/a      
+Level 25: fourth attack      n/a      
+Level 26: disarm             n/a      
+Level 27: retaliation        n/a      
+Level 28: retreat            n/a      
+Level 29: upstart's panache  n/a      
+Level 30: skullringer        n/a      
+Level 32: cyclone            n/a      
+Level 34: offhand disarm     n/a      
+Level 36: enthusiasm         n/a      
+Level 38: executioner's strike n/a      
+Level 40: decapitate         n/a      
+An emerald green imp looks pretty hurt. 
+
+<247hp 148m 248mv> 
+
+An emerald green imp's pitiful bite hits you.
+Your average slash dismembers an emerald green imp.
+An emerald green imp is in awful condition. 
+
+<240hp 148m 248mv> 
+
+You barely manage to parry an emerald green imp's attack.
+Your telling slash butchers an emerald green imp!
+An emerald green imp is DEAD!!
+You receive 406 experience points.
+An emerald green imp's arm is ripped from its socket.
+You get 5 copper coins from the corpse of an emerald green imp.
+You get 1 silver coins from the corpse of an emerald green imp.
+You quickly destroy the corpse of an emerald green imp.
+
+<240hp 148m 248mv> 
+help showmanship
+/---------------------------------------------------------------------------\
+|          Showmanship (Skill)                                              |
+\---------------------------------------------------------------------------/
+
+Activation lag  :  2.0 rounds
+Activation cost :  15 mana
+
+
+Syntax: Automatic
+
+Often needing to make do with next to nothing to defend themselves, gladiators
+are able to deflect blows onto their armguards, in a showy, if uncomfortable
+maneuver.
+
+
+<240hp 148m 248mv> 
+n
+A Corner on the Third Floor
+  The third floor of the Tower of Testing is a stone and tile affair, much
+like the School of Heroes.  The bricks are white and lit by lanterns which
+hang from the ceiling, as well as the large glass windows which look out
+into the surrounding skyscape.  The tiles are dark and well-trod, showing
+the scuffs of many young adventurers.  The air on this floor is surprisingly
+clear and fresh due to better ventilation; however, it still stings the nose
+with the acrid scent of summoning.  Scratches and the spattering of dark
+blood mar the floor, ceiling and walls, with the high screech of imps never
+far from the ear.  The hall turns here, its two exits to the east and south.
+
+[Exits: east south]
+An emerald green imp smiles viciously, baring its needle-like teeth.
+An emerald green imp sees you and attacks!
+An emerald green imp's bite misses you.
+An emerald green imp is in excellent condition. 
+
+<240hp 148m 247mv> 
+Your strong slash mutilates an emerald green imp!
+Your average slash mutilates an emerald green imp.
+You dodge an emerald green imp's attack.
+An emerald green imp has quite a few wounds. 
+
+<240hp 148m 247mv> 
+scan e
+You peer intently east.
+=== 1 east ===
+An emerald green imp flaps its wings wildly as it drifts about.
+
+=== 2 east ===
+An emerald green imp glares about the hall, flapping its leathery wings.
+
+An emerald green imp has quite a few wounds. 
+
+<240hp 148m 247mv> 
+
+Your average slash maims an emerald green imp.
+An emerald green imp's feeble bite wounds you.
+An emerald green imp has some big nasty wounds and scratches. 
+
+wh
+<230hp 148m 247mv> Notables in Avendar (currently in The Tower of Testing):
+  Pyruin                     A Corner on the Third Floor       [present]    
+
+Total found: 1
+An emerald green imp has some big nasty wounds and scratches. 
+
+ewho
+<230hp 148m 247mv> 
+Huh?
+An emerald green imp has some big nasty wounds and scratches. 
+
+<230hp 148m 247mv> 
+sk
+
+Level  1: axe                 75%        dagger              75%        
+          flail               75%        mace                75%        
+          spear               75%        sword               77%        
+          hand to hand        75%        recover             75%        
+          backstep            75%        
+Level  2: fast healing        75%        
+Level  3: dirt kicking        75%        
+Level  4: dodge               75%        
+Level  5: enhanced damage     75%        
+Level  6: corner               1%        
+Level  7: bravado              1%        
+Level  8: shield block       n/a      
+Level  9: kick               n/a      
+Level 10: provoke            n/a      
+Level 11: grip               n/a      
+Level 12: second attack      n/a      
+Level 13: gouge              n/a      
+Level 14: cross              n/a      
+Level 15: endure             n/a      
+Level 16: whirl              n/a      
+Level 17: knee shatter       n/a      
+Level 18: third attack       n/a      
+Level 19: shield bash        n/a      
+Level 20: taunt              n/a      
+Level 21: Kaslaug's vigor    n/a      
+Level 22: showmanship        n/a      
+Level 23: penetrating blow   n/a      
+Level 24: meditation         n/a      
+Level 25: fourth attack      n/a      
+Level 26: disarm             n/a      
+Level 27: retaliation        n/a      
+Level 28: retreat            n/a      
+Level 29: upstart's panache  n/a      
+Level 30: skullringer        n/a      
+Level 32: cyclone            n/a      
+Level 34: offhand disarm     n/a      
+Level 36: enthusiasm         n/a      
+Level 38: executioner's strike n/a      
+Level 40: decapitate         n/a      
+An emerald green imp has some big nasty wounds and scratches. 
+
+<230hp 148m 247mv> 
+
+Your average slash devastates an emerald green imp.
+An emerald green imp's pitiful bite hits you.
+An emerald green imp looks pretty hurt. 
+
+<223hp 148m 247mv> 
+help showmanship
+/---------------------------------------------------------------------------\
+|          Showmanship (Skill)                                              |
+\---------------------------------------------------------------------------/
+
+Activation lag  :  2.0 rounds
+Activation cost :  15 mana
+
+
+Syntax: Automatic
+
+Often needing to make do with next to nothing to defend themselves, gladiators
+are able to deflect blows onto their armguards, in a showy, if uncomfortable
+maneuver.
+
+An emerald green imp looks pretty hurt. 
+
+<223hp 148m 247mv> 
+Your telling slash kills an emerald green imp!
+An emerald green imp is DEAD!!
+You receive 438 experience points.
+An emerald green imp's arm is ripped from its socket.
+You get 1 copper coins from the corpse of an emerald green imp.
+You get 1 silver coins from the corpse of an emerald green imp.
+You quickly destroy the corpse of an emerald green imp.
+
+<223hp 148m 247mv> 
+w
+Alas, you cannot go that way.
+
+<223hp 148m 247mv> 
+e
+The North Side of the Third Floor
+  The third floor of the Tower of Testing is a stone and tile affair, much
+like the School of Heroes.  The bricks are white and lit by lanterns which
+hang from the ceiling, as well as the large glass windows which look out
+into the surrounding skyscape.  The tiles are dark and well-trod, showing
+the scuffs of many young adventurers.  The air on this floor is surprisingly
+clear and fresh due to better ventilation; however, it still stings the nose
+with the acrid scent of summoning.  Scratches and the spattering of dark
+blood mar the floor, ceiling and walls, with the high screech of imps never
+far from the ear.  The hall continues to the east and west.  
+
+[Exits: east west]
+An emerald green imp flaps its wings wildly as it drifts about.
+An emerald green imp sees you and attacks!
+An emerald green imp's pitiful bite injures you.
+An emerald green imp is in excellent condition. 
+
+<216hp 148m 246mv> 
+
+Your slash rends an emerald green imp.
+You dodge an emerald green imp's attack.
+An emerald green imp has some small wounds and bruises. 
+
+<216hp 148m 246mv> 
+
+Your slash misses an emerald green imp.
+You dodge an emerald green imp's attack.
+An emerald green imp has some small wounds and bruises. 
+
+<216hp 148m 246mv> 
+help showmanship
+/---------------------------------------------------------------------------\
+|          Showmanship (Skill)                                              |
+\---------------------------------------------------------------------------/
+
+Activation lag  :  2.0 rounds
+Activation cost :  15 mana
+
+
+Syntax: Automatic
+
+Often needing to make do with next to nothing to defend themselves, gladiators
+are able to deflect blows onto their armguards, in a showy, if uncomfortable
+maneuver.
+
+An emerald green imp has some small wounds and bruises. 
+
+<223hp 148m 248mv> 
+
+Your average slash mauls an emerald green imp.
+You dodge an emerald green imp's attack.
+An emerald green imp has quite a few wounds. 
+
+<223hp 148m 248mv> 
+
+Your slash savages an emerald green imp.
+You dodge an emerald green imp's attack.
+An emerald green imp has quite a few wounds. 
+
+<223hp 148m 248mv> 
+
+Your telling slash mangles an emerald green imp!
+An emerald green imp's pitiful bite injures you.
+An emerald green imp has some big nasty wounds and scratches. 
+
+<216hp 148m 248mv> 
+
+Your telling slash dismembers an emerald green imp!
+You dodge an emerald green imp's attack.
+An emerald green imp is in awful condition. 
+
+<216hp 148m 248mv> 
+help showmanship
+/---------------------------------------------------------------------------\
+|          Showmanship (Skill)                                              |
+\---------------------------------------------------------------------------/
+
+Activation lag  :  2.0 rounds
+Activation cost :  15 mana
+
+
+Syntax: Automatic
+
+Often needing to make do with next to nothing to defend themselves, gladiators
+are able to deflect blows onto their armguards, in a showy, if uncomfortable
+maneuver.
+
+An emerald green imp is in awful condition. 
+
+<216hp 148m 248mv> 
+
+Your telling slash butchers an emerald green imp!
+An emerald green imp is DEAD!!
+You receive 450 experience points.
+You are promoted!!  You gain 22 hit points, 8 mana, and 8 movement.
+An emerald green imp splatters blood all over the ground.
+You get 3 copper coins from the corpse of an emerald green imp.
+You get 1 silver coins from the corpse of an emerald green imp.
+You quickly destroy the corpse of an emerald green imp.
+
+<216hp 150m 248mv> 
+w
+A Corner on the Third Floor
+  The third floor of the Tower of Testing is a stone and tile affair, much
+like the School of Heroes.  The bricks are white and lit by lanterns which
+hang from the ceiling, as well as the large glass windows which look out
+into the surrounding skyscape.  The tiles are dark and well-trod, showing
+the scuffs of many young adventurers.  The air on this floor is surprisingly
+clear and fresh due to better ventilation; however, it still stings the nose
+with the acrid scent of summoning.  Scratches and the spattering of dark
+blood mar the floor, ceiling and walls, with the high screech of imps never
+far from the ear.  The hall turns here, its two exits to the east and south.
+
+[Exits: east south]
+     The mangled arm of an emerald green imp is lying here.
+
+<216hp 150m 247mv> 
+l
+A Corner on the Third Floor
+  The third floor of the Tower of Testing is a stone and tile affair, much
+like the School of Heroes.  The bricks are white and lit by lanterns which
+hang from the ceiling, as well as the large glass windows which look out
+into the surrounding skyscape.  The tiles are dark and well-trod, showing
+the scuffs of many young adventurers.  The air on this floor is surprisingly
+clear and fresh due to better ventilation; however, it still stings the nose
+with the acrid scent of summoning.  Scratches and the spattering of dark
+blood mar the floor, ceiling and walls, with the high screech of imps never
+far from the ear.  The hall turns here, its two exits to the east and south.
+
+[Exits: east south]
+     The mangled arm of an emerald green imp is lying here.
+
+<216hp 150m 247mv> 
+e
+The North Side of the Third Floor
+  The third floor of the Tower of Testing is a stone and tile affair, much
+like the School of Heroes.  The bricks are white and lit by lanterns which
+hang from the ceiling, as well as the large glass windows which look out
+into the surrounding skyscape.  The tiles are dark and well-trod, showing
+the scuffs of many young adventurers.  The air on this floor is surprisingly
+clear and fresh due to better ventilation; however, it still stings the nose
+with the acrid scent of summoning.  Scratches and the spattering of dark
+blood mar the floor, ceiling and walls, with the high screech of imps never
+far from the ear.  The hall continues to the east and west.  
+
+[Exits: east west]
+
+e
+<216hp 150m 246mv> 
+A Corner on the Third Floor
+  The third floor of the Tower of Testing is a stone and tile affair, much
+like the School of Heroes.  The bricks are white and lit by lanterns which
+hang from the ceiling, as well as the large glass windows which look out
+into the surrounding skyscape.  The tiles are dark and well-trod, showing
+the scuffs of many young adventurers.  The air on this floor is surprisingly
+clear and fresh due to better ventilation; however, it still stings the nose
+with the acrid scent of summoning.  Scratches and the spattering of dark
+blood mar the floor, ceiling and walls, with the high screech of imps never
+far from the ear.  The hall turns here, with its exits to the west and
+south.  
+
+[Exits: south west]
+An emerald green imp glares about the hall, flapping its leathery wings.
+An emerald green imp sees you and attacks!
+You escape an emerald green imp's attack with a practiced backstep.
+An emerald green imp is in excellent condition. 
+
+<216hp 150m 245mv> 
+scan s
+You peer intently south.
+=== 1 south ===
+An emerald green imp lets out a piercing screech.
+
+=== 2 south ===
+An emerald green imp waves its claws about anxiously.
+
+An emerald green imp is in excellent condition. 
+
+<216hp 150m 245mv> 
+sk
+
+Level  1: axe                 75%        dagger              75%        
+          flail               75%        mace                75%        
+          spear               75%        sword               77%        
+          hand to hand        75%        recover             75%        
+          backstep            75%        
+Level  2: fast healing        75%        
+Level  3: dirt kicking        75%        
+Level  4: dodge               75%        
+Level  5: enhanced damage     75%        
+Level  6: corner               1%        
+Level  7: bravado              1%        
+Level  8: shield block         1%        
+Level  9: kick               n/a      
+Level 10: provoke            n/a      
+Level 11: grip               n/a      
+Level 12: second attack      n/a      
+Level 13: gouge              n/a      
+Level 14: cross              n/a      
+Level 15: endure             n/a      
+Level 16: whirl              n/a      
+Level 17: knee shatter       n/a      
+Level 18: third attack       n/a      
+Level 19: shield bash        n/a      
+Level 20: taunt              n/a      
+Level 21: Kaslaug's vigor    n/a      
+Level 22: showmanship        n/a      
+Level 23: penetrating blow   n/a      
+Level 24: meditation         n/a      
+Level 25: fourth attack      n/a      
+Level 26: disarm             n/a      
+Level 27: retaliation        n/a      
+Level 28: retreat            n/a      
+Level 29: upstart's panache  n/a      
+Level 30: skullringer        n/a      
+Level 32: cyclone            n/a      
+Level 34: offhand disarm     n/a      
+Level 36: enthusiasm         n/a      
+Level 38: executioner's strike n/a      
+Level 40: decapitate         n/a      
+Your strong slash mutilates an emerald green imp!
+An emerald green imp's pitiful bite injures you.
+You dodge an emerald green imp's attack.
+An emerald green imp has quite a few wounds. 
+
+<209hp 152m 245mv> 
+dirt
+Your kicked dirt misses an emerald green imp.
+An emerald green imp has some small wounds and bruises. 
+
+<217hp 153m 256mv> 
+dirt
+
+Your slash mauls an emerald green imp.
+An emerald green imp's pitiful bite injures you.
+An emerald green imp has quite a few wounds. 
+
+<210hp 155m 256mv> 
+An emerald green imp is blinded by the dirt in their eyes!
+An emerald green imp has quite a few wounds. 
+
+<210hp 152m 256mv> 
+
+Your telling slash mangles an emerald green imp!
+You barely manage to parry an emerald green imp's attack.
+An emerald green imp has some big nasty wounds and scratches. 
+
+<210hp 154m 256mv> 
+
+Your average slash dismembers an emerald green imp.
+You escape an emerald green imp's attack with a practiced backstep.
+An emerald green imp is in awful condition. 
+
+<210hp 156m 256mv> 
+help upstart's panache
+/---------------------------------------------------------------------------\
+|          Upstart's Panache                                Gladiator Skill |
+\---------------------------------------------------------------------------/
+
+Syntax: Automatic
+
+Upstart's panache allows one to substitute style for skill: should one's
+charisma be higher than their dexterity, charisma will be used instead for any
+and all relevant calculations. Additionally, this skill provides a chance to
+ignore effects that disable iterative attacks when cornering.
+
+Primary Attribute: Charisma
+
+See also: WINDBIND, MAGNETIC SEAL
+An emerald green imp is in awful condition. 
+
+<210hp 156m 256mv> 
+
+Your average slash kills an emerald green imp.
+An emerald green imp is DEAD!!
+You receive 420 experience points.
+An emerald green imp's heart is torn out of their chest.
+You get 2 copper coins from the corpse of an emerald green imp.
+You get 1 silver coins from the corpse of an emerald green imp.
+You quickly destroy the corpse of an emerald green imp.
+
+<210hp 156m 256mv> 
+s
+The East Side of the Third Floor
+  The third floor of the Tower of Testing is a stone and tile affair, much
+like the School of Heroes.  The bricks are white and lit by lanterns which
+hang from the ceiling, as well as the large glass windows which look out
+into the surrounding skyscape.  The tiles are dark and well-trod, showing
+the scuffs of many young adventurers.  The air on this floor is surprisingly
+clear and fresh due to better ventilation; however, it still stings the nose
+with the acrid scent of summoning.  Scratches and the spattering of dark
+blood mar the floor, ceiling and walls save the uncharacteristic cleanliness
+of the western one.  The hall continues north and south.  
+
+[Exits: north south]
+     The hide from the corpse of an emerald green imp is here.
+An emerald green imp lets out a piercing screech.
+An emerald green imp sees you and attacks!
+You dodge an emerald green imp's attack.
+An emerald green imp is in excellent condition. 
+
+<210hp 156m 255mv> 
+sk
+
+Level  1: axe                 75%        dagger              75%        
+          flail               75%        mace                75%        
+          spear               75%        sword               77%        
+          hand to hand        75%        recover             75%        
+          backstep            75%        
+Level  2: fast healing        75%        
+Level  3: dirt kicking        75%        
+Level  4: dodge               75%        
+Level  5: enhanced damage     75%        
+Level  6: corner               1%        
+Level  7: bravado              1%        
+Level  8: shield block         1%        
+Level  9: kick               n/a      
+Level 10: provoke            n/a      
+Level 11: grip               n/a      
+Level 12: second attack      n/a      
+Level 13: gouge              n/a      
+Level 14: cross              n/a      
+Level 15: endure             n/a      
+Level 16: whirl              n/a      
+Level 17: knee shatter       n/a      
+Level 18: third attack       n/a      
+Level 19: shield bash        n/a      
+Level 20: taunt              n/a      
+Level 21: Kaslaug's vigor    n/a      
+Level 22: showmanship        n/a      
+Level 23: penetrating blow   n/a      
+Level 24: meditation         n/a      
+Level 25: fourth attack      n/a      
+Level 26: disarm             n/a      
+Level 27: retaliation        n/a      
+Level 28: retreat            n/a      
+Level 29: upstart's panache  n/a      
+Level 30: skullringer        n/a      
+Level 32: cyclone            n/a      
+Level 34: offhand disarm     n/a      
+Level 36: enthusiasm         n/a      
+Level 38: executioner's strike n/a      
+Level 40: decapitate         n/a      
+Your average slash mauls an emerald green imp.
+You escape an emerald green imp's attack with a practiced backstep.
+An emerald green imp has some small wounds and bruises. 
+
+<210hp 156m 255mv> 
+
+Your telling slash mutilates an emerald green imp!
+You escape an emerald green imp's attack with a practiced backstep.
+An emerald green imp has quite a few wounds. 
+
+<210hp 156m 255mv> 
+
+Your telling slash maims an emerald green imp!
+You dodge an emerald green imp's attack.
+You dodge an emerald green imp's attack.
+An emerald green imp has some big nasty wounds and scratches. 
+
+<210hp 156m 255mv> 
+help kaslaug's vigor
+/---------------------------------------------------------------------------\
+|          Kaslaug's Vigor                                  Gladiator Skill |
+\---------------------------------------------------------------------------/
+
+Syntax: Automatic
+
+With this skill, a gladiator may revel in the glory of combat, gaining hit
+points both with each kill they make and for each target struck with every
+whirl.
+
+Primary Attribute: Charisma, Constitution
+
+See also: WHIRL, CYCLONE
+Your slash maims an emerald green imp.
+You dodge an emerald green imp's attack.
+An emerald green imp looks pretty hurt. 
+
+<217hp 156m 256mv> 
+
+Your average slash sunders an emerald green imp.
+An emerald green imp's pitiful bite injures you.
+An emerald green imp is in awful condition. 
+
+<210hp 156m 256mv> 
+sk
+
+Level  1: axe                 75%        dagger              75%        
+          flail               75%        mace                75%        
+          spear               75%        sword               77%        
+          hand to hand        75%        recover             75%        
+          backstep            75%        
+Level  2: fast healing        75%        
+Level  3: dirt kicking        75%        
+Level  4: dodge               75%        
+Level  5: enhanced damage     75%        
+Level  6: corner               1%        
+Level  7: bravado              1%        
+Level  8: shield block         1%        
+Level  9: kick               n/a      
+Level 10: provoke            n/a      
+Level 11: grip               n/a      
+Level 12: second attack      n/a      
+Level 13: gouge              n/a      
+Level 14: cross              n/a      
+Level 15: endure             n/a      
+Level 16: whirl              n/a      
+Level 17: knee shatter       n/a      
+Level 18: third attack       n/a      
+Level 19: shield bash        n/a      
+Level 20: taunt              n/a      
+Level 21: Kaslaug's vigor    n/a      
+Level 22: showmanship        n/a      
+Level 23: penetrating blow   n/a      
+Level 24: meditation         n/a      
+Level 25: fourth attack      n/a      
+Level 26: disarm             n/a      
+Level 27: retaliation        n/a      
+Level 28: retreat            n/a      
+Level 29: upstart's panache  n/a      
+Level 30: skullringer        n/a      
+Level 32: cyclone            n/a      
+Level 34: offhand disarm     n/a      
+Level 36: enthusiasm         n/a      
+Level 38: executioner's strike n/a      
+Level 40: decapitate         n/a      
+An emerald green imp is in awful condition. 
+
+<210hp 156m 256mv> 
+
+Your average slash butchers an emerald green imp.
+An emerald green imp is DEAD!!
+You receive 271 experience points.
+An emerald green imp's heart is torn out of their chest.
+You get 7 copper coins from the corpse of an emerald green imp.
+You get 1 silver coins from the corpse of an emerald green imp.
+You quickly destroy the corpse of an emerald green imp.
+
+<210hp 156m 256mv> 
+l
+s
+The East Side of the Third Floor
+  The third floor of the Tower of Testing is a stone and tile affair, much
+like the School of Heroes.  The bricks are white and lit by lanterns which
+hang from the ceiling, as well as the large glass windows which look out
+into the surrounding skyscape.  The tiles are dark and well-trod, showing
+the scuffs of many young adventurers.  The air on this floor is surprisingly
+clear and fresh due to better ventilation; however, it still stings the nose
+with the acrid scent of summoning.  Scratches and the spattering of dark
+blood mar the floor, ceiling and walls save the uncharacteristic cleanliness
+of the western one.  The hall continues north and south.  
+
+[Exits: north south]
+     The mutilated heart of an emerald green imp is lying here.
+     The hide from the corpse of an emerald green imp is here.
+
+<210hp 156m 256mv> The End of the Third Floor
+  The third floor of the Tower of Testing is a stone and tile affair, much
+like the School of Heroes.  The bricks are white and lit by lanterns which
+hang from the ceiling, as well as the large glass windows which look out
+into the surrounding skyscape.  The tiles are dark and well-trod, showing
+the scuffs of many young adventurers.  The air on this floor is surprisingly
+clear and fresh due to better ventilation however, it still stings the nose
+with the acrid scent of summoning.  Scratches and the spattering of dark
+blood mar the floor, ceiling and walls, with the high screech of imps never
+far from the ear.  To the south, a marble stairwell ascends to the fourth
+floor, while the hall continues to the north.  
+
+[Exits: north south]
+An emerald green imp waves its claws about anxiously.
+An emerald green imp sees you and attacks!
+An emerald green imp's bite misses you.
+An emerald green imp is in excellent condition. 
+
+<210hp 156m 255mv> 
+sk
+
+Level  1: axe                 75%        dagger              75%        
+          flail               75%        mace                75%        
+          spear               75%        sword               77%        
+          hand to hand        75%        recover             75%        
+          backstep            75%        
+Level  2: fast healing        75%        
+Level  3: dirt kicking        75%        
+Level  4: dodge               75%        
+Level  5: enhanced damage     75%        
+Level  6: corner               1%        
+Level  7: bravado              1%        
+Level  8: shield block         1%        
+Level  9: kick               n/a      
+Level 10: provoke            n/a      
+Level 11: grip               n/a      
+Level 12: second attack      n/a      
+Level 13: gouge              n/a      
+Level 14: cross              n/a      
+Level 15: endure             n/a      
+Level 16: whirl              n/a      
+Level 17: knee shatter       n/a      
+Level 18: third attack       n/a      
+Level 19: shield bash        n/a      
+Level 20: taunt              n/a      
+Level 21: Kaslaug's vigor    n/a      
+Level 22: showmanship        n/a      
+Level 23: penetrating blow   n/a      
+Level 24: meditation         n/a      
+Level 25: fourth attack      n/a      
+Level 26: disarm             n/a      
+Level 27: retaliation        n/a      
+Level 28: retreat            n/a      
+Level 29: upstart's panache  n/a      
+Level 30: skullringer        n/a      
+Level 32: cyclone            n/a      
+Level 34: offhand disarm     n/a      
+Level 36: enthusiasm         n/a      
+Level 38: executioner's strike n/a      
+Level 40: decapitate         n/a      
+An emerald green imp is in excellent condition. 
+
+<210hp 156m 255mv> 
+
+Your average slash mauls an emerald green imp.
+An emerald green imp's bite misses you.
+An emerald green imp has some small wounds and bruises. 
+
+<210hp 156m 255mv> 
+
+Your slash mauls an emerald green imp.
+You dodge an emerald green imp's attack.
+An emerald green imp has quite a few wounds. 
+
+<210hp 156m 255mv> 
+help ehtusiasm
+No help on that word.
+Your strong slash mangles an emerald green imp!
+An emerald green imp's pitiful bite injures you.
+An emerald green imp has some big nasty wounds and scratches. 
+
+<203hp 156m 255mv> 
+help enthusiasm
+/---------------------------------------------------------------------------\
+|          Enthusiasm (Skill)                                               |
+\---------------------------------------------------------------------------/
+
+Activation lag  :  1.0 rounds
+Activation cost :  30 mana
+
+
+Syntax: Enthusiasm
+
+Showing their thrill for combat, gladiators who have their attacks blocked in
+combat will have an escalating chance to succeed at their iterative attack
+skills, with both hands.
+
+
+See also: CONSUMING RAGE, SECOND ATTACK, THIRD ATTACK, FOURTH ATTACK
+An emerald green imp barely dodges your attack.
+You dodge an emerald green imp's attack.
+An emerald green imp has some big nasty wounds and scratches. 
+
+<203hp 156m 255mv> 
+
+Your weak slash mauls an emerald green imp.
+An emerald green imp's pitiful bite injures you.
+An emerald green imp has some big nasty wounds and scratches. 
+
+<196hp 156m 255mv> 
+l
+The End of the Third Floor
+  The third floor of the Tower of Testing is a stone and tile affair, much
+like the School of Heroes.  The bricks are white and lit by lanterns which
+hang from the ceiling, as well as the large glass windows which look out
+into the surrounding skyscape.  The tiles are dark and well-trod, showing
+the scuffs of many young adventurers.  The air on this floor is surprisingly
+clear and fresh due to better ventilation however, it still stings the nose
+with the acrid scent of summoning.  Scratches and the spattering of dark
+blood mar the floor, ceiling and walls, with the high screech of imps never
+far from the ear.  To the south, a marble stairwell ascends to the fourth
+floor, while the hall continues to the north.  
+
+[Exits: north south]
+An emerald green imp is flying here, fighting YOU!
+An emerald green imp has some big nasty wounds and scratches. 
+
+<196hp 156m 255mv> 
+
+Your telling slash dismembers an emerald green imp!
+You escape an emerald green imp's attack with a practiced backstep.
+An emerald green imp is in awful condition. 
+
+<196hp 156m 255mv> 
+whe
+Notables in Avendar (currently in The Tower of Testing):
+  Pyruin                     The End of the Third Floor        [present]    
+
+Total found: 1
+An emerald green imp is in awful condition. 
+
+who
+<203hp 156m 256mv> 
+[ 8 Gla] Pyruin Veda the Student of Showmanship
+
+Players found: 1
+An emerald green imp is in awful condition. 
+
+<203hp 156m 256mv> 
+
+Your slash kills an emerald green imp.
+An emerald green imp is DEAD!!
+You receive 313 experience points.
+An emerald green imp spills their guts all over.
+You get 7 copper coins from the corpse of an emerald green imp.
+You get 1 silver coins from the corpse of an emerald green imp.
+You quickly destroy the corpse of an emerald green imp.
+
+<203hp 156m 256mv> 
+s
+A Marble Stairwell
+  A marble stairwell leads upward to the fourth floor of the Tower of
+Testing.  The white stones of the third level end at the entrance to this
+stairwell, instead replaced by the iconic marble of the School's main level.
+The tile floor looks less worn and of a higher sheen, and the stairwell
+itself is polished to a high gloss.  Arched windows look out onto the world
+at large, high enough to give the faint of heart a bit of pause.  The sounds
+of battle ring out from the floor above.  The long hall of the third floor
+lies to the north.  
+
+[Exits: north up]
+
+u
+<203hp 156m 255mv> 
+A Marble Stairwell
+  A marble stairwell ends at the doorstep of the fourth floor of the Tower
+of Testing.  This entire floor is done in the polished black tile of the
+School of Heroes proper, and the walls are a high, glossy marble.  The
+chamber which composes the fourth floor is the largest and most open yet,
+the great expanse of its floor composing a patterned relief of the School's
+iconic sigil.  The air is cool but smelling of exertion, blood, and metal. 
+Lanterns hang from the ceiling to illuminate the final steps before entering
+the floor.  Down the stairs, the third floor awaits.  
+
+A plaque is inset into the wall at the top of the stairs.
+
+[Exits: east down]
+
+<203hp 156m 254mv> 
+scan e
+You peer intently east.
+=== 1 east ===
+
+=== 2 east ===
+
+
+<203hp 156m 254mv> 
+aff
+You are affected by the following:
+Skill: recover        : modifies something for 1.25 hours
+Spell: resurrection   : modifies charisma by -1 for 0 hours
+                      : modifies constitution by -1 for 0 hours
+                      : modifies dexterity by -1 for 0 hours
+                      : modifies wisdom by -1 for 0 hours
+                      : modifies intelligence by -1 for 0 hours
+                      : modifies strength by -1 for 0 hours
+
+<203hp 156m 254mv> 
+sk
+
+Level  1: axe                 75%        dagger              75%        
+          flail               75%        mace                75%        
+          spear               75%        sword               77%        
+          hand to hand        75%        recover             75%        
+          backstep            75%        
+Level  2: fast healing        75%        
+Level  3: dirt kicking        75%        
+Level  4: dodge               75%        
+Level  5: enhanced damage     75%        
+Level  6: corner               1%        
+Level  7: bravado              1%        
+Level  8: shield block         1%        
+Level  9: kick               n/a      
+Level 10: provoke            n/a      
+Level 11: grip               n/a      
+Level 12: second attack      n/a      
+Level 13: gouge              n/a      
+Level 14: cross              n/a      
+Level 15: endure             n/a      
+Level 16: whirl              n/a      
+Level 17: knee shatter       n/a      
+Level 18: third attack       n/a      
+Level 19: shield bash        n/a      
+Level 20: taunt              n/a      
+Level 21: Kaslaug's vigor    n/a      
+Level 22: showmanship        n/a      
+Level 23: penetrating blow   n/a      
+Level 24: meditation         n/a      
+Level 25: fourth attack      n/a      
+Level 26: disarm             n/a      
+Level 27: retaliation        n/a      
+Level 28: retreat            n/a      
+Level 29: upstart's panache  n/a      
+Level 30: skullringer        n/a      
+Level 32: cyclone            n/a      
+Level 34: offhand disarm     n/a      
+Level 36: enthusiasm         n/a      
+Level 38: executioner's strike n/a      
+Level 40: decapitate         n/a      
+
+<203hp 156m 254mv> 
+l
+A Marble Stairwell
+  A marble stairwell ends at the doorstep of the fourth floor of the Tower
+of Testing.  This entire floor is done in the polished black tile of the
+School of Heroes proper, and the walls are a high, glossy marble.  The
+chamber which composes the fourth floor is the largest and most open yet,
+the great expanse of its floor composing a patterned relief of the School's
+iconic sigil.  The air is cool but smelling of exertion, blood, and metal. 
+Lanterns hang from the ceiling to illuminate the final steps before entering
+the floor.  Down the stairs, the third floor awaits.  
+
+A plaque is inset into the wall at the top of the stairs.
+
+[Exits: east down]
+
+<203hp 156m 254mv> 
+scan e
+You peer intently east.
+=== 1 east ===
+
+=== 2 east ===
+
+
+gr
+<203hp 156m 254mv> 
+Pyruin's group:
+[ 8 Gla] Pyruin            203/ 276 hp  156/ 156 mana  254/ 256 mv 
+
+<203hp 156m 254mv> 
+e
+The Southwest Corner of the Fourth Floor
+  This floor of the Tower of Testing is done in polished black tile, with
+walls of high marble.  The ceiling is vaulted and extravagant, the entire
+expanse forming a wide open battle arena.  The tiles of the floor compose a
+patterned relief of the iconic sigil of the School of Heroes.  The air is
+cool but smells of exertion, blood, and spellcraft.  Lanterns hang from the
+high ceiling, lighting the chamber at night, while natural light filters in
+through arched windows during the day.  A stairwell leads down to the third
+floor to the west, while the chamber continues north and east.  
+
+[Exits: north east west]
+     The corpse of Korinne is lying here.
+
+<203hp 156m 253mv> 
+get all corpse
+You get a woolen mantle from the corpse of Korinne.
+You get a simple pine staff from the corpse of Korinne.
+You get a copper chainmail shirt from the corpse of Korinne.
+You get 5 copper coins from the corpse of Korinne.
+You get 2 silver coins from the corpse of Korinne.
+
+<203hp 156m 253mv> 
+scan n
+You peer intently north.
+=== 1 north ===
+
+=== 2 north ===
+
+
+<203hp 156m 253mv> 
+n
+The West Wall of the Fourth Floor
+  This floor of the Tower of Testing is done in polished black tile, with
+walls of high marble.  The ceiling is vaulted and extravagant, the entire
+expanse forming a wide open battle arena.  The tiles of the floor compose a
+patterned relief of the iconic sigil of the School of Heroes.  The air is
+cool but smells of exertion, blood, and spellcraft.  Lanterns hang from the
+high ceiling, lighting the chamber at night, while natural light filters in
+through arched windows during the day.  The chamber continues north, east,
+and south.  
+
+[Exits: north east south]
+     The corpse of Korinne is lying here.
+You yell, in chaja, 'Help!  I am being attacked by someone!'
+Someone fades into existence.
+Aevikal's mediocre pierce tears into you.
+Aevikal is in excellent condition. 
+
+<180hp 156m 252mv> 
+Your slash misses Aevikal.
+Aevikal's inadequate pierce tears into you.
+Aevikal's kick misses you.
+Aevikal is in excellent condition. 
+
+<160hp 156m 252mv> 
+
+Aevikal barely dodges your attack.
+You dodge Aevikal's attack.
+Aevikal's paltry snap tears into you.
+Aevikal is in excellent condition. 
+
+dirt
+<142hp 156m 252mv> 
+Your kicked dirt misses Aevikal.
+Aevikal is in excellent condition. 
+
+<142hp 153m 252mv> 
+
+Aevikal easily parries your attack.
+Aevikal's mediocre pierce rends you.
+Aevikal is in excellent condition. 
+
+<119hp 153m 252mv> 
+l
+The West Wall of the Fourth Floor
+  This floor of the Tower of Testing is done in polished black tile, with
+walls of high marble.  The ceiling is vaulted and extravagant, the entire
+expanse forming a wide open battle arena.  The tiles of the floor compose a
+patterned relief of the iconic sigil of the School of Heroes.  The air is
+cool but smells of exertion, blood, and spellcraft.  Lanterns hang from the
+high ceiling, lighting the chamber at night, while natural light filters in
+through arched windows during the day.  The chamber continues north, east,
+and south.  
+
+[Exits: north east south]
+     The corpse of Korinne is lying here.
+(Translucent) Aevikal is here, fighting YOU!
+Aevikal is in excellent condition. 
+
+<119hp 153m 252mv> 
+
+Your average slash mauls Aevikal.
+Aevikal's mediocre pierce mauls you.
+Aevikal has some small wounds and bruises. 
+
+<96hp 155m 252mv> 
+
+You have become better at fast healing, and receive 76 experience!
+You feel less shaken by your death.
+Aevikal has some small wounds and bruises. 
+
+flee
+<102hp 156m 256mv> 
+The Southwest Corner of the Fourth Floor
+  This floor of the Tower of Testing is done in polished black tile, with
+walls of high marble.  The ceiling is vaulted and extravagant, the entire
+expanse forming a wide open battle arena.  The tiles of the floor compose a
+patterned relief of the iconic sigil of the School of Heroes.  The air is
+cool but smells of exertion, blood, and spellcraft.  Lanterns hang from the
+high ceiling, lighting the chamber at night, while natural light filters in
+through arched windows during the day.  A stairwell leads down to the third
+floor to the west, while the chamber continues north and east.  
+
+[Exits: north east west]
+     The corpse of Korinne is lying here.
+You flee from combat!
+
+<102hp 156m 255mv> 
+aff
+You are affected by the following:
+Skill: recover        : modifies something for 1 hours
+
+<102hp 156m 255mv> 
+scan e
+You peer intently east.
+=== 1 east ===
+
+=== 2 east ===
+A large chaja gladiator peers about with milk-white eyes.
+
+
+<102hp 156m 255mv> 
+get all corpse
+e
+I see nothing in the corpse.
+
+<102hp 156m 255mv> You gained 1 exploration point and 50 experience points!
+The South Wall of the Fourth Floor
+  This floor of the Tower of Testing is done in polished black tile, with
+walls of high marble.  The ceiling is vaulted and extravagant, the entire
+expanse forming a wide open battle arena.  The tiles of the floor compose a
+patterned relief of the iconic sigil of the School of Heroes.  The air is
+cool but smells of exertion, blood, and spellcraft.  Lanterns hang from the
+high ceiling, lighting the chamber at night, while natural light filters in
+through arched windows during the day.  The floor continues to the north,
+east, and west.  
+
+[Exits: north east west]
+     The corpse of Korinne is lying here.
+
+<102hp 156m 254mv> 
+get all corpse
+You get a woolen mantle from the corpse of Korinne.
+You get a simple pine staff from the corpse of Korinne.
+You get a copper chainmail shirt from the corpse of Korinne.
+You get 8 copper coins from the corpse of Korinne.
+You get 1 silver coins from the corpse of Korinne.
+
+<102hp 156m 254mv> 
+scan n
+You peer intently north.
+=== 1 north ===
+
+=== 2 north ===
+
+
+<102hp 156m 254mv> 
+n
+The Center of the Fourth Floor
+  This floor of the Tower of Testing is done in polished black tile, with
+walls of high marble.  The ceiling is vaulted and extravagant, the entire
+expanse forming a wide open battle arena.  The tiles of the floor compose a
+patterned relief of the iconic sigil of the School of Heroes.  The air is
+cool but smells of exertion, blood, and spellcraft.  Lanterns hang from the
+high ceiling, lighting the chamber at night, while natural light filters in
+through arched windows during the day.  This space forms the center of the
+floor, with more of it waiting in all of the cardinal directions.  
+
+[Exits: north east south west]
+     The corpse of Suisha is lying here.
+     The corpse of Daloeq is lying here.
+
+<102hp 156m 253mv> 
+get all corpse
+You get a copper shield from the corpse of Suisha.
+You get a copper javelin from the corpse of Suisha.
+You get a copper chainmail shirt from the corpse of Suisha.
+You get 2 copper coins from the corpse of Suisha.
+You get 2 silver coins from the corpse of Suisha.
+
+<102hp 156m 253mv> 
+get all 2.corpse
+You get some copper chainmail leggings from the corpse of Daloeq.
+You get a pair of hide boots from the corpse of Daloeq.
+You get a copper javelin from the corpse of Daloeq.
+You get 7 copper coins from the corpse of Daloeq.
+You get 2 silver coins from the corpse of Daloeq.
+
+<102hp 156m 253mv> 
+scan n
+You peer intently north.
+=== 1 north ===
+
+
+<102hp 156m 253mv> 
+n
+The North Wall of the Fourth Floor
+  This floor of the Tower of Testing is done in polished black tile, with
+walls of high marble.  The ceiling is vaulted and extravagant, the entire
+expanse forming a wide open battle arena.  The tiles of the floor compose a
+patterned relief of the iconic sigil of the School of Heroes.  The air is
+cool but smells of exertion, blood, and spellcraft.  Lanterns hang from the
+high ceiling, lighting the chamber at night, while natural light filters in
+through arched windows during the day.  The floor continues to the east,
+south, and west.  
+
+[Exits: east south west]
+     The corpse of Daloeq is lying here.
+
+<102hp 156m 252mv> 
+scan e
+You peer intently east.
+=== 1 east ===
+
+=== 2 east ===
+
+
+<102hp 156m 252mv> 
+get all corpse
+You get some copper chainmail leggings from the corpse of Daloeq.
+You get a pair of hide boots from the corpse of Daloeq.
+You get a copper javelin from the corpse of Daloeq.
+You get 2 silver coins from the corpse of Daloeq.
+
+<102hp 156m 252mv> 
+scan e
+You peer intently east.
+=== 1 east ===
+
+=== 2 east ===
+
+
+<102hp 156m 252mv> 
+e
+The Northeast Corner of the Fourth Floor
+  This floor of the Tower of Testing is done in polished black tile, with
+walls of high marble.  The ceiling is vaulted and extravagant, the entire
+expanse forming a wide open battle arena.  The tiles of the floor compose a
+patterned relief of the iconic sigil of the School of Heroes.  The air is
+cool but smells of exertion, blood, and spellcraft.  Lanterns hang from the
+high ceiling, lighting the chamber at night, while natural light filters in
+through arched windows during the day.  The floor continues to the west and
+south, while a stairwell to the east leads up to the fifth level.  
+
+[Exits: east south west]
+Rhisshul steps out of the shadows.
+You yell, in chaja, 'Help!  I am being attacked by Rhisshul!'
+You barely dodge Rhisshul's attack.
+Rhisshul is in excellent condition. 
+
+<102hp 156m 251mv> 
+
+Your telling slash savages Rhisshul!
+Rhisshul's paltry stab mauls you.
+You dodge Rhisshul's attack.
+Rhisshul has some small wounds and bruises. 
+
+<85hp 156m 251mv> 
+recover
+It is too soon to call upon your devoted altar again.
+Rhisshul has some small wounds and bruises. 
+
+<85hp 156m 251mv> 
+
+Your slash mauls Rhisshul.
+You dodge Rhisshul's attack.
+Rhisshul has quite a few wounds. 
+
+<85hp 156m 251mv> 
+dirt
+Your kicked dirt misses Rhisshul.
+Rhisshul has quite a few wounds. 
+
+<85hp 153m 251mv> 
+
+Your telling slash mangles Rhisshul!
+Your telling slash devastates Rhisshul!
+Rhisshul's inadequate stab savages you.
+You sure are BLEEDING!
+Rhisshul's weak stab mauls you.
+You sure are BLEEDING!
+Rhisshul looks pretty hurt. 
+
+<52hp 156m 251mv> 
+clear
+Buffer cleared.
+Rhisshul looks pretty hurt. 
+
+<52hp 156m 251mv> 
+
+Your slash sunders Rhisshul.
+You dodge Rhisshul's attack.
+Rhisshul is in awful condition. 
+
+<52hp 156m 251mv> 
+scan e
+You peer intently east.
+=== 1 east ===
+
+Rhisshul is in awful condition. 
+
+<59hp 156m 256mv> 
+
+You have become better at sword, and receive 78 experience!
+Your telling slash slaughters Rhisshul!
+Rhisshul is DEAD!!
+You receive 675 experience points.
+Rhisshul's tail is cut from his body, twitching.
+You get a copper chainmail shirt from the corpse of Rhisshul.
+You get a copper dagger from the corpse of Rhisshul.
+You get a copper dagger from the corpse of Rhisshul.
+You get 8 copper coins from the corpse of Rhisshul.
+You get 1 silver coins from the corpse of Rhisshul.
+You quickly destroy the corpse of Rhisshul.
+
+<59hp 156m 256mv> 
+get
+Get what?
+
+in
+<59hp 156m 256mv> 
+You are carrying:
+( 6) a copper dagger
+(11) a copper chainmail shirt
+( 9) a copper javelin
+( 3) a pair of hide boots
+( 3) some copper chainmail leggings
+( 3) a copper shield
+( 3) a simple pine staff
+( 4) a woolen mantle
+     a rawhide whip
+     a copper sword
+     a copper polearm
+     a light wool scarf
+     a pair of fur-lined sleeves
+     a three-balled flail
+     a canoe
+     a pair of green boots
+
+<59hp 156m 256mv> 
+aff
+You are affected by the following:
+Skill: recover        : modifies something for 0.75 hours
+
+<59hp 156m 256mv> 
+in
+You are carrying:
+( 6) a copper dagger
+(11) a copper chainmail shirt
+( 9) a copper javelin
+( 3) a pair of hide boots
+( 3) some copper chainmail leggings
+( 3) a copper shield
+( 3) a simple pine staff
+( 4) a woolen mantle
+     a rawhide whip
+     a copper sword
+     a copper polearm
+     a light wool scarf
+     a pair of fur-lined sleeves
+     a three-balled flail
+     a canoe
+     a pair of green boots
+
+sk
+<59hp 156m 256mv> 
+
+Level  1: axe                 75%        dagger              75%        
+          flail               75%        mace                75%        
+          spear               75%        sword               78%        
+          hand to hand        75%        recover             75%        
+          backstep            75%        
+Level  2: fast healing        76%        
+Level  3: dirt kicking        75%        
+Level  4: dodge               75%        
+Level  5: enhanced damage     75%        
+Level  6: corner               1%        
+Level  7: bravado              1%        
+Level  8: shield block         1%        
+Level  9: kick               n/a      
+Level 10: provoke            n/a      
+Level 11: grip               n/a      
+Level 12: second attack      n/a      
+Level 13: gouge              n/a      
+Level 14: cross              n/a      
+Level 15: endure             n/a      
+Level 16: whirl              n/a      
+Level 17: knee shatter       n/a      
+Level 18: third attack       n/a      
+Level 19: shield bash        n/a      
+Level 20: taunt              n/a      
+Level 21: Kaslaug's vigor    n/a      
+Level 22: showmanship        n/a      
+Level 23: penetrating blow   n/a      
+Level 24: meditation         n/a      
+Level 25: fourth attack      n/a      
+Level 26: disarm             n/a      
+Level 27: retaliation        n/a      
+Level 28: retreat            n/a      
+Level 29: upstart's panache  n/a      
+Level 30: skullringer        n/a      
+Level 32: cyclone            n/a      
+Level 34: offhand disarm     n/a      
+Level 36: enthusiasm         n/a      
+Level 38: executioner's strike n/a      
+Level 40: decapitate         n/a      
+
+<59hp 156m 256mv> 
+scan e
+You peer intently east.
+=== 1 east ===
+
+
+<59hp 156m 256mv> 
+l
+The Northeast Corner of the Fourth Floor
+  This floor of the Tower of Testing is done in polished black tile, with
+walls of high marble.  The ceiling is vaulted and extravagant, the entire
+expanse forming a wide open battle arena.  The tiles of the floor compose a
+patterned relief of the iconic sigil of the School of Heroes.  The air is
+cool but smells of exertion, blood, and spellcraft.  Lanterns hang from the
+high ceiling, lighting the chamber at night, while natural light filters in
+through arched windows during the day.  The floor continues to the west and
+south, while a stairwell to the east leads up to the fifth level.  
+
+[Exits: east south west]
+     The tail of Rhisshul is lying here.
+
+<59hp 156m 256mv> 
+mutter
+You mutter quietly to yourself.
+
+<59hp 156m 256mv> 
+slee
+You go to sleep.
+
+<59hp 156m 256mv> 
+in
+You are carrying:
+( 6) a copper dagger
+(11) a copper chainmail shirt
+( 9) a copper javelin
+( 3) a pair of hide boots
+( 3) some copper chainmail leggings
+( 3) a copper shield
+( 3) a simple pine staff
+( 4) a woolen mantle
+     a rawhide whip
+     a copper sword
+     a copper polearm
+     a light wool scarf
+     a pair of fur-lined sleeves
+     a three-balled flail
+     a canoe
+     a pair of green boots
+
+<59hp 156m 256mv> 
+worth
+You have 2 gold, 50 silver, 132 copper, and 19957 experience (1441 exp to level).
+You have 187 exploration points (0 ep to level).
+You are unencumbered by your equipment.
+
+<59hp 156m 256mv> 
+
+Someone fades into existence.
+You dodge Aevikal's attack.
+You dodge Aevikal's attack.
+Aevikal has a few scratches. 
+
+<59hp 156m 256mv> 
+sk
+
+Level  1: axe                 75%        dagger              75%        
+          flail               75%        mace                75%        
+          spear               75%        sword               78%        
+          hand to hand        75%        recover             75%        
+          backstep            75%        
+Level  2: fast healing        76%        
+Level  3: dirt kicking        75%        
+Level  4: dodge               75%        
+Level  5: enhanced damage     75%        
+Level  6: corner               1%        
+Level  7: bravado              1%        
+Level  8: shield block         1%        
+Level  9: kick               n/a      
+Level 10: provoke            n/a      
+Level 11: grip               n/a      
+Level 12: second attack      n/a      
+Level 13: gouge              n/a      
+Level 14: cross              n/a      
+Level 15: endure             n/a      
+Level 16: whirl              n/a      
+Level 17: knee shatter       n/a      
+Level 18: third attack       n/a      
+Level 19: shield bash        n/a      
+Level 20: taunt              n/a      
+Level 21: Kaslaug's vigor    n/a      
+Level 22: showmanship        n/a      
+Level 23: penetrating blow   n/a      
+Level 24: meditation         n/a      
+Level 25: fourth attack      n/a      
+Level 26: disarm             n/a      
+Level 27: retaliation        n/a      
+Level 28: retreat            n/a      
+Level 29: upstart's panache  n/a      
+Level 30: skullringer        n/a      
+Level 32: cyclone            n/a      
+Level 34: offhand disarm     n/a      
+Level 36: enthusiasm         n/a      
+Level 38: executioner's strike n/a      
+Level 40: decapitate         n/a      
+Aevikal has a few scratches. 
+
+<59hp 156m 256mv> 
+
+Your slash mauls Aevikal.
+You dodge Aevikal's attack.
+Aevikal has quite a few wounds. 
+
+<59hp 156m 256mv> 
+l
+The Northeast Corner of the Fourth Floor
+  This floor of the Tower of Testing is done in polished black tile, with
+walls of high marble.  The ceiling is vaulted and extravagant, the entire
+expanse forming a wide open battle arena.  The tiles of the floor compose a
+patterned relief of the iconic sigil of the School of Heroes.  The air is
+cool but smells of exertion, blood, and spellcraft.  Lanterns hang from the
+high ceiling, lighting the chamber at night, while natural light filters in
+through arched windows during the day.  The floor continues to the west and
+south, while a stairwell to the east leads up to the fifth level.  
+
+[Exits: east south west]
+     The tail of Rhisshul is lying here.
+(Translucent) Aevikal is here, fighting YOU!
+Aevikal has quite a few wounds. 
+
+<59hp 156m 256mv> 
+
+Your average slash maims Aevikal.
+Aevikal's mediocre pierce mangles you.
+You sure are BLEEDING!
+Aevikal's paltry snap devastates you.
+You sure are BLEEDING!
+Aevikal utters the words, 'gzabrauio dies'.
+Aevikal's telling searing light butchers you!
+You have been KILLED!!
+You have returned as a ghost, for the moment.
+
+<1hp 1m 256mv> 
+bg + Hates all spirit shit unequivocably 
+Your background is:
+Killed by searing light for his first death. Hates spirit anything forever now obviously.
+Hates all spirit shit unequivocably 
+
+<18hp 13m 156mv> 
+l
+North Wall of the Temple of Darkness
+  Earendam's temple of darkness is an architectural hybrid, blending the
+classical Republican forms with the statuery of Yithoul and the intricate
+carvings of the Srryn.  The temple is topped by a barrel-vaulted roof, which
+leads from the southern entrance towards the altar which sits here against
+the north wall.  Supporting the ceiling are a series of onyx columns, whose
+intricate carvings serve to frame a set of statues in marble, forming a sort
+of gallery along the east and west walls.  The altar here is made from
+carved ebony, cunningly crafted with the symbols of the order which tends
+this temple.  Set on the altar are smoldering censers, which fill the
+surrounding air with the smell of myrrh.  
+
+[Exits: east south down]
+(White Aura) A priest of the Aklaju offers the services of the dark gods.
+
+<18hp 13m 156mv> 
+1
+This midnight black altar is made from carved ebony.
+A carved ebony altar holds:
+     Nothing.
+
+<18hp 13m 156mv> 
+d
+Nah... You feel too relaxed...
+
+s
+<18hp 13m 156mv> 
+Nah... You feel too relaxed...
+
+<18hp 13m 156mv> 
+st
+You stand up.
+
+<18hp 13m 156mv> 
+s
+The Temple of Darkness
+  Earendam's temple of darkness is an architectural hybrid, blending the
+classical Republican forms with the statuery of Yithoul and the intricate
+carvings of the Srryn.  The temple is topped by a barrel-vaulted roof, which
+leads from the southern entrance towards the central altar set in the far
+north wall.  Supporting the ceiling are a series of onyx columns, whose
+intricate carvings serve to frame a set of statues in marble, forming a sort
+of gallery along the east and west walls.  A pair of flaming braziers are
+near the southern doorway, which burn red from the light of the smoking
+coals.  The air is filled with the cloying smell of myrrh, which drifts
+through the air from no apparent source.  
+
+[Exits: north east south]
+
+e
+<18hp 13m 156mv> 
+The Temple of Darkness
+  Earendam's temple of darkness is an architectural hybrid, blending the
+classical Republican forms with the statuery of Yithoul and the intricate
+carvings of the Srryn.  The temple is topped by a barrel-vaulted roof, which
+leads from the southern entrance towards the central altar set in the far
+north wall.  Supporting the ceiling are a series of onyx columns, whose
+intricate carvings serve to frame a set of statues in marble, forming a sort
+of gallery along the east and west walls.  A pair of flaming braziers are
+near the southern doorway, which burn red from the light of the smoking
+coals.  The air is filled with the cloying smell of myrrh, which drifts
+through the air from no apparent source.  
+
+[Exits: north south west]
+
+s
+<18hp 13m 156mv> 
+South Wall of the Temple of Darkness
+  Earendam's temple of darkness is an architectural hybrid, blending the
+classical Republican forms with the statuery of Yithoul and the intricate
+carvings of the Srryn.  The temple is topped by a barrel-vaulted roof, which
+leads from the southern entrance towards the central altar set in the far
+north wall.  Supporting the ceiling are a series of onyx columns, whose
+intricate carvings serve to frame a set of statues in marble, forming a sort
+of gallery along the east and west walls.  A pair of flaming braziers are
+near the southern doorway, which burn red from the light of the smoking
+coals.  The air is filled with the cloying smell of myrrh, which drifts
+through the air from no apparent source.  
+
+[Exits: north south west]
+A black-robed attendant stands near the entrance to the temple.
+
+<18hp 13m 156mv> 
+n
+The Temple of Darkness
+  Earendam's temple of darkness is an architectural hybrid, blending the
+classical Republican forms with the statuery of Yithoul and the intricate
+carvings of the Srryn.  The temple is topped by a barrel-vaulted roof, which
+leads from the southern entrance towards the central altar set in the far
+north wall.  Supporting the ceiling are a series of onyx columns, whose
+intricate carvings serve to frame a set of statues in marble, forming a sort
+of gallery along the east and west walls.  A pair of flaming braziers are
+near the southern doorway, which burn red from the light of the smoking
+coals.  The air is filled with the cloying smell of myrrh, which drifts
+through the air from no apparent source.  
+
+[Exits: north south west]
+
+<18hp 13m 156mv> 
+w
+The Temple of Darkness
+  Earendam's temple of darkness is an architectural hybrid, blending the
+classical Republican forms with the statuery of Yithoul and the intricate
+carvings of the Srryn.  The temple is topped by a barrel-vaulted roof, which
+leads from the southern entrance towards the central altar set in the far
+north wall.  Supporting the ceiling are a series of onyx columns, whose
+intricate carvings serve to frame a set of statues in marble, forming a sort
+of gallery along the east and west walls.  A pair of flaming braziers are
+near the southern doorway, which burn red from the light of the smoking
+coals.  The air is filled with the cloying smell of myrrh, which drifts
+through the air from no apparent source.  
+
+[Exits: north east south]
+
+n
+<18hp 13m 156mv> 
+North Wall of the Temple of Darkness
+  Earendam's temple of darkness is an architectural hybrid, blending the
+classical Republican forms with the statuery of Yithoul and the intricate
+carvings of the Srryn.  The temple is topped by a barrel-vaulted roof, which
+leads from the southern entrance towards the altar which sits here against
+the north wall.  Supporting the ceiling are a series of onyx columns, whose
+intricate carvings serve to frame a set of statues in marble, forming a sort
+of gallery along the east and west walls.  The altar here is made from
+carved ebony, cunningly crafted with the symbols of the order which tends
+this temple.  Set on the altar are smoldering censers, which fill the
+surrounding air with the smell of myrrh.  
+
+[Exits: east south down]
+(White Aura) A priest of the Aklaju offers the services of the dark gods.
+
+d
+<18hp 13m 156mv> 
+Before the Gates of the School of Heroes
+  Before you stand the gates of the School of Heroes, the renowned center
+of training for young adventurers.  It is an enormous structure, composed of
+marble, stone, and brick, and has been built upon a rocky hill.  The gates
+are forged of wrought iron, and remain open to travelers of every size,
+affiliation, and creed.  The central foyer of the School lies ahead, the
+marble edifice looming over its well-worn gates.  A small courtyard opens
+here, with a beautiful central fountain and a circle of low bushes.  
+
+[Exits: north south]
+     A beautiful golden fountain gushes water.
+
+<18hp 13m 156mv> 
+s
+The Portal Chamber
+  This cubical room is made from blocks of hewn marble.  Benches of similar
+stone are set diagonally against the corners of the room, and an open
+skylight provides illumination from above.  However, this room is unique in
+that it contains four magical gateways which connect the School of Heroes to
+various locations in Avendar.  Each glowing with soft blue light, the three
+vertical portals are set into the eastern, western, and southern walls.  The
+fourth portal is horizontal and circular, and is set into the floor directly
+beneath the skylight.  A more mundane doorway leads north, to the courtyard
+before the entrance to the School proper.  
+
+[Exits: north east south west down]
+(Translucent) A magic mouth hovers in mid-air, grinning nonchalantly.
+The magic mouth tells you, 'Are you sure you're ready to leave the School?'
+The magic mouth tells you, 'If you're ready, then you're ready...'
+The magic mouth tells you, 'If you want to know about the portal destinations, say the name of the
+direction you want to go.'
+
+<18hp 13m 156mv> 
+d
+The Entrance to the Tower of Testing
+  Just north of the Adventurer's Lounge lies a connecting junction between
+it and the Tower of Testing.  This dimly lit vestibule is made of rougher
+hewn stone than the smooth bricks of the School proper, giving it a more
+ominous air.  A hanging oil lantern which dangles from the ceiling only
+enhances this mood, its unsteady light filling the room with trembling
+shadows.  Engraved into the stone floor is the iconic sigil of the School of
+Heroes, which serves as this chamber's only real ornamentation.  To the
+north, the Tower awaits, the many sounds of its beasts echoing off of the
+ancient stone walls.
+
+A standing sign offers information to students.
+
+[Exits: north south]
+
+n
+<18hp 13m 156mv> 
+The Beginning of the First Floor
+  The Tower of Testing's first floor is a simple and rugged affair, built
+of heavy, rough-hewn bricks.  Torches line the grey walls, and a chill
+moisture clings to the air.  The floor underfoot is well-trod and packed
+with rough mortar.  The first level of the Tower opens up into a low-lit,
+open, and shadowy chamber.  There are no windows, and the dank air suggests
+that this part is still below ground level.  The chamber continues to the
+north, where the screeches of rats and the crackles of torches fill the
+quiet air.  
+
+A sign is affixed to an iron stand.
+
+[Exits: north south]
+An oversized rat runs swiftly through the shadows.
+
+n
+<18hp 13m 156mv> 
+n
+The Southwest Corner of the First Floor
+  The Tower of Testing's first floor is a simple and rugged affair, built
+of heavy, rough-hewn bricks.  Torches line the grey walls, and a chill
+moisture clings to the air.  The floor underfoot is well-trod and packed
+with rough mortar.  The first level of the Tower opens up into a low-lit,
+open, and shadowy chamber.  There are no windows, and the dank air suggests
+that this part is still below ground level.  The chamber continues to the
+north and east, where the screeches of rats and the crackles of torches fill
+the quiet air.  
+
+[Exits: north east south]
+
+<18hp 13m 156mv> 
+The Northwest Corner of the First Floor
+  The Tower of Testing's first floor is a simple and rugged affair, built
+of heavy, rough-hewn bricks.  Torches line the grey walls, and a chill
+moisture clings to the air.  The floor underfoot is well-trod and packed
+with rough mortar.  The first level of the Tower opens up into a low-lit,
+open, and shadowy chamber.  There are no windows, and the dank air suggests
+that this part is still below ground level.  The chamber continues to the
+south and east, where the screeches of rats and the crackles of torches fill
+the quiet air.  
+
+[Exits: east south]
+An oversized rat scurries across the stone floor.
+An oversized rat sits up on its hind legs, sniffing at the air.
+
+n
+<18hp 13m 156mv> 
+Alas, you cannot go that way.
+
+<18hp 13m 156mv> 
+worth
+You have no coins, and 19957 experience (1441 exp to level).
+You have 187 exploration points (0 ep to level).
+You are unencumbered by your equipment.
+
+who
+<18hp 13m 156mv> 
+[ 8 Gla] Pyruin Veda the Student of Showmanship
+
+Players found: 1
+
+<18hp 13m 156mv> 
+e
+e
+The Northeast Corner of the First Floor
+  The Tower of Testing's first floor is a simple and rugged affair, built
+of heavy, rough-hewn bricks.  Torches line the grey walls, and a chill
+moisture clings to the air.  The floor underfoot is well-trod and packed
+with rough mortar.  The first level of the Tower opens up into a low-lit,
+open, and shadowy chamber.  There are no windows, and the dank air suggests
+that this part is still below ground level.  The chamber continues to the
+south and west, where the screeches of rats and the crackles of torches fill
+the quiet air.  To the north lies a stairwell leading to the second floor.  
+
+[Exits: north south west]
+An oversized rat sits up on its hind legs, sniffing at the air.
+An oversized rat scurries across the stone floor.
+An oversized rat sniffs and chews at some debris.
+
+e
+<18hp 13m 156mv> 
+Alas, you cannot go that way.
+
+<18hp 13m 156mv> Alas, you cannot go that way.
+
+<18hp 13m 156mv> 
+s
+The Southeast Corner of the First Floor
+  The Tower of Testing's first floor is a simple and rugged affair, built
+of heavy, rough-hewn bricks.  Torches line the grey walls, and a chill
+moisture clings to the air.  The floor underfoot is well-trod and packed
+with rough mortar.  The first level of the Tower opens up into a low-lit,
+open, and shadowy chamber.  There are no windows, and the dank air suggests
+that this part is still below ground level.  The chamber continues to the
+north and west, where the screeches of rats and the crackles of torches fill
+the quiet air.  
+
+[Exits: north west]
+An oversized rat sniffs and chews at some debris.
+
+s
+<18hp 13m 156mv> 
+Alas, you cannot go that way.
+
+<18hp 13m 156mv> 
+w
+The Southwest Corner of the First Floor
+  The Tower of Testing's first floor is a simple and rugged affair, built
+of heavy, rough-hewn bricks.  Torches line the grey walls, and a chill
+moisture clings to the air.  The floor underfoot is well-trod and packed
+with rough mortar.  The first level of the Tower opens up into a low-lit,
+open, and shadowy chamber.  There are no windows, and the dank air suggests
+that this part is still below ground level.  The chamber continues to the
+north and east, where the screeches of rats and the crackles of torches fill
+the quiet air.  
+
+[Exits: north east south]
+
+w
+<18hp 13m 156mv> 
+Alas, you cannot go that way.
+
+s
+<18hp 13m 156mv> 
+s
+The Beginning of the First Floor
+  The Tower of Testing's first floor is a simple and rugged affair, built
+of heavy, rough-hewn bricks.  Torches line the grey walls, and a chill
+moisture clings to the air.  The floor underfoot is well-trod and packed
+with rough mortar.  The first level of the Tower opens up into a low-lit,
+open, and shadowy chamber.  There are no windows, and the dank air suggests
+that this part is still below ground level.  The chamber continues to the
+north, where the screeches of rats and the crackles of torches fill the
+quiet air.  
+
+A sign is affixed to an iron stand.
+
+[Exits: north south]
+An oversized rat runs swiftly through the shadows.
+
+<18hp 13m 156mv> The Entrance to the Tower of Testing
+  Just north of the Adventurer's Lounge lies a connecting junction between
+it and the Tower of Testing.  This dimly lit vestibule is made of rougher
+hewn stone than the smooth bricks of the School proper, giving it a more
+ominous air.  A hanging oil lantern which dangles from the ceiling only
+enhances this mood, its unsteady light filling the room with trembling
+shadows.  Engraved into the stone floor is the iconic sigil of the School of
+Heroes, which serves as this chamber's only real ornamentation.  To the
+north, the Tower awaits, the many sounds of its beasts echoing off of the
+ancient stone walls.
+
+A standing sign offers information to students.
+
+[Exits: north south]
+
+n
+<26hp 19m 156mv> 
+n
+The Beginning of the First Floor
+  The Tower of Testing's first floor is a simple and rugged affair, built
+of heavy, rough-hewn bricks.  Torches line the grey walls, and a chill
+moisture clings to the air.  The floor underfoot is well-trod and packed
+with rough mortar.  The first level of the Tower opens up into a low-lit,
+open, and shadowy chamber.  There are no windows, and the dank air suggests
+that this part is still below ground level.  The chamber continues to the
+north, where the screeches of rats and the crackles of torches fill the
+quiet air.  
+
+A sign is affixed to an iron stand.
+
+[Exits: north south]
+An oversized rat runs swiftly through the shadows.
+
+n
+n
+<26hp 19m 156mv> 
+The Southwest Corner of the First Floor
+  The Tower of Testing's first floor is a simple and rugged affair, built
+of heavy, rough-hewn bricks.  Torches line the grey walls, and a chill
+moisture clings to the air.  The floor underfoot is well-trod and packed
+with rough mortar.  The first level of the Tower opens up into a low-lit,
+open, and shadowy chamber.  There are no windows, and the dank air suggests
+that this part is still below ground level.  The chamber continues to the
+north and east, where the screeches of rats and the crackles of torches fill
+the quiet air.  
+
+[Exits: north east south]
+
+n
+<26hp 19m 156mv> 
+The Northwest Corner of the First Floor
+  The Tower of Testing's first floor is a simple and rugged affair, built
+of heavy, rough-hewn bricks.  Torches line the grey walls, and a chill
+moisture clings to the air.  The floor underfoot is well-trod and packed
+with rough mortar.  The first level of the Tower opens up into a low-lit,
+open, and shadowy chamber.  There are no windows, and the dank air suggests
+that this part is still below ground level.  The chamber continues to the
+south and east, where the screeches of rats and the crackles of torches fill
+the quiet air.  
+
+[Exits: east south]
+An oversized rat scurries across the stone floor.
+An oversized rat sits up on its hind legs, sniffing at the air.
+
+<26hp 19m 156mv> 
+n
+Alas, you cannot go that way.
+
+e
+<26hp 19m 156mv> Alas, you cannot go that way.
+
+e
+<26hp 19m 156mv> Alas, you cannot go that way.
+
+e
+<26hp 19m 156mv> The Northeast Corner of the First Floor
+  The Tower of Testing's first floor is a simple and rugged affair, built
+of heavy, rough-hewn bricks.  Torches line the grey walls, and a chill
+moisture clings to the air.  The floor underfoot is well-trod and packed
+with rough mortar.  The first level of the Tower opens up into a low-lit,
+open, and shadowy chamber.  There are no windows, and the dank air suggests
+that this part is still below ground level.  The chamber continues to the
+south and west, where the screeches of rats and the crackles of torches fill
+the quiet air.  To the north lies a stairwell leading to the second floor.  
+
+[Exits: north south west]
+An oversized rat sits up on its hind legs, sniffing at the air.
+An oversized rat scurries across the stone floor.
+An oversized rat sniffs and chews at some debris.
+
+<26hp 19m 156mv> 
+Alas, you cannot go that way.
+
+<26hp 19m 156mv> Alas, you cannot go that way.
+
+n
+<26hp 19m 156mv> 
+n
+A Breezy Stairwell
+  This stairwell is in the far northeast, just outside of the first floor
+proper.  It is rugged and dark, lit with flickering torches.  However, as
+the stairs climb higher, the chill cling of the air lessens and the basement
+scent dims.  Warmer, fresher air travels downward on a faint breeze, causing
+the flames to dance wildly atop their torches.  The steps are worn and
+smooth, suggesting the passage of many feet.  To the south lies the
+rat-infested first floor of the Tower of Testing, while the second floor
+awaits above.  
+
+[Exits: south up]
+
+<26hp 19m 156mv> 
+Alas, you cannot go that way.
+
+u
+<26hp 19m 156mv> 
+A Breezy Stairwell
+  This stairwell is on the far north side of the second floor of the Tower
+of Testing.  It is rugged and dark, lit with flickering torches.  As the
+stairs descend back to the first level, the air becomes colder and more
+dank.  Warmer, fresher air travels downward on a faint breeze, causing the
+flames to dance wildly atop their torches.  The steps are worn and smooth,
+suggesting the passage of many feet.  To the south lies the lizard habitat
+on the second floor of the Tower of Testing, while the first floor lay
+below.  
+
+A standing sign describes the area to come.
+
+[Exits: south down]
+
+s
+s
+<26hp 19m 156mv> 
+The Beginning of the Second Floor
+  The second floor of the Tower of Testing is at ground level, with high
+windows bringing in light from the outside.  The floor is generally shaped
+like a cross, with two long intersecting hallways.  The floor here is the
+same rough-hewn stone as the level below, except it is now marked by lizard
+droppings.  The scent of habitation is heavy in the air, but blissfully the
+many windows offer a breeze and some freshening air.  The ceiling is fairly
+high, and strung with oil lanterns.  This hallway continues south, while the
+stairwell to the first floor lies to the north.  
+
+[Exits: north south]
+A large lizard rests on the rough stone floor.
+A large lizard scratches its rear claws against the stone floor.
+A large lizard scratches its rear claws against the stone floor.
+A large lizard rests on the rough stone floor.
+A large lizard flexes its forward legs and claws.
+
+<26hp 19m 156mv> 
+The Intersection on the Second Floor
+  The second floor of the Tower of Testing is at ground level, with high
+windows bringing in light from the outside.  The floor here is the same
+rough-hewn stone as the level below, except it is now marked by lizard
+droppings.  The scent of habitation is heavy in the air, but blissfully the
+many windows offer a breeze and some freshening air.  The ceiling is fairly
+high, and strung with oil lanterns.  This area serves as a point of
+intersection between the two hallways of the floor, with one going east and
+west, and the other going north and south.  
+
+[Exits: north east south west]
+A large lizard rubs against the wall of the corridor as it moves.
+A large lizard lets out a low, rumbling growl.
+
+<26hp 19m 156mv> 
+s
+s
+The Southern Section of the Second Floor
+  The second floor of the Tower of Testing is at ground level, with high
+windows bringing in light from the outside.  The floor is generally shaped
+like a cross, with two long intersecting hallways.  The floor here is the
+same rough-hewn stone as the level below, except it is now marked by lizard
+droppings.  The scent of habitation is heavy in the air, but blissfully the
+many windows offer a breeze and some freshening air.  The ceiling is fairly
+high, and strung with oil lanterns.  This hallway continues north, while the
+stairwell to the third floor lies to the south.  
+
+[Exits: north south]
+A large lizard scratches its rear claws against the stone floor.
+A large lizard scratches at the floor with its short claws.
+A large lizard rubs against the wall of the corridor as it moves.
+
+<26hp 19m 156mv> 
+A Glass Stairwell
+  The second floor comes to an end with a stairwell leading upward.  The
+tower here begins a transition away from the rough-hewn stone of the lower
+levels toward white brick and tile, much like that of the School of Heroes. 
+The ceilings are substantially higher than the floor below, with high glass
+panels that follow the stairs as they proceed further up.  From here you
+have a pleasant but commanding view of Avendar's distant horizons, with
+vents letting in further fresh air from above.  The stairway is
+significantly warmer than below.  
+
+[Exits: north up]
+
+<26hp 19m 156mv> 
+u
+A Glass Stairwell
+  The glass stairwell leads upward to the third floor of the Tower of
+Testing.  The tower itself begins a transition away from the rough-hewn
+stone of the lower levels toward white brick and tile, much like that of the
+School of Heroes.  The ceilings are substantially higher than the floor
+below, with high glass panels that follow the stairs as they proceed further
+up.  From here you have a pleasant but commanding view of Avendar's distant
+horizons, with vents letting in further fresh air from above.  The stairway
+gets colder as it descends.  
+
+A standing sign describes the trials of this floor.
+
+[Exits: north down]
+
+n
+<26hp 19m 156mv> 
+n
+The Beginning of the Third Floor
+  The third floor of the Tower of Testing is a stone and tile affair, much
+like the School of Heroes.  The bricks are white and lit by lanterns which
+hang from the ceiling, as well as the large glass windows which look out
+into the surrounding skyscape.  The tiles are dark and well-trod, showing
+the scuffs of many young adventurers.  The air on this floor is surprisingly
+clear and fresh due to better ventilation; however, it still stings the nose
+with the acrid scent of summoning.  Scratches and the spattering of dark
+blood mar the floor, ceiling and walls, with the high screech of imps never
+far from the ear.  To the south, a glass-enclosed stairwell descends to the
+second floor, while the current one continues to the north.  
+
+[Exits: north south]
+An emerald green imp hovers on leathery wings.
+
+<26hp 19m 156mv> 
+The West Side of the Third Floor
+  The third floor of the Tower of Testing is a stone and tile affair, much
+like the School of Heroes.  The bricks are white and lit by lanterns which
+hang from the ceiling, as well as the large glass windows which look out
+into the surrounding skyscape.  The tiles are dark and well-trod, showing
+the scuffs of many young adventurers.  The air on this floor is surprisingly
+clear and fresh due to better ventilation; however, it still stings the nose
+with the acrid scent of summoning.  Scratches and the spattering of dark
+blood mar the floor, ceiling and walls, with the high screech of imps never
+far from the ear.  The hall continues to the north and south.  
+
+[Exits: north south]
+An emerald green imp hovers on leathery wings.
+
+n
+<26hp 19m 156mv> 
+n
+A Corner on the Third Floor
+  The third floor of the Tower of Testing is a stone and tile affair, much
+like the School of Heroes.  The bricks are white and lit by lanterns which
+hang from the ceiling, as well as the large glass windows which look out
+into the surrounding skyscape.  The tiles are dark and well-trod, showing
+the scuffs of many young adventurers.  The air on this floor is surprisingly
+clear and fresh due to better ventilation; however, it still stings the nose
+with the acrid scent of summoning.  Scratches and the spattering of dark
+blood mar the floor, ceiling and walls, with the high screech of imps never
+far from the ear.  The hall turns here, its two exits to the east and south.
+
+[Exits: east south]
+An emerald green imp hovers on leathery wings.
+
+<26hp 19m 156mv> 
+Alas, you cannot go that way.
+
+e
+e
+<26hp 19m 156mv> The North Side of the Third Floor
+  The third floor of the Tower of Testing is a stone and tile affair, much
+like the School of Heroes.  The bricks are white and lit by lanterns which
+hang from the ceiling, as well as the large glass windows which look out
+into the surrounding skyscape.  The tiles are dark and well-trod, showing
+the scuffs of many young adventurers.  The air on this floor is surprisingly
+clear and fresh due to better ventilation; however, it still stings the nose
+with the acrid scent of summoning.  Scratches and the spattering of dark
+blood mar the floor, ceiling and walls, with the high screech of imps never
+far from the ear.  The hall continues to the east and west.  
+
+[Exits: east west]
+An emerald green imp hovers on leathery wings.
+
+<26hp 19m 156mv> 
+A Corner on the Third Floor
+  The third floor of the Tower of Testing is a stone and tile affair, much
+like the School of Heroes.  The bricks are white and lit by lanterns which
+hang from the ceiling, as well as the large glass windows which look out
+into the surrounding skyscape.  The tiles are dark and well-trod, showing
+the scuffs of many young adventurers.  The air on this floor is surprisingly
+clear and fresh due to better ventilation; however, it still stings the nose
+with the acrid scent of summoning.  Scratches and the spattering of dark
+blood mar the floor, ceiling and walls, with the high screech of imps never
+far from the ear.  The hall turns here, with its exits to the west and
+south.  
+
+[Exits: south west]
+An emerald green imp hovers on leathery wings.
+
+<26hp 19m 156mv> 
+e
+Alas, you cannot go that way.
+
+n
+<26hp 19m 156mv> 
+Alas, you cannot go that way.
+
+n
+<26hp 19m 156mv> Alas, you cannot go that way.
+
+s
+<26hp 19m 156mv> The East Side of the Third Floor
+  The third floor of the Tower of Testing is a stone and tile affair, much
+like the School of Heroes.  The bricks are white and lit by lanterns which
+hang from the ceiling, as well as the large glass windows which look out
+into the surrounding skyscape.  The tiles are dark and well-trod, showing
+the scuffs of many young adventurers.  The air on this floor is surprisingly
+clear and fresh due to better ventilation; however, it still stings the nose
+with the acrid scent of summoning.  Scratches and the spattering of dark
+blood mar the floor, ceiling and walls save the uncharacteristic cleanliness
+of the western one.  The hall continues north and south.  
+
+[Exits: north south]
+     The hide from the corpse of an emerald green imp is here.
+An emerald green imp hovers on leathery wings.
+
+s
+<26hp 19m 156mv> 
+The End of the Third Floor
+  The third floor of the Tower of Testing is a stone and tile affair, much
+like the School of Heroes.  The bricks are white and lit by lanterns which
+hang from the ceiling, as well as the large glass windows which look out
+into the surrounding skyscape.  The tiles are dark and well-trod, showing
+the scuffs of many young adventurers.  The air on this floor is surprisingly
+clear and fresh due to better ventilation however, it still stings the nose
+with the acrid scent of summoning.  Scratches and the spattering of dark
+blood mar the floor, ceiling and walls, with the high screech of imps never
+far from the ear.  To the south, a marble stairwell ascends to the fourth
+floor, while the hall continues to the north.  
+
+[Exits: north south]
+     A steaming pile of an emerald green imp's entrails is lying here.
+An emerald green imp hovers on leathery wings.
+
+<26hp 19m 156mv> 
+s
+A Marble Stairwell
+  A marble stairwell leads upward to the fourth floor of the Tower of
+Testing.  The white stones of the third level end at the entrance to this
+stairwell, instead replaced by the iconic marble of the School's main level.
+The tile floor looks less worn and of a higher sheen, and the stairwell
+itself is polished to a high gloss.  Arched windows look out onto the world
+at large, high enough to give the faint of heart a bit of pause.  The sounds
+of battle ring out from the floor above.  The long hall of the third floor
+lies to the north.  
+
+[Exits: north up]
+
+s
+<26hp 19m 156mv> 
+Alas, you cannot go that way.
+
+u
+<26hp 19m 156mv> 
+n
+A Marble Stairwell
+  A marble stairwell ends at the doorstep of the fourth floor of the Tower
+of Testing.  This entire floor is done in the polished black tile of the
+School of Heroes proper, and the walls are a high, glossy marble.  The
+chamber which composes the fourth floor is the largest and most open yet,
+the great expanse of its floor composing a patterned relief of the School's
+iconic sigil.  The air is cool but smelling of exertion, blood, and metal. 
+Lanterns hang from the ceiling to illuminate the final steps before entering
+the floor.  Down the stairs, the third floor awaits.  
+
+A plaque is inset into the wall at the top of the stairs.
+
+[Exits: east down]
+
+n
+<26hp 19m 156mv> 
+Alas, you cannot go that way.
+
+<26hp 19m 156mv> Alas, you cannot go that way.
+
+e
+<26hp 19m 156mv> The Southwest Corner of the Fourth Floor
+  This floor of the Tower of Testing is done in polished black tile, with
+walls of high marble.  The ceiling is vaulted and extravagant, the entire
+expanse forming a wide open battle arena.  The tiles of the floor compose a
+patterned relief of the iconic sigil of the School of Heroes.  The air is
+cool but smells of exertion, blood, and spellcraft.  Lanterns hang from the
+high ceiling, lighting the chamber at night, while natural light filters in
+through arched windows during the day.  A stairwell leads down to the third
+floor to the west, while the chamber continues north and east.  
+
+[Exits: north east west]
+     The corpse of Korinne is lying here.
+
+n
+<26hp 19m 156mv> 
+The West Wall of the Fourth Floor
+  This floor of the Tower of Testing is done in polished black tile, with
+walls of high marble.  The ceiling is vaulted and extravagant, the entire
+expanse forming a wide open battle arena.  The tiles of the floor compose a
+patterned relief of the iconic sigil of the School of Heroes.  The air is
+cool but smells of exertion, blood, and spellcraft.  Lanterns hang from the
+high ceiling, lighting the chamber at night, while natural light filters in
+through arched windows during the day.  The chamber continues north, east,
+and south.  
+
+[Exits: north east south]
+A tall aelin girl with ruddy wings searches for opponents.
+
+<26hp 19m 156mv> 
+n
+The Northwest Corner of the Fourth Floor
+  This floor of the Tower of Testing is done in polished black tile, with
+walls of high marble.  The ceiling is vaulted and extravagant, the entire
+expanse forming a wide open battle arena.  The tiles of the floor compose a
+patterned relief of the iconic sigil of the School of Heroes.  The air is
+cool but smells of exertion, blood, and spellcraft.  Lanterns hang from the
+high ceiling, lighting the chamber at night, while natural light filters in
+through arched windows during the day.  The chamber comes to a corner here,
+continuing only to the east and south.  
+
+[Exits: east south]
+     The corpse of Suisha is lying here.
+     The corpse of Jichar is lying here.
+An olive green ethron male prepares for combat.
+
+n
+<26hp 19m 156mv> 
+Alas, you cannot go that way.
+
+<26hp 19m 156mv> 
+e
+The North Wall of the Fourth Floor
+  This floor of the Tower of Testing is done in polished black tile, with
+walls of high marble.  The ceiling is vaulted and extravagant, the entire
+expanse forming a wide open battle arena.  The tiles of the floor compose a
+patterned relief of the iconic sigil of the School of Heroes.  The air is
+cool but smells of exertion, blood, and spellcraft.  Lanterns hang from the
+high ceiling, lighting the chamber at night, while natural light filters in
+through arched windows during the day.  The floor continues to the east,
+south, and west.  
+
+[Exits: east south west]
+     The corpse of Daloeq is lying here.
+
+n
+<26hp 19m 156mv> 
+Alas, you cannot go that way.
+
+e
+<26hp 19m 156mv> 
+The Northeast Corner of the Fourth Floor
+  This floor of the Tower of Testing is done in polished black tile, with
+walls of high marble.  The ceiling is vaulted and extravagant, the entire
+expanse forming a wide open battle arena.  The tiles of the floor compose a
+patterned relief of the iconic sigil of the School of Heroes.  The air is
+cool but smells of exertion, blood, and spellcraft.  Lanterns hang from the
+high ceiling, lighting the chamber at night, while natural light filters in
+through arched windows during the day.  The floor continues to the west and
+south, while a stairwell to the east leads up to the fifth level.  
+
+[Exits: east south west]
+     The corpse of Pyruin is lying here.
+     The tail of Rhisshul is lying here.
+
+n
+<26hp 19m 156mv> 
+Alas, you cannot go that way.
+
+<26hp 19m 156mv> 
+e
+A Stone Stairwell
+  A stone stairwell leads upward toward the fifth floor, just on the other
+side of the large tiled arena of the fourth.  The arched windows and heavy
+construction suggest that this is one of the oldest remaining parts of the
+Tower of Testing, the stone worn smooth by a thousand years of young
+adventurers.  The stairs are smooth and even, and worn in the center from
+the crossing of many footsteps.  Torches light the stairwell, giving it the
+same shadowy cast as some of the lowest floors of the School and Tower.  The
+fifth floor awaits above, while the tests of battle are to the west.  
+
+[Exits: west up]
+
+<26hp 19m 156mv> 
+w
+The Northeast Corner of the Fourth Floor
+  This floor of the Tower of Testing is done in polished black tile, with
+walls of high marble.  The ceiling is vaulted and extravagant, the entire
+expanse forming a wide open battle arena.  The tiles of the floor compose a
+patterned relief of the iconic sigil of the School of Heroes.  The air is
+cool but smells of exertion, blood, and spellcraft.  Lanterns hang from the
+high ceiling, lighting the chamber at night, while natural light filters in
+through arched windows during the day.  The floor continues to the west and
+south, while a stairwell to the east leads up to the fifth level.  
+
+[Exits: east south west]
+     The corpse of Pyruin is lying here.
+     The tail of Rhisshul is lying here.
+
+<26hp 19m 156mv> 
+get all corpse
+You get a felt hat from the corpse of Pyruin.
+You get a black leather belt from the corpse of Pyruin.
+You get a pair of leather gloves from the corpse of Pyruin.
+
+get all corpse
+get all corpse
+get all corpse
+<26hp 19m 156mv> 
+get all corpse
+get all corpse
+get all corpse
+get all corpse
+get all corpse
+get all corpse
+get all corpse
+get all corpse
+get all corpse
+get all corpse
+get all corpse
+get all corpse
+get all corpse
+get all corpse
+get all corpse
+get all corpse
+get all corpse
+get all corpse
+You get a pair of green boots from the corpse of Pyruin.
+You get a patched cloak from the corpse of Pyruin.
+You get a patched cloak from the corpse of Pyruin.
+
+<26hp 19m 156mv> 
+You get a copper bracer from the corpse of Pyruin.
+You get a canoe from the corpse of Pyruin.
+You get a gleaming gold ring from the corpse of Pyruin.
+You get a foul-smelling bear skin from the corpse of Pyruin.
+
+<32hp 25m 156mv> 
+You get a jagged bone shortsword from the corpse of Pyruin.
+You get a three-balled flail from the corpse of Pyruin.
+You get a pair of fur-lined sleeves from the corpse of Pyruin.
+You get a light wool scarf from the corpse of Pyruin.
+
+<32hp 25m 156mv> 
+You get a woolen mantle from the corpse of Pyruin.
+You get a copper chainmail shirt from the corpse of Pyruin.
+You get a copper polearm from the corpse of Pyruin.
+You get a pair of fur-lined sleeves from the corpse of Pyruin.
+
+<32hp 25m 156mv> 
+You get a copper sword from the corpse of Pyruin.
+You get a rawhide whip from the corpse of Pyruin.
+You get some copper chainmail leggings from the corpse of Pyruin.
+
+<32hp 25m 156mv> 
+You get a pair of hide boots from the corpse of Pyruin.
+You get a copper javelin from the corpse of Pyruin.
+You get a copper shield from the corpse of Pyruin.
+You get a copper javelin from the corpse of Pyruin.
+
+<32hp 25m 156mv> 
+You get a copper chainmail shirt from the corpse of Pyruin.
+You get a woolen mantle from the corpse of Pyruin.
+You get a simple pine staff from the corpse of Pyruin.
+
+<32hp 25m 156mv> 
+You get a copper chainmail shirt from the corpse of Pyruin.
+You get some copper chainmail leggings from the corpse of Pyruin.
+You get a pair of hide boots from the corpse of Pyruin.
+You get a copper javelin from the corpse of Pyruin.
+
+<32hp 25m 156mv> 
+You get a copper chainmail shirt from the corpse of Pyruin.
+You get a copper dagger from the corpse of Pyruin.
+You get a copper dagger from the corpse of Pyruin.
+
+<32hp 25m 156mv> 
+You get a copper shield from the corpse of Pyruin.
+You get a copper javelin from the corpse of Pyruin.
+You get a copper chainmail shirt from the corpse of Pyruin.
+You get a copper shield from the corpse of Pyruin.
+
+<32hp 25m 156mv> 
+You get a copper javelin from the corpse of Pyruin.
+You get a copper chainmail shirt from the corpse of Pyruin.
+You get a copper chainmail shirt from the corpse of Pyruin.
+
+<32hp 25m 156mv> 
+You get a copper dagger from the corpse of Pyruin.
+You get a copper dagger from the corpse of Pyruin.
+You get a copper chainmail shirt from the corpse of Pyruin.
+
+<39hp 31m 156mv> 
+You get a copper javelin from the corpse of Pyruin.
+You get a woolen mantle from the corpse of Pyruin.
+You get a simple pine staff from the corpse of Pyruin.
+You get a copper chainmail shirt from the corpse of Pyruin.
+
+<39hp 31m 156mv> 
+You get a woolen mantle from the corpse of Pyruin.
+You get a simple pine staff from the corpse of Pyruin.
+You get a copper chainmail shirt from the corpse of Pyruin.
+
+<39hp 31m 156mv> 
+You get a copper shield from the corpse of Pyruin.
+You get a copper javelin from the corpse of Pyruin.
+You get a copper chainmail shirt from the corpse of Pyruin.
+
+<39hp 31m 156mv> 
+You get some copper chainmail leggings from the corpse of Pyruin.
+You get a pair of hide boots from the corpse of Pyruin.
+You get a copper javelin from the corpse of Pyruin.
+
+<39hp 31m 156mv> 
+You get some copper chainmail leggings from the corpse of Pyruin.
+You get a pair of hide boots from the corpse of Pyruin.
+You get a copper javelin from the corpse of Pyruin.
+You get a copper chainmail shirt from the corpse of Pyruin.
+
+<39hp 31m 156mv> 
+You get a copper dagger from the corpse of Pyruin.
+You get a copper dagger from the corpse of Pyruin.
+You get 132 copper coins from the corpse of Pyruin.
+You get 50 silver coins from the corpse of Pyruin.
+
+<39hp 31m 156mv> 
+You get 2 gold coins from the corpse of Pyruin.
+
+<39hp 31m 156mv> 
+I see nothing in the corpse.
+
+<39hp 31m 156mv> 
+
+With the passing of midnight, it is now Thethelsday, 12th day of Year's End.
+
+<46hp 37m 156mv> 
+I see nothing in the corpse.
+
+<46hp 37m 156mv> 
+
+Someone leaves west.
+
+<82hp 61m 156mv> 
+
+You hear something's death cry.
+
+<90hp 67m 156mv> 
+
+You hear something's death cry.
+
+<115hp 85m 156mv> 
+
+[TIPS] Old age is respected in chaja communities, which are usually lead by a group of its eldest
+members.  Chaja will frequently address unrelated elders as 'auntie' or 'uncle' as a sign of 
+respect.
+
+<115hp 85m 156mv> 
+
+You disappear into the void.
+
+<125hp 91m 156mv> 
+
+Alas, all good things must come to an end.
+    
+[ ALERT ] - Socket got disconnected.
+            Reason: The remote host closed the connection
+[ INFO ]  - Connection time: 00:22:13.911
+                
+[ INFO ]  - Looking up the IP address of server: avendar.net:9999 ...
+[ INFO ]  - The IP address of avendar.net has been found. It is: 74.91.112.143
+[ INFO ]  - Trying to connect to 74.91.112.143:9999 ...
+[ INFO ]  - A connection has been established successfully.
+                
+                
+
+          <| 
+           A              
+          /.          
+     \<|  [""M#         
+      A   | #                   AVENDAR: THE CRUCIBLE OF LEGENDS 
+     /. \[""M#                         [avendar.net 9999] 
+    [""M# | #  U"U#U                  
+     | #  | #   \.:/    Original DikuMUD by Hans Staerfeldt, Katja Nyboe, 
+     | #  | #___| #     Tom Madsen, Michael Seifert, and Sebastian Hammer 
+     | "--'     .-"     Based on MERC 2.1 code by Hatchet, Furey, and Kahn 
+   |"-"-"-"-"-#-#-##    ROM 2.4 copyright (c) 1993-1996 Russ Taylor 
+   |     # ## ######      
+           \.::::'/     Avendar created by Matt Wallace, Thane Williams, 
+           \::::'/      and Brandon Downey.  See HELP AVENDAR for more. 
+   :8a|    # # ##       
+   ::88a      ###       Avendar is maintained and developed by the Avendar 
+  ::::888a  8a ##::.                   Immortal staff. 
+  ::::::888a88a[]:::: 
+ :::::::::SUNDOGa8a::::. ..               
+ :::::8::::888:Y8888:::::::::...       
+::':::88::::888::Y88a______________________________________________________ 
+:: ::::88a::::88a:Y88a                                  __---__-- __ 
+' .: ::Y88a:::::8a:Y88a                            __----_-- -------_-__ 
+  :' ::::8P::::::::::88aa.                   _ _- --  --_ --- __  --- __-- 
+,::  :::::::::::::::::::Y88as88a...s88aa.
+
+Under what name shall your deeds be recorded?
+Account 'Tyeric' logging in.  Password: 
+
+
+The following characters are currently associated with this account:
+
+Qeqskil
+Feythis
+Khuruin
+Rhuinzek
+Pyruin
+
+To create a new character, enter an original name at the following prompt.
+Enter character name to use: 

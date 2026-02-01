@@ -1,0 +1,976 @@
+Log session starting at 05:01:29 on Saturday, 10 January 2026.
+[  OK  ]  - Mudlet-lua API & Geyser Layout manager loaded.
+[ INFO ]  - Reading map. Format version: 20. File:
+            "C:/Users/wilds/.config/mudlet/profiles/PANTHEON1/map/2026-01-09#07-12-17map.dat",
+            please wait...
+[ INFO ]  - Successfully read the map file (0.02s), checking some
+            consistency details...
+[ INFO ]  - Map audit starting...
+[  OK  ]  - Auditing of map completed (0.00s). Enjoy your game...
+[  OK  ]  - Map loaded successfully (0.02s).
+[ INFO ]  - Looking up the IP address of server: avendar.net:9999 ...
+[ INFO ]  - The IP address of avendar.net has been found. It is: 144.208.64.82
+[ INFO ]  - Trying to connect to 144.208.64.82:9999 ...
+[ INFO ]  - A connection has been established successfully.
+                
+                
+
+          <| 
+           A              
+          /.          
+     \<|  [""M#         
+      A   | #                   AVENDAR: THE CRUCIBLE OF LEGENDS 
+     /. \[""M#                         [avendar.net 9999] 
+    [""M# | #  U"U#U                  
+     | #  | #   \.:/    Original DikuMUD by Hans Staerfeldt, Katja Nyboe, 
+     | #  | #___| #     Tom Madsen, Michael Seifert, and Sebastian Hammer 
+     | "--'     .-"     Based on MERC 2.1 code by Hatchet, Furey, and Kahn 
+   |"-"-"-"-"-#-#-##    ROM 2.4 copyright (c) 1993-1996 Russ Taylor 
+   |     # ## ######      
+           \.::::'/     Avendar created by Matt Wallace, Thane Williams, 
+           \::::'/      and Brandon Downey.  See HELP AVENDAR for more. 
+   :8a|    # # ##       
+   ::88a      ###       Avendar is maintained and developed by the Avendar 
+  ::::888a  8a ##::.                   Immortal staff. 
+  ::::::888a88a[]:::: 
+ :::::::::SUNDOGa8a::::. ..               
+ :::::8::::888:Y8888:::::::::...       
+::':::88::::888::Y88a______________________________________________________ 
+:: ::::88a::::88a:Y88a                                  __---__-- __ 
+' .: ::Y88a:::::8a:Y88a                            __----_-- -------_-__ 
+  :' ::::8P::::::::::88aa.                   _ _- --  --_ --- __  --- __-- 
+,::  :::::::::::::::::::Y88as88a...s88aa.
+
+Under what name shall your deeds be recorded?
+Account 'Tyeric' logging in.  Password: 
+
+
+The following characters are currently associated with this account:
+
+Bheyuk
+
+To create a new character, enter an original name at the following prompt.
+Enter character name to use: 
+bheyuk
+Password: 
+
+-------------- READ THE MOTD -- Last Modified: Apr 2025 -------------------
+|                                                                         |
+| . -You are responsible for knowing the rules-. See "help RULES".        |
+|                                                                         |
+| . For more information and discussion about the game, see:              |
+|                                                                         |
+|     . The Avendar Website:      https://avendar.net                     |
+|     . The Avendar Discord:      http://discord.gg/DXsZwVBsBV            |
+|                                                                         |
+| . The changelog (type CHANGES) is updated regularly with updates to     |
+|   Avendar.  Last Updated: 29 Apr 2025                                   |
+|                                                                         |
+| . Avendar is currently presented AS-IS. You may encounter errors or     |
+|   bugs. It is YOUR RESPONSIBILITY to not exploit them.                  |
+|                                                                         |
+---------------------------------------------------------------------------
+whe
+
+You open your eyes and cast your gaze upon the land.
+You received 180 experience today.
+In a Fishing Village
+  Following the pebble-filled shoreline to the north, the ground here is
+alternately covered with pebbles and firmly-packed dirt.  The passing of
+hundreds of feet have worn both soil and mud to a smooth finish here, where
+only a few errant weeds dare to grow.  A small pier is anchored into the
+shore to the north, jutting out into the low-lying shallows of the lake. 
+The hard packed ground continues to the east and west, and the center of the
+village lies southward.  
+
+[Exits: north east south west]
+A human villager walks about town.
+There are 2 changes waiting to be read.
+
+who
+<292hp 179m 253mv> 
+[ 9 Bar] Bheyuk O'sos the Grizzled
+
+Players found: 1
+
+<292hp 179m 253mv> 
+eq
+You are using:
+<worn on finger>    (Glowing) a gleaming gold ring
+<worn on finger>    [nothing]
+<worn around neck>  a patched cloak
+<worn around neck>  a patched cloak
+<worn on torso>     a doublet of meshed steel
+<worn on head>      [nothing]
+<worn on legs>      a skirt of meshed steel
+<worn on feet>      a pair of green boots
+<worn on hands>     a pair of leather gloves
+<worn on arms>      some sleeves of meshed steel
+<worn as shield>    [nothing]
+<worn about body>   a tough apron
+<worn about waist>  a black leather belt
+<worn around wrist> [nothing]
+<worn around wrist> [nothing]
+<wielded>           [nothing]
+<dual wielded>      an ornate ceremonial saber
+<branded>           the Sigil of the School of Heroes
+
+<292hp 179m 253mv> 
+l
+In a Fishing Village
+  Following the pebble-filled shoreline to the north, the ground here is
+alternately covered with pebbles and firmly-packed dirt.  The passing of
+hundreds of feet have worn both soil and mud to a smooth finish here, where
+only a few errant weeds dare to grow.  A small pier is anchored into the
+shore to the north, jutting out into the low-lying shallows of the lake. 
+The hard packed ground continues to the east and west, and the center of the
+village lies southward.  
+
+[Exits: north east south west]
+A human villager walks about town.
+
+<292hp 179m 253mv> 
+frust
+You throw your hands up in frustration.
+
+<292hp 179m 253mv> 
+esay mutters rocks..
+Bheyuk mutters, 'rocks..'
+You are thirsty.
+You are feeling extremely dehydrated!
+You graze yourself.
+
+<287hp 163m 251mv> 
+n
+You gained 1 exploration point and 25 experience points!
+At the Base of a Small Pier
+  Lofted from the ground by a number of heavy rocks and a pair of rusted
+metal fastening rods, this small pier provides the fishermen of the town a
+launch point for their boats.  A number of metal rasps line the pier,
+creating places for boats to be tied when not in use.  The wood of the pier
+itself is covered with a thin layer of greenish slime yet is otherwise in
+good condition.  The pier continues northward, jutting into the waters of
+the lake.  The village itself is to the south, while the shoreline extends
+lazily to the east and west.  
+
+[Exits: north east south west]
+A brown frog hops about here.
+
+<287hp 163m 250mv> 
+n
+You gained 1 exploration point and 25 experience points!
+On a Small Pier
+  A small wooden pier is here, lined with metal anchors to which small
+fishing boats may be tied.  The wood of the pier is covered with a thin
+layer of slime which is marked only by the lines created by the dragging of
+filled fishing nets.  A platform which casts the water in perpetual shadow
+is about twenty feet above the surface of the water, supported by the wooden
+pillars which rise from the water to the east and west.  The platform
+continues to the north, while the pier's base is anchored to the ground to
+the south.  
+
+[Exits: north east south west]
+     A rusty bucket sits here.
+A boy sits on the end of the pier, fishing pole in the water.
+
+<287hp 163m 249mv> 
+in
+You are carrying:
+( 7) a spicy, glazed bjorcha steak
+( 2) a copper dagger
+( 7) a copper chainmail shirt
+( 3) a rawhide whip
+     a copper javelin
+( 5) a simple pine staff
+( 5) a woolen mantle
+( 2) a copper sword
+( 2) a pair of fur-lined sleeves
+     a canoe
+     a foul-smelling bear skin
+
+n
+<287hp 163m 249mv> 
+You gained 1 exploration point and 25 experience points!
+Below a Wooden Platform
+  Surrounded by thick wooden pillars to the east and west, the water here
+is quite calm.  Above you is a wooden platform with a few hanging bits of
+algae and moss.  The wooden platform appears in relatively good condition in
+spite of the plantlife, with very few signs of stress or cracking.  The sky
+is visible through the slats of the platform, casting a shimmering pattern
+of light and dark on the surface of the water.  A small pier juts out
+beneath the platform to the south, while the body of the lake continues to
+the north.  
+
+[Exits: north east south west]
+
+<287hp 163m 248mv> 
+recall
+Office of Applied Theology
+  The office interior exudes an air of cold formality, dominated by sleek
+white marble walls and polished floors that reflect the bright light of
+hanging magelights.  An angular obelisk of grey marble sits in the middle of
+the chamber, deeply graven with images and humming with a low, almost
+imperceptible vibration.  
+
+[Exits: south west]
+     A number of neatly-sorted bins rest against the walls.
+
+<287hp 163m 124mv> 
+drink
+Drink what?
+
+1
+<287hp 163m 124mv> 
+A number of neatly-sorted bins rest against the walls.
+A bin labeled 'Lost and Found' holds:
+     Nothing.
+
+s
+<287hp 163m 124mv> 
+Office of Applied Theology
+  The office interior exudes an air of cold formality, dominated by sleek
+white marble walls and polished floors that reflect the bright light of
+hanging magelights.  An angular obelisk of black marble sits in the middle
+of the chamber, deeply graven with images that spark with poisonous crimson
+light.  
+
+[Exits: north west]
+     A number of neatly-sorted bins rest against the walls.
+
+1
+<287hp 163m 123mv> 
+A number of neatly-sorted bins rest against the walls.
+A bin labeled 'Lost and Found' holds:
+     Nothing.
+
+n
+<287hp 163m 123mv> Office of Applied Theology
+  The office interior exudes an air of cold formality, dominated by sleek
+white marble walls and polished floors that reflect the bright light of
+hanging magelights.  An angular obelisk of grey marble sits in the middle of
+the chamber, deeply graven with images and humming with a low, almost
+imperceptible vibration.  
+
+[Exits: south west]
+     A number of neatly-sorted bins rest against the walls.
+
+w
+<287hp 163m 122mv> 
+1
+Office of Applied Theology
+  The office interior exudes an air of cold formality, dominated by sleek
+white marble walls and polished floors that reflect the bright light of
+hanging magelights.  An angular obelisk of pure white marble sits in the
+middle of the chamber, deeply graven with images that shimmer with ethereal
+golden light.  
+
+[Exits: east south]
+     A number of neatly-sorted bins rest against the walls.
+
+<287hp 163m 121mv> 
+A number of neatly-sorted bins rest against the walls.
+A bin labeled 'Lost and Found' holds:
+     Nothing.
+
+s
+<287hp 163m 121mv> 
+Office of Applied Theology
+  The office exudes an air of cold formality, dominated by sleek white
+marble walls and polished floors that reflect the bright light of hanging
+magelights.  The western wall features an expansive mural depicting the
+liberation of Var Bandor, set before a wide, heavy desk.  The environment
+feels almost sterile, both imposing and inescapable despite the large double
+doors perpetually open to Dantaron street.  
+
+[Exits: north east south down]
+( 7) The hide from the corpse of a Dantaron cod is here.
+     A long scarf is here, woven from light wool.
+     The hide from the corpse of the red beetle is here.
+     The hide from the corpse of the chaja is here.
+(White Aura) Nistaru stands behind the desk, sneering at petitioners.
+
+<287hp 163m 120mv> 
+get hide
+You get a hide from the corpse of a Dantaron cod.
+
+<287hp 163m 120mv> 
+identify hide
++----------------------------------------------------+
+| Object:   a hide from the corpse of a Dantaron cod |
+| Flags:    sell_extract                             |
+| Weight:   25.0                                     |
+| Wear:     none                                     |
+| Level:    15                                       |
+| Material: flesh                                    |
+| -------------------------------------------------- |
+| Type:         component                            |
++----------------------------------------------------+
+
+<287hp 163m 120mv> 
+drop hide
+You drop a hide from the corpse of a Dantaron cod.
+
+<287hp 163m 120mv> 
+s
+Dantaron Street
+  Dantaron Street bisects the west half of Var Bandor, leading from Center
+Square to the docks outside the western gatehouse.  Sailors and dockmen
+abound in this section of the city, wandering the streets while off-duty. 
+The street is composed of well-worn cobblestones, with a few broken and
+missing.  To the north, a large temple constructed of fine white marble
+rises over the street.  To the south is a traveller's inn.  
+
+[Exits: north east south west]
+
+<287hp 163m 119mv> 
+w
+Dantaron Street
+  Dantaron Street bisects the west half of Var Bandor, leading from Center
+Square to the docks outside the western gatehouse.  Sailors and dockmen
+abound in this section of the city, wandering the streets while off-duty. 
+The street is composed of well-worn cobblestones, with a few broken and
+missing.  To the south is the boatseller's shop.  To the north, an alley
+snakes between the temple and a nearby warehouse.
+
+[Exits: north east south west]
+
+<287hp 163m 118mv> 
+e
+e
+Dantaron Street
+  Dantaron Street bisects the west half of Var Bandor, leading from Center
+Square to the docks outside the western gatehouse.  Sailors and dockmen
+abound in this section of the city, wandering the streets while off-duty. 
+The street is composed of well-worn cobblestones, with a few broken and
+missing.  To the north, a large temple constructed of fine white marble
+rises over the street.  To the south is a traveller's inn.  
+
+[Exits: north east south west]
+
+<287hp 163m 117mv> 
+Dantaron Street
+  Dantaron Street bisects the west half of Var Bandor, leading from Center
+Square to the docks outside the western gatehouse.  Sailors and dockmen
+abound in this section of the city, wandering the streets while off-duty. 
+The street is composed of well-worn cobblestones, with a few broken and
+missing.  To the east is Center Square.  
+
+[Exits: east south west]
+
+drink
+<287hp 163m 116mv> 
+drink
+Drink what?
+
+<287hp 163m 116mv> Drink what?
+
+e
+<287hp 163m 116mv> 
+Center Square
+  A burbling fountain dominates the center of the square.  The fountain is
+made of gray marble veined with blue.  Large sculptures of dancing otters
+and leaping trout, gazing skyward and spouting water from their mouths, sit
+within the circular basin.  The rim of the basin appears designed for
+seating, but is sprinkled with water.  The square is mortared with rounded
+cobblestone radiating outwards from the fountain.  The sounds and smells of
+the market and other popular locales nearby mingle in the air.  
+
+[Exits: north east south west]
+     A large marble fountain gurgles peacefully here.
+A grey pigeon walks about tentatively, looking for scraps of food.
+An armed enforcer of Var Bandor stands here.
+An armed enforcer of Var Bandor stands here.
+
+<287hp 163m 115mv> 
+drink
+You drink water from the marble fountain.
+You are full.
+Your thirst is quenched.
+
+drink
+<287hp 163m 115mv> You drink water from the marble fountain.
+You are full.
+Your thirst is quenched.
+
+s
+<287hp 163m 115mv> 
+s
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.  The Var Bandor Center Square is to the north.  
+
+[Exits: north south]
+
+s
+<287hp 163m 114mv> 
+s
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.  To the west is the guild of watchers, while Naidji Alley lies to
+the east.  
+
+[Exits: north east south west]
+
+<287hp 163m 113mv> 
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.
+
+[Exits: north south]
+
+<287hp 163m 112mv> 
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.  To the east, Arcanos Street winds among the scholars' towers,
+and to the west Commerce Street leads to the merchant quarter.  
+
+[Exits: north east south west]
+An armed enforcer of Var Bandor patrols here.
+
+w
+<287hp 163m 111mv> 
+w
+Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets.  To
+the north is an elegant inn, and to the east is Ilrin Street.  
+
+[Exits: north east west]
+
+w
+<287hp 163m 110mv> 
+n
+Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets. 
+Commerce Street runs east and west.  To the north is an open house of some
+sort, around which a crowd of merchants gather.  
+
+[Exits: north east west]
+An armed enforcer of Var Bandor patrols here.
+
+<287hp 163m 109mv> 
+Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets.  To
+the north is the Var Bandor bank.  
+
+[Exits: north east west]
+An armed enforcer of Var Bandor patrols here.
+A pompous aelin merchant strolls along.
+A young scholar of Var Bandor walks along the street.
+
+<287hp 163m 108mv> 
+The Bank of Var Bandor
+  The most noticeable feature in the Bank is the line of teller windows
+along the far wall.  The keen eyes of bankers peer out from behind the
+barred windows, scrutinizing their clientele.  Plants and small wooden
+benches provide the decor for those waiting for service, and a doorway leads
+southwards onto Commerce Street.  
+
+[Exits: south]
+
+conv all
+<287hp 163m 107mv> 
+You convert some coins.
+You receive 2 platinum, 6 gold.
+
+<289hp 164m 127mv> 
+s
+Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets.  To
+the north is the Var Bandor bank.  
+
+[Exits: north east west]
+An armed enforcer of Var Bandor patrols here.
+A pompous aelin merchant strolls along.
+A young scholar of Var Bandor walks along the street.
+
+w
+<289hp 164m 126mv> 
+Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets. 
+Commerce Street turns south and east at this point, and to the west is a
+magnificent structure, the headquarters of the Var Bandor Merchant Council. 
+
+[Exits: east south (west)]
+An armed enforcer of Var Bandor patrols here.
+
+s
+<289hp 164m 125mv> 
+e
+Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets.  To
+the east is the armory, and to the west is the cartographer's store.  
+
+[Exits: north east south west]
+
+<289hp 164m 124mv> 
+The Armorer
+  The sounds of a hammer ringing as it strikes a piece of iron is the first
+thing that assaults your ears as you enter the store.  You can also hear the
+whishing of the bellows as it blows into the furnace to increase the heat of
+the fire.  Shirts made of fine steel, leggings, sleeves, and assorted mails
+of all type are all on display hanging from the walls.  Besides the forge
+near the back of the store, the rest of the building looks immaculately
+clean giving a sense of regality not normally associated with a smithy-type
+shop.  You can exit back to the west.  
+
+[Exits: west]
+     A carefully wrapped parcel is here, marked with a red stamp.
+The armorer shows off his wares.
+
+<289hp 164m 123mv> 
+list
+[Qty Price       ] Item
+[  1     2p 3g 7s] a granite plate bracer
+[  1  2p 2g 1s 5c] granite plate gauntlets
+[  1     2p 3g 7s] a granite plate helmet
+[  1  2p 6g 8s 5c] granite plate sleeves
+[  1  2p 4g 5s 4c] a granite plate coat
+[  1     2p 3g 7s] granite plate boots
+[  1  2p 5g 2s 4c] granite plate leggings
+[  1        4p 5g] a Paelaran purple wool matchcoat
+[  1     7p 7g 1c] a pendant shaped into a lightning bolt
+[  1           9g] a pair of leather griffinrider's sleeves
+[  2     2p 4g 3s] a pair of emerald dragonscale boots
+[  2  2p 4g 7s 5c] an emerald dragonscale shield
+[  2     1p 2g 6s] a set of emerald dragonscale sleeves
+[  1     1p 2g 3s] a suit of emerald dragonscale armor
+[  1     1p 3g 3s] an emerald dragonscale helmet
+[  1        1p 8g] a thin steel band
+[  2  2p 6g 7s 3c] a dark templar's shield
+[  1        9g 6s] a set of pale blue robes
+[  1        2p 7g] a pair of black steel leg guards
+[  1          30p] a black and white aryaran silk cardigan
+[  1     9g 6s 3c] a lionskin cape
+[  1     2p 6g 7s] some thick hide armor
+[  3           3p] a pair of black steel armguards
+[  3        1g 5s] a tough apron
+[  2        2p 4g] a simple-looking brown tunic
+[  1       10p 5g] an apron made of thin, rubbery hide
+[  2     1p 2g 9s] a pair of pale green gloves
+[  1        7p 5g] an opulent robe with a dripping hexagon clasp
+[  1           3p] a black steel shield
+[  3        7g 5s] a dull red robe
+[  2        3p 9g] a breastplate of black steel
+[  3           3p] a black steel helm
+[  1        1p 8g] a purple trimmed black robe
+[  1     1p 2g 9s] a pair of pale green slippers
+[ 18 17p 7g 3s 8c] a thick, reptilian hide
+[  3  1p 9g 2s 4c] a leather thong strung with teeth
+[---     1g 9s 5c] a tempered steel helmet
+[---     1g 6s 5c] a tempered steel body shield
+[---        1g 8s] tempered steel boots
+[---     1g 9s 5c] tempered steel greaves
+[---        2g 2c] tempered steel bracers
+[---     2g 2s 5c] a tempered steel breastplate
+
+<289hp 164m 123mv> 
+w
+Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets.  To
+the east is the armory, and to the west is the cartographer's store.  
+
+[Exits: north east south west]
+
+s
+<289hp 164m 122mv> 
+e
+Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets.  To
+the east is a fine weapon store, and to the west is a gem shop.  
+
+[Exits: north east south west]
+
+<289hp 164m 121mv> 
+The Gleaming Blade
+  Torches adorn both side walls and sit upright in their gilded holders. 
+Their light flickers and causes the various bladed weapons to glint sharply.
+Several studded maces, and various other weapons of destruction are lined
+along the walls in weapon racks.  A spinning stone wheel, used for
+sharpening blades, stands near the back of the shop with a bucket of water
+next to it to help with the enormous amount of heat produced during the
+process.  You can exit back to the west.  
+
+[Exits: west]
+     This copper sword seems a sturdy weapon for a young adventurer.
+The weaponsmith polishes his arsenal, keeping it in good condition.
+
+list
+<289hp 164m 120mv> 
+[Qty Price      ] Item
+[  1   27p 7g 5s] a shining lightning sword
+[  3 9p 1g 7s 2c] a dark-bladed sword
+[  2          9p] a long, cruelly-spiked poleaxe
+[  1   16p 6g 5s] a barb-tipped javelin carved from oak
+[  1 2p 9g 2s 5c] a thin branch of swampwood tipped with rough-edged bone
+[  2       9p 6g] a punching dagger
+[  2         45p] an obsidian-inlaid halberd
+[  3       5p 7g] a barbed whip with an ebony grip
+[  1       5p 4g] a dark iron sword with an ebony hilt
+[  2      11p 4g] an ebony-hafted iron axe
+[  4    2p 4s 3c] a huge two-handed battleaxe
+[---       1g 8c] a steel-shod staff
+[---    1g 9s 5c] a steel-tipped spear
+[---       7s 5c] an axe made from tempered steel
+[---       5s 6c] a mace of well tempered steel
+[---       5s 6c] a dagger made from tempered steel
+[---       5s 6c] a steel chained flail
+[---       5s 6c] a finely tooled leather whip
+[---    1g 9s 5c] a tempered steel polearm
+[---       7s 5c] a sword of tempered steel
+
+<289hp 164m 120mv> 
+w
+Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets.  To
+the east is a fine weapon store, and to the west is a gem shop.  
+
+[Exits: north east south west]
+
+n
+<289hp 164m 119mv> 
+n
+Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets.  To
+the east is the armory, and to the west is the cartographer's store.  
+
+[Exits: north east south west]
+
+n
+<289hp 164m 118mv> 
+Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets. 
+Commerce Street turns south and east at this point, and to the west is a
+magnificent structure, the headquarters of the Var Bandor Merchant Council. 
+
+[Exits: east south (west)]
+An armed enforcer of Var Bandor patrols here.
+
+e
+<289hp 164m 117mv> 
+e
+Alas, you cannot go that way.
+
+<289hp 164m 117mv> Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets.  To
+the north is the Var Bandor bank.  
+
+[Exits: north east west]
+An armed enforcer of Var Bandor patrols here.
+A pompous aelin merchant strolls along.
+A young scholar of Var Bandor walks along the street.
+
+e
+<289hp 164m 116mv> 
+e
+Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets. 
+Commerce Street runs east and west.  To the north is an open house of some
+sort, around which a crowd of merchants gather.  
+
+[Exits: north east west]
+An armed enforcer of Var Bandor patrols here.
+
+<289hp 164m 115mv> 
+Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets.  To
+the north is an elegant inn, and to the east is Ilrin Street.  
+
+[Exits: north east west]
+
+<289hp 164m 114mv> 
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.  To the east, Arcanos Street winds among the scholars' towers,
+and to the west Commerce Street leads to the merchant quarter.  
+
+[Exits: north east south west]
+An armed enforcer of Var Bandor patrols here.
+
+n
+<289hp 164m 113mv> 
+n
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.
+
+[Exits: north south]
+
+n
+<289hp 164m 112mv> 
+n
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.  To the west is the guild of watchers, while Naidji Alley lies to
+the east.  
+
+[Exits: north east south west]
+
+<289hp 164m 111mv> 
+whe
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.  The Var Bandor Center Square is to the north.  
+
+[Exits: north south]
+
+<289hp 164m 110mv> 
+who
+Center Square
+  A burbling fountain dominates the center of the square.  The fountain is
+made of gray marble veined with blue.  Large sculptures of dancing otters
+and leaping trout, gazing skyward and spouting water from their mouths, sit
+within the circular basin.  The rim of the basin appears designed for
+seating, but is sprinkled with water.  The square is mortared with rounded
+cobblestone radiating outwards from the fountain.  The sounds and smells of
+the market and other popular locales nearby mingle in the air.  
+
+[Exits: north east south west]
+     A large marble fountain gurgles peacefully here.
+A grey pigeon walks about tentatively, looking for scraps of food.
+An armed enforcer of Var Bandor stands here.
+An armed enforcer of Var Bandor stands here.
+
+<289hp 164m 109mv> 
+Notables in Avendar (currently in Var Bandor):
+  Bheyuk                     Center Square                     [present]    
+
+Total found: 1
+
+<289hp 164m 109mv> [ 9 Bar] Bheyuk O'sos the Grizzled
+
+Players found: 1
+
+drink
+<289hp 164m 109mv> You drink water from the marble fountain.
+You are full.
+Your thirst is quenched.
+
+drink
+drink
+<289hp 164m 109mv> You drink water from the marble fountain.
+You are full.
+Your thirst is quenched.
+
+<289hp 164m 109mv> You drink water from the marble fountain.
+You are full.
+Your thirst is quenched.
+
+in
+<289hp 164m 109mv> You are carrying:
+( 7) a spicy, glazed bjorcha steak
+( 2) a copper dagger
+( 7) a copper chainmail shirt
+( 3) a rawhide whip
+     a copper javelin
+( 5) a simple pine staff
+( 5) a woolen mantle
+( 2) a copper sword
+( 2) a pair of fur-lined sleeves
+     a canoe
+     a foul-smelling bear skin
+
+<289hp 164m 109mv> 
+eq
+You are using:
+<worn on finger>    (Glowing) a gleaming gold ring
+<worn on finger>    [nothing]
+<worn around neck>  a patched cloak
+<worn around neck>  a patched cloak
+<worn on torso>     a doublet of meshed steel
+<worn on head>      [nothing]
+<worn on legs>      a skirt of meshed steel
+<worn on feet>      a pair of green boots
+<worn on hands>     a pair of leather gloves
+<worn on arms>      some sleeves of meshed steel
+<worn as shield>    [nothing]
+<worn about body>   a tough apron
+<worn about waist>  a black leather belt
+<worn around wrist> [nothing]
+<worn around wrist> [nothing]
+<wielded>           [nothing]
+<dual wielded>      an ornate ceremonial saber
+<branded>           the Sigil of the School of Heroes
+
+<289hp 164m 109mv> 
+mutter
+You mutter quietly to yourself.
+
+<289hp 164m 109mv> 
+who
+[ 9 Bar] Bheyuk O'sos the Grizzled
+
+Players found: 1
+
+<289hp 164m 109mv> 
+l
+Center Square
+  A burbling fountain dominates the center of the square.  The fountain is
+made of gray marble veined with blue.  Large sculptures of dancing otters
+and leaping trout, gazing skyward and spouting water from their mouths, sit
+within the circular basin.  The rim of the basin appears designed for
+seating, but is sprinkled with water.  The square is mortared with rounded
+cobblestone radiating outwards from the fountain.  The sounds and smells of
+the market and other popular locales nearby mingle in the air.  
+
+[Exits: north east south west]
+     A large marble fountain gurgles peacefully here.
+A grey pigeon walks about tentatively, looking for scraps of food.
+An armed enforcer of Var Bandor stands here.
+An armed enforcer of Var Bandor stands here.
+
+<289hp 164m 109mv> 
+eq
+You are using:
+<worn on finger>    (Glowing) a gleaming gold ring
+<worn on finger>    [nothing]
+<worn around neck>  a patched cloak
+<worn around neck>  a patched cloak
+<worn on torso>     a doublet of meshed steel
+<worn on head>      [nothing]
+<worn on legs>      a skirt of meshed steel
+<worn on feet>      a pair of green boots
+<worn on hands>     a pair of leather gloves
+<worn on arms>      some sleeves of meshed steel
+<worn as shield>    [nothing]
+<worn about body>   a tough apron
+<worn about waist>  a black leather belt
+<worn around wrist> [nothing]
+<worn around wrist> [nothing]
+<wielded>           [nothing]
+<dual wielded>      an ornate ceremonial saber
+<branded>           the Sigil of the School of Heroes
+
+<289hp 164m 129mv> 
+quit
+Alas, all good things must come to an end.
+You are now unencumbered by your equipment.
+You are now unencumbered by your equipment.
+    
+[ ALERT ] - Socket got disconnected.
+            Reason: The remote host closed the connection
+[ INFO ]  - Connection time: 00:01:46.740
+                
+[ INFO ]  - Looking up the IP address of server: avendar.net:9999 ...
+[ INFO ]  - The IP address of avendar.net has been found. It is: 144.208.64.82
+[ INFO ]  - Trying to connect to 144.208.64.82:9999 ...
+[ INFO ]  - A connection has been established successfully.
+                
+                
+
+          <| 
+           A              
+          /.          
+     \<|  [""M#         
+      A   | #                   AVENDAR: THE CRUCIBLE OF LEGENDS 
+     /. \[""M#                         [avendar.net 9999] 
+    [""M# | #  U"U#U                  
+     | #  | #   \.:/    Original DikuMUD by Hans Staerfeldt, Katja Nyboe, 
+     | #  | #___| #     Tom Madsen, Michael Seifert, and Sebastian Hammer 
+     | "--'     .-"     Based on MERC 2.1 code by Hatchet, Furey, and Kahn 
+   |"-"-"-"-"-#-#-##    ROM 2.4 copyright (c) 1993-1996 Russ Taylor 
+   |     # ## ######      
+           \.::::'/     Avendar created by Matt Wallace, Thane Williams, 
+           \::::'/      and Brandon Downey.  See HELP AVENDAR for more. 
+   :8a|    # # ##       
+   ::88a      ###       Avendar is maintained and developed by the Avendar 
+  ::::888a  8a ##::.                   Immortal staff. 
+  ::::::888a88a[]:::: 
+ :::::::::SUNDOGa8a::::. ..               
+ :::::8::::888:Y8888:::::::::...       
+::':::88::::888::Y88a______________________________________________________ 
+:: ::::88a::::88a:Y88a                                  __---__-- __ 
+' .: ::Y88a:::::8a:Y88a                            __----_-- -------_-__ 
+  :' ::::8P::::::::::88aa.                   _ _- --  --_ --- __  --- __-- 
+,::  :::::::::::::::::::Y88as88a...s88aa.
+
+Under what name shall your deeds be recorded?
+Account 'Tyeric' logging in.  Password: 
+
+
+The following characters are currently associated with this account:
+
+Bheyuk
+
+To create a new character, enter an original name at the following prompt.

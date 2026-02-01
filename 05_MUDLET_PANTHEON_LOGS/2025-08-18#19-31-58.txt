@@ -1,0 +1,550 @@
+Log session starting at 19:31:58 on Monday, 18 August 2025.
+[  OK  ]  - Mudlet-lua API & Geyser Layout manager loaded.
+[ INFO ]  - Reading map. Format version: 20. File:
+            "C:/Users/wilds/.config/mudlet/profiles/PANTHEON1/map/2025-08-18#15-45-00map.dat",
+            please wait...
+[ INFO ]  - Successfully read the map file (0.01s), checking some
+            consistency details...
+[ INFO ]  - Map audit starting...
+[  OK  ]  - Auditing of map completed (0.00s). Enjoy your game...
+[  OK  ]  - Map loaded successfully (0.01s).
+[ INFO ]  - Looking up the IP address of server: avendar.net:9999 ...
+[ INFO ]  - The IP address of avendar.net has been found. It is: 74.91.112.143
+[ INFO ]  - Trying to connect to 74.91.112.143:9999 ...
+[ INFO ]  - A connection has been established successfully.
+                
+                
+
+          <| 
+           A              
+          /.          
+     \<|  [""M#         
+      A   | #                   AVENDAR: THE CRUCIBLE OF LEGENDS 
+     /. \[""M#                         [avendar.net 9999] 
+    [""M# | #  U"U#U                  
+     | #  | #   \.:/    Original DikuMUD by Hans Staerfeldt, Katja Nyboe, 
+     | #  | #___| #     Tom Madsen, Michael Seifert, and Sebastian Hammer 
+     | "--'     .-"     Based on MERC 2.1 code by Hatchet, Furey, and Kahn 
+   |"-"-"-"-"-#-#-##    ROM 2.4 copyright (c) 1993-1996 Russ Taylor 
+   |     # ## ######      
+           \.::::'/     Avendar created by Matt Wallace, Thane Williams, 
+           \::::'/      and Brandon Downey.  See HELP AVENDAR for more. 
+   :8a|    # # ##       
+   ::88a      ###       Avendar is maintained and developed by the Avendar 
+  ::::888a  8a ##::.                   Immortal staff. 
+  ::::::888a88a[]:::: 
+ :::::::::SUNDOGa8a::::. ..               
+ :::::8::::888:Y8888:::::::::...       
+::':::88::::888::Y88a______________________________________________________ 
+:: ::::88a::::88a:Y88a                                  __---__-- __ 
+' .: ::Y88a:::::8a:Y88a                            __----_-- -------_-__ 
+  :' ::::8P::::::::::88aa.                   _ _- --  --_ --- __  --- __-- 
+,::  :::::::::::::::::::Y88as88a...s88aa.
+
+Under what name shall your deeds be recorded?
+Account 'Tyeric' logging in.  Password: 
+
+
+The following characters are currently associated with this account:
+
+Qeqskil
+Feythis
+Khuruin
+Rhuinzek
+
+To create a new character, enter an original name at the following prompt.
+Enter character name to use: 
+rhuinzek
+Password: 
+
+-------------- READ THE MOTD -- Last Modified: Apr 2025 -------------------
+|                                                                         |
+| . -You are responsible for knowing the rules-. See "help RULES".        |
+|                                                                         |
+| . For more information and discussion about the game, see:              |
+|                                                                         |
+|     . The Avendar Website:      https://avendar.net                     |
+|     . The Avendar Discord:      http://discord.gg/DXsZwVBsBV            |
+|                                                                         |
+| . The changelog (type CHANGES) is updated regularly with updates to     |
+|   Avendar.  Last Updated: 29 Apr 2025                                   |
+|                                                                         |
+| . Avendar is currently presented AS-IS. You may encounter errors or     |
+|   bugs. It is YOUR RESPONSIBILITY to not exploit them.                  |
+|                                                                         |
+---------------------------------------------------------------------------
+whe
+
+You open your eyes and cast your gaze upon the land.
+Center Square
+  A burbling fountain dominates the center of the square.  The fountain is
+made of gray marble veined with blue.  Large sculptures of dancing otters
+and leaping trout, gazing skyward and spouting water from their mouths, sit
+within the circular basin.  The rim of the basin appears designed for
+seating, but is sprinkled with water.  The square is mortared with rounded
+cobblestone radiating outwards from the fountain.  The sounds and smells of
+the market and other popular locales nearby mingle in the air.  
+
+[Exits: north east south west]
+     A bedraggled orange tabby cat with a tattered ear and a mournful expression is here.
+     A large marble fountain gurgles peacefully here.
+A grey pigeon walks about tentatively, looking for scraps of food.
+A grey pigeon walks about tentatively, looking for scraps of food.
+An armed enforcer of Var Bandor stands here.
+An armed enforcer of Var Bandor stands here.
+You have no unread notes.
+
+who
+<466hp 228m 253mv> 
+[17 Fig] Rhuinzek v'Eda the Phalanx Recruit
+
+Players found: 1
+
+<466hp 228m 253mv> 
+drink
+You drink water from the marble fountain.
+You are full.
+Your thirst is quenched.
+
+drink
+<466hp 228m 253mv> You drink water from the marble fountain.
+You are full.
+Your thirst is quenched.
+
+whe
+<466hp 228m 253mv> 
+Notables in Avendar (currently in Var Bandor):
+  (PK) Rhuinzek              Center Square                     [present]    
+
+Total found: 1
+
+who
+<466hp 228m 253mv> 
+[17 Fig] Rhuinzek v'Eda the Phalanx Recruit
+
+Players found: 1
+
+<466hp 228m 253mv> 
+
+A bedraggled orange tabby cat purrs loudly.
+
+<466hp 228m 253mv> 
+worth
+You have 3 platinum, 1 gold, 7 copper, and 66805 experience (1388 exp to level).
+You have 965 exploration points (0 ep to level).
+You are lightly encumbered by your equipment.
+
+<466hp 228m 253mv> 
+s
+s
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.  The Var Bandor Center Square is to the north.  
+
+[Exits: north south]
+A grey pigeon walks about tentatively, looking for scraps of food.
+
+s
+<466hp 228m 252mv> 
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.  To the west is the guild of watchers, while Naidji Alley lies to
+the east.  
+
+[Exits: north east south west]
+An enforcer of Var Bandor patrols here, scrutinizing every passing face.
+
+s
+<466hp 228m 251mv> 
+e
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.
+
+[Exits: north south]
+
+e
+<466hp 228m 250mv> 
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.  To the east, Arcanos Street winds among the scholars' towers,
+and to the west Commerce Street leads to the merchant quarter.  
+
+[Exits: north east south west]
+
+<466hp 228m 249mv> 
+You gained 1 exploration point and 50 experience points!
+Arcanos Street
+  Arcanos Street is a wide avenue paved with gray stones.  The buildings in
+this section of town show an odd architecture, as if they are designed for
+purposes other than the usual.  Visible are pyramidic rooftops, domed
+towers, and arched entryways.  Controlled by the scholar faction of Var
+Bandor, this area is well cared for, with hired servants sweeping the
+cobblestones and running errands to and fro.  To the north is an oddly
+shaped residence.  West is Ilrin Street.  
+
+[Exits: (north) east west]
+A young scholar of Var Bandor walks along the street.
+
+<466hp 228m 248mv> 
+You gained 1 exploration point and 50 experience points!
+Arcanos Street
+  Arcanos Street is a wide avenue paved with gray stones.  The buildings in
+this section of town show an odd architecture, as if they are designed for
+purposes other than the usual.  Visible are pyramidic rooftops, domed
+towers, and arched entryways.  Controlled by the scholar faction of Var
+Bandor, this area is well cared for, with hired servants sweeping the
+cobblestones and running errands to and fro.  To the north is an oddly
+shaped residence.  In the distance to the west is Ilrin Street.  To the
+south rises the Tower of the Water Scholars.  
+
+[Exits: (north) east (south) west]
+A messenger strides along the street with a delivery.
+
+open n
+<466hp 228m 247mv> 
+n
+You open the door.
+
+n
+<466hp 228m 247mv> You gained 1 exploration point and 50 experience points!
+An Oddly-formed Residence
+  The inside of this house is a sight to behold.  The room itself is much
+larger than it appears from the outside, disorienting you slightly. 
+Flickering flames provide a warm light, although most of the flames just
+seem to be floating in mid-air by the walls, not attached to any sort of
+source.  Many portraits line the walls, and magical feather dusters fly
+about the room, making sure no dust mars the beautiful appearance of the
+room, and its many magical toys.  A plush red couch sits against one wall,
+and a small table sits in front of it.  On the table, an illusion of a
+dancer moves inside a small glass globe.  Inset into the north wall, a
+doorway leads into what appears to be a laboratory, and Arcanos lies out the
+door to the south.  
+
+[Exits: north south]
+
+n
+<466hp 228m 246mv> 
+You gained 1 exploration point and 50 experience points!
+A Wizard's Laboratory
+  This laboratory is bustling with activity, with enchanted tools flying
+about performing various research-related tasks.  A long table stands in the
+middle of the room, covered with all manner of jars, vials, containers, and
+more.  A large shelf full of books is on the north wall.  The laboratory is
+filled with all sorts of unsettling smells, and faint burbling and popping
+noises.  
+
+[Exits: south]
+A gray-haired wizard with a long beard hums happily as he reads a book.
+Pyzick tells you, 'Ah, hello adventurer! Let me see here... Hmm, you're not powerful enough for any
+of the tasks I have right now. Try later!'
+
+<466hp 228m 245mv> 
+Alas, you cannot go that way.
+
+<466hp 228m 245mv> 
+say Yes
+You say, 'Yes'
+
+s
+<466hp 228m 245mv> 
+s
+An Oddly-formed Residence
+  The inside of this house is a sight to behold.  The room itself is much
+larger than it appears from the outside, disorienting you slightly. 
+Flickering flames provide a warm light, although most of the flames just
+seem to be floating in mid-air by the walls, not attached to any sort of
+source.  Many portraits line the walls, and magical feather dusters fly
+about the room, making sure no dust mars the beautiful appearance of the
+room, and its many magical toys.  A plush red couch sits against one wall,
+and a small table sits in front of it.  On the table, an illusion of a
+dancer moves inside a small glass globe.  Inset into the north wall, a
+doorway leads into what appears to be a laboratory, and Arcanos lies out the
+door to the south.  
+
+[Exits: north south]
+
+<466hp 228m 244mv> 
+Arcanos Street
+  Arcanos Street is a wide avenue paved with gray stones.  The buildings in
+this section of town show an odd architecture, as if they are designed for
+purposes other than the usual.  Visible are pyramidic rooftops, domed
+towers, and arched entryways.  Controlled by the scholar faction of Var
+Bandor, this area is well cared for, with hired servants sweeping the
+cobblestones and running errands to and fro.  To the north is an oddly
+shaped residence.  In the distance to the west is Ilrin Street.  To the
+south rises the Tower of the Water Scholars.  
+
+[Exits: north east (south) west]
+A messenger strides along the street with a delivery.
+
+<466hp 228m 243mv> 
+w
+Arcanos Street
+  Arcanos Street is a wide avenue paved with gray stones.  The buildings in
+this section of town show an odd architecture, as if they are designed for
+purposes other than the usual.  Visible are pyramidic rooftops, domed
+towers, and arched entryways.  Controlled by the scholar faction of Var
+Bandor, this area is well cared for, with hired servants sweeping the
+cobblestones and running errands to and fro.  To the north is an oddly
+shaped residence.  West is Ilrin Street.  
+
+[Exits: (north) east west]
+A young scholar of Var Bandor walks along the street.
+
+<466hp 228m 242mv> 
+w
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.  To the east, Arcanos Street winds among the scholars' towers,
+and to the west Commerce Street leads to the merchant quarter.  
+
+[Exits: north east south west]
+
+n
+<466hp 228m 241mv> 
+n
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.
+
+[Exits: north south]
+
+n
+<466hp 228m 240mv> 
+n
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.  To the west is the guild of watchers, while Naidji Alley lies to
+the east.  
+
+[Exits: north east south west]
+An enforcer of Var Bandor patrols here, scrutinizing every passing face.
+
+<466hp 228m 239mv> 
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.  The Var Bandor Center Square is to the north.  
+
+[Exits: north south]
+A grey pigeon walks about tentatively, looking for scraps of food.
+
+<466hp 228m 238mv> 
+Center Square
+  A burbling fountain dominates the center of the square.  The fountain is
+made of gray marble veined with blue.  Large sculptures of dancing otters
+and leaping trout, gazing skyward and spouting water from their mouths, sit
+within the circular basin.  The rim of the basin appears designed for
+seating, but is sprinkled with water.  The square is mortared with rounded
+cobblestone radiating outwards from the fountain.  The sounds and smells of
+the market and other popular locales nearby mingle in the air.  
+
+[Exits: north east south west]
+     A bedraggled orange tabby cat with a tattered ear and a mournful expression is here.
+     A large marble fountain gurgles peacefully here.
+A grey pigeon walks about tentatively, looking for scraps of food.
+A grey pigeon walks about tentatively, looking for scraps of food.
+An armed enforcer of Var Bandor stands here.
+An armed enforcer of Var Bandor stands here.
+
+<466hp 228m 237mv> 
+w
+w
+Dantaron Street
+  Dantaron Street bisects the west half of Var Bandor, leading from Center
+Square to the docks outside the western gatehouse.  Sailors and dockmen
+abound in this section of the city, wandering the streets while off-duty. 
+The street is composed of well-worn cobblestones, with a few broken and
+missing.  To the east is Center Square.  
+
+[Exits: east south west]
+
+n
+<466hp 228m 236mv> 
+n
+Dantaron Street
+  Dantaron Street bisects the west half of Var Bandor, leading from Center
+Square to the docks outside the western gatehouse.  Sailors and dockmen
+abound in this section of the city, wandering the streets while off-duty. 
+The street is composed of well-worn cobblestones, with a few broken and
+missing.  To the north, a large temple constructed of fine white marble
+rises over the street.  To the south is a traveller's inn.  
+
+[Exits: north east south west]
+An armed enforcer of Var Bandor patrols here.
+
+1
+<466hp 228m 235mv> 
+Office of Applied Theology
+  The office exudes an air of cold formality, dominated by sleek white
+marble walls and polished floors that reflect the bright light of hanging
+magelights.  The western wall features an expansive mural depicting the
+liberation of Var Bandor, set before a wide, heavy desk.  The environment
+feels almost sterile, both imposing and inescapable despite the large double
+doors perpetually open to Dantaron street.  
+
+[Exits: north east south]
+(White Aura) Nistaru stands behind the desk, sneering at petitioners.
+
+<466hp 228m 234mv> 
+Office of Applied Theology
+  The office interior exudes an air of cold formality, dominated by sleek
+white marble walls and polished floors that reflect the bright light of
+hanging magelights.  An angular obelisk of pure white marble sits in the
+middle of the chamber, deeply graven with images that shimmer with ethereal
+golden light.  
+
+[Exits: east south]
+     A number of neatly-sorted bins rest against the walls.
+
+<466hp 228m 233mv> 
+A number of neatly-sorted bins rest against the walls.
+A bin labeled 'Lost and Found' holds:
+     Nothing.
+
+e
+<466hp 228m 233mv> 
+Office of Applied Theology
+  The office interior exudes an air of cold formality, dominated by sleek
+white marble walls and polished floors that reflect the bright light of
+hanging magelights.  An angular obelisk of grey marble sits in the middle of
+the chamber, deeply graven with images and humming with a low, almost
+imperceptible vibration.  
+
+[Exits: south west]
+     A number of neatly-sorted bins rest against the walls.
+
+1
+<466hp 228m 232mv> 
+A number of neatly-sorted bins rest against the walls.
+A bin labeled 'Lost and Found' holds:
+     Nothing.
+
+s
+<466hp 228m 232mv> Office of Applied Theology
+  The office interior exudes an air of cold formality, dominated by sleek
+white marble walls and polished floors that reflect the bright light of
+hanging magelights.  An angular obelisk of black marble sits in the middle
+of the chamber, deeply graven with images that spark with poisonous crimson
+light.  
+
+[Exits: north west]
+     A number of neatly-sorted bins rest against the walls.
+
+1
+<466hp 228m 231mv> 
+A number of neatly-sorted bins rest against the walls.
+A bin labeled 'Lost and Found' holds:
+     Nothing.
+
+w
+<466hp 228m 231mv> Office of Applied Theology
+  The office exudes an air of cold formality, dominated by sleek white
+marble walls and polished floors that reflect the bright light of hanging
+magelights.  The western wall features an expansive mural depicting the
+liberation of Var Bandor, set before a wide, heavy desk.  The environment
+feels almost sterile, both imposing and inescapable despite the large double
+doors perpetually open to Dantaron street.  
+
+[Exits: north east south]
+(White Aura) Nistaru stands behind the desk, sneering at petitioners.
+
+<466hp 228m 230mv> 
+s
+Dantaron Street
+  Dantaron Street bisects the west half of Var Bandor, leading from Center
+Square to the docks outside the western gatehouse.  Sailors and dockmen
+abound in this section of the city, wandering the streets while off-duty. 
+The street is composed of well-worn cobblestones, with a few broken and
+missing.  To the north, a large temple constructed of fine white marble
+rises over the street.  To the south is a traveller's inn.  
+
+[Exits: north east south west]
+An armed enforcer of Var Bandor patrols here.
+
+e
+<466hp 228m 229mv> 
+Dantaron Street
+  Dantaron Street bisects the west half of Var Bandor, leading from Center
+Square to the docks outside the western gatehouse.  Sailors and dockmen
+abound in this section of the city, wandering the streets while off-duty. 
+The street is composed of well-worn cobblestones, with a few broken and
+missing.  To the east is Center Square.  
+
+[Exits: east south west]
+
+e
+<466hp 228m 228mv> 
+Center Square
+  A burbling fountain dominates the center of the square.  The fountain is
+made of gray marble veined with blue.  Large sculptures of dancing otters
+and leaping trout, gazing skyward and spouting water from their mouths, sit
+within the circular basin.  The rim of the basin appears designed for
+seating, but is sprinkled with water.  The square is mortared with rounded
+cobblestone radiating outwards from the fountain.  The sounds and smells of
+the market and other popular locales nearby mingle in the air.  
+
+[Exits: north east south west]
+     A bedraggled orange tabby cat with a tattered ear and a mournful expression is here.
+     A large marble fountain gurgles peacefully here.
+A grey pigeon walks about tentatively, looking for scraps of food.
+A grey pigeon walks about tentatively, looking for scraps of food.
+An armed enforcer of Var Bandor stands here.
+An armed enforcer of Var Bandor stands here.
+
+whe
+<466hp 228m 227mv> 
+Notables in Avendar (currently in Var Bandor):
+  (PK) Rhuinzek              Center Square                     [present]    
+
+Total found: 1
+
+who
+<466hp 228m 227mv> [17 Fig] Rhuinzek v'Eda the Phalanx Recruit
+
+Players found: 1
+
+<466hp 228m 227mv> 
+quit
+Your adrenaline is gushing!  Not now!
+

@@ -1,0 +1,366 @@
+Log session starting at 12:55:47 on Saturday, 26 July 2025.
+[ INFO ]  - Looking up the IP address of server: avendar.net:9999 ...
+[  OK  ]  - Mudlet-lua API & Geyser Layout manager loaded.
+[ INFO ]  - Reading map. Format version: 20. File:
+            "C:/Users/wilds/.config/mudlet/profiles/PANTHEON1/map/2025-07-25#01-25-38map.dat",
+            please wait...
+[ INFO ]  - Successfully read the map file (0.02s), checking some
+            consistency details...
+[ INFO ]  - Map audit starting...
+[  OK  ]  - Auditing of map completed (0.00s). Enjoy your game...
+[  OK  ]  - Map loaded successfully (0.02s).
+[ INFO ]  - Looking up the IP address of server: avendar.net:9999 ...
+[ INFO ]  - The IP address of avendar.net has been found. It is: 74.91.112.143
+[ INFO ]  - Trying to connect to 74.91.112.143:9999 ...
+[ INFO ]  - The IP address of avendar.net has been found. It is: 74.91.112.143
+[ INFO ]  - Trying to connect to 74.91.112.143:9999 ...
+[ INFO ]  - A connection has been established successfully.
+                
+                
+
+          <| 
+           A              
+          /.          
+     \<|  [""M#         
+      A   | #                   AVENDAR: THE CRUCIBLE OF LEGENDS 
+     /. \[""M#                         [avendar.net 9999] 
+    [""M# | #  U"U#U                  
+     | #  | #   \.:/    Original DikuMUD by Hans Staerfeldt, Katja Nyboe, 
+     | #  | #___| #     Tom Madsen, Michael Seifert, and Sebastian Hammer 
+     | "--'     .-"     Based on MERC 2.1 code by Hatchet, Furey, and Kahn 
+   |"-"-"-"-"-#-#-##    ROM 2.4 copyright (c) 1993-1996 Russ Taylor 
+   |     # ## ######      
+           \.::::'/     Avendar created by Matt Wallace, Thane Williams, 
+           \::::'/      and Brandon Downey.  See HELP AVENDAR for more. 
+   :8a|    # # ##       
+   ::88a      ###       Avendar is maintained and developed by the Avendar 
+  ::::888a  8a ##::.                   Immortal staff. 
+  ::::::888a88a[]:::: 
+ :::::::::SUNDOGa8a::::. ..               
+ :::::8::::888:Y8888:::::::::...       
+::':::88::::888::Y88a______________________________________________________ 
+:: ::::88a::::88a:Y88a                                  __---__-- __ 
+' .: ::Y88a:::::8a:Y88a                            __----_-- -------_-__ 
+  :' ::::8P::::::::::88aa.                   _ _- --  --_ --- __  --- __-- 
+,::  :::::::::::::::::::Y88as88a...s88aa.
+
+Under what name shall your deeds be recorded?
+Account 'Tyeric' already logged in.  Continuing to connect will disconnect existing session.
+Enter password to continue: 
+
+
+The following characters are currently associated with this account:
+
+Qeqskil
+Veljik
+
+To create a new character, enter an original name at the following prompt.
+Enter character name to use: 
+  tyeric
+We don't have a character named Tyeric.
+Attach new character Tyeric to account Tyeric (y/n)? 
+n
+Ok, what IS it, then? 
+veljik
+Password: 
+
+-------------- READ THE MOTD -- Last Modified: Apr 2025 -------------------
+|                                                                         |
+| . -You are responsible for knowing the rules-. See "help RULES".        |
+|                                                                         |
+| . For more information and discussion about the game, see:              |
+|                                                                         |
+|     . The Avendar Website:      https://avendar.net                     |
+|     . The Avendar Discord:      http://discord.gg/DXsZwVBsBV            |
+|                                                                         |
+| . The changelog (type CHANGES) is updated regularly with updates to     |
+|   Avendar.  Last Updated: 29 Apr 2025                                   |
+|                                                                         |
+| . Avendar is currently presented AS-IS. You may encounter errors or     |
+|   bugs. It is YOUR RESPONSIBILITY to not exploit them.                  |
+|                                                                         |
+---------------------------------------------------------------------------
+whe
+
+You open your eyes and cast your gaze upon the land.
+You received 330 experience today.
+You can't see anything, you're sleeping!
+You have no unread notes.
+
+who
+<459hp 398m 254mv> 
+[19 Swo] Veljik v'Edaris the Master of the Spider
+
+Players found: 1
+
+<459hp 398m 254mv> 
+l
+In your dreams, or what?
+
+st
+<459hp 398m 254mv> 
+You wake and stand up.
+
+l
+<459hp 398m 254mv> Iron Street
+  Iron street is in a working class part of Var Bandor, and is far from
+being one of the nicer areas in the city.  Men walk about along the street
+going about their business, and few seem to notice you here.  Some small,
+cramped houses line the streets between the larger warehouses, and some
+children wearing ragged clothes can be seen playing outdoors.  The people
+here do not seem as happy as those in the nicer parts of the city; in fact,
+a faint air of oppression hangs over all the working class folk of Iron
+Street.  To the east is Sadrent Road, and south is the wheelwright's.  North
+is an old house.  
+
+[Exits: north east south west]
+Bromrin, alatharyan Captain of Var Bandor law enforcement, patrols here.
+
+<459hp 398m 254mv> 
+s
+The Wheelwright's
+  The room is filled with a thick dust created from wood-shavings, making
+it hard to breathe.  Large logs are lined up against the far wall, waiting
+to be cut into wheels and spokes.  A large oven takes up the west wall, made
+to smoke the wood boards so they would bend into shape.  A few saws and
+other instruments for carving hang against the wall waiting to be used. 
+Below them are a few half finished wheels, cut crudely.  Sawdust and hay
+blanket the floor, causing dust to billow up and fill the room with every
+motion.  If you wished to leave, your only option is to return to the street
+to the north.  
+
+[Exits: north]
+     A huge, wooden wheel is here lying broken on the ground.
+Terintbanch is here bending pieces of metal and wood to his will.
+Terintbanch Plun says, 'Greetings, Sir.'
+
+<459hp 398m 253mv> 
+whe
+Notables in Avendar (currently in Var Bandor):
+  (PK) Veljik                The Wheelwright's                 [present]    
+
+Total found: 1
+
+who
+<459hp 398m 253mv> [19 Swo] Veljik v'Edaris the Master of the Spider
+
+Players found: 1
+
+<459hp 398m 253mv> 
+k plum
+They aren't here.
+
+<459hp 398m 253mv> 
+k plun
+Terintbanch Plun easily parries your attack.
+Terintbanch Plun is in excellent condition. 
+
+<459hp 398m 253mv> 
+
+Your telling sting hits Terintbanch Plun!
+Your POTENT pierce hits Terintbanch Plun!
+Terintbanch Plun's FORCEFUL pierce rends you!
+Terintbanch Plun has a few scratches. 
+
+<395hp 381m 253mv> 
+med
+med
+med
+med
+You work a calculated strike into your form.
+Your strong strike hits Terintbanch Plun!
+Terintbanch Plun has a few scratches. 
+
+<395hp 379m 253mv> 
+Your strong sting hits Terintbanch Plun!
+Your POTENT pierce injures Terintbanch Plun!
+Terintbanch Plun's FORCEFUL pierce rends you!
+Terintbanch Plun has some small wounds and bruises. 
+
+<330hp 362m 253mv> 
+You work a calculated strike into your form.
+Your strong strike hits Terintbanch Plun!
+Terintbanch Plun parries your attack.
+Terintbanch Plun's POTENT pierce mauls you!
+Terintbanch Plun has some small wounds and bruises. 
+
+<270hp 343m 253mv> 
+med
+med
+med
+
+Your strong sting hits Terintbanch Plun!
+Your strong sting injures Terintbanch Plun!
+Your sting misses Terintbanch Plun.
+Your strong sting injures Terintbanch Plun!
+Terintbanch Plun's POTENT pierce savages you!
+Terintbanch Plun has some small wounds and bruises. 
+
+<213hp 326m 253mv> You work a calculated strike into your form.
+Your telling strike hits Terintbanch Plun!
+Terintbanch Plun has quite a few wounds. 
+
+<213hp 324m 253mv> 
+
+[TIPS] You can toggle reversal of fortune with the 'autoreverse' command.
+Terintbanch Plun has quite a few wounds. 
+
+<213hp 324m 253mv> 
+
+Your POTENT sting injures Terintbanch Plun!
+Your telling pierce hits Terintbanch Plun!
+Terintbanch Plun's POTENT pierce mutilates you!
+Terintbanch Plun has quite a few wounds. 
+
+<153hp 307m 253mv> 
+You work a calculated strike into your form.
+Your FORCEFUL strike wounds Terintbanch Plun!
+Terintbanch Plun has quite a few wounds. 
+
+<153hp 305m 253mv> 
+You are hungry.
+Terintbanch Plun has quite a few wounds. 
+
+<157hp 317m 254mv> 
+clear
+Buffer cleared.
+Terintbanch Plun has quite a few wounds. 
+
+<157hp 317m 254mv> 
+flee
+flee
+
+Your FORCEFUL sting wounds Terintbanch Plun!
+Your FORCEFUL sting damages Terintbanch Plun!
+Terintbanch Plun's POTENT pierce mangles you!
+You sure are BLEEDING!
+Terintbanch Plun has quite a few wounds. 
+
+<100hp 300m 254mv> 
+Iron Street
+  Iron street is in a working class part of Var Bandor, and is far from
+being one of the nicer areas in the city.  Men walk about along the street
+going about their business, and few seem to notice you here.  Some small,
+cramped houses line the streets between the larger warehouses, and some
+children wearing ragged clothes can be seen playing outdoors.  The people
+here do not seem as happy as those in the nicer parts of the city; in fact,
+a faint air of oppression hangs over all the working class folk of Iron
+Street.  To the east is Sadrent Road, and south is the wheelwright's.  North
+is an old house.  
+
+[Exits: north east south west]
+Bromrin, alatharyan Captain of Var Bandor law enforcement, patrols here.
+You flee from combat!
+
+<100hp 300m 253mv> 
+You aren't fighting anyone.
+
+<100hp 300m 253mv> 
+eat sac
+You do not have that item.
+
+<100hp 300m 253mv> 
+in
+You are carrying:
+     a map of northern Earendam
+     a map of southern Earendam
+     a light club
+     a pair of hardened leather armguards
+( 2) an earthen jug
+     a tin canteen
+     a foul-smelling bear skin
+     (Glowing) a pair of glittering golden wingblades
+     a silken meditation mat
+     an engraved steel ring on a thin cord
+     a ring of water walking
+( 3) a slice of honey-drenched baklava
+     a pair of tasseled boots
+     a golden band set with a yellow diamond
+     an elegant fur stole
+     a small packet of nuts and berries
+     a whale-skin canoe
+     a clay mug of xarroloalko
+     a blown glass carafe
+
+<100hp 300m 253mv> 
+eat packet
+You eat a small packet of nuts and berries.
+You are full.
+The dried cherries and raisins in the packet are fresh, and combine with the salt on the almonds for
+a satisfying taste.
+
+<100hp 300m 253mv> 
+slee mat
+You go to sleep on a silken meditation mat.
+You drift off to sleep almost immediately...
+
+<100hp 300m 253mv> 
+whe
+who
+In your dreams, or what?
+
+<100hp 300m 253mv> [19 Swo] Veljik v'Edaris the Master of the Spider
+
+Players found: 1
+
+<100hp 300m 253mv> 
+
+You disappear into the void.
+
+<459hp 398m 254mv> 
+
+Alas, all good things must come to an end.
+    
+[ ALERT ] - Socket got disconnected.
+            Reason: The remote host closed the connection
+[ INFO ]  - Connection time: 00:16:35.487
+                
+[ INFO ]  - Looking up the IP address of server: avendar.net:9999 ...
+[ INFO ]  - The IP address of avendar.net has been found. It is: 74.91.112.143
+[ INFO ]  - Trying to connect to 74.91.112.143:9999 ...
+[ INFO ]  - A connection has been established successfully.
+                
+                
+
+          <| 
+           A              
+          /.          
+     \<|  [""M#         
+      A   | #                   AVENDAR: THE CRUCIBLE OF LEGENDS 
+     /. \[""M#                         [avendar.net 9999] 
+    [""M# | #  U"U#U                  
+     | #  | #   \.:/    Original DikuMUD by Hans Staerfeldt, Katja Nyboe, 
+     | #  | #___| #     Tom Madsen, Michael Seifert, and Sebastian Hammer 
+     | "--'     .-"     Based on MERC 2.1 code by Hatchet, Furey, and Kahn 
+   |"-"-"-"-"-#-#-##    ROM 2.4 copyright (c) 1993-1996 Russ Taylor 
+   |     # ## ######      
+           \.::::'/     Avendar created by Matt Wallace, Thane Williams, 
+           \::::'/      and Brandon Downey.  See HELP AVENDAR for more. 
+   :8a|    # # ##       
+   ::88a      ###       Avendar is maintained and developed by the Avendar 
+  ::::888a  8a ##::.                   Immortal staff. 
+  ::::::888a88a[]:::: 
+ :::::::::SUNDOGa8a::::. ..               
+ :::::8::::888:Y8888:::::::::...       
+::':::88::::888::Y88a______________________________________________________ 
+:: ::::88a::::88a:Y88a                                  __---__-- __ 
+' .: ::Y88a:::::8a:Y88a                            __----_-- -------_-__ 
+  :' ::::8P::::::::::88aa.                   _ _- --  --_ --- __  --- __-- 
+,::  :::::::::::::::::::Y88as88a...s88aa.
+
+Under what name shall your deeds be recorded?
+Account 'Tyeric' logging in.  Password: 
+
+
+The following characters are currently associated with this account:
+
+Qeqskil
+Veljik
+
+To create a new character, enter an original name at the following prompt.
+Enter character name to use: 
+[ INFO ]  - Split-screen scrollback activated. Press <CTRL>+<ENTER> to cancel.
+    
+[ ALERT ] - Socket got disconnected.
+            Reason: User Disconnected
+[ INFO ]  - Connection time: 02:25:24.346

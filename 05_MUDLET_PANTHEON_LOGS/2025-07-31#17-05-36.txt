@@ -1,0 +1,3682 @@
+Log session starting at 17:05:36 on Thursday, 31 July 2025.
+[  OK  ]  - Mudlet-lua API & Geyser Layout manager loaded.
+[ INFO ]  - Reading map. Format version: 20. File:
+            "C:/Users/wilds/.config/mudlet/profiles/PANTHEON1/map/2025-07-28#05-04-04map.dat",
+            please wait...
+[ INFO ]  - Successfully read the map file (0.01s), checking some
+            consistency details...
+[ INFO ]  - Map audit starting...
+[  OK  ]  - Auditing of map completed (0.00s). Enjoy your game...
+[  OK  ]  - Map loaded successfully (0.01s).
+[ INFO ]  - Looking up the IP address of server: avendar.net:9999 ...
+[ INFO ]  - The IP address of avendar.net has been found. It is: 74.91.112.143
+[ INFO ]  - Trying to connect to 74.91.112.143:9999 ...
+[ INFO ]  - A connection has been established successfully.
+                
+                
+
+          <| 
+           A              
+          /.          
+     \<|  [""M#         
+      A   | #                   AVENDAR: THE CRUCIBLE OF LEGENDS 
+     /. \[""M#                         [avendar.net 9999] 
+    [""M# | #  U"U#U                  
+     | #  | #   \.:/    Original DikuMUD by Hans Staerfeldt, Katja Nyboe, 
+     | #  | #___| #     Tom Madsen, Michael Seifert, and Sebastian Hammer 
+     | "--'     .-"     Based on MERC 2.1 code by Hatchet, Furey, and Kahn 
+   |"-"-"-"-"-#-#-##    ROM 2.4 copyright (c) 1993-1996 Russ Taylor 
+   |     # ## ######      
+           \.::::'/     Avendar created by Matt Wallace, Thane Williams, 
+           \::::'/      and Brandon Downey.  See HELP AVENDAR for more. 
+   :8a|    # # ##       
+   ::88a      ###       Avendar is maintained and developed by the Avendar 
+  ::::888a  8a ##::.                   Immortal staff. 
+  ::::::888a88a[]:::: 
+ :::::::::SUNDOGa8a::::. ..               
+ :::::8::::888:Y8888:::::::::...       
+::':::88::::888::Y88a______________________________________________________ 
+:: ::::88a::::88a:Y88a                                  __---__-- __ 
+' .: ::Y88a:::::8a:Y88a                            __----_-- -------_-__ 
+  :' ::::8P::::::::::88aa.                   _ _- --  --_ --- __  --- __-- 
+,::  :::::::::::::::::::Y88as88a...s88aa.
+
+Under what name shall your deeds be recorded?
+Account 'Tyeric' logging in.  Password: 
+
+
+The following characters are currently associated with this account:
+
+Qeqskil
+Veljik
+
+To create a new character, enter an original name at the following prompt.
+Enter character name to use: 
+veljik
+Password: 
+
+-------------- READ THE MOTD -- Last Modified: Apr 2025 -------------------
+|                                                                         |
+| . -You are responsible for knowing the rules-. See "help RULES".        |
+|                                                                         |
+| . For more information and discussion about the game, see:              |
+|                                                                         |
+|     . The Avendar Website:      https://avendar.net                     |
+|     . The Avendar Discord:      http://discord.gg/DXsZwVBsBV            |
+|                                                                         |
+| . The changelog (type CHANGES) is updated regularly with updates to     |
+|   Avendar.  Last Updated: 29 Apr 2025                                   |
+|                                                                         |
+| . Avendar is currently presented AS-IS. You may encounter errors or     |
+|   bugs. It is YOUR RESPONSIBILITY to not exploit them.                  |
+|                                                                         |
+---------------------------------------------------------------------------
+whe
+
+You open your eyes and cast your gaze upon the land.
+You received 375 experience today.
+The West Gate of Earendam
+  Earendam's west gates are made of sturdy iron, built between two tall
+stone pillars.  Reinforcing these gates are several stout bars of iron,
+treated to preserve them from wear.  Outside the gates, the Arien Road heads
+west, cutting across the plains which give it its namesake.  Inside, the
+Arien Plaza opens, marking the beginning of Earendam proper.  
+
+[Exits: east west]
+An Earendam gate guard stands at attention.
+An Earendam gate guard stands at attention.
+You have no unread notes.
+
+who
+<531hp 516m 288mv> 
+l
+[22 Swo] Veljik v'Edaris the Student of the Boar
+
+Players found: 1
+
+<531hp 516m 288mv> The West Gate of Earendam
+  Earendam's west gates are made of sturdy iron, built between two tall
+stone pillars.  Reinforcing these gates are several stout bars of iron,
+treated to preserve them from wear.  Outside the gates, the Arien Road heads
+west, cutting across the plains which give it its namesake.  Inside, the
+Arien Plaza opens, marking the beginning of Earendam proper.  
+
+[Exits: east west]
+An Earendam gate guard stands at attention.
+An Earendam gate guard stands at attention.
+
+<531hp 516m 288mv> 
+eq
+You are using:
+<worn on finger>    (Glowing) a Ring of Fire
+<worn on finger>    (Humming) a Ring of Void
+<worn around neck>  a short, silken neck-scarf
+<worn around neck>  a short, silken neck-scarf
+<worn on torso>     a wrapped silk shirt
+<worn on head>      a row of hawk feathers
+<worn on legs>      a set of plate leggings
+<worn on feet>      an embroidered pair of flat shoes
+<worn on hands>     some fanged sharkskin gloves
+<worn on arms>      a pair of fur-lined sleeves
+<worn about body>   an opulent robe with a dripping hexagon clasp
+<worn about waist>  a woven belt
+<worn around wrist> a tattered, mud-caked leather bracer
+<worn around wrist> a pearl and diamond bracelet
+<wielded>           (Humming) the tapered shortsword "Biter"
+<dual wielded>      a hand-made idruusa
+<branded>           the Sigil of the School of Heroes
+
+<531hp 516m 288mv> 
+worth
+You have 8 gold, 4 silver, 4 copper, and 105588 experience (481 exp to level).
+You have 984 exploration points (0 ep to level).
+You are unencumbered by your equipment.
+
+<531hp 516m 288mv> 
+in
+You are carrying:
+     an earthen jug
+     a heavy sleeping bag
+     a sooty hide cloak
+     (Glowing) a pair of glittering golden wingblades
+     a suede, down-filled blanket
+     a griffinrider's leather gloves
+     an engraved steel ring on a thin cord
+     (Humming) a bone-hilted rapier
+     a whale-skin canoe
+     a huge canvas backpack
+
+<531hp 516m 288mv> 
+remove void
+You stop using a Ring of Void.
+
+<531hp 516m 288mv> 
+exam backpack
+A huge grey canvas backpack sits on the ground.
+A huge canvas backpack holds:
+     a blown glass carafe
+     a clay mug of xarroloalko
+     a pearl and diamond bracelet
+     an elegant fur stole
+( 2) a golden band set with a yellow diamond
+     a pair of tasseled boots
+( 2) a slice of honey-drenched baklava
+     a ring of water walking
+     a silken meditation mat
+     (Glowing) a gleaming gold ring
+     a tin canteen
+     an earthen jug
+     a map of southern Earendam
+     a map of northern Earendam
+( 4) (Glowing) a potion of transportation
+     a pale green potion
+     a bubbling potion
+     a translucent potion
+(13) a ration-cake
+( 2) some smoked ham
+( 3) a flight draught
+     a hand-made idruusa
+( 5) a milky potion
+     a leather belt
+( 4) a head of cabbage
+( 2) a handful of zebra mussels
+     a thailnai mushroom
+     a slab of white grub meat
+
+<531hp 516m 288mv> 
+get all.ring backpack
+You get a golden band set with a yellow diamond from a huge canvas backpack.
+You get a golden band set with a yellow diamond from a huge canvas backpack.
+You get a ring of water walking from a huge canvas backpack.
+You get a gleaming gold ring from a huge canvas backpack.
+
+<531hp 516m 288mv> 
+id band
++---------------------------------------------------+
+| Object:   a golden band set with a yellow diamond |
+| Flags:    none                                    |
+| Weight:   0.2                                     |
+| Wear:     finger                                  |
+| Level:    47                                      |
+| Material: gold                                    |
+| ------------------------------------------------- |
+| Type:         armor                               |
+| AC:  0                                            |
+| ------------------------------------------------- |
+| Affects saves by -2                               |
+| Affects hit roll by 2                             |
+| Affects hp by 9                                   |
++---------------------------------------------------+
+
+<531hp 516m 288mv> 
+wear band
+You wear a golden band set with a yellow diamond on your right finger.
+
+eq
+<531hp 476m 288mv> You are using:
+<worn on finger>    (Glowing) a Ring of Fire
+<worn on finger>    a golden band set with a yellow diamond
+<worn around neck>  a short, silken neck-scarf
+<worn around neck>  a short, silken neck-scarf
+<worn on torso>     a wrapped silk shirt
+<worn on head>      a row of hawk feathers
+<worn on legs>      a set of plate leggings
+<worn on feet>      an embroidered pair of flat shoes
+<worn on hands>     some fanged sharkskin gloves
+<worn on arms>      a pair of fur-lined sleeves
+<worn about body>   an opulent robe with a dripping hexagon clasp
+<worn about waist>  a woven belt
+<worn around wrist> a tattered, mud-caked leather bracer
+<worn around wrist> a pearl and diamond bracelet
+<wielded>           (Humming) the tapered shortsword "Biter"
+<dual wielded>      a hand-made idruusa
+<branded>           the Sigil of the School of Heroes
+
+<531hp 476m 288mv> 
+l
+The West Gate of Earendam
+  Earendam's west gates are made of sturdy iron, built between two tall
+stone pillars.  Reinforcing these gates are several stout bars of iron,
+treated to preserve them from wear.  Outside the gates, the Arien Road heads
+west, cutting across the plains which give it its namesake.  Inside, the
+Arien Plaza opens, marking the beginning of Earendam proper.  
+
+[Exits: east west]
+An Earendam gate guard stands at attention.
+An Earendam gate guard stands at attention.
+
+<531hp 476m 288mv> 
+save
+Saving.  Remember that Avendar will save you automatically.
+
+l
+<531hp 476m 288mv> 
+The West Gate of Earendam
+  Earendam's west gates are made of sturdy iron, built between two tall
+stone pillars.  Reinforcing these gates are several stout bars of iron,
+treated to preserve them from wear.  Outside the gates, the Arien Road heads
+west, cutting across the plains which give it its namesake.  Inside, the
+Arien Plaza opens, marking the beginning of Earendam proper.  
+
+[Exits: east west]
+An Earendam gate guard stands at attention.
+An Earendam gate guard stands at attention.
+
+<531hp 476m 288mv> 
+aff
+You are affected by the following:
+Form : form of the mongoose: modifies none by 0 permanently
+
+<531hp 476m 288mv> 
+e
+The Western Arien Plaza
+  The Arien Plaza comes to an end here as it approaches the western gate of
+Earendam.  Travelers and merchants head out through this gate onto the
+Arien road, bringing goods to and from the lands to the west.  Set in the
+northwestern portion of the city, this plaza is a square ringed on all
+sides by the buildings and walls of New Earendam.  Paved with cobblestones
+long worn smooth by the feet of travelers entering the city from the Arien
+road, the center of the square lies eastward, where an ornate fountain
+serves as a resting place for the main body of the populace in the immediate
+area.  Shops line the northern edge of the square, while southward the plaza
+eventually terminates in a stone wall.  
+
+[Exits: north east south west]
+A hulking alatharya porter carries goods for a merchant.
+A merchant from Var Bandor strolls through the plaza.
+
+n
+n
+<531hp 476m 287mv> 
+The Northwestern Arien Plaza
+  The northwestern corner of the Arien Plaza bustles with activity as it
+approaches the city walls of Earendam to the west.  Travelers and merchants
+wander through the area, mainly heading to, or coming from the west gate of
+Earendam to the south.  The edge of the plaza lines a row of shops to the
+east, but comes to an end here, where a large inn sits in the crook between
+the city wall and the shops to the east, and is marked by the sign of a
+flagon and bedroll.  
+
+[Exits: north east south]
+A merchant's bodyguard scans the crowd, watchful of his charge.
+A merchant of Earendam mills about the plaza.
+
+n
+<531hp 476m 286mv> 
+Anteroom of the Arien Way
+  This small hallway serves as the anteroom for the Arien Way, a popular
+tavern in this part of Earendam.  Covered in panelled pine, the walls of the
+hallway narrow in a doorway to the north, leading to the interior of the
+tavern.  Covering the floor of the anteroom is a tiled mosaic, depicting the
+traditional sign of a tavern, made using colored stones from the Brintors. 
+The streets of Arien plaza are to the south.  
+
+[Exits: north south]
+A grizzled ethron is here, eyeing people as they enter.
+
+w
+<531hp 476m 285mv> 
+s
+The Arien Way
+  The Arien Way tavern's common room is west of here, opening past an
+arched entryway.  The end of a wood-panelled hallway, this area connects to
+a small anteroom to the south, and a stairwell leads north to the rooms above. 
+
+[Exits: north south west]
+
+s
+s
+<531hp 476m 284mv> 
+The Common Room of the Arien Way
+  The common room of the Arien Way is a large square chamber, panelled with
+planks of scented pines.  Filled with tables and the smoke of the torches
+which illuminate the chamber, this room is a common gathering place for the
+merchants who frequent the Arien Plaza.  The room's decor seems to be a cut
+above the typical tavern, with the occasional painting adorning the walls,
+and a simple tile mosaic covering the floor.  An exit lies to a hallway to
+the east, and the bar is further west of here.  
+
+[Exits: east south west]
+
+<531hp 476m 283mv> 
+The Common Room of the Arien Way
+  The common room of the Arien Way is a large square chamber, panelled with
+planks of scented pines.  Filled with tables and the smoke of the torches
+which illuminate the chamber, this room is a common gathering place for the
+merchants who frequent the Arien Plaza.  The room's decor seems to be a cut
+above the typical tavern, with the occasional painting adorning the walls,
+and a simple tile mosaic covering the floor.  The common room continues in
+all directions save east.  
+
+[Exits: north south west]
+A portly merchant sits here, having dinner.
+
+<531hp 476m 282mv> 
+The Common Room of the Arien Way
+  The common room of the Arien Way is a large square chamber, panelled with
+planks of scented pines.  Filled with tables and the smoke of the torches
+which illuminate the chamber, this room is a common gathering place for the
+merchants who frequent the Arien Plaza.  The room's decor seems to be a cut
+above the typical tavern, with the occasional painting adorning the walls,
+and a simple tile mosaic covering the floor.  The common room continues west
+and north of here.  
+
+[Exits: north west]
+A brown-skinned caladaran woman sits here, huddled in her robes.
+A brown-furred kankoran slurps noisily on a mug of ale.
+A slender and elegant aelin sits at a table.
+
+<531hp 476m 281mv> 
+Alas, you cannot go that way.
+
+<531hp 476m 281mv> 
+l aelin
+Andralis is a rather handsome aelin, with features marking him as a
+nobleman of one of Ilodaiya's houses.  Marked with harsh lines, his face
+seems aged by the discipline of a soldier's life, but his eyes tell a
+different tale.  With a merry smile, he occasionally greetings a passing
+pattern, or runs his hand lovingly over the grain of the wooden table at
+which he sits.  
+Andralis is in excellent condition.
+
+Andralis is using:
+<worn on hands> a pair of gauntlets of shining steel
+<worn on arms>  a pair of finely crafted armguards
+<two-handed>    an ornate halberd
+
+<531hp 476m 281mv> 
+k aelin
+Your sting hurts Andralis.
+Your mediocre slash hurts Andralis.
+Andralis dodges your attack with casual grace.
+Your ** VICIOUS ** sting damages Andralis!
+Andralis has a few scratches. 
+
+<531hp 476m 281mv> 
+
+Your POTENT sting injures Andralis!
+Your strong slash injures Andralis!
+Andralis dodges your attack with casual grace.
+Your strong slash injures Andralis!
+Andralis's POWERFUL stab rends you!
+Andralis has some small wounds and bruises. 
+
+<455hp 459m 281mv> 
+alias h k aelin
+h is now realiased to 'k aelin'.
+Andralis has some small wounds and bruises. 
+
+med
+<455hp 459m 281mv> 
+You work a calculated strike into your form.
+Your strong strike injures Andralis!
+Andralis has some small wounds and bruises. 
+
+<455hp 457m 281mv> 
+
+Your FORCEFUL sting wounds Andralis!
+Your POTENT slash injures Andralis!
+Your POTENT sting wounds Andralis!
+Andralis's POWERFUL stab mauls you!
+Andralis has quite a few wounds. 
+
+<375hp 440m 281mv> 
+med
+med
+med
+med
+You work a calculated strike into your form.
+Your strong strike injures Andralis!
+Andralis has quite a few wounds. 
+
+<375hp 438m 281mv> 
+
+Andralis frantically parries your attack.
+Andralis dodges your attack.
+You barely manage to parry Andralis's attack.
+Andralis has quite a few wounds. 
+
+<375hp 421m 281mv> 
+med
+med
+med
+You work a calculated strike into your form.
+Your POTENT strike wounds Andralis!
+Andralis has quite a few wounds. 
+
+<386hp 451m 288mv> 
+Andralis dodges your attack.
+Andralis dodges your attack.
+Andralis's FORCEFUL stab mauls you!
+Andralis has quite a few wounds. 
+
+<319hp 434m 288mv> 
+You work a calculated strike into your form.
+Your strike misses Andralis.
+Your strong sting wounds Andralis!
+Your telling slash injures Andralis!
+Andralis's POWERFUL stab mutilates you!
+Andralis has quite a few wounds. 
+
+<239hp 415m 288mv> 
+med
+med
+med
+
+Your strong sting wounds Andralis!
+Your POTENT slash wounds Andralis!
+Andralis parries your attack.
+You have become better at sword, and receive 94 experience!
+Your telling slash wounds Andralis!
+Andralis dodges your attack.
+You have become better at second attack, and receive 78 experience!
+Andralis's POWERFUL stab maims you!
+Andralis has quite a few wounds. 
+
+<157hp 398m 288mv> You work a calculated strike into your form.
+Your POTENT strike damages Andralis!
+Andralis has some big nasty wounds and scratches. 
+
+<157hp 396m 288mv> 
+
+Your FORCEFUL sting harms Andralis!
+Your FORCEFUL sting harms Andralis!
+Andralis dodges your attack.
+Andralis's FIERCE stab dismembers you!
+You sure are BLEEDING!
+Andralis has some big nasty wounds and scratches. 
+
+<69hp 379m 288mv> 
+You work a calculated strike into your form.
+Your FORCEFUL strike harms Andralis!
+Andralis has some big nasty wounds and scratches. 
+
+<69hp 377m 288mv> 
+clear
+Buffer cleared.
+Andralis has some big nasty wounds and scratches. 
+
+<69hp 377m 288mv> 
+flee
+flee
+flee
+flee
+flee
+
+Andralis parries your attack.
+Your FORCEFUL sting tears into Andralis!
+Your sting misses Andralis.
+Your FORCEFUL sting tears into Andralis!
+Your strong slash harms Andralis!
+Andralis's stab misses you.
+Andralis looks pretty hurt. 
+
+<69hp 360m 288mv> 
+The Common Room of the Arien Way
+  The common room of the Arien Way is a large square chamber, panelled with
+planks of scented pines.  Filled with tables and the smoke of the torches
+which illuminate the chamber, this room is a common gathering place for the
+merchants who frequent the Arien Plaza.  The room's decor seems to be a cut
+above the typical tavern, with the occasional painting adorning the walls,
+and a simple tile mosaic covering the floor.  The common room continues
+north and east, and meets the bar west of here.  
+
+[Exits: north east west]
+     A soapstone chessboard sits on a table here.
+You flee from combat!
+
+<69hp 360m 287mv> 
+You aren't fighting anyone.
+
+<69hp 360m 287mv> You aren't fighting anyone.
+
+<69hp 360m 287mv> You aren't fighting anyone.
+
+<69hp 360m 287mv> You aren't fighting anyone.
+
+<69hp 360m 287mv> 
+slee bag
+You go to sleep on a heavy sleeping bag.
+You drift off to sleep almost immediately...
+
+<69hp 360m 287mv> 
+whe
+who
+wimpy
+In your dreams, or what?
+
+<128hp 476m 288mv> [22 Swo] Veljik v'Edaris the Student of the Boar
+
+Players found: 1
+
+<128hp 476m 288mv> Wimpy set to 108 hit points.
+
+<128hp 476m 288mv> 
+think Sheesh.
+In your dreams, or what?
+
+<128hp 476m 288mv> 
+who
+[22 Swo] Veljik v'Edaris the Student of the Boar
+
+Players found: 1
+
+<128hp 476m 288mv> 
+in
+You are carrying:
+     (Glowing) a gleaming gold ring
+     a ring of water walking
+     a golden band set with a yellow diamond
+     an earthen jug
+     a heavy sleeping bag
+     a sooty hide cloak
+     (Glowing) a pair of glittering golden wingblades
+     (Humming) a Ring of Void
+     a suede, down-filled blanket
+     a griffinrider's leather gloves
+     an engraved steel ring on a thin cord
+     (Humming) a bone-hilted rapier
+     a whale-skin canoe
+     a huge canvas backpack
+
+<128hp 476m 288mv> 
+rest
+You wake up and rest on a heavy sleeping bag.
+
+<128hp 476m 288mv> 
+think Sheesh.
+You think, 'Sheesh.'
+
+<128hp 476m 288mv> 
+l
+The Common Room of the Arien Way
+  The common room of the Arien Way is a large square chamber, panelled with
+planks of scented pines.  Filled with tables and the smoke of the torches
+which illuminate the chamber, this room is a common gathering place for the
+merchants who frequent the Arien Plaza.  The room's decor seems to be a cut
+above the typical tavern, with the occasional painting adorning the walls,
+and a simple tile mosaic covering the floor.  The common room continues
+north and east, and meets the bar west of here.  
+
+[Exits: north east west]
+     A soapstone chessboard sits on a table here.
+
+in
+<128hp 476m 288mv> You are carrying:
+     (Glowing) a gleaming gold ring
+     a ring of water walking
+     a golden band set with a yellow diamond
+     an earthen jug
+     a heavy sleeping bag
+     a sooty hide cloak
+     (Glowing) a pair of glittering golden wingblades
+     (Humming) a Ring of Void
+     a suede, down-filled blanket
+     a griffinrider's leather gloves
+     an engraved steel ring on a thin cord
+     (Humming) a bone-hilted rapier
+     a whale-skin canoe
+     a huge canvas backpack
+
+<128hp 476m 288mv> 
+eqw
+Huh?
+
+<128hp 476m 288mv> 
+eq
+You are using:
+<worn on finger>    (Glowing) a Ring of Fire
+<worn on finger>    a golden band set with a yellow diamond
+<worn around neck>  a short, silken neck-scarf
+<worn around neck>  a short, silken neck-scarf
+<worn on torso>     a wrapped silk shirt
+<worn on head>      a row of hawk feathers
+<worn on legs>      a set of plate leggings
+<worn on feet>      an embroidered pair of flat shoes
+<worn on hands>     some fanged sharkskin gloves
+<worn on arms>      a pair of fur-lined sleeves
+<worn about body>   an opulent robe with a dripping hexagon clasp
+<worn about waist>  a woven belt
+<worn around wrist> a tattered, mud-caked leather bracer
+<worn around wrist> a pearl and diamond bracelet
+<wielded>           (Humming) the tapered shortsword "Biter"
+<dual wielded>      a hand-made idruusa
+<branded>           the Sigil of the School of Heroes
+
+<128hp 476m 288mv> 
+remove gloves
+You stop using some fanged sharkskin gloves.
+
+<128hp 476m 288mv> 
+id glovesd
+You can't find it.
+
+<128hp 476m 288mv> 
+id gloves
++----------------------------------------+
+| Object:   some fanged sharkskin gloves |
+| Flags:    warm durable                 |
+| Weight:   1.5                          |
+| Wear:     hands                        |
+| Level:    20                           |
+| Material: hide                         |
+| -------------------------------------- |
+| Type:         weapon                   |
+| Weapon type:  exotic                   |
+| Weapon flags: none                     |
+| Damage type:  pierce                   |
+| Damage dice:  7d5 (average 17.5)       |
+| -------------------------------------- |
++----------------------------------------+
+
+<128hp 476m 288mv> 
+wear gloves
+You wear some fanged sharkskin gloves on your hands.
+
+wear gloves
+<128hp 476m 288mv> 
+You stop using some fanged sharkskin gloves.
+You wear a griffinrider's leather gloves on your hands.
+
+<128hp 476m 288mv> 
+in
+You are carrying:
+     (Glowing) a gleaming gold ring
+     a ring of water walking
+     a golden band set with a yellow diamond
+     an earthen jug
+     a heavy sleeping bag
+     some fanged sharkskin gloves
+     a sooty hide cloak
+     (Glowing) a pair of glittering golden wingblades
+     (Humming) a Ring of Void
+     a suede, down-filled blanket
+     an engraved steel ring on a thin cord
+     (Humming) a bone-hilted rapier
+     a whale-skin canoe
+     a huge canvas backpack
+
+l
+<128hp 476m 288mv> 
+The Common Room of the Arien Way
+  The common room of the Arien Way is a large square chamber, panelled with
+planks of scented pines.  Filled with tables and the smoke of the torches
+which illuminate the chamber, this room is a common gathering place for the
+merchants who frequent the Arien Plaza.  The room's decor seems to be a cut
+above the typical tavern, with the occasional painting adorning the walls,
+and a simple tile mosaic covering the floor.  The common room continues
+north and east, and meets the bar west of here.  
+
+[Exits: north east west]
+     A soapstone chessboard sits on a table here.
+
+<128hp 476m 288mv> 
+id cloak
++------------------------------+
+| Object:   a sooty hide cloak |
+| Flags:    none               |
+| Weight:   4.0                |
+| Wear:     body               |
+| Level:    35                 |
+| Material: hide               |
+| ---------------------------- |
+| Type:         armor          |
+| AC:  3                       |
+| ---------------------------- |
+| Affects hp by 10             |
+| Affects saves by -1          |
++------------------------------+
+
+<128hp 476m 288mv> 
+eq
+You are using:
+<worn on finger>    (Glowing) a Ring of Fire
+<worn on finger>    a golden band set with a yellow diamond
+<worn around neck>  a short, silken neck-scarf
+<worn around neck>  a short, silken neck-scarf
+<worn on torso>     a wrapped silk shirt
+<worn on head>      a row of hawk feathers
+<worn on legs>      a set of plate leggings
+<worn on feet>      an embroidered pair of flat shoes
+<worn on hands>     a griffinrider's leather gloves
+<worn on arms>      a pair of fur-lined sleeves
+<worn about body>   an opulent robe with a dripping hexagon clasp
+<worn about waist>  a woven belt
+<worn around wrist> a tattered, mud-caked leather bracer
+<worn around wrist> a pearl and diamond bracelet
+<wielded>           (Humming) the tapered shortsword "Biter"
+<dual wielded>      a hand-made idruusa
+<branded>           the Sigil of the School of Heroes
+
+<163hp 476m 288mv> 
+l
+The Common Room of the Arien Way
+  The common room of the Arien Way is a large square chamber, panelled with
+planks of scented pines.  Filled with tables and the smoke of the torches
+which illuminate the chamber, this room is a common gathering place for the
+merchants who frequent the Arien Plaza.  The room's decor seems to be a cut
+above the typical tavern, with the occasional painting adorning the walls,
+and a simple tile mosaic covering the floor.  The common room continues
+north and east, and meets the bar west of here.  
+
+[Exits: north east west]
+     A soapstone chessboard sits on a table here.
+
+<163hp 476m 288mv> 
+gr
+Veljik's group:
+[22 Swo] Veljik            163/ 549 hp  476/ 476 mana  288/ 288 mv 
+
+<163hp 476m 288mv> 
+slee
+You go to sleep on a heavy sleeping bag.
+You drift off to sleep almost immediately...
+
+<163hp 476m 288mv> 
+in
+You are carrying:
+     (Glowing) a gleaming gold ring
+     a ring of water walking
+     a golden band set with a yellow diamond
+     an earthen jug
+     a heavy sleeping bag
+     some fanged sharkskin gloves
+     a sooty hide cloak
+     (Glowing) a pair of glittering golden wingblades
+     (Humming) a Ring of Void
+     a suede, down-filled blanket
+     an engraved steel ring on a thin cord
+     (Humming) a bone-hilted rapier
+     a whale-skin canoe
+     a huge canvas backpack
+
+<163hp 476m 288mv> 
+gr
+Veljik's group:
+[22 Swo] Veljik            543/ 549 hp  476/ 476 mana  288/ 288 mv 
+
+<543hp 476m 288mv> 
+st
+You wake and stand up.
+
+<543hp 476m 288mv> 
+a monk
+You step out of the form of the mongoose.
+You step into the form of the monkey.
+
+l
+<543hp 473m 288mv> 
+The Common Room of the Arien Way
+  The common room of the Arien Way is a large square chamber, panelled with
+planks of scented pines.  Filled with tables and the smoke of the torches
+which illuminate the chamber, this room is a common gathering place for the
+merchants who frequent the Arien Plaza.  The room's decor seems to be a cut
+above the typical tavern, with the occasional painting adorning the walls,
+and a simple tile mosaic covering the floor.  The common room continues
+north and east, and meets the bar west of here.  
+
+[Exits: north east west]
+     A soapstone chessboard sits on a table here.
+
+<543hp 473m 288mv> 
+
+You are thirsty.
+
+<549hp 476m 288mv> 
+exam backpack
+A huge grey canvas backpack sits on the ground.
+A huge canvas backpack holds:
+     a blown glass carafe
+     a clay mug of xarroloalko
+     a pearl and diamond bracelet
+     an elegant fur stole
+     a pair of tasseled boots
+( 2) a slice of honey-drenched baklava
+     a silken meditation mat
+     a tin canteen
+     an earthen jug
+     a map of southern Earendam
+     a map of northern Earendam
+( 4) (Glowing) a potion of transportation
+     a pale green potion
+     a bubbling potion
+     a translucent potion
+(13) a ration-cake
+( 2) some smoked ham
+( 3) a flight draught
+     a hand-made idruusa
+( 5) a milky potion
+     a leather belt
+( 4) a head of cabbage
+( 2) a handful of zebra mussels
+     a thailnai mushroom
+     a slab of white grub meat
+
+<549hp 476m 288mv> 
+get mug backpack
+You get a clay mug of xarroloalko from a huge canvas backpack.
+
+<549hp 476m 288mv> 
+drink mug
+You drink xarroloalko from a clay mug of xarroloalko.
+You feel drunk.
+You are full.
+The salty taste of seaweed combined with the thick texture of cream do absolutely nothing to conceal
+the potent alcoholic kick and lingering caraway flavor of this hot and hearty beverage.
+
+<549hp 476m 288mv> 
+s
+Alas, you cannot go that way.
+
+<549hp 476m 288mv> 
+e
+The Common Room of the Arien Way
+  The common room of the Arien Way is a large square chamber, panelled with
+planks of scented pines.  Filled with tables and the smoke of the torches
+which illuminate the chamber, this room is a common gathering place for the
+merchants who frequent the Arien Plaza.  The room's decor seems to be a cut
+above the typical tavern, with the occasional painting adorning the walls,
+and a simple tile mosaic covering the floor.  The common room continues west
+and north of here.  
+
+[Exits: north west]
+A brown-skinned caladaran woman sits here, huddled in her robes.
+A brown-furred kankoran slurps noisily on a mug of ale.
+A slender and elegant aelin sits at a table.
+
+<549hp 476m 287mv> 
+a mong
+You step out of the form of the monkey.
+You step into the form of the mongoose.
+
+<549hp 469m 287mv> 
+k aelin
+Your sting misses Andralis.
+Andralis parries your attack.
+Andralis has some big nasty wounds and scratches. 
+
+<549hp 469m 287mv> 
+
+Andralis dodges your attack with casual grace.
+Your slash misses Andralis.
+Andralis's POTENT stab tears into you!
+Andralis has some big nasty wounds and scratches. 
+
+<489hp 452m 287mv> 
+med
+med
+med
+med
+You work a calculated strike into your form.
+Your strong strike damages Andralis!
+Andralis has some big nasty wounds and scratches. 
+
+<489hp 450m 287mv> 
+Your POTENT sting damages Andralis!
+You narrowly dodge Andralis's attack.
+Andralis has some big nasty wounds and scratches. 
+
+<489hp 433m 287mv> 
+You work a calculated strike into your form.
+Your telling strike damages Andralis!
+Your telling sting damages Andralis!
+Your strong slash damages Andralis!
+Your POTENT sting harms Andralis!
+Andralis's FORCEFUL stab rends you!
+Andralis has some big nasty wounds and scratches. 
+
+<418hp 414m 287mv> 
+med
+med
+
+Your strong sting harms Andralis!
+Your POTENT sting tears into Andralis!
+Andralis's FIERCE stab savages you!
+Andralis looks pretty hurt. 
+
+<325hp 397m 287mv> You work a calculated strike into your form.
+Your strong strike tears into Andralis!
+Andralis looks pretty hurt. 
+
+<325hp 395m 287mv> 
+med
+med
+
+Andralis parries your attack.
+Andralis narrowly dodges your attack.
+Andralis dodges your attack.
+Your FORCEFUL sting rends Andralis!
+Your strong slash rends Andralis!
+Your average sting tears into Andralis.
+Andralis's FORCEFUL stab savages you!
+Andralis is in awful condition. 
+
+<255hp 378m 287mv> 
+You work a calculated strike into your form.
+Your FORCEFUL strike mutilates Andralis!
+Andralis is in awful condition. 
+
+<255hp 376m 287mv> 
+You are thirsty.
+Andralis is in awful condition. 
+
+<258hp 388m 288mv> 
+med
+med
+
+You have become better at enhanced damage, and receive 83 experience!
+Your POWERFUL sting mangles Andralis!
+Your FORCEFUL sting devastates Andralis!
+Your POTENT sting sunders Andralis!
+Andralis dodges your attack.
+Andralis parries your attack.
+Andralis frantically parries your attack.
+Your sting misses Andralis.
+Andralis's POWERFUL stab maims you!
+Andralis is in awful condition. 
+
+<174hp 371m 288mv> 
+You work a calculated strike into your form.
+Your strong strike destroys Andralis!
+Andralis is DEAD!!
+You receive 1113 experience points.
+You are promoted!!  You gain 16 hit points, 16 mana, and 8 movement.
+You hear Andralis's death cry.
+You get 3 copper coins from the corpse of Andralis.
+You get 3 silver coins from the corpse of Andralis.
+You get 1 gold coins from the corpse of Andralis.
+You quickly destroy the corpse of Andralis.
+
+<174hp 369m 288mv> 
+clear
+Buffer cleared.
+
+<174hp 369m 288mv> 
+drink jug
+It is already empty.
+
+<174hp 369m 288mv> 
+save
+Saving.  Remember that Avendar will save you automatically.
+
+<174hp 369m 288mv> 
+who
+[23 Swo] Veljik v'Edaris the Master of the Boar
+
+Players found: 1
+
+l
+<174hp 369m 288mv> 
+The Common Room of the Arien Way
+  The common room of the Arien Way is a large square chamber, panelled with
+planks of scented pines.  Filled with tables and the smoke of the torches
+which illuminate the chamber, this room is a common gathering place for the
+merchants who frequent the Arien Plaza.  The room's decor seems to be a cut
+above the typical tavern, with the occasional painting adorning the walls,
+and a simple tile mosaic covering the floor.  The common room continues west
+and north of here.  
+
+[Exits: north west]
+     A pair of gauntlets of shining steel rests on the ground.
+     A pair of finely crafted armguards rests on the ground.
+     A ornate and crested halberd lies on the ground.
+A brown-skinned caladaran woman sits here, huddled in her robes.
+A brown-furred kankoran slurps noisily on a mug of ale.
+
+<174hp 369m 288mv> 
+get all
+You get a pair of gauntlets of shining steel.
+You get a pair of finely crafted armguards.
+You get an ornate halberd.
+
+<174hp 369m 288mv> 
+autoloot
+Automatic corpse looting set.
+
+<174hp 369m 288mv> 
+n
+The Common Room of the Arien Way
+  The common room of the Arien Way is a large square chamber, panelled with
+planks of scented pines.  Filled with tables and the smoke of the torches
+which illuminate the chamber, this room is a common gathering place for the
+merchants who frequent the Arien Plaza.  The room's decor seems to be a cut
+above the typical tavern, with the occasional painting adorning the walls,
+and a simple tile mosaic covering the floor.  The common room continues in
+all directions save east.  
+
+[Exits: north south west]
+A portly merchant sits here, having dinner.
+
+<174hp 369m 287mv> 
+n
+The Common Room of the Arien Way
+  The common room of the Arien Way is a large square chamber, panelled with
+planks of scented pines.  Filled with tables and the smoke of the torches
+which illuminate the chamber, this room is a common gathering place for the
+merchants who frequent the Arien Plaza.  The room's decor seems to be a cut
+above the typical tavern, with the occasional painting adorning the walls,
+and a simple tile mosaic covering the floor.  An exit lies to a hallway to
+the east, and the bar is further west of here.  
+
+[Exits: east south west]
+
+e
+<174hp 369m 286mv> 
+The Arien Way
+  The Arien Way tavern's common room is west of here, opening past an
+arched entryway.  The end of a wood-panelled hallway, this area connects to
+a small anteroom to the south, and a stairwell leads north to the rooms above. 
+
+[Exits: north south west]
+
+s
+<174hp 369m 285mv> 
+s
+Anteroom of the Arien Way
+  This small hallway serves as the anteroom for the Arien Way, a popular
+tavern in this part of Earendam.  Covered in panelled pine, the walls of the
+hallway narrow in a doorway to the north, leading to the interior of the
+tavern.  Covering the floor of the anteroom is a tiled mosaic, depicting the
+traditional sign of a tavern, made using colored stones from the Brintors. 
+The streets of Arien plaza are to the south.  
+
+[Exits: north south]
+A grizzled ethron is here, eyeing people as they enter.
+
+<174hp 369m 284mv> 
+The Northwestern Arien Plaza
+  The northwestern corner of the Arien Plaza bustles with activity as it
+approaches the city walls of Earendam to the west.  Travelers and merchants
+wander through the area, mainly heading to, or coming from the west gate of
+Earendam to the south.  The edge of the plaza lines a row of shops to the
+east, but comes to an end here, where a large inn sits in the crook between
+the city wall and the shops to the east, and is marked by the sign of a
+flagon and bedroll.  
+
+[Exits: north east south]
+A merchant's bodyguard scans the crowd, watchful of his charge.
+A merchant of Earendam mills about the plaza.
+
+<174hp 369m 283mv> 
+e
+You gained 1 exploration point and 50 experience points!
+The Northern Arien Plaza
+  The northern half of the Arien Plaza bustles with activity as merchants
+and travelers pass through the plaza to and from the west gate of the city,
+which lies to the southwest.  The plaza continues in every direction except
+the north, where an open shop front advertises provisions for passing
+travellers.  Of particular note is the center of the plaza to the south,
+where a statue and fountain are visible.  
+
+[Exits: north east south west]
+
+<174hp 369m 282mv> 
+drink
+Drink what?
+
+drink
+<174hp 369m 282mv> Drink what?
+
+<174hp 369m 282mv> 
+e
+The Northeastern Arien Plaza
+  The northeastern corner of the Arien Plaza bustles with activity as
+merchants and travelers pass through the area, heading to and from the west
+gate of the city, which lies southwest.  The open expanse of the plaza
+gradually comes to an end here, eventually terminating in a series of shops
+to the north, and the wall of a tall building to the east.  Most prominent
+among the shops to the north is a supply house of some sort, from which
+merchants trickle in and out, gathering supplies for their journeys along
+the Arien.  
+
+[Exits: north south west]
+A merchant's bodyguard scans the crowd, watchful of his charge.
+A merchant of Earendam mills about the plaza.
+
+<174hp 369m 281mv> 
+s
+The Eastern Arien Plaza
+  The Arien plaza comes to an end here, narrowing to Frinian Way, which
+winds eastward into the part of the city known as New Earendam.  The
+merchants who mill about the other parts of the plaza thin here, and the
+travelers heading east here tend to be artisans or scholars of one form or
+the other.  Shops line the sides of the plaza further north and south, and a
+fountain dominates the center of the plaza to the west.  
+
+[Exits: north east south west]
+
+<174hp 369m 280mv> 
+w
+The Center of Arien Plaza
+  The Arien plaza stretches in all directions around this point.  From
+here, you can make out the locations on the periphery of this almost
+perfectly square plaza.  Travelers head to and from a gate to the west,
+filling the square with merchants and others, passing through the city by
+way of the Arien road.  Further east, the square eventually leads to the
+eastern portion of the city, while a similar passage cuts through a wall a
+ways to the south.  The north wall of the plaza is dominated by a series of
+shops and taverns, mainly devoted to providing for the merchants who pass
+through here.  The exact center of the plaza houses a sizeable granite
+fountain, its circular base surrounding a pool whose water source is a
+statue of tall caladaran.  The cobblestone ground of the plaza bears shows
+many signs of wear and use, the fountain being a popular gathering place for
+merchants newly arrived in the city.  A small, square grate sits at the
+eastern side of the base of the fountain.  
+
+[Exits: north east south west (down)]
+A muscular protector is loitering here, surveying the area casually.
+
+<174hp 369m 279mv> 
+drink
+drink
+You drink water from a granite fountain.
+You are full.
+Your thirst is quenched.
+
+<174hp 369m 279mv> You drink water from a granite fountain.
+You are full.
+Your thirst is quenched.
+
+<174hp 369m 279mv> 
+fill jug
+You fill an earthen jug with water from a granite fountain.
+
+<174hp 369m 279mv> 
+w
+The Western Arien Plaza
+  The Arien Plaza comes to an end here as it approaches the western gate of
+Earendam.  Travelers and merchants head out through this gate onto the
+Arien road, bringing goods to and from the lands to the west.  Set in the
+northwestern portion of the city, this plaza is a square ringed on all
+sides by the buildings and walls of New Earendam.  Paved with cobblestones
+long worn smooth by the feet of travelers entering the city from the Arien
+road, the center of the square lies eastward, where an ornate fountain
+serves as a resting place for the main body of the populace in the immediate
+area.  Shops line the northern edge of the square, while southward the plaza
+eventually terminates in a stone wall.  
+
+[Exits: north east south west]
+A hulking alatharya porter carries goods for a merchant.
+A merchant from Var Bandor strolls through the plaza.
+
+<174hp 369m 278mv> 
+w
+The West Gate of Earendam
+  Earendam's west gates are made of sturdy iron, built between two tall
+stone pillars.  Reinforcing these gates are several stout bars of iron,
+treated to preserve them from wear.  Outside the gates, the Arien Road heads
+west, cutting across the plains which give it its namesake.  Inside, the
+Arien Plaza opens, marking the beginning of Earendam proper.  
+
+[Exits: east west]
+An Earendam gate guard stands at attention.
+An Earendam gate guard stands at attention.
+
+<174hp 369m 277mv> 
+w
+The Arien Road
+  Outside the western gates of Earendam, the Arien Road stretches into the
+distance to the west.  Leading through the Plains of Arien to Var Bandor,
+the broad strip of stones accomodates a great number of caravans, travelers
+and merchants.  
+
+[Exits: north east south west]
+
+<174hp 369m 276mv> 
+whe
+Notables in Avendar (currently in The Outskirts of Earendam):
+  (PK) Veljik                The Arien Road                    [present]    
+
+Total found: 1
+
+who
+<174hp 369m 276mv> 
+[23 Swo] Veljik v'Edaris the Master of the Boar
+
+Players found: 1
+
+<174hp 369m 276mv> 
+e
+The West Gate of Earendam
+  Earendam's west gates are made of sturdy iron, built between two tall
+stone pillars.  Reinforcing these gates are several stout bars of iron,
+treated to preserve them from wear.  Outside the gates, the Arien Road heads
+west, cutting across the plains which give it its namesake.  Inside, the
+Arien Plaza opens, marking the beginning of Earendam proper.  
+
+[Exits: east west]
+An Earendam gate guard stands at attention.
+An Earendam gate guard stands at attention.
+
+<189hp 426m 296mv> 
+slee bag
+You go to sleep on a heavy sleeping bag.
+You drift off to sleep almost immediately...
+
+<189hp 426m 296mv> 
+who
+sk
+form
+[23 Swo] Veljik v'Edaris the Master of the Boar
+
+Players found: 1
+
+<189hp 426m 296mv> 
+Level  1: dagger              75%        sword               94%        
+          parry               82%        grace              100%        
+          recover             75%        
+Level  2: enhanced damage     83%        
+Level  3: dual wield         100%        
+Level  4: dodge               77%        
+Level  5: rescue              75%        
+Level  6: fast healing        79%        
+Level  7: meditation          78%        
+Level  8: offhand parry       76%        
+Level  9: second attack       78%        
+Level 10: meditative strike  100%        
+Level 12: stunning blow       75%        
+Level 14: disarm              78%        
+Level 15: third attack        77%        
+Level 17: trance              79%        
+Level 20: offhand disarm      75%        
+Level 25: fourth attack      n/a      
+Level 30: feint              n/a      
+Level 35: reversal of fortune n/a      
+Level 40: versatility        n/a      
+Level 46: favored blade      n/a      
+
+<189hp 426m 296mv> 
+Level  8:    77%     10 mana    form of the bull                        
+Level 10:    75%      5 mana    form of the serpent                     
+Level 12:    75%     20 mana    form of the hawk                        
+Level 14:    82%     20 mana    form of the mongoose                    
+Level 16:    77%      5 mana    form of the monkey                      
+Level 18:    75%     20 mana    form of the spider                      
+Level 20:    75%     20 mana    form of the panther                     
+Level 22:    75%      5 mana    form of the boar                        
+Level 24:   n/a    form of the reed                        
+Level 26:   n/a    form of the eagle                       
+Level 28:   n/a    form of the crab                        
+Level 30:   n/a    form of the mockingbird                 
+Level 32:   n/a    form of the viper                       
+Level 34:   n/a    form of the dragon                      
+Level 36:   n/a    form of the rose                        
+Level 38:   n/a    form of the cat                         
+Level 40:   n/a    form of the bear                        
+Level 42:   n/a    form of the wasp                        
+Level 44:   n/a    form of the whirlwind                   
+
+<189hp 426m 296mv> 
+help reed
+/---------------------------------------------------------------------------\
+|          Form of the Reed (Form)                                          |
+\---------------------------------------------------------------------------/
+
+Activation lag  :  1.0 rounds
+Activation cost :  20 mana
+Maintenance cost:  20 mana per round
+
+
+Syntax: Assume 'Form of the Reed'
+
+In the form of the reed, the swordmaster focuses all of abilities on using
+his weapon to beat back his opponents attack.  Bending like a reed in the
+wind, his ability to both parry and offhand parry is doubled.  However, this
+level of focus means that he is then unable to attempt second, third, or
+fourth attacks, and will lower the amount of damage dealt by a meditative
+strike.  
+
+See also: PARRY, OFFHAND PARRY 
+
+<189hp 426m 296mv> 
+whe
+In your dreams, or what?
+
+who
+<266hp 492m 296mv> 
+[23 Swo] Veljik v'Edaris the Master of the Boar
+
+Players found: 1
+
+l
+<266hp 492m 296mv> 
+In your dreams, or what?
+
+<266hp 492m 296mv> 
+gr
+Veljik's group:
+[23 Swo] Veljik            475/ 565 hp  492/ 492 mana  296/ 296 mv 
+
+<475hp 492m 296mv> 
+l
+In your dreams, or what?
+
+<475hp 492m 296mv> 
+gr
+Veljik's group:
+[23 Swo] Veljik            475/ 565 hp  492/ 492 mana  296/ 296 mv 
+
+<475hp 492m 296mv> 
+who
+[23 Swo] Veljik v'Edaris the Master of the Boar
+
+Players found: 1
+
+<475hp 492m 296mv> 
+in
+You are carrying:
+     an ornate halberd
+     a pair of finely crafted armguards
+     a pair of gauntlets of shining steel
+     a clay mug of xarroloalko
+     (Glowing) a gleaming gold ring
+     a ring of water walking
+     a golden band set with a yellow diamond
+     an earthen jug
+     a heavy sleeping bag
+     some fanged sharkskin gloves
+     a sooty hide cloak
+     (Glowing) a pair of glittering golden wingblades
+     (Humming) a Ring of Void
+     a suede, down-filled blanket
+     an engraved steel ring on a thin cord
+     (Humming) a bone-hilted rapier
+     a whale-skin canoe
+     a huge canvas backpack
+
+<475hp 492m 296mv> 
+eq
+You are using:
+<worn on finger>    (Glowing) a Ring of Fire
+<worn on finger>    a golden band set with a yellow diamond
+<worn around neck>  a short, silken neck-scarf
+<worn around neck>  a short, silken neck-scarf
+<worn on torso>     a wrapped silk shirt
+<worn on head>      a row of hawk feathers
+<worn on legs>      a set of plate leggings
+<worn on feet>      an embroidered pair of flat shoes
+<worn on hands>     a griffinrider's leather gloves
+<worn on arms>      a pair of fur-lined sleeves
+<worn about body>   an opulent robe with a dripping hexagon clasp
+<worn about waist>  a woven belt
+<worn around wrist> a tattered, mud-caked leather bracer
+<worn around wrist> a pearl and diamond bracelet
+<wielded>           (Humming) the tapered shortsword "Biter"
+<dual wielded>      a hand-made idruusa
+<branded>           the Sigil of the School of Heroes
+
+<475hp 492m 296mv> 
+sk
+
+Level  1: dagger              75%        sword               94%        
+          parry               82%        grace              100%        
+          recover             75%        
+Level  2: enhanced damage     83%        
+Level  3: dual wield         100%        
+Level  4: dodge               77%        
+Level  5: rescue              75%        
+Level  6: fast healing        79%        
+Level  7: meditation          78%        
+Level  8: offhand parry       76%        
+Level  9: second attack       78%        
+Level 10: meditative strike  100%        
+Level 12: stunning blow       75%        
+Level 14: disarm              78%        
+Level 15: third attack        77%        
+Level 17: trance              79%        
+Level 20: offhand disarm      75%        
+Level 25: fourth attack      n/a      
+Level 30: feint              n/a      
+Level 35: reversal of fortune n/a      
+Level 40: versatility        n/a      
+Level 46: favored blade      n/a      
+
+sp
+<475hp 492m 296mv> 
+No spells found.
+
+<475hp 492m 296mv> 
+whe
+In your dreams, or what?
+
+<475hp 492m 296mv> 
+who
+[23 Swo] Veljik v'Edaris the Master of the Boar
+
+Players found: 1
+
+<475hp 492m 296mv> 
+worth
+You have 9 gold, 7 silver, 7 copper, and 107006 experience (7708 exp to level).
+You have 985 exploration points (0 ep to level).
+You are unencumbered by your equipment.
+
+<475hp 492m 296mv> 
+help axe
+/---------------------------------------------------------------------------\
+|          Axe (Skill)                                                      |
+\---------------------------------------------------------------------------/
+
+Activation lag  :  0.0 rounds
+Activation cost :  0 mana
+
+Syntax: Automatic
+
+Bladed weapons with a typically short haft, axes are most often favoured by
+barbarians, who enjoy their lack of subtlety and learn specific techniques for
+them. Axes may be found in many sizes, for both one and two-handed use. They
+typically deal slashing damage, and they are characteristically poor at
+fending off blows, due to their balance and lack of finesse. The weighty
+swings often required by axes make it suited against both shield blocking and
+deflection, but much easier for opponents to fend off or stone phalanx.
+
+
+See also: PARRY
+
+<475hp 492m 296mv> 
+gr
+Veljik's group:
+[23 Swo] Veljik            550/ 565 hp  492/ 492 mana  296/ 296 mv 
+
+<550hp 492m 296mv> 
+st
+You wake and stand up.
+
+<550hp 492m 296mv> 
+w
+The Arien Road
+  Outside the western gates of Earendam, the Arien Road stretches into the
+distance to the west.  Leading through the Plains of Arien to Var Bandor,
+the broad strip of stones accomodates a great number of caravans, travelers
+and merchants.  
+
+[Exits: north east south west]
+
+<550hp 492m 295mv> 
+e
+The West Gate of Earendam
+  Earendam's west gates are made of sturdy iron, built between two tall
+stone pillars.  Reinforcing these gates are several stout bars of iron,
+treated to preserve them from wear.  Outside the gates, the Arien Road heads
+west, cutting across the plains which give it its namesake.  Inside, the
+Arien Plaza opens, marking the beginning of Earendam proper.  
+
+[Exits: east west]
+An Earendam gate guard stands at attention.
+An Earendam gate guard stands at attention.
+
+e
+<550hp 492m 294mv> 
+The Western Arien Plaza
+  The Arien Plaza comes to an end here as it approaches the western gate of
+Earendam.  Travelers and merchants head out through this gate onto the
+Arien road, bringing goods to and from the lands to the west.  Set in the
+northwestern portion of the city, this plaza is a square ringed on all
+sides by the buildings and walls of New Earendam.  Paved with cobblestones
+long worn smooth by the feet of travelers entering the city from the Arien
+road, the center of the square lies eastward, where an ornate fountain
+serves as a resting place for the main body of the populace in the immediate
+area.  Shops line the northern edge of the square, while southward the plaza
+eventually terminates in a stone wall.  
+
+[Exits: north east south west]
+A hulking alatharya porter carries goods for a merchant.
+A merchant from Var Bandor strolls through the plaza.
+
+n
+<550hp 492m 293mv> 
+n
+The Northwestern Arien Plaza
+  The northwestern corner of the Arien Plaza bustles with activity as it
+approaches the city walls of Earendam to the west.  Travelers and merchants
+wander through the area, mainly heading to, or coming from the west gate of
+Earendam to the south.  The edge of the plaza lines a row of shops to the
+east, but comes to an end here, where a large inn sits in the crook between
+the city wall and the shops to the east, and is marked by the sign of a
+flagon and bedroll.  
+
+[Exits: north east south]
+A merchant's bodyguard scans the crowd, watchful of his charge.
+A merchant of Earendam mills about the plaza.
+
+n
+<550hp 492m 292mv> 
+Anteroom of the Arien Way
+  This small hallway serves as the anteroom for the Arien Way, a popular
+tavern in this part of Earendam.  Covered in panelled pine, the walls of the
+hallway narrow in a doorway to the north, leading to the interior of the
+tavern.  Covering the floor of the anteroom is a tiled mosaic, depicting the
+traditional sign of a tavern, made using colored stones from the Brintors. 
+The streets of Arien plaza are to the south.  
+
+[Exits: north south]
+A grizzled ethron is here, eyeing people as they enter.
+
+w
+<550hp 492m 291mv> 
+s
+s
+The Arien Way
+  The Arien Way tavern's common room is west of here, opening past an
+arched entryway.  The end of a wood-panelled hallway, this area connects to
+a small anteroom to the south, and a stairwell leads north to the rooms above. 
+
+[Exits: north south west]
+
+s
+<550hp 492m 290mv> 
+The Common Room of the Arien Way
+  The common room of the Arien Way is a large square chamber, panelled with
+planks of scented pines.  Filled with tables and the smoke of the torches
+which illuminate the chamber, this room is a common gathering place for the
+merchants who frequent the Arien Plaza.  The room's decor seems to be a cut
+above the typical tavern, with the occasional painting adorning the walls,
+and a simple tile mosaic covering the floor.  An exit lies to a hallway to
+the east, and the bar is further west of here.  
+
+[Exits: east south west]
+
+<550hp 492m 289mv> 
+The Common Room of the Arien Way
+  The common room of the Arien Way is a large square chamber, panelled with
+planks of scented pines.  Filled with tables and the smoke of the torches
+which illuminate the chamber, this room is a common gathering place for the
+merchants who frequent the Arien Plaza.  The room's decor seems to be a cut
+above the typical tavern, with the occasional painting adorning the walls,
+and a simple tile mosaic covering the floor.  The common room continues in
+all directions save east.  
+
+[Exits: north south west]
+A broad-shouldered bouncer meanders through the tavern.
+A portly merchant sits here, having dinner.
+
+l kajal
+<550hp 492m 288mv> 
+The Common Room of the Arien Way
+  The common room of the Arien Way is a large square chamber, panelled with
+planks of scented pines.  Filled with tables and the smoke of the torches
+which illuminate the chamber, this room is a common gathering place for the
+merchants who frequent the Arien Plaza.  The room's decor seems to be a cut
+above the typical tavern, with the occasional painting adorning the walls,
+and a simple tile mosaic covering the floor.  The common room continues west
+and north of here.  
+
+[Exits: north west]
+A brown-skinned caladaran woman sits here, huddled in her robes.
+A brown-furred kankoran slurps noisily on a mug of ale.
+
+<550hp 492m 287mv> 
+Alas, you cannot go that way.
+
+<550hp 492m 287mv> A brown-furred kankoran, Kajal sits at a wooden table here, slurping a
+mug of ale.  Dressed in the hides of a barbarian, Kajal's ferocious
+countenance is nevertheless broken by a sporadic toothy grin as he recounts
+some tale of adventure, or overhears the occasional joke.  
+Kajal is in excellent condition.
+
+Kajal is using:
+<worn around wrist> a bracelet of spiked bones
+<worn around wrist> a bracelet of spiked bones
+<two-handed>        a long-handled axe
+
+a mong
+<550hp 492m 287mv> You try to assume the form, but you can't quite get it right.
+
+<550hp 485m 287mv> 
+a mong
+frown
+You step out of the form of the mongoose.
+You step into the form of the mongoose.
+
+<550hp 478m 287mv> You frown.
+
+<550hp 478m 287mv> 
+k kajal
+Your POWERFUL sting injures Kajal!
+Your strong slash hits Kajal!
+Kajal dodges your attack.
+Kajal has a few scratches. 
+
+<550hp 478m 287mv> 
+
+Kajal dodges your attack.
+Your slash misses Kajal.
+Your POTENT sting injures Kajal!
+You have become better at second attack, and receive 79 experience!
+Kajal's FORCEFUL chop rends you!
+Kajal has a few scratches. 
+
+<477hp 461m 287mv> 
+alias h k kajal
+h is now realiased to 'k kajal'.
+Kajal has a few scratches. 
+
+<477hp 461m 287mv> 
+flee
+The Common Room of the Arien Way
+  The common room of the Arien Way is a large square chamber, panelled with
+planks of scented pines.  Filled with tables and the smoke of the torches
+which illuminate the chamber, this room is a common gathering place for the
+merchants who frequent the Arien Plaza.  The room's decor seems to be a cut
+above the typical tavern, with the occasional painting adorning the walls,
+and a simple tile mosaic covering the floor.  The common room continues
+north and east, and meets the bar west of here.  
+
+[Exits: north east west]
+     A soapstone chessboard sits on a table here.
+You flee from combat!
+
+flee
+<477hp 461m 286mv> 
+You aren't fighting anyone.
+
+<477hp 461m 286mv> 
+e
+The Common Room of the Arien Way
+  The common room of the Arien Way is a large square chamber, panelled with
+planks of scented pines.  Filled with tables and the smoke of the torches
+which illuminate the chamber, this room is a common gathering place for the
+merchants who frequent the Arien Plaza.  The room's decor seems to be a cut
+above the typical tavern, with the occasional painting adorning the walls,
+and a simple tile mosaic covering the floor.  The common room continues west
+and north of here.  
+
+[Exits: north west]
+A brown-skinned caladaran woman sits here, huddled in her robes.
+A brown-furred kankoran slurps noisily on a mug of ale.
+
+h
+<477hp 461m 285mv> 
+Your FORCEFUL sting wounds Kajal!
+Your POTENT slash injures Kajal!
+Kajal has some small wounds and bruises. 
+
+<477hp 461m 285mv> 
+fle
+fle
+fle
+
+Your strong sting hits Kajal!
+Your FORCEFUL sting wounds Kajal!
+Kajal's FORCEFUL chop rends you!
+Kajal has some small wounds and bruises. 
+
+<407hp 444m 285mv> 
+The Common Room of the Arien Way
+  The common room of the Arien Way is a large square chamber, panelled with
+planks of scented pines.  Filled with tables and the smoke of the torches
+which illuminate the chamber, this room is a common gathering place for the
+merchants who frequent the Arien Plaza.  The room's decor seems to be a cut
+above the typical tavern, with the occasional painting adorning the walls,
+and a simple tile mosaic covering the floor.  The common room continues
+north and east, and meets the bar west of here.  
+
+[Exits: north east west]
+     A soapstone chessboard sits on a table here.
+You flee from combat!
+
+<413hp 475m 295mv> 
+You aren't fighting anyone.
+
+e
+<413hp 475m 295mv> You aren't fighting anyone.
+
+h
+<413hp 475m 295mv> The Common Room of the Arien Way
+  The common room of the Arien Way is a large square chamber, panelled with
+planks of scented pines.  Filled with tables and the smoke of the torches
+which illuminate the chamber, this room is a common gathering place for the
+merchants who frequent the Arien Plaza.  The room's decor seems to be a cut
+above the typical tavern, with the occasional painting adorning the walls,
+and a simple tile mosaic covering the floor.  The common room continues west
+and north of here.  
+
+[Exits: north west]
+A brown-skinned caladaran woman sits here, huddled in her robes.
+A brown-furred kankoran slurps noisily on a mug of ale.
+
+<413hp 475m 294mv> 
+Kajal dodges your attack with casual grace.
+Kajal parries your attack.
+Your POTENT sting injures Kajal!
+Your POTENT slash injures Kajal!
+Your FORCEFUL sting wounds Kajal!
+Kajal parries your attack.
+Kajal has quite a few wounds. 
+
+<413hp 475m 294mv> 
+
+Your POTENT sting injures Kajal!
+Your slash misses Kajal.
+Kajal's FORCEFUL chop mauls you!
+Kajal has quite a few wounds. 
+
+<341hp 458m 294mv> 
+flee
+flee
+flee
+The Common Room of the Arien Way
+  The common room of the Arien Way is a large square chamber, panelled with
+planks of scented pines.  Filled with tables and the smoke of the torches
+which illuminate the chamber, this room is a common gathering place for the
+merchants who frequent the Arien Plaza.  The room's decor seems to be a cut
+above the typical tavern, with the occasional painting adorning the walls,
+and a simple tile mosaic covering the floor.  The common room continues in
+all directions save east.  
+
+[Exits: north south west]
+A broad-shouldered bouncer meanders through the tavern.
+A portly merchant sits here, having dinner.
+You flee from combat!
+
+<341hp 458m 293mv> 
+You aren't fighting anyone.
+
+e
+<341hp 458m 293mv> You aren't fighting anyone.
+
+<341hp 458m 293mv> Alas, you cannot go that way.
+
+<341hp 458m 293mv> 
+s
+The Common Room of the Arien Way
+  The common room of the Arien Way is a large square chamber, panelled with
+planks of scented pines.  Filled with tables and the smoke of the torches
+which illuminate the chamber, this room is a common gathering place for the
+merchants who frequent the Arien Plaza.  The room's decor seems to be a cut
+above the typical tavern, with the occasional painting adorning the walls,
+and a simple tile mosaic covering the floor.  The common room continues west
+and north of here.  
+
+[Exits: north west]
+A brown-skinned caladaran woman sits here, huddled in her robes.
+A brown-furred kankoran slurps noisily on a mug of ale.
+
+h
+<341hp 458m 292mv> 
+Kajal dodges your attack.
+Your strong slash injures Kajal!
+Your FORCEFUL sting damages Kajal!
+Your strong sting injures Kajal!
+Your strong slash wounds Kajal!
+Your POTENT sting wounds Kajal!
+Kajal barely manages to parry your attack.
+Kajal has quite a few wounds. 
+
+<341hp 458m 292mv> 
+
+Your POTENT sting damages Kajal!
+Your sting misses Kajal.
+Kajal's FORCEFUL chop savages you!
+Kajal has some big nasty wounds and scratches. 
+
+flee
+<271hp 441m 292mv> 
+flee
+flee
+The Common Room of the Arien Way
+  The common room of the Arien Way is a large square chamber, panelled with
+planks of scented pines.  Filled with tables and the smoke of the torches
+which illuminate the chamber, this room is a common gathering place for the
+merchants who frequent the Arien Plaza.  The room's decor seems to be a cut
+above the typical tavern, with the occasional painting adorning the walls,
+and a simple tile mosaic covering the floor.  The common room continues in
+all directions save east.  
+
+[Exits: north south west]
+A broad-shouldered bouncer meanders through the tavern.
+A portly merchant sits here, having dinner.
+You flee from combat!
+
+<271hp 441m 291mv> 
+You aren't fighting anyone.
+
+<271hp 441m 291mv> You aren't fighting anyone.
+
+s
+<271hp 441m 291mv> The Common Room of the Arien Way
+  The common room of the Arien Way is a large square chamber, panelled with
+planks of scented pines.  Filled with tables and the smoke of the torches
+which illuminate the chamber, this room is a common gathering place for the
+merchants who frequent the Arien Plaza.  The room's decor seems to be a cut
+above the typical tavern, with the occasional painting adorning the walls,
+and a simple tile mosaic covering the floor.  The common room continues west
+and north of here.  
+
+[Exits: north west]
+A brown-skinned caladaran woman sits here, huddled in her robes.
+A brown-furred kankoran slurps noisily on a mug of ale.
+
+h
+<271hp 441m 290mv> 
+Kajal barely manages to parry your attack.
+Kajal has some big nasty wounds and scratches. 
+
+<271hp 441m 290mv> 
+flee
+flee
+
+You have become better at form of the mongoose, and receive 83 experience!
+You have become better at sword, and receive 95 experience!
+Your POTENT sting damages Kajal!
+You parry Kajal's attack with your off hand.
+Kajal has some big nasty wounds and scratches. 
+
+<271hp 424m 290mv> 
+The Common Room of the Arien Way
+  The common room of the Arien Way is a large square chamber, panelled with
+planks of scented pines.  Filled with tables and the smoke of the torches
+which illuminate the chamber, this room is a common gathering place for the
+merchants who frequent the Arien Plaza.  The room's decor seems to be a cut
+above the typical tavern, with the occasional painting adorning the walls,
+and a simple tile mosaic covering the floor.  The common room continues
+north and east, and meets the bar west of here.  
+
+[Exits: north east west]
+     A soapstone chessboard sits on a table here.
+You flee from combat!
+
+<271hp 424m 289mv> 
+You aren't fighting anyone.
+
+<271hp 424m 289mv> 
+e
+h
+The Common Room of the Arien Way
+  The common room of the Arien Way is a large square chamber, panelled with
+planks of scented pines.  Filled with tables and the smoke of the torches
+which illuminate the chamber, this room is a common gathering place for the
+merchants who frequent the Arien Plaza.  The room's decor seems to be a cut
+above the typical tavern, with the occasional painting adorning the walls,
+and a simple tile mosaic covering the floor.  The common room continues west
+and north of here.  
+
+[Exits: north west]
+A brown-skinned caladaran woman sits here, huddled in her robes.
+A brown-furred kankoran slurps noisily on a mug of ale.
+
+<271hp 424m 288mv> 
+Kajal parries your attack.
+Your strong slash damages Kajal!
+Your POTENT sting damages Kajal!
+Your FORCEFUL sting harms Kajal!
+Your FORCEFUL sting harms Kajal!
+Kajal parries your attack.
+Your FORCEFUL sting tears into Kajal!
+Kajal dodges your attack.
+Your POTENT sting tears into Kajal!
+Your POTENT sting tears into Kajal!
+You have become better at enhanced damage, and receive 84 experience!
+Kajal easily dodges your attack.
+Kajal narrowly dodges your attack.
+Your FORCEFUL sting rends Kajal!
+Your POTENT slash rends Kajal!
+Kajal's FIERCE chop maims you!
+Kajal looks pretty hurt. 
+
+<183hp 407m 288mv> 
+flee
+flee
+flee
+
+Your POTENT sting mauls Kajal!
+Kajal narrowly dodges your attack.
+Kajal dodges your attack.
+Your FORCEFUL sting mutilates Kajal!
+Your strong slash savages Kajal!
+You barely dodge Kajal's attack.
+Kajal is in awful condition. 
+
+<183hp 390m 288mv> The Common Room of the Arien Way
+  The common room of the Arien Way is a large square chamber, panelled with
+planks of scented pines.  Filled with tables and the smoke of the torches
+which illuminate the chamber, this room is a common gathering place for the
+merchants who frequent the Arien Plaza.  The room's decor seems to be a cut
+above the typical tavern, with the occasional painting adorning the walls,
+and a simple tile mosaic covering the floor.  The common room continues
+north and east, and meets the bar west of here.  
+
+[Exits: north east west]
+     A soapstone chessboard sits on a table here.
+You flee from combat!
+
+<183hp 390m 287mv> 
+You aren't fighting anyone.
+
+<183hp 390m 287mv> You aren't fighting anyone.
+
+e
+h
+<183hp 390m 287mv> The Common Room of the Arien Way
+  The common room of the Arien Way is a large square chamber, panelled with
+planks of scented pines.  Filled with tables and the smoke of the torches
+which illuminate the chamber, this room is a common gathering place for the
+merchants who frequent the Arien Plaza.  The room's decor seems to be a cut
+above the typical tavern, with the occasional painting adorning the walls,
+and a simple tile mosaic covering the floor.  The common room continues west
+and north of here.  
+
+[Exits: north west]
+A brown-skinned caladaran woman sits here, huddled in her robes.
+A brown-furred kankoran slurps noisily on a mug of ale.
+
+<183hp 390m 286mv> 
+Kajal parries your attack.
+Your strong slash maims Kajal!
+Kajal parries your attack.
+Kajal is in awful condition. 
+
+<183hp 390m 286mv> 
+flee
+
+Kajal parries your attack.
+Your strong slash mangles Kajal!
+Your FORCEFUL sting sunders Kajal!
+Kajal's POWERFUL chop mangles you!
+You sure are BLEEDING!
+Kajal is in awful condition. 
+
+flee
+flee
+<102hp 373m 286mv> 
+PANIC! You couldn't escape!
+Kajal is in awful condition. 
+
+<102hp 373m 286mv> The Common Room of the Arien Way
+  The common room of the Arien Way is a large square chamber, panelled with
+planks of scented pines.  Filled with tables and the smoke of the torches
+which illuminate the chamber, this room is a common gathering place for the
+merchants who frequent the Arien Plaza.  The room's decor seems to be a cut
+above the typical tavern, with the occasional painting adorning the walls,
+and a simple tile mosaic covering the floor.  The common room continues
+north and east, and meets the bar west of here.  
+
+[Exits: north east west]
+     A soapstone chessboard sits on a table here.
+You flee from combat!
+
+<102hp 373m 285mv> 
+You aren't fighting anyone.
+
+e
+<102hp 373m 285mv> The Common Room of the Arien Way
+  The common room of the Arien Way is a large square chamber, panelled with
+planks of scented pines.  Filled with tables and the smoke of the torches
+which illuminate the chamber, this room is a common gathering place for the
+merchants who frequent the Arien Plaza.  The room's decor seems to be a cut
+above the typical tavern, with the occasional painting adorning the walls,
+and a simple tile mosaic covering the floor.  The common room continues west
+and north of here.  
+
+[Exits: north west]
+A brown-skinned caladaran woman sits here, huddled in her robes.
+A brown-furred kankoran slurps noisily on a mug of ale.
+
+h
+<102hp 373m 284mv> 
+Kajal parries your attack.
+Kajal frantically parries your attack.
+Kajal is in awful condition. 
+
+<102hp 373m 284mv> 
+flee
+flee
+flee
+
+You have become better at enhanced damage, and receive 85 experience!
+Your FORCEFUL sting eradicates Kajal!
+Kajal is DEAD!!
+You receive 1231 experience points.
+Kajal's arm is ripped from its socket.
+You get a long-handled axe from the corpse of Kajal.
+You get a bracelet of spiked bones from the corpse of Kajal.
+You get a bracelet of spiked bones from the corpse of Kajal.
+You get 8 copper coins from the corpse of Kajal.
+You get 3 silver coins from the corpse of Kajal.
+You quickly destroy the corpse of Kajal.
+
+<102hp 356m 284mv> 
+You aren't fighting anyone.
+
+<115hp 411m 296mv> You aren't fighting anyone.
+
+<115hp 411m 296mv> You aren't fighting anyone.
+
+<115hp 411m 296mv> 
+n
+n
+The Common Room of the Arien Way
+  The common room of the Arien Way is a large square chamber, panelled with
+planks of scented pines.  Filled with tables and the smoke of the torches
+which illuminate the chamber, this room is a common gathering place for the
+merchants who frequent the Arien Plaza.  The room's decor seems to be a cut
+above the typical tavern, with the occasional painting adorning the walls,
+and a simple tile mosaic covering the floor.  The common room continues in
+all directions save east.  
+
+[Exits: north south west]
+A broad-shouldered bouncer meanders through the tavern.
+A portly merchant sits here, having dinner.
+
+<115hp 411m 295mv> 
+The Common Room of the Arien Way
+  The common room of the Arien Way is a large square chamber, panelled with
+planks of scented pines.  Filled with tables and the smoke of the torches
+which illuminate the chamber, this room is a common gathering place for the
+merchants who frequent the Arien Plaza.  The room's decor seems to be a cut
+above the typical tavern, with the occasional painting adorning the walls,
+and a simple tile mosaic covering the floor.  An exit lies to a hallway to
+the east, and the bar is further west of here.  
+
+[Exits: east south west]
+
+<115hp 411m 294mv> 
+e
+The Arien Way
+  The Arien Way tavern's common room is west of here, opening past an
+arched entryway.  The end of a wood-panelled hallway, this area connects to
+a small anteroom to the south, and a stairwell leads north to the rooms above. 
+
+[Exits: north south west]
+
+s
+<115hp 411m 293mv> 
+s
+Anteroom of the Arien Way
+  This small hallway serves as the anteroom for the Arien Way, a popular
+tavern in this part of Earendam.  Covered in panelled pine, the walls of the
+hallway narrow in a doorway to the north, leading to the interior of the
+tavern.  Covering the floor of the anteroom is a tiled mosaic, depicting the
+traditional sign of a tavern, made using colored stones from the Brintors. 
+The streets of Arien plaza are to the south.  
+
+[Exits: north south]
+A grizzled ethron is here, eyeing people as they enter.
+
+s
+<115hp 411m 292mv> 
+The Northwestern Arien Plaza
+  The northwestern corner of the Arien Plaza bustles with activity as it
+approaches the city walls of Earendam to the west.  Travelers and merchants
+wander through the area, mainly heading to, or coming from the west gate of
+Earendam to the south.  The edge of the plaza lines a row of shops to the
+east, but comes to an end here, where a large inn sits in the crook between
+the city wall and the shops to the east, and is marked by the sign of a
+flagon and bedroll.  
+
+[Exits: north east south]
+A merchant's bodyguard scans the crowd, watchful of his charge.
+A merchant of Earendam mills about the plaza.
+
+<115hp 411m 291mv> 
+The Western Arien Plaza
+  The Arien Plaza comes to an end here as it approaches the western gate of
+Earendam.  Travelers and merchants head out through this gate onto the
+Arien road, bringing goods to and from the lands to the west.  Set in the
+northwestern portion of the city, this plaza is a square ringed on all
+sides by the buildings and walls of New Earendam.  Paved with cobblestones
+long worn smooth by the feet of travelers entering the city from the Arien
+road, the center of the square lies eastward, where an ornate fountain
+serves as a resting place for the main body of the populace in the immediate
+area.  Shops line the northern edge of the square, while southward the plaza
+eventually terminates in a stone wall.  
+
+[Exits: north east south west]
+A hulking alatharya porter carries goods for a merchant.
+A merchant from Var Bandor strolls through the plaza.
+
+w
+<115hp 411m 290mv> 
+The West Gate of Earendam
+  Earendam's west gates are made of sturdy iron, built between two tall
+stone pillars.  Reinforcing these gates are several stout bars of iron,
+treated to preserve them from wear.  Outside the gates, the Arien Road heads
+west, cutting across the plains which give it its namesake.  Inside, the
+Arien Plaza opens, marking the beginning of Earendam proper.  
+
+[Exits: east west]
+An Earendam gate guard stands at attention.
+An Earendam gate guard stands at attention.
+
+<115hp 411m 289mv> 
+slee bag
+You go to sleep on a heavy sleeping bag.
+You drift off to sleep almost immediately...
+
+<115hp 411m 289mv> 
+whe
+who
+In your dreams, or what?
+
+<115hp 411m 289mv> [23 Swo] Veljik v'Edaris the Master of the Boar
+
+Players found: 1
+
+<115hp 411m 289mv> 
+
+You are sober.
+
+<232hp 492m 296mv> 
+
+You disappear into the void.
+
+<565hp 492m 296mv> 
+
+You are hungry.
+
+<565hp 492m 296mv> 
+
+You are hungry.
+
+<565hp 492m 296mv> 
+
+You are hungry.
+
+<565hp 492m 296mv> 
+
+You are hungry.
+
+<565hp 492m 296mv> 
+
+You are hungry.
+Alas, all good things must come to an end.
+    
+[ ALERT ] - Socket got disconnected.
+            Reason: The remote host closed the connection
+[ INFO ]  - Connection time: 00:25:25.531
+                
+[ INFO ]  - Looking up the IP address of server: avendar.net:9999 ...
+[ INFO ]  - The IP address of avendar.net has been found. It is: 74.91.112.143
+[ INFO ]  - Trying to connect to 74.91.112.143:9999 ...
+[ INFO ]  - A connection has been established successfully.
+                
+                
+
+          <| 
+           A              
+          /.          
+     \<|  [""M#         
+      A   | #                   AVENDAR: THE CRUCIBLE OF LEGENDS 
+     /. \[""M#                         [avendar.net 9999] 
+    [""M# | #  U"U#U                  
+     | #  | #   \.:/    Original DikuMUD by Hans Staerfeldt, Katja Nyboe, 
+     | #  | #___| #     Tom Madsen, Michael Seifert, and Sebastian Hammer 
+     | "--'     .-"     Based on MERC 2.1 code by Hatchet, Furey, and Kahn 
+   |"-"-"-"-"-#-#-##    ROM 2.4 copyright (c) 1993-1996 Russ Taylor 
+   |     # ## ######      
+           \.::::'/     Avendar created by Matt Wallace, Thane Williams, 
+           \::::'/      and Brandon Downey.  See HELP AVENDAR for more. 
+   :8a|    # # ##       
+   ::88a      ###       Avendar is maintained and developed by the Avendar 
+  ::::888a  8a ##::.                   Immortal staff. 
+  ::::::888a88a[]:::: 
+ :::::::::SUNDOGa8a::::. ..               
+ :::::8::::888:Y8888:::::::::...       
+::':::88::::888::Y88a______________________________________________________ 
+:: ::::88a::::88a:Y88a                                  __---__-- __ 
+' .: ::Y88a:::::8a:Y88a                            __----_-- -------_-__ 
+  :' ::::8P::::::::::88aa.                   _ _- --  --_ --- __  --- __-- 
+,::  :::::::::::::::::::Y88as88a...s88aa.
+
+Under what name shall your deeds be recorded?
+Account 'Tyeric' logging in.  Password: 
+
+
+The following characters are currently associated with this account:
+
+Qeqskil
+Veljik
+
+To create a new character, enter an original name at the following prompt.
+Enter character name to use: 
+veljik
+achilles
+    
+[ ALERT ] - Socket got disconnected.
+            Reason: The remote host closed the connection
+[ INFO ]  - Connection time: 14:07:32.363
+                
+[ INFO ]  - Looking up the IP address of server: avendar.net:9999 ...
+[ INFO ]  - The IP address of avendar.net has been found. It is: 74.91.112.143
+[ INFO ]  - Trying to connect to 74.91.112.143:9999 ...
+[ INFO ]  - A connection has been established successfully.
+                
+                
+
+          <| 
+           A              
+          /.          
+     \<|  [""M#         
+      A   | #                   AVENDAR: THE CRUCIBLE OF LEGENDS 
+     /. \[""M#                         [avendar.net 9999] 
+    [""M# | #  U"U#U                  
+     | #  | #   \.:/    Original DikuMUD by Hans Staerfeldt, Katja Nyboe, 
+     | #  | #___| #     Tom Madsen, Michael Seifert, and Sebastian Hammer 
+     | "--'     .-"     Based on MERC 2.1 code by Hatchet, Furey, and Kahn 
+   |"-"-"-"-"-#-#-##    ROM 2.4 copyright (c) 1993-1996 Russ Taylor 
+   |     # ## ######      
+           \.::::'/     Avendar created by Matt Wallace, Thane Williams, 
+           \::::'/      and Brandon Downey.  See HELP AVENDAR for more. 
+   :8a|    # # ##       
+   ::88a      ###       Avendar is maintained and developed by the Avendar 
+  ::::888a  8a ##::.                   Immortal staff. 
+  ::::::888a88a[]:::: 
+ :::::::::SUNDOGa8a::::. ..               
+ :::::8::::888:Y8888:::::::::...       
+::':::88::::888::Y88a______________________________________________________ 
+:: ::::88a::::88a:Y88a                                  __---__-- __ 
+' .: ::Y88a:::::8a:Y88a                            __----_-- -------_-__ 
+  :' ::::8P::::::::::88aa.                   _ _- --  --_ --- __  --- __-- 
+,::  :::::::::::::::::::Y88as88a...s88aa.
+
+Under what name shall your deeds be recorded?
+Account 'Tyeric' logging in.  Password: 
+
+
+The following characters are currently associated with this account:
+
+Qeqskil
+Veljik
+
+To create a new character, enter an original name at the following prompt.
+Enter character name to use: 
+veljik
+Password: 
+
+-------------- READ THE MOTD -- Last Modified: Apr 2025 -------------------
+|                                                                         |
+| . -You are responsible for knowing the rules-. See "help RULES".        |
+|                                                                         |
+| . For more information and discussion about the game, see:              |
+|                                                                         |
+|     . The Avendar Website:      https://avendar.net                     |
+|     . The Avendar Discord:      http://discord.gg/DXsZwVBsBV            |
+|                                                                         |
+| . The changelog (type CHANGES) is updated regularly with updates to     |
+|   Avendar.  Last Updated: 29 Apr 2025                                   |
+|                                                                         |
+| . Avendar is currently presented AS-IS. You may encounter errors or     |
+|   bugs. It is YOUR RESPONSIBILITY to not exploit them.                  |
+|                                                                         |
+---------------------------------------------------------------------------
+whe
+
+You open your eyes and cast your gaze upon the land.
+You received 405 experience today.
+The West Gate of Earendam
+  Earendam's west gates are made of sturdy iron, built between two tall
+stone pillars.  Reinforcing these gates are several stout bars of iron,
+treated to preserve them from wear.  Outside the gates, the Arien Road heads
+west, cutting across the plains which give it its namesake.  Inside, the
+Arien Plaza opens, marking the beginning of Earendam proper.  
+
+[Exits: east west]
+An Earendam gate guard stands at attention.
+An Earendam gate guard stands at attention.
+You have no unread notes.
+
+<581hp 538m 304mv> 
+who
+[24 Swo] Veljik v'Edaris the Student of the Reed
+
+Players found: 1
+
+<581hp 538m 304mv> 
+eq
+You are using:
+<worn on finger>    (Glowing) a Ring of Fire
+<worn on finger>    a golden band set with a yellow diamond
+<worn around neck>  a short, silken neck-scarf
+<worn around neck>  a short, silken neck-scarf
+<worn on torso>     a wrapped silk shirt
+<worn on head>      a row of hawk feathers
+<worn on legs>      a set of plate leggings
+<worn on feet>      an embroidered pair of flat shoes
+<worn on hands>     a griffinrider's leather gloves
+<worn on arms>      a pair of fur-lined sleeves
+<worn about body>   an opulent robe with a dripping hexagon clasp
+<worn about waist>  a woven belt
+<worn around wrist> a tattered, mud-caked leather bracer
+<worn around wrist> a pearl and diamond bracelet
+<wielded>           (Humming) the tapered shortsword "Biter"
+<floating nearby>   a tiny shield of ice
+<dual wielded>      a runed black scimitar
+<branded>           the Sigil of the School of Heroes
+
+<581hp 538m 304mv> 
+remove belt
+You stop using a woven belt.
+
+<581hp 538m 304mv> 
+id belt
++------------------------+
+| Object:   a woven belt |
+| Flags:    none         |
+| Weight:   1.0          |
+| Wear:     waist        |
+| Level:    18           |
+| Material: cloth        |
+| ---------------------- |
+| Type:         armor    |
+| AC:  6                 |
+| ---------------------- |
+| Affects hp by 10       |
+| Affects hit roll by 2  |
++------------------------+
+
+<581hp 538m 304mv> 
+wear belt
+You wear a woven belt about your waist.
+
+<581hp 538m 304mv> 
+remove sleeves
+You stop using a pair of fur-lined sleeves.
+
+<581hp 538m 304mv> 
+id sleeves
++---------------------------------------+
+| Object:   a pair of fur-lined sleeves |
+| Flags:    sell_extract                |
+| Weight:   0.1                         |
+| Wear:     arms                        |
+| Level:    5                           |
+| Material: fur                         |
+| ------------------------------------- |
+| Type:         armor                   |
+| AC:  1                                |
+| ------------------------------------- |
+| Affects moves by 20                   |
+| Affects hit roll by 1                 |
+| Affects hp by 3                       |
++---------------------------------------+
+
+<581hp 538m 304mv> 
+l
+The West Gate of Earendam
+  Earendam's west gates are made of sturdy iron, built between two tall
+stone pillars.  Reinforcing these gates are several stout bars of iron,
+treated to preserve them from wear.  Outside the gates, the Arien Road heads
+west, cutting across the plains which give it its namesake.  Inside, the
+Arien Plaza opens, marking the beginning of Earendam proper.  
+
+[Exits: east west]
+An Earendam gate guard stands at attention.
+An Earendam gate guard stands at attention.
+
+<581hp 538m 304mv> 
+wear sleeves
+You wear a pair of fur-lined sleeves on your arms.
+
+w
+<581hp 538m 304mv> The Arien Road
+  Outside the western gates of Earendam, the Arien Road stretches into the
+distance to the west.  Leading through the Plains of Arien to Var Bandor,
+the broad strip of stones accomodates a great number of caravans, travelers
+and merchants.  
+
+[Exits: north east south west]
+
+n
+<581hp 538m 303mv> 
+n
+Outside the Western Wall of Earendam
+  The granite walls of the city Earendam tower before you to the east,
+their blocks well worn by the elements.  Notches are carved near the tops of
+the battlements for archers to peer out at the plains to the west of the
+city. Beyond the walls, the Grasslands of Earendam spread like a green sea.
+
+[Exits: north south west]
+     A section of the stone wall is discolored with grime.
+
+n
+n
+<581hp 538m 302mv> 
+Outside the Western Wall of Earendam
+  The granite walls of the city Earendam tower before you to the east,
+their blocks well worn by the elements.  Notches are carved near the tops of
+the battlements for archers to peer out at the plains to the west of the
+city. Beyond the walls, the Grasslands of Earendam spread like a green sea.
+
+[Exits: north south west]
+
+<581hp 538m 301mv> 
+Outside the Western Wall of Earendam
+  The granite walls of the city Earendam tower before you to the east,
+their blocks well worn by the elements.  Notches are carved near the tops of
+the battlements for archers to peer out at the plains to the west of the
+city. Beyond the walls, the Grasslands of Earendam spread like a green sea.
+
+[Exits: north south west]
+     A section of the stone wall is discolored with grime.
+
+<581hp 538m 300mv> 
+Outside the Western Wall of Earendam
+  The granite walls of the city Earendam tower before you to the east,
+their blocks well worn by the elements.  Notches are carved near the tops of
+the battlements for archers to peer out at the plains to the west of the
+city.  Beyond the walls, the Grasslands of Earendam spread like a green sea.
+
+[Exits: north south west]
+     A section of the stone wall is discolored with grime.
+
+<581hp 538m 299mv> 
+n
+Outside the Northern Wall of Earendam
+  The granite walls of the city Earendam tower before you to the southeast,
+their blocks well worn by the elements.  Notches are carved near the tops of
+the battlements for archers to peer out at the plains to the north of the
+city.  Beyond the walls, the Grasslands of Earendam spread like a green sea.
+
+[Exits: north east south west]
+     A section of the stone wall is discolored with grime.
+
+e
+<581hp 538m 298mv> 
+e
+Outside the Northern Wall of Earendam
+  The granite walls of the city Earendam tower before you to the south,
+their blocks well worn by the elements.  Notches are carved near the tops of
+the battlements for archers to peer out at the plains to the north of the
+city. Beyond the walls, the Grasslands of Earendam spread like a green sea.
+
+[Exits: north east west]
+     A section of the stone wall is discolored with grime.
+
+e
+<581hp 538m 297mv> 
+e
+Outside the Northern Wall of Earendam
+  The granite walls of the city Earendam tower before you to the south,
+their blocks well worn by the elements.  Notches are carved near the tops of
+the battlements for archers to peer out at the plains to the north of the
+city. Beyond the walls, the Grasslands of Earendam spread like a green sea.
+
+[Exits: north east west]
+     A simple scaffold is erected next to the wall here.
+     A section of the stone wall is discolored with grime.
+(!) A foreman stands here, wiping his brow.
+The foreman tells you, 'There's a bunch of things that need doing around here.  You lookin' for some
+work?'
+
+e
+<581hp 538m 296mv> 
+e
+Outside the Northern Wall of Earendam
+  The granite walls of the city Earendam tower before you to the south,
+their blocks well worn by the elements.  Notches are carved near the tops of
+the battlements for archers to peer out at the plains to the north of the
+city.  Beyond the walls, the Grasslands of Earendam spread like a green sea.
+
+[Exits: north east west]
+     A section of the stone wall is discolored with grime.
+
+<581hp 538m 295mv> 
+Outside the Northern Wall of Earendam
+  The granite walls of the city Earendam tower before you to the south,
+their blocks well worn by the elements.  Notches are carved near the tops of
+the battlements for archers to peer out at the plains to the north of the
+city.  Beyond the walls, the Grasslands of Earendam spread like a green sea.
+
+[Exits: north east west]
+     A section of the stone wall is discolored with grime.
+
+<581hp 538m 294mv> 
+Outside the Northern Wall of Earendam
+  The granite walls of the city Earendam tower before you to the south,
+their blocks well worn by the elements.  Notches are carved near the tops of
+the battlements for archers to peer out at the plains to the north of the
+city. Beyond the walls, the Grasslands of Earendam spread like a green sea.
+
+[Exits: north east west]
+     A section of the stone wall is discolored with grime.
+
+<581hp 538m 293mv> 
+s
+The Earendam Road
+  A narrow strip of stones that leads north into the grasslands, the
+Earendam Road was once heavily travelled by caravans trading with the
+mountain outposts to the north.  It has since fallen into disuse, but is
+still nominally maintained by Earendam.  
+
+[Exits: north east south west]
+     A section of the stone wall is discolored with grime.
+
+<581hp 538m 292mv> 
+The North Gates of Earendam
+  Earendam's north gates are forged from black iron, built between the
+stone walls of the city.  Reinforced by stout iron bars, the gates are built
+thick, for increased security.  Outside the gates lie the expanse of the
+northern grasslands, across which runs the Earendam road, which leads all
+the way to the Brintors.  Inside, Tyril Square marks the beginning of
+Earendam proper.  
+
+[Exits: north south]
+An Earendam gate guard stands at attention.
+An Earendam gate guard stands at attention.
+
+<581hp 538m 291mv> 
+s
+North of Tyril Square
+  The north part of Tyril square lies very near the gates of Earendam,
+which lie to the north.  Past the gates are grasslands, and eventually the
+Brintor mountains, which provide most of the source of Earendam's mineral
+wealth and its building materials.  The gate is mainly used by Brintorean
+miners, traders, or the occasionally diplomatic party from Kor Thrandir. 
+East and west, the corners of the square end in arched buildings, while a
+central fountain dominates the square to the south.  
+
+[Exits: north east south west]
+
+<581hp 538m 290mv> 
+s
+Center of Tyril Square
+  The center of Tyril square is dominated by a marble statue, serving as
+the centerpiece for a concentric series of fountains.  Serving as the
+junction for travel between Earendam's north gate, the mercantile quarter,
+the artisan's district, and the occasional nobleman from Old Earendam across
+the Dantaron, the square is nevertheless well-maintained, and covered with a
+glazed brown cobblestone of Brintorean stone.  The main throughfares of the
+square are Frinian Way, which intersects the square in the east and picks
+up again in the west, and Tyril Way, which opens onto the square to the
+south.  
+
+[Exits: north east south west]
+A muscular protector is loitering here, surveying the area casually.
+
+e
+<581hp 538m 289mv> 
+e
+East of Tyril Square
+  The east of Tyril Square is covered with a smooth cobblestone of glazed
+brown bricks.  Near the north gate of Earendam, Tyril Square is filled with
+the traffic of artisans and scholars who inhabit this part of the city.  The
+center of the square is west, where a marble statue rises out of the silver
+base of a large fountain.  South and north are the edges of the square,
+where scholars have set up shop to ply the wares of some of Avendar's most
+famous magicks.  To the east Frinian Way heads into the heart of the
+artisan's quarter, where scholars and craftsman come to learn and ply their
+trade.  
+
+[Exits: north east south west]
+
+e
+e
+<581hp 538m 288mv> 
+East Frinian Way
+  East Frinian Way begins here, serving as a throughway for the scholars
+and craftsman who travel to and from Tyril Square to the west and the
+artisan's district of Earendam further east.  To the south of the street,
+marble stairs lead up to enter some sort of scholar's shop, while the
+building to the north is less ostentatious, being a simple stone block
+guarded by gate archways.  Home to the Company of the Ram, the building
+houses one of Earendam's chartered mercenary companies.  
+
+[Exits: north east south west]
+
+n
+<581hp 538m 287mv> 
+East Frinian Way
+  East Frinian Way heads in a straight east-west line through Earendam's
+artisan's district.  Frequented by the city's craftsmen, the street serves
+to connect the Glallian School to the east with Tyril Square which lies
+further west down the street.  A small side street leads north, and a stone
+wall prevents further travel southward.  
+
+[Exits: north east west]
+
+<581hp 538m 286mv> 
+East Frinian Way
+  East Frinian Way heads in a straight east-west line through Earendam's
+artisan's district.  Lining the street are shops bearing the products of the
+craftsmen who work in this part of the city.  To the south is a jeweller's
+shop, which is successful enough to have a plate glass window to display its
+wares.  The weapon maker's shop to the north has no such trappings, but
+nevertheless bears the symbols of its wares on a stout wooden sign.  Frinian
+continues much the same to both the east and west.  
+
+[Exits: north east south west]
+
+<581hp 538m 285mv> 
+Vandar's Blades
+  Vandar's Blades is a well-furnished shop, offering the wares created by
+the craftsman who inhabit the artisan's district of Earendam.  With no forge
+in evidence, the shop is remarkably comfortable, offering a wide variety of
+weapons on display on the walls behind the counter that takes up the north
+half of the room.  The wall to the east is rather thin, and is broken by a
+pine door.  A doorway also leads southward onto Frinian Way, which runs in
+past the front of the shop.  
+
+[Exits: east south]
+Vandar is here, displaying his wares.
+
+<581hp 538m 284mv> 
+list
+[Qty Price       ] Item
+[  1 12p 7g 2s 7c] a bone-hilted rapier
+[  1     4g 6s 8c] an ornate halberd
+[  2  1p 2g 4s 8c] a long-handled axe
+[  3  2p 9g 2s 5c] a curved razor
+[  3 36p 1g 7s 2c] a curved dagger
+[  1 18p 4g 3s 4c] a toothed boarding axe
+[  1       19p 5g] a black longsword inscribed with blue runes
+[  2 13p 7g 3s 5c] a spiked black staff
+[  4  4p 6g 7s 2c] a bloody scourge
+[  2        9p 3g] a jagged iron poleaxe
+[  2          12p] a battleaxe named, "Herald of Darkness"
+[  2           9p] a black glaive encircled in flames
+[  1       16p 5g] a blood-encrusted claymore
+[  1           6p] a runed black scimitar
+[  2        9p 6g] the chaja smith's hammer
+[  3 12p 3g 3s 1c] a thin longsword with black trim
+[  4     1p 3g 5s] an unfinished dagger
+[  3  9p 1g 7s 2c] a black dagger
+[  3 10p 7g 3s 5c] a barb-tipped dagger
+[  8           3g] a jagged bone shortsword
+[  2  9p 1g 7s 2c] a dark-bladed sword
+[  1           9p] the bone flail, "Nightfall"
+[  2       22p 5g] a skull-shaped mace
+[  1       10p 5g] a crimson war-axe
+[  1           9p] a spear carved from dragonbone
+[  1        7p 2g] the white spear, "Frost"
+[  1          15p] a wickedly spiked mace
+[---           2p] a whip adorned with a diamond
+[---           2p] a carved silver dagger
+[---     3p 1g 5s] a hammer inlaid with gold
+[---           3p] a ruby-hilted sabre
+
+<581hp 538m 284mv> 
+e
+Elrith's Armory
+  Elrith's Armory specializes in the fine plate armors produced by the
+artisans and earth scholars of Earendam, providing wares for the cities
+wealthier nobility.  With most of the merchandise furnished by the artisans
+in the surrounding parts of the city, the shop lacks the forge common in
+most such places.  The north part of the room is taken up with a counter,
+beside which a full set of field plate is arranged on a pole.  A pine door
+leads through a wall to the west, and the way onto the street lies south.  
+
+[Exits: south west]
+Elrith carefully polishes a piece of armor.
+
+<581hp 538m 283mv> 
+list
+[Qty Price      ] Item
+[  1    2g 7s 3c] a pair of tasseled boots
+[  1       7p 5s] a pearl and diamond bracelet
+[  1       8p 1g] a golden band set with a yellow diamond
+[  1    7g 2s 8c] a sooty hide cloak
+[  1    8g 7s 4c] a pair of finely crafted armguards
+[  1       6g 5c] a pair of gauntlets of shining steel
+[  4    2p 3g 7c] a blood-soaked robe
+[ 10    8p 2g 5s] a shuddeni priest's robe
+[  1       2p 6g] a pair of chaja leggings
+[  1    2p 3g 7s] a granite plate helmet
+[  9       2g 7s] a pair of toeless, mud-soaked hide boots
+[  5    2p 1s 5c] a tattered, mud-caked leather bracer
+[ 13 2p 3g 3s 2c] a brass chain lanessus with dangling bone beads
+[  3 1p 2g 1s 3c] a pair of fur-lined tattered hide sleeves
+[  9    2p 4g 9c] a bone mask crafted from a saurian half-skull
+[  1 2p 6g 7s 3c] a dark templar's shield
+[---       3p 2g] a pair of plated steel gauntlets
+[---       7g 2s] a pair of plate armguards
+[---          6g] a pair of steel-toed boots
+[---    2p 7s 5c] a helmet of plated steel
+[---    6g 9s 2c] a set of plate leggings
+[---    9g 4s 4c] a plate mail chest plate
+
+<581hp 538m 283mv> 
+list armguasrds
+You can't buy anything here.
+
+<581hp 538m 283mv> 
+sel
+Sell what?
+
+<581hp 538m 283mv> 
+list sleeves
+[Qty Price      ] Item
+[  3 1p 2g 1s 3c] a pair of fur-lined tattered hide sleeves
+
+<581hp 538m 283mv> 
+s
+East Frinian Way
+  East Frinian Way heads in a straight east-west line through Earendam's
+artisan's district.  Lining the street are shops bearing the products of the
+craftsmen who work in this part of the city.  To the south is a jeweller's
+shop, which is successful enough to have a plate glass window to display its
+wares.  The armorer's shop to the north has no such trappings, but
+nevertheless bears the symbols of its wares on a stout wooden sign.  Frinian
+comes to an end to the east, but continues along its current path to the
+west.  
+
+[Exits: north east south west]
+
+w
+<581hp 538m 303mv> 
+East Frinian Way
+  East Frinian Way heads in a straight east-west line through Earendam's
+artisan's district.  Lining the street are shops bearing the products of the
+craftsmen who work in this part of the city.  To the south is a jeweller's
+shop, which is successful enough to have a plate glass window to display its
+wares.  The weapon maker's shop to the north has no such trappings, but
+nevertheless bears the symbols of its wares on a stout wooden sign.  Frinian
+continues much the same to both the east and west.  
+
+[Exits: north east south west]
+
+w
+<581hp 538m 302mv> 
+East Frinian Way
+  East Frinian Way heads in a straight east-west line through Earendam's
+artisan's district.  Frequented by the city's craftsmen, the street serves
+to connect the Glallian School to the east with Tyril Square which lies
+further west down the street.  A small side street leads north, and a stone
+wall prevents further travel southward.  
+
+[Exits: north east west]
+
+w
+<581hp 538m 301mv> 
+East Frinian Way
+  East Frinian Way begins here, serving as a throughway for the scholars
+and craftsman who travel to and from Tyril Square to the west and the
+artisan's district of Earendam further east.  To the south of the street,
+marble stairs lead up to enter some sort of scholar's shop, while the
+building to the north is less ostentatious, being a simple stone block
+guarded by gate archways.  Home to the Company of the Ram, the building
+houses one of Earendam's chartered mercenary companies.  
+
+[Exits: north east south west]
+
+w
+<581hp 538m 300mv> 
+w
+East of Tyril Square
+  The east of Tyril Square is covered with a smooth cobblestone of glazed
+brown bricks.  Near the north gate of Earendam, Tyril Square is filled with
+the traffic of artisans and scholars who inhabit this part of the city.  The
+center of the square is west, where a marble statue rises out of the silver
+base of a large fountain.  South and north are the edges of the square,
+where scholars have set up shop to ply the wares of some of Avendar's most
+famous magicks.  To the east Frinian Way heads into the heart of the
+artisan's quarter, where scholars and craftsman come to learn and ply their
+trade.  
+
+[Exits: north east south west]
+
+n
+<581hp 538m 299mv> 
+Center of Tyril Square
+  The center of Tyril square is dominated by a marble statue, serving as
+the centerpiece for a concentric series of fountains.  Serving as the
+junction for travel between Earendam's north gate, the mercantile quarter,
+the artisan's district, and the occasional nobleman from Old Earendam across
+the Dantaron, the square is nevertheless well-maintained, and covered with a
+glazed brown cobblestone of Brintorean stone.  The main throughfares of the
+square are Frinian Way, which intersects the square in the east and picks
+up again in the west, and Tyril Way, which opens onto the square to the
+south.  
+
+[Exits: north east south west]
+A muscular protector is loitering here, surveying the area casually.
+
+<581hp 538m 298mv> 
+North of Tyril Square
+  The north part of Tyril square lies very near the gates of Earendam,
+which lie to the north.  Past the gates are grasslands, and eventually the
+Brintor mountains, which provide most of the source of Earendam's mineral
+wealth and its building materials.  The gate is mainly used by Brintorean
+miners, traders, or the occasionally diplomatic party from Kor Thrandir. 
+East and west, the corners of the square end in arched buildings, while a
+central fountain dominates the square to the south.  
+
+[Exits: north east south west]
+
+<581hp 538m 297mv> 
+n
+The North Gates of Earendam
+  Earendam's north gates are forged from black iron, built between the
+stone walls of the city.  Reinforced by stout iron bars, the gates are built
+thick, for increased security.  Outside the gates lie the expanse of the
+northern grasslands, across which runs the Earendam road, which leads all
+the way to the Brintors.  Inside, Tyril Square marks the beginning of
+Earendam proper.  
+
+[Exits: north south]
+An Earendam gate guard stands at attention.
+An Earendam gate guard stands at attention.
+
+n
+<581hp 538m 296mv> 
+The Earendam Road
+  A narrow strip of stones that leads north into the grasslands, the
+Earendam Road was once heavily travelled by caravans trading with the
+mountain outposts to the north.  It has since fallen into disuse, but is
+still nominally maintained by Earendam.  
+
+[Exits: north east south west]
+     A section of the stone wall is discolored with grime.
+
+w
+<581hp 538m 295mv> 
+w
+Outside the Northern Wall of Earendam
+  The granite walls of the city Earendam tower before you to the south,
+their blocks well worn by the elements.  Notches are carved near the tops of
+the battlements for archers to peer out at the plains to the north of the
+city. Beyond the walls, the Grasslands of Earendam spread like a green sea.
+
+[Exits: north east west]
+     A section of the stone wall is discolored with grime.
+
+w
+<581hp 538m 294mv> 
+w
+Outside the Northern Wall of Earendam
+  The granite walls of the city Earendam tower before you to the south,
+their blocks well worn by the elements.  Notches are carved near the tops of
+the battlements for archers to peer out at the plains to the north of the
+city.  Beyond the walls, the Grasslands of Earendam spread like a green sea.
+
+[Exits: north east west]
+     A section of the stone wall is discolored with grime.
+
+w
+<581hp 538m 293mv> 
+Outside the Northern Wall of Earendam
+  The granite walls of the city Earendam tower before you to the south,
+their blocks well worn by the elements.  Notches are carved near the tops of
+the battlements for archers to peer out at the plains to the north of the
+city.  Beyond the walls, the Grasslands of Earendam spread like a green sea.
+
+[Exits: north east west]
+     A section of the stone wall is discolored with grime.
+
+<581hp 538m 292mv> 
+Outside the Northern Wall of Earendam
+  The granite walls of the city Earendam tower before you to the south,
+their blocks well worn by the elements.  Notches are carved near the tops of
+the battlements for archers to peer out at the plains to the north of the
+city. Beyond the walls, the Grasslands of Earendam spread like a green sea.
+
+[Exits: north east west]
+     A simple scaffold is erected next to the wall here.
+     A section of the stone wall is discolored with grime.
+(!) A foreman stands here, wiping his brow.
+The foreman tells you, 'There's a bunch of things that need doing around here.  You lookin' for some
+work?'
+
+<581hp 538m 291mv> 
+Outside the Northern Wall of Earendam
+  The granite walls of the city Earendam tower before you to the south,
+their blocks well worn by the elements.  Notches are carved near the tops of
+the battlements for archers to peer out at the plains to the north of the
+city. Beyond the walls, the Grasslands of Earendam spread like a green sea.
+
+[Exits: north east west]
+     A section of the stone wall is discolored with grime.
+
+<581hp 538m 290mv> 
+s
+Alas, you cannot go that way.
+
+s
+s
+<581hp 538m 290mv> Alas, you cannot go that way.
+
+s
+<581hp 538m 290mv> Alas, you cannot go that way.
+
+<581hp 538m 290mv> Alas, you cannot go that way.
+
+w
+<581hp 538m 290mv> 
+Outside the Northern Wall of Earendam
+  The granite walls of the city Earendam tower before you to the southeast,
+their blocks well worn by the elements.  Notches are carved near the tops of
+the battlements for archers to peer out at the plains to the north of the
+city.  Beyond the walls, the Grasslands of Earendam spread like a green sea.
+
+[Exits: north east south west]
+     A section of the stone wall is discolored with grime.
+
+s
+<581hp 538m 289mv> 
+s
+Outside the Western Wall of Earendam
+  The granite walls of the city Earendam tower before you to the east,
+their blocks well worn by the elements.  Notches are carved near the tops of
+the battlements for archers to peer out at the plains to the west of the
+city.  Beyond the walls, the Grasslands of Earendam spread like a green sea.
+
+[Exits: north south west]
+     A section of the stone wall is discolored with grime.
+
+s
+s
+<581hp 538m 288mv> 
+s
+Outside the Western Wall of Earendam
+  The granite walls of the city Earendam tower before you to the east,
+their blocks well worn by the elements.  Notches are carved near the tops of
+the battlements for archers to peer out at the plains to the west of the
+city. Beyond the walls, the Grasslands of Earendam spread like a green sea.
+
+[Exits: north south west]
+     A section of the stone wall is discolored with grime.
+
+<581hp 538m 287mv> 
+Outside the Western Wall of Earendam
+  The granite walls of the city Earendam tower before you to the east,
+their blocks well worn by the elements.  Notches are carved near the tops of
+the battlements for archers to peer out at the plains to the west of the
+city. Beyond the walls, the Grasslands of Earendam spread like a green sea.
+
+[Exits: north south west]
+
+<581hp 538m 286mv> 
+Outside the Western Wall of Earendam
+  The granite walls of the city Earendam tower before you to the east,
+their blocks well worn by the elements.  Notches are carved near the tops of
+the battlements for archers to peer out at the plains to the west of the
+city. Beyond the walls, the Grasslands of Earendam spread like a green sea.
+
+[Exits: north south west]
+     A section of the stone wall is discolored with grime.
+
+<581hp 538m 285mv> 
+The Arien Road
+  Outside the western gates of Earendam, the Arien Road stretches into the
+distance to the west.  Leading through the Plains of Arien to Var Bandor,
+the broad strip of stones accomodates a great number of caravans, travelers
+and merchants.  
+
+[Exits: north east south west]
+
+<581hp 538m 284mv> 
+e
+The West Gate of Earendam
+  Earendam's west gates are made of sturdy iron, built between two tall
+stone pillars.  Reinforcing these gates are several stout bars of iron,
+treated to preserve them from wear.  Outside the gates, the Arien Road heads
+west, cutting across the plains which give it its namesake.  Inside, the
+Arien Plaza opens, marking the beginning of Earendam proper.  
+
+[Exits: east west]
+An Earendam gate guard stands at attention.
+An Earendam gate guard stands at attention.
+
+<581hp 538m 283mv> 
+whe
+Notables in Avendar (currently in Earendam):
+  (PK) Veljik                The West Gate of Earendam         [present]    
+
+Total found: 1
+
+<581hp 538m 283mv> 
+who
+[24 Swo] Veljik v'Edaris the Student of the Reed
+
+Players found: 1
+
+<581hp 538m 283mv> 
+eq
+You are using:
+<worn on finger>    (Glowing) a Ring of Fire
+<worn on finger>    a golden band set with a yellow diamond
+<worn around neck>  a short, silken neck-scarf
+<worn around neck>  a short, silken neck-scarf
+<worn on torso>     a wrapped silk shirt
+<worn on head>      a row of hawk feathers
+<worn on legs>      a set of plate leggings
+<worn on feet>      an embroidered pair of flat shoes
+<worn on hands>     a griffinrider's leather gloves
+<worn on arms>      a pair of fur-lined sleeves
+<worn about body>   an opulent robe with a dripping hexagon clasp
+<worn about waist>  a woven belt
+<worn around wrist> a tattered, mud-caked leather bracer
+<worn around wrist> a pearl and diamond bracelet
+<wielded>           (Humming) the tapered shortsword "Biter"
+<floating nearby>   a tiny shield of ice
+<dual wielded>      a runed black scimitar
+<branded>           the Sigil of the School of Heroes
+
+<581hp 538m 283mv> 
+in
+You are carrying:
+     a pair of gauntlets of shining steel
+     a pair of finely crafted armguards
+     an ornate halberd
+( 6) a bracelet of spiked bones
+     a long-handled axe
+     a clay mug of xarroloalko
+     (Glowing) a gleaming gold ring
+     a ring of water walking
+     an earthen jug
+     a heavy sleeping bag
+     some fanged sharkskin gloves
+     a hand-made idruusa
+     (Humming) a Ring of Void
+     a suede, down-filled blanket
+     an engraved steel ring on a thin cord
+     a whale-skin canoe
+     a huge canvas backpack
+
+<581hp 538m 283mv> 
+
+You feel ready to call upon divine healing again.
+
+<581hp 538m 304mv> 
+exam bvackpack
+You do not see that here.
+
+<581hp 538m 304mv> 
+exam backpack
+A huge grey canvas backpack sits on the ground.
+A huge canvas backpack holds:
+     a blown glass carafe
+     an elegant fur stole
+     a slice of honey-drenched baklava
+     a silken meditation mat
+     a tin canteen
+     an earthen jug
+     a map of southern Earendam
+     a map of northern Earendam
+( 4) (Glowing) a potion of transportation
+     a pale green potion
+     a bubbling potion
+     a translucent potion
+(13) a ration-cake
+     some smoked ham
+( 3) a flight draught
+     a hand-made idruusa
+( 5) a milky potion
+     a leather belt
+( 4) a head of cabbage
+( 2) a handful of zebra mussels
+     a thailnai mushroom
+     a slab of white grub meat
+
+<581hp 538m 304mv> 
+whe
+Notables in Avendar (currently in Earendam):
+  (PK) Veljik                The West Gate of Earendam         [present]    
+
+Total found: 1
+
+<581hp 538m 304mv> 
+l
+The West Gate of Earendam
+  Earendam's west gates are made of sturdy iron, built between two tall
+stone pillars.  Reinforcing these gates are several stout bars of iron,
+treated to preserve them from wear.  Outside the gates, the Arien Road heads
+west, cutting across the plains which give it its namesake.  Inside, the
+Arien Plaza opens, marking the beginning of Earendam proper.  
+
+[Exits: east west]
+An Earendam gate guard stands at attention.
+An Earendam gate guard stands at attention.
+
+<581hp 538m 304mv> 
+eq
+You are using:
+<worn on finger>    (Glowing) a Ring of Fire
+<worn on finger>    a golden band set with a yellow diamond
+<worn around neck>  a short, silken neck-scarf
+<worn around neck>  a short, silken neck-scarf
+<worn on torso>     a wrapped silk shirt
+<worn on head>      a row of hawk feathers
+<worn on legs>      a set of plate leggings
+<worn on feet>      an embroidered pair of flat shoes
+<worn on hands>     a griffinrider's leather gloves
+<worn on arms>      a pair of fur-lined sleeves
+<worn about body>   an opulent robe with a dripping hexagon clasp
+<worn about waist>  a woven belt
+<worn around wrist> a tattered, mud-caked leather bracer
+<worn around wrist> a pearl and diamond bracelet
+<wielded>           (Humming) the tapered shortsword "Biter"
+<floating nearby>   a tiny shield of ice
+<dual wielded>      a runed black scimitar
+<branded>           the Sigil of the School of Heroes
+
+<581hp 538m 304mv> 
+in
+You are carrying:
+     a pair of gauntlets of shining steel
+     a pair of finely crafted armguards
+     an ornate halberd
+( 6) a bracelet of spiked bones
+     a long-handled axe
+     a clay mug of xarroloalko
+     (Glowing) a gleaming gold ring
+     a ring of water walking
+     an earthen jug
+     a heavy sleeping bag
+     some fanged sharkskin gloves
+     a hand-made idruusa
+     (Humming) a Ring of Void
+     a suede, down-filled blanket
+     an engraved steel ring on a thin cord
+     a whale-skin canoe
+     a huge canvas backpack
+
+<581hp 538m 304mv> 
+quit
+Your adrenaline is gushing!  Not now!
+
+<581hp 538m 304mv> 
+
+[TIPS] Meditative strike becomes less powerful when used in a defensive form such as monkey or reed.
+
+<581hp 538m 304mv> 
+
+You disappear into the void.
+
+<581hp 538m 304mv> 
+whe
+Notables in Avendar (currently in Earendam):
+  (PK) Veljik                The West Gate of Earendam         [present]    
+
+Total found: 1
+
+<581hp 538m 304mv> 
+l
+The West Gate of Earendam
+  Earendam's west gates are made of sturdy iron, built between two tall
+stone pillars.  Reinforcing these gates are several stout bars of iron,
+treated to preserve them from wear.  Outside the gates, the Arien Road heads
+west, cutting across the plains which give it its namesake.  Inside, the
+Arien Plaza opens, marking the beginning of Earendam proper.  
+
+[Exits: east west]
+An Earendam gate guard stands at attention.
+An Earendam gate guard stands at attention.
+
+<581hp 538m 304mv> 
+eq
+You are using:
+<worn on finger>    (Glowing) a Ring of Fire
+<worn on finger>    a golden band set with a yellow diamond
+<worn around neck>  a short, silken neck-scarf
+<worn around neck>  a short, silken neck-scarf
+<worn on torso>     a wrapped silk shirt
+<worn on head>      a row of hawk feathers
+<worn on legs>      a set of plate leggings
+<worn on feet>      an embroidered pair of flat shoes
+<worn on hands>     a griffinrider's leather gloves
+<worn on arms>      a pair of fur-lined sleeves
+<worn about body>   an opulent robe with a dripping hexagon clasp
+<worn about waist>  a woven belt
+<worn around wrist> a tattered, mud-caked leather bracer
+<worn around wrist> a pearl and diamond bracelet
+<wielded>           (Humming) the tapered shortsword "Biter"
+<floating nearby>   a tiny shield of ice
+<dual wielded>      a runed black scimitar
+<branded>           the Sigil of the School of Heroes
+
+<581hp 538m 304mv> 
+in
+You are carrying:
+     a pair of gauntlets of shining steel
+     a pair of finely crafted armguards
+     an ornate halberd
+( 6) a bracelet of spiked bones
+     a long-handled axe
+     a clay mug of xarroloalko
+     (Glowing) a gleaming gold ring
+     a ring of water walking
+     an earthen jug
+     a heavy sleeping bag
+     some fanged sharkskin gloves
+     a hand-made idruusa
+     (Humming) a Ring of Void
+     a suede, down-filled blanket
+     an engraved steel ring on a thin cord
+     a whale-skin canoe
+     a huge canvas backpack
+
+<581hp 538m 304mv> 
+l
+The West Gate of Earendam
+  Earendam's west gates are made of sturdy iron, built between two tall
+stone pillars.  Reinforcing these gates are several stout bars of iron,
+treated to preserve them from wear.  Outside the gates, the Arien Road heads
+west, cutting across the plains which give it its namesake.  Inside, the
+Arien Plaza opens, marking the beginning of Earendam proper.  
+
+[Exits: east west]
+An Earendam gate guard stands at attention.
+An Earendam gate guard stands at attention.
+
+<581hp 538m 304mv> 
+
+You disappear into the void.
+
+<581hp 538m 304mv> 
+
+[TIPS] Harvest nodes provide XP each time they're harvested! Use 'examine' to see if a node is ready
+to be harvested again.
+
+<581hp 538m 304mv> 
+whe
+Notables in Avendar (currently in Earendam):
+  (PK) Veljik                The West Gate of Earendam         [present]    
+
+Total found: 1
+
+<581hp 538m 304mv> 
+help examine
+/---------------------------------------------------------------------------\
+|          EXAMINE LOOK                                                     |
+\---------------------------------------------------------------------------/
+
+Syntax: look
+Syntax: look    <object>
+Syntax: look    <character>
+Syntax: look    <direction>
+Syntax: look    <keyword>
+Syntax: look in <container>
+Syntax: look in <corpse>
+Syntax: examine <container>
+Syntax: examine <corpse>
+Syntax: inspect <character>
+
+LOOK looks at something and sees what you can see.
+
+EXAMINE is short for 'LOOK container' followed by 'LOOK IN container'.
+
+INSPECT will give you a simple estimation of how much health a character has.
+
+
+<581hp 538m 304mv> 
+'l
+You say, 'l'
+
+<581hp 538m 304mv> 
+l
+The West Gate of Earendam
+  Earendam's west gates are made of sturdy iron, built between two tall
+stone pillars.  Reinforcing these gates are several stout bars of iron,
+treated to preserve them from wear.  Outside the gates, the Arien Road heads
+west, cutting across the plains which give it its namesake.  Inside, the
+Arien Plaza opens, marking the beginning of Earendam proper.  
+
+[Exits: east west]
+An Earendam gate guard stands at attention.
+An Earendam gate guard stands at attention.
+
+<581hp 538m 304mv> 
+w
+The Arien Road
+  Outside the western gates of Earendam, the Arien Road stretches into the
+distance to the west.  Leading through the Plains of Arien to Var Bandor,
+the broad strip of stones accomodates a great number of caravans, travelers
+and merchants.  
+
+[Exits: north east south west]
+
+n
+<581hp 538m 303mv> 
+Outside the Western Wall of Earendam
+  The granite walls of the city Earendam tower before you to the east,
+their blocks well worn by the elements.  Notches are carved near the tops of
+the battlements for archers to peer out at the plains to the west of the
+city. Beyond the walls, the Grasslands of Earendam spread like a green sea.
+
+[Exits: north south west]
+     A section of the stone wall is discolored with grime.
+
+<581hp 538m 302mv> 
+n
+Outside the Western Wall of Earendam
+  The granite walls of the city Earendam tower before you to the east,
+their blocks well worn by the elements.  Notches are carved near the tops of
+the battlements for archers to peer out at the plains to the west of the
+city. Beyond the walls, the Grasslands of Earendam spread like a green sea.
+
+[Exits: north south west]
+
+n
+<581hp 538m 301mv> 
+n
+Outside the Western Wall of Earendam
+  The granite walls of the city Earendam tower before you to the east,
+their blocks well worn by the elements.  Notches are carved near the tops of
+the battlements for archers to peer out at the plains to the west of the
+city. Beyond the walls, the Grasslands of Earendam spread like a green sea.
+
+[Exits: north south west]
+     A section of the stone wall is discolored with grime.
+
+n
+<581hp 538m 300mv> 
+Outside the Western Wall of Earendam
+  The granite walls of the city Earendam tower before you to the east,
+their blocks well worn by the elements.  Notches are carved near the tops of
+the battlements for archers to peer out at the plains to the west of the
+city.  Beyond the walls, the Grasslands of Earendam spread like a green sea.
+
+[Exits: north south west]
+     A section of the stone wall is discolored with grime.
+
+<581hp 538m 299mv> 
+Outside the Northern Wall of Earendam
+  The granite walls of the city Earendam tower before you to the southeast,
+their blocks well worn by the elements.  Notches are carved near the tops of
+the battlements for archers to peer out at the plains to the north of the
+city.  Beyond the walls, the Grasslands of Earendam spread like a green sea.
+
+[Exits: north east south west]
+     A section of the stone wall is discolored with grime.
+
+<581hp 538m 298mv> 
+exam section
+A section of the stone wall is discolored with grime.
+
+<581hp 538m 304mv> 
+n
+Northern Outskirts of Earendam
+  Beyond the bare ground of the city walls begin the Grasslands of
+Earendam, a vast sea of green vegetation that stirs and whispers softly in
+the breeze.  The long Earendam grasses grow to your waist, and so densely as
+to slow progress through the area.  The walls of the city Earendam are
+visible nearby to the south.  
+
+[Exits: north east south west]
+     (Glowing) A small campfire crackles merrily.
+
+<581hp 538m 303mv> 
+n
+You gained 1 exploration point and 50 experience points!
+The Earendam Grasslands
+  The lush green grasses of the Earendam Grasslands spread before you in
+all directions.  The shoulder-high grass sways and whispers in the wind, its
+motion giving the grasslands the appearance of a green ocean.  Now and then
+the spoor of a plains deer is visible underfoot, but there are no game
+trails or other landmarks.  
+
+[Exits: north east south west]
+
+<581hp 538m 302mv> 
+e
+You gained 1 exploration point and 50 experience points!
+The Earendam Grasslands
+  The lush green grasses of the Earendam Grasslands spread before you in
+all directions.  The shoulder-high grass sways and whispers in the wind, its
+motion giving the grasslands the appearance of a green ocean.  Now and then
+the spoor of a plains deer is visible underfoot, but there are no game
+trails or other landmarks.  
+
+[Exits: north east south west]
+
+s
+<581hp 538m 301mv> 
+Northern Outskirts of Earendam
+  Beyond the bare ground of the city walls begin the Grasslands of
+Earendam, a vast sea of green vegetation that stirs and whispers softly in
+the breeze.  The long Earendam grasses grow to your waist, and so densely as
+to slow progress through the area.  The walls of the city Earendam are
+visible nearby to the south.
+
+[Exits: north east south west]
+
+e
+<581hp 538m 300mv> 
+Northern Outskirts of Earendam
+  Beyond the bare ground of the city walls begin the Grasslands of
+Earendam, a vast sea of green vegetation that stirs and whispers softly in
+the breeze.  The long Earendam grasses grow to your waist, and so densely as
+to slow progress through the area.  The walls of the city Earendam are
+visible nearby to the south.
+
+[Exits: north east south west]
+( 3) (Glowing) A small campfire crackles merrily.
+     A bright red ball is here.
+An aelin dressed in fine clothing flits around the outskirts of the city.
+
+<581hp 538m 299mv> 
+e
+Northern Outskirts of Earendam
+  Beyond the bare ground of the city walls begin the Grasslands of
+Earendam, a vast sea of green vegetation that stirs and whispers softly in
+the breeze.  The long Earendam grasses grow to your waist, and so densely as
+to slow progress through the area.  The walls of the city Earendam are
+visible nearby to the south.
+
+[Exits: north east south west]
+( 3) (Glowing) A small campfire crackles merrily.
+
+<581hp 538m 298mv> 
+e
+Northern Outskirts of Earendam
+  Beyond the bare ground of the city walls begin the Grasslands of
+Earendam, a vast sea of green vegetation that stirs and whispers softly in
+the breeze.  The long Earendam grasses grow to your waist, and so densely as
+to slow progress through the area.  The walls of the city Earendam are
+visible nearby to the south.  
+
+[Exits: north east south west]
+( 2) (Glowing) A small campfire crackles merrily.
+
+<581hp 538m 297mv> 
+s
+Outside the Northern Wall of Earendam
+  The granite walls of the city Earendam tower before you to the south,
+their blocks well worn by the elements.  Notches are carved near the tops of
+the battlements for archers to peer out at the plains to the north of the
+city.  Beyond the walls, the Grasslands of Earendam spread like a green sea.
+
+[Exits: north east west]
+     A section of the stone wall is discolored with grime.
+
+e
+<581hp 538m 296mv> 
+Outside the Northern Wall of Earendam
+  The granite walls of the city Earendam tower before you to the south,
+their blocks well worn by the elements.  Notches are carved near the tops of
+the battlements for archers to peer out at the plains to the north of the
+city. Beyond the walls, the Grasslands of Earendam spread like a green sea.
+
+[Exits: north east west]
+     A section of the stone wall is discolored with grime.
+
+s
+<581hp 538m 295mv> 
+Alas, you cannot go that way.
+
+e
+<581hp 538m 295mv> The Earendam Road
+  A narrow strip of stones that leads north into the grasslands, the
+Earendam Road was once heavily travelled by caravans trading with the
+mountain outposts to the north.  It has since fallen into disuse, but is
+still nominally maintained by Earendam.  
+
+[Exits: north east south west]
+     A section of the stone wall is discolored with grime.
+
+s
+<581hp 538m 294mv> 
+The North Gates of Earendam
+  Earendam's north gates are forged from black iron, built between the
+stone walls of the city.  Reinforced by stout iron bars, the gates are built
+thick, for increased security.  Outside the gates lie the expanse of the
+northern grasslands, across which runs the Earendam road, which leads all
+the way to the Brintors.  Inside, Tyril Square marks the beginning of
+Earendam proper.  
+
+[Exits: north south]
+An Earendam gate guard stands at attention.
+An Earendam gate guard stands at attention.
+
+e
+<581hp 538m 293mv> 
+s
+Alas, you cannot go that way.
+
+<581hp 538m 293mv> North of Tyril Square
+  The north part of Tyril square lies very near the gates of Earendam,
+which lie to the north.  Past the gates are grasslands, and eventually the
+Brintor mountains, which provide most of the source of Earendam's mineral
+wealth and its building materials.  The gate is mainly used by Brintorean
+miners, traders, or the occasionally diplomatic party from Kor Thrandir. 
+East and west, the corners of the square end in arched buildings, while a
+central fountain dominates the square to the south.  
+
+[Exits: north east south west]
+
+<581hp 538m 292mv> 
+whe
+Notables in Avendar (currently in Earendam):
+  (PK) Veljik                North of Tyril Square             [present]    
+
+Total found: 1
+
+who
+<581hp 538m 292mv> 
+[24 Swo] Veljik v'Edaris the Student of the Reed
+
+Players found: 1
+
+n
+<581hp 538m 292mv> The North Gates of Earendam
+  Earendam's north gates are forged from black iron, built between the
+stone walls of the city.  Reinforced by stout iron bars, the gates are built
+thick, for increased security.  Outside the gates lie the expanse of the
+northern grasslands, across which runs the Earendam road, which leads all
+the way to the Brintors.  Inside, Tyril Square marks the beginning of
+Earendam proper.  
+
+[Exits: north south]
+An Earendam gate guard stands at attention.
+An Earendam gate guard stands at attention.
+
+<581hp 538m 291mv> 
+save
+save
+Saving.  Remember that Avendar will save you automatically.
+
+<581hp 538m 291mv> Saving.  Remember that Avendar will save you automatically.
+
+worth
+<581hp 538m 291mv> 
+You have 12 gold, 16 silver, 16 copper, and 119503 experience (4224 exp to level).
+You have 1104 exploration points (0 ep to level).
+You are unencumbered by your equipment.
+
+<581hp 538m 291mv> 
+eq
+You are using:
+<worn on finger>    (Glowing) a Ring of Fire
+<worn on finger>    a golden band set with a yellow diamond
+<worn around neck>  a short, silken neck-scarf
+<worn around neck>  a short, silken neck-scarf
+<worn on torso>     a wrapped silk shirt
+<worn on head>      a row of hawk feathers
+<worn on legs>      a set of plate leggings
+<worn on feet>      an embroidered pair of flat shoes
+<worn on hands>     a griffinrider's leather gloves
+<worn on arms>      a pair of fur-lined sleeves
+<worn about body>   an opulent robe with a dripping hexagon clasp
+<worn about waist>  a woven belt
+<worn around wrist> a tattered, mud-caked leather bracer
+<worn around wrist> a pearl and diamond bracelet
+<wielded>           (Humming) the tapered shortsword "Biter"
+<floating nearby>   a tiny shield of ice
+<dual wielded>      a runed black scimitar
+<branded>           the Sigil of the School of Heroes
+
+<581hp 538m 291mv> 
+quit
+Alas, all good things must come to an end.
+    
+[ ALERT ] - Socket got disconnected.
+            Reason: The remote host closed the connection
+[ INFO ]  - Connection time: 00:20:02.001
+                
+[ INFO ]  - Looking up the IP address of server: avendar.net:9999 ...
+[ INFO ]  - The IP address of avendar.net has been found. It is: 74.91.112.143
+[ INFO ]  - Trying to connect to 74.91.112.143:9999 ...
+[ INFO ]  - A connection has been established successfully.
+                
+                
+quit
+
+          <| 
+           A              
+          /.          
+     \<|  [""M#         
+      A   | #                   AVENDAR: THE CRUCIBLE OF LEGENDS 
+     /. \[""M#                         [avendar.net 9999] 
+    [""M# | #  U"U#U                  
+     | #  | #   \.:/    Original DikuMUD by Hans Staerfeldt, Katja Nyboe, 
+     | #  | #___| #     Tom Madsen, Michael Seifert, and Sebastian Hammer 
+     | "--'     .-"     Based on MERC 2.1 code by Hatchet, Furey, and Kahn 
+   |"-"-"-"-"-#-#-##    ROM 2.4 copyright (c) 1993-1996 Russ Taylor 
+   |     # ## ######      
+           \.::::'/     Avendar created by Matt Wallace, Thane Williams, 
+           \::::'/      and Brandon Downey.  See HELP AVENDAR for more. 
+   :8a|    # # ##       
+   ::88a      ###       Avendar is maintained and developed by the Avendar 
+  ::::888a  8a ##::.                   Immortal staff. 
+  ::::::888a88a[]:::: 
+ :::::::::SUNDOGa8a::::. ..               
+ :::::8::::888:Y8888:::::::::...       
+::':::88::::888::Y88a______________________________________________________ 
+:: ::::88a::::88a:Y88a                                  __---__-- __ 
+' .: ::Y88a:::::8a:Y88a                            __----_-- -------_-__ 
+  :' ::::8P::::::::::88aa.                   _ _- --  --_ --- __  --- __-- 
+,::  :::::::::::::::::::Y88as88a...s88aa.
+
+Under what name shall your deeds be recorded?
+We don't have a character named Quit.
+Would you like to create a character named Quit (y/n)? 
+Please type Yes or No? 
+Please type Yes or No? 
+    
+[ ALERT ] - Socket got disconnected.
+            Reason: The remote host closed the connection
+[ INFO ]  - Connection time: 04:45:10.633
+                
+[ INFO ]  - Looking up the IP address of server: avendar.net:9999 ...
+[ INFO ]  - The IP address of avendar.net has been found. It is: 74.91.112.143
+[ INFO ]  - Trying to connect to 74.91.112.143:9999 ...
+[ INFO ]  - A connection has been established successfully.
+                
+                
+
+          <| 
+           A              
+          /.          
+     \<|  [""M#         
+      A   | #                   AVENDAR: THE CRUCIBLE OF LEGENDS 
+     /. \[""M#                         [avendar.net 9999] 
+    [""M# | #  U"U#U                  
+     | #  | #   \.:/    Original DikuMUD by Hans Staerfeldt, Katja Nyboe, 
+     | #  | #___| #     Tom Madsen, Michael Seifert, and Sebastian Hammer 
+     | "--'     .-"     Based on MERC 2.1 code by Hatchet, Furey, and Kahn 
+   |"-"-"-"-"-#-#-##    ROM 2.4 copyright (c) 1993-1996 Russ Taylor 
+   |     # ## ######      
+           \.::::'/     Avendar created by Matt Wallace, Thane Williams, 
+           \::::'/      and Brandon Downey.  See HELP AVENDAR for more. 
+   :8a|    # # ##       
+   ::88a      ###       Avendar is maintained and developed by the Avendar 
+  ::::888a  8a ##::.                   Immortal staff. 
+  ::::::888a88a[]:::: 
+ :::::::::SUNDOGa8a::::. ..               
+ :::::8::::888:Y8888:::::::::...       
+::':::88::::888::Y88a______________________________________________________ 
+:: ::::88a::::88a:Y88a                                  __---__-- __ 
+' .: ::Y88a:::::8a:Y88a                            __----_-- -------_-__ 
+  :' ::::8P::::::::::88aa.                   _ _- --  --_ --- __  --- __-- 
+,::  :::::::::::::::::::Y88as88a...s88aa.
+
+Under what name shall your deeds be recorded?
+Account 'Tyeric' logging in.  Password: 
+
+
+The following characters are currently associated with this account:
+
+Qeqskil
+Veljik
+
+To create a new character, enter an original name at the following prompt.

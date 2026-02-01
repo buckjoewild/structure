@@ -1,0 +1,4079 @@
+Log session starting at 23:13:34 on Wednesday, 20 August 2025.
+[  OK  ]  - Mudlet-lua API & Geyser Layout manager loaded.
+[ INFO ]  - Reading map. Format version: 20. File:
+            "C:/Users/wilds/.config/mudlet/profiles/PANTHEON1/map/2025-08-20#19-49-44map.dat",
+            please wait...
+[ INFO ]  - Successfully read the map file (0.01s), checking some
+            consistency details...
+[ INFO ]  - Map audit starting...
+[  OK  ]  - Auditing of map completed (0.00s). Enjoy your game...
+[  OK  ]  - Map loaded successfully (0.01s).
+[ INFO ]  - Looking up the IP address of server: avendar.net:9999 ...
+[ INFO ]  - The IP address of avendar.net has been found. It is: 74.91.112.143
+[ INFO ]  - Trying to connect to 74.91.112.143:9999 ...
+[ INFO ]  - A connection has been established successfully.
+                
+                
+
+          <| 
+           A              
+          /.          
+     \<|  [""M#         
+      A   | #                   AVENDAR: THE CRUCIBLE OF LEGENDS 
+     /. \[""M#                         [avendar.net 9999] 
+    [""M# | #  U"U#U                  
+     | #  | #   \.:/    Original DikuMUD by Hans Staerfeldt, Katja Nyboe, 
+     | #  | #___| #     Tom Madsen, Michael Seifert, and Sebastian Hammer 
+     | "--'     .-"     Based on MERC 2.1 code by Hatchet, Furey, and Kahn 
+   |"-"-"-"-"-#-#-##    ROM 2.4 copyright (c) 1993-1996 Russ Taylor 
+   |     # ## ######      
+           \.::::'/     Avendar created by Matt Wallace, Thane Williams, 
+           \::::'/      and Brandon Downey.  See HELP AVENDAR for more. 
+   :8a|    # # ##       
+   ::88a      ###       Avendar is maintained and developed by the Avendar 
+  ::::888a  8a ##::.                   Immortal staff. 
+  ::::::888a88a[]:::: 
+ :::::::::SUNDOGa8a::::. ..               
+ :::::8::::888:Y8888:::::::::...       
+::':::88::::888::Y88a______________________________________________________ 
+:: ::::88a::::88a:Y88a                                  __---__-- __ 
+' .: ::Y88a:::::8a:Y88a                            __----_-- -------_-__ 
+  :' ::::8P::::::::::88aa.                   _ _- --  --_ --- __  --- __-- 
+,::  :::::::::::::::::::Y88as88a...s88aa.
+
+Under what name shall your deeds be recorded?
+Account 'Tyeric' logging in.  Password: 
+
+
+The following characters are currently associated with this account:
+
+Qeqskil
+Feythis
+Khuruin
+Rhuinzek
+
+To create a new character, enter an original name at the following prompt.
+Enter character name to use: 
+rhuinzek
+Password: 
+
+-------------- READ THE MOTD -- Last Modified: Apr 2025 -------------------
+|                                                                         |
+| . -You are responsible for knowing the rules-. See "help RULES".        |
+|                                                                         |
+| . For more information and discussion about the game, see:              |
+|                                                                         |
+|     . The Avendar Website:      https://avendar.net                     |
+|     . The Avendar Discord:      http://discord.gg/DXsZwVBsBV            |
+|                                                                         |
+| . The changelog (type CHANGES) is updated regularly with updates to     |
+|   Avendar.  Last Updated: 29 Apr 2025                                   |
+|                                                                         |
+| . Avendar is currently presented AS-IS. You may encounter errors or     |
+|   bugs. It is YOUR RESPONSIBILITY to not exploit them.                  |
+|                                                                         |
+---------------------------------------------------------------------------
+w
+
+You open your eyes and cast your gaze upon the land.
+A Ferry Station
+  The waters of the Dantaron River flow placidly to the south, a muddy
+brown barrier to merchants, carts, and foot travelers.  A small wooden dock
+has been erected at the water's edge, and several large ferries run by
+riverfolk carry passengers back and forth between the Arien Road and the
+outskirts of Var Bandor.  
+A wooden sign stands at the edge of the docks.
+
+[Exits: north south]
+A ferryman stands on the docks, offering his services for gold.
+You have no unread notes.
+
+<466hp 228m 253mv> 
+he
+/---------------------------------------------------------------------------\
+|          Avendar: The Crucible of Legends -- Help                         |
+\---------------------------------------------------------------------------/
+
+You can get a help on a variety of topics to guide you through the playing
+of Avendar.  Simply type help '<subject>' to gain help on a certain topic.
+Here's a list of general topics you can search for help on to get you
+started:
+
+GETTING STARTED - The basics of Avendar and MUDding in general.
+INFORMATION - How to get info on yourself and your surroundings.
+MOVING AROUND - How to move around in the world of Avendar.
+INTERACTION - How to interact with objects and items in Avendar.
+COMMUNICATION - How to communicate with others in Avendar.
+GROUPING - How to group together with others in Avendar.
+COMBAT - How to engage (and survive!) combat in Avendar.
+OVERVIEW - An overview of the basic Avendar commands (old help).
+
+Be sure to pay attention to the "See Also" located at the bottom of many of
+the helpfiles, as they often point to other useful pieces of information on
+the topic you're reading on.
+
+If you are stuck or confused and cannot find help on a certain topic, please
+read 'help PRAY' for instructions on how to contact an immortal who may be
+able to help you.
+
+<466hp 228m 253mv> 
+who
+[17 Fig] Rhuinzek v'Eda the Phalanx Recruit
+[ 9 VTe] Xoggameth il'Nharazet the Initiate of the Serpent
+
+Players found: 2
+
+<466hp 228m 253mv> 
+l
+A Ferry Station
+  The waters of the Dantaron River flow placidly to the south, a muddy
+brown barrier to merchants, carts, and foot travelers.  A small wooden dock
+has been erected at the water's edge, and several large ferries run by
+riverfolk carry passengers back and forth between the Arien Road and the
+outskirts of Var Bandor.  
+A wooden sign stands at the edge of the docks.
+
+[Exits: north south]
+A ferryman stands on the docks, offering his services for gold.
+
+<466hp 228m 253mv> 
+\s
+
+\s
+<466hp 228m 253mv> 
+
+<466hp 228m 253mv> 
+\s
+\s
+
+<466hp 228m 253mv> 
+<466hp 228m 253mv> 
+st
+You are already standing.
+
+l
+<466hp 228m 253mv> 
+A Ferry Station
+  The waters of the Dantaron River flow placidly to the south, a muddy
+brown barrier to merchants, carts, and foot travelers.  A small wooden dock
+has been erected at the water's edge, and several large ferries run by
+riverfolk carry passengers back and forth between the Arien Road and the
+outskirts of Var Bandor.  
+A wooden sign stands at the edge of the docks.
+
+[Exits: north south]
+A ferryman stands on the docks, offering his services for gold.
+
+<466hp 228m 253mv> 
+s
+s
+The Dantaron River
+  The winding Dantaron River turns to the east, flowing by the city of Var
+Bandor.  The placid, muddy waters ripple gently as they run their course,
+eventually leading to Earendam eastward.  The stone walls of Var Bandor
+tower menacingly to the south, and north and south of the river ferry
+stations have been set up.  
+
+[Exits: north east south west]
+
+s
+<466hp 228m 252mv> 
+s
+A Ferry Station
+  The waters of the Dantaron River flow placidly to the north, a muddy
+brown barrier to merchants, carts, and foot travelers.  A small wooden dock
+has been erected at the water's edge, and several large ferries run by
+riverfolk carry passengers back and forth between the Arien Road and the
+outskirts of Var Bandor.
+
+[Exits: north south]
+The ferryman stands along the river, offering to transport travelers.
+
+<466hp 228m 251mv> 
+The Outskirts of Var Bandor
+  You stand outside the north wall of Var Bandor.  In the distance to the
+north, the Dantaron river splits into two forks which flow around Var Bandor
+on either side.  The ground here is muddy and level, with little grass
+growing. Behind you to the south, the stone wall of the city overshadows
+the outskirts. 
+
+[Exits: north east south west]
+
+whe
+<466hp 228m 250mv> 
+who
+Outside the Northern Gatehouse
+  The towering gates of Var Bandor rise to the south.  Huge, heavy wooden
+doors reinforced with iron bars, the gates are maintained rigorously.  The
+walls to the east and west are solid stone, with murder slits.  To the
+north, the river Dantaron splits into two mighty forks which flow by Var
+Bandor on either side.  
+
+[Exits: north east south west]
+
+<466hp 228m 249mv> 
+Notables in Avendar (currently in The Docks of Var Bandor):
+  (PK) Rhuinzek              Outside the Northern Gatehouse    [present]    
+
+Total found: 1
+
+<466hp 228m 249mv> [17 Fig] Rhuinzek v'Eda the Phalanx Recruit
+[ 9 VTe] Xoggameth il'Nharazet the Initiate of the Serpent
+
+Players found: 2
+
+<466hp 228m 249mv> 
+n
+n
+The Outskirts of Var Bandor
+  You stand outside the north wall of Var Bandor.  In the distance to the
+north, the Dantaron river splits into two forks which flow around Var Bandor
+on either side.  The ground here is muddy and level, with little grass
+growing. Behind you to the south, the stone wall of the city overshadows
+the outskirts. 
+
+[Exits: north east south west]
+
+n
+n
+<466hp 228m 248mv> 
+n
+A Ferry Station
+  The waters of the Dantaron River flow placidly to the north, a muddy
+brown barrier to merchants, carts, and foot travelers.  A small wooden dock
+has been erected at the water's edge, and several large ferries run by
+riverfolk carry passengers back and forth between the Arien Road and the
+outskirts of Var Bandor.
+
+[Exits: north south]
+The ferryman stands along the river, offering to transport travelers.
+
+<466hp 228m 247mv> 
+The Dantaron River
+  The winding Dantaron River turns to the east, flowing by the city of Var
+Bandor.  The placid, muddy waters ripple gently as they run their course,
+eventually leading to Earendam eastward.  The stone walls of Var Bandor
+tower menacingly to the south, and north and south of the river ferry
+stations have been set up.  
+
+[Exits: north east south west]
+
+<466hp 228m 246mv> 
+A Ferry Station
+  The waters of the Dantaron River flow placidly to the south, a muddy
+brown barrier to merchants, carts, and foot travelers.  A small wooden dock
+has been erected at the water's edge, and several large ferries run by
+riverfolk carry passengers back and forth between the Arien Road and the
+outskirts of Var Bandor.  
+A wooden sign stands at the edge of the docks.
+
+[Exits: north south]
+A ferryman stands on the docks, offering his services for gold.
+
+<466hp 228m 245mv> 
+The Arien Plains
+  The broad stone strip known as the Arien Road turns to the south at this
+point, leading to the waters of the Dantaron River, and beyond to Var
+Bandor. The Arien Plains spread to the north and west, their unbroken
+monotony extending as far as eye can see.
+
+[Exits: north east south]
+
+<466hp 228m 244mv> 
+help void templar
+/---------------------------------------------------------------------------\
+|          Void Templar                                                     |
+\---------------------------------------------------------------------------/
+
+First rising to prominence during the War of Night, Void templars are a fusion
+of both dark magics and martial force.  Because of its shuddeni roots, they
+are the primary dedicants of this profession.  However, it also has a
+substantial following amongst the aelin, forming the origin of its famously
+diabolic ginta.  The srryn devotees of the god Sitheus too have formed a sept
+partially devoted to seeking the Void's demonic power.
+
+Although learned in several powerful defensive techniques, Void templars are
+primarily offensive in nature. They study numerous means of debilitating their
+foes, both via weapon and spell.  Alone among templars, they eschew knowledge
+of the spear, choosing instead to focus their efforts on the sword and shield.
+Despite this focus, it is not uncommon to see a Void templar occasionally
+employ a whip.
+
+The Void is a power of law and evil, and cannot be manipulated by any who are
+of chaotic or good mindset. Srryn templars of the Void often nominally follow
+Sitheus under the aegis of the Thissa Sept, and some cleave to other dark
+gods, but many Void templars do not honour any specific god, seeking instead
+to serve only their own power through pain.
+
+See also: LAWFUL EVIL, SITHEUS, ASHUR
+
+<466hp 228m 244mv> 
+n
+The Arien Road
+  The broad stone strip known as the Arien Road turns to the south at this
+point, leading to the waters of the Dantaron River, and beyond to Var
+Bandor.  The Arien Plains spread to the north and west, their unbroken
+monotony extending as far as eye can see.  
+
+[Exits: north east south west]
+
+n
+n
+<466hp 228m 243mv> 
+n
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south]
+
+n
+<466hp 228m 242mv> 
+Alas, you cannot go that way.
+
+<466hp 228m 242mv> Alas, you cannot go that way.
+
+<466hp 228m 242mv> Alas, you cannot go that way.
+
+whe
+<466hp 228m 242mv> Notables in Avendar (currently in The Arien Road):
+  (PK) Rhuinzek              The Arien Plains                  [present]    
+
+Total found: 1
+
+e
+e
+<466hp 228m 242mv> The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south west]
+
+e
+e
+<466hp 228m 241mv> 
+e
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south west]
+
+e
+<466hp 228m 240mv> 
+e
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south west]
+
+e
+<466hp 228m 239mv> 
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south west]
+
+<466hp 228m 238mv> 
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south west]
+
+<466hp 228m 237mv> 
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south west]
+
+<466hp 228m 236mv> 
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south west]
+You are hungry.
+
+<466hp 228m 253mv> 
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south west]
+
+<466hp 228m 252mv> 
+e
+e
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south west]
+
+e
+e
+<466hp 228m 251mv> 
+e
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: north east south west]
+
+e
+<466hp 228m 250mv> 
+e
+The Arien Road
+  The broad strip of stone known to travelers as the Arien Road stretches
+into the distance to the east and west, curving south at this bend.  The
+flat monotony of the Plains of Arien are the only view to the north and
+south, the neatly laid stones of the road providing the only change.  
+
+[Exits: north east south west]
+
+e
+<466hp 228m 249mv> 
+The Arien Road
+  The broad strip of stone known to travelers as the Arien Road stretches
+into the distance to the east and west.  The flat monotony of the Plains of
+Arien are the only view to the north and south, the neatly laid stones of
+the road providing the only change.  To the east, a wide dirt road
+intersects with the Arien Road.  
+
+[Exits: north east south west]
+
+<466hp 228m 248mv> 
+The Brintor Crossroads
+  The Arien Road stretches endlessly through the plains to the east and
+west.  From the north, the wide dirt track known as the Brintor Road cuts
+through the prairie, intersecting with the more widely traveled stone
+highway.  Deep ruts in the dirt mark the passage of wagon wheels to the
+north, toward the Brintor Mountains.  
+
+[Exits: north east south west]
+     A sun-bleached signpost stands in the grey soil.
+A man of Earendam walks along the road, heading for Var Bandor.
+
+<466hp 228m 247mv> 
+The Arien Road
+  The broad strip of stone known to travelers as the Arien Road stretches
+into the distance to the east and west.  The flat monotony of the Plains of
+Arien are the only view to the north and south, the neatly laid stones of
+the road providing the only change.  To the west, a dirt road intersects
+with the Arien Road.  
+
+[Exits: north east south west]
+
+<466hp 228m 246mv> 
+The Arien Road
+  The broad strip of stone known to travelers as the Arien Road stretches
+into the distance to the east and west.  The flat monotony of the Plains of
+Arien are the only view to the north and south, the neatly laid stones of
+the road providing the only change.  
+
+[Exits: north east south west]
+A man of Earendam walks along the road, heading for Var Bandor.
+
+<466hp 228m 245mv> 
+The Arien Road
+  The broad strip of stone known to travelers as the Arien Road stretches
+into the distance to the east and west.  The flat monotony of the Plains of
+Arien are the only view to the north and south, the neatly laid stones of
+the road providing the only change.
+
+[Exits: north east south west]
+A burly guard walks along, protecting the caravan.
+A burly guard walks along, protecting the caravan.
+A merchant of Var Bandor travels with his caravan.
+A merchant of Var Bandor travels with his caravan.
+A merchant of Var Bandor travels with his caravan.
+
+<466hp 228m 244mv> 
+eat steak
+You eat a spicy, glazed bjorcha steak.
+The steak is rare and juicy, the spicy glazing leaving a lingering heat in your mouth.
+
+e
+e
+<466hp 228m 244mv> The Arien Road
+  The broad strip of stone known to travelers as the Arien Road stretches
+into the distance to the east and west.  The flat monotony of the Plains of
+Arien are the only view to the north and south, the neatly laid stones of
+the road providing the only change.
+
+[Exits: north east south west]
+A burly guard walks along, protecting the caravan.
+A burly guard walks along, protecting the caravan.
+A merchant of Var Bandor travels with his caravan.
+A merchant of Var Bandor travels with his caravan.
+A merchant of Var Bandor travels with his caravan.
+
+e
+<466hp 228m 243mv> 
+The Arien Road
+  The broad strip of stone known to travelers as the Arien Road stretches
+into the distance to the east and west.  The flat monotony of the Plains of
+Arien are the only view to the north and south, the neatly laid stones of
+the road providing the only change.  
+
+[Exits: north east south west]
+A burly guard walks along, protecting the caravan.
+A burly guard walks along, protecting the caravan.
+A merchant of Var Bandor travels with his caravan.
+A merchant of Var Bandor travels with his caravan.
+
+<466hp 228m 242mv> 
+The Arien Road
+  The broad strip of stones known to travelers as the Arien Road stretches
+into the distance to the west.  The flat monotony of the Plains of Arien are
+the only view to the north and south.  Far to the east, the gray walls of
+the city Earendam rise, barely visible in the distance.
+
+[Exits: north east south west]
+A man of Earendam walks along the road, heading for Var Bandor.
+
+<466hp 228m 241mv> 
+e
+The Arien Road
+  The broad strip of stones known to travelers as the Arien Road stretches
+into the distance to the west, curving slightly to the north at this bend. 
+The flat monotony of the Plains of Arien are the only view to the north and
+south.  Far to the east, the gray walls of the city Earendam rise, barely
+visible in the distance.  
+
+[Exits: north east south west]
+A woman trudges along the road to Earendam.
+
+e
+e
+<466hp 228m 240mv> 
+e
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the north, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: north east south west]
+
+<466hp 228m 239mv> 
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the north, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: north east west]
+
+<466hp 228m 238mv> 
+e
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the north, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: north east west]
+
+e
+<466hp 228m 237mv> 
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the north, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: north east west]
+
+<466hp 228m 236mv> 
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the north, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: north east west]
+
+<466hp 228m 235mv> 
+e
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the north, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: north east west]
+
+e
+<466hp 228m 234mv> 
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the north, the Arien Road
+travels between Var Bandor and Earendam.  Immediately east, the docks of
+Earendam bustle with activity.  
+
+[Exits: north east west]
+
+<466hp 228m 233mv> 
+e
+The Earendam Docks
+  A wide wooden docks has been erected just to the north of the River
+Dantaron, flowing sluggishly to the south under the city wall.  The docks
+are clear of clutter, incoming cargo being regulated closely and required to
+move immediately.  An occasional raft or barge can be seen on the river,
+arriving or leaving the city.  Several ladders and wooden walkways lead
+downward to the water of the river itself.  
+
+[Exits: north east south west down]
+     A pile of worn fishing nets sits at the edge of the dock.
+A dockhand is here working tirelessly.
+A dockhand is here working tirelessly.
+A dockhand is here working tirelessly.
+
+e
+<466hp 228m 232mv> 
+The Earendam Docks
+  A wide wooden docks has been erected just to the north of the River
+Dantaron, flowing sluggishly to the south under the city wall.  The docks
+are clear of clutter, incoming cargo being regulated closely and required to
+move immediately.  An occasional raft or barge can be seen on the river,
+arriving or leaving the city.  To the east, the granite walls of Earendam
+tower above the dock area.  Several ladders and wooden walkways lead
+downward to the water of the river itself.  
+
+[Exits: north south west down]
+     A section of the stone wall is discolored with grime.
+A dockhand is here working tirelessly.
+A dockhand is here working tirelessly.
+A dockhand is here working tirelessly.
+
+readi
+<466hp 228m 231mv> 
+You prepare yourself for combat.
+You have become better at readiness, and receive 76 experience!
+
+<466hp 220m 231mv> 
+e
+e
+e
+e
+Alas, you cannot go that way.
+
+<466hp 220m 231mv> Alas, you cannot go that way.
+
+<466hp 220m 231mv> Alas, you cannot go that way.
+
+<466hp 220m 231mv> Alas, you cannot go that way.
+
+<466hp 220m 231mv> 
+n
+The Arien Road
+  Outside the western gates of Earendam, the Arien Road stretches into the
+distance to the west.  Leading through the Plains of Arien to Var Bandor,
+the broad strip of stones accomodates a great number of caravans, travelers
+and merchants.  
+
+[Exits: north east south west]
+
+e
+<466hp 220m 230mv> 
+whe
+The West Gate of Earendam
+  Earendam's west gates are made of sturdy iron, built between two tall
+stone pillars.  Reinforcing these gates are several stout bars of iron,
+treated to preserve them from wear.  Outside the gates, the Arien Road heads
+west, cutting across the plains which give it its namesake.  Inside, the
+Arien Plaza opens, marking the beginning of Earendam proper.  
+
+[Exits: east west]
+An Earendam gate guard stands at attention.
+An Earendam gate guard stands at attention.
+
+<466hp 220m 229mv> 
+who
+Notables in Avendar (currently in Earendam):
+  (PK) Rhuinzek              The West Gate of Earendam         [present]    
+
+Total found: 1
+
+<466hp 220m 229mv> [17 Fig] Rhuinzek v'Eda the Phalanx Recruit
+[ 9 VTe] Xoggameth il'Nharazet the Initiate of the Serpent
+
+Players found: 2
+
+<466hp 220m 229mv> 
+in
+You are carrying:
+     an old shovel
+     a worn great axe
+     a pair of patched leather trousers
+     a jerkin of chainmail and leather
+     a spiked leather collar
+     an ivory-hilted dirk
+     a notched battleaxe
+     a blackened jawbone
+     some strips of raw meat
+( 3) (Glowing) a potion of transportation
+     a milky potion
+     an uncut sapphire pendant
+( 2) a patched cloak
+     a pair of green boots
+     a pair of leather gloves
+     a black leather belt
+     a felt hat
+     a wrapped parcel
+     a small piece of paper
+     a pair of hide boots
+     a small, green gourd
+     a bag of candied almonds
+( 2) a spicy, glazed bjorcha steak
+(23) a thick slice of herb bread
+     a canoe
+
+<466hp 220m 229mv> 
+l bedroll
+You do not see that here.
+
+<466hp 220m 229mv> 
+e
+e
+The Western Arien Plaza
+  The Arien Plaza comes to an end here as it approaches the western gate of
+Earendam.  Travelers and merchants head out through this gate onto the
+Arien road, bringing goods to and from the lands to the west.  Set in the
+northwestern portion of the city, this plaza is a square ringed on all
+sides by the buildings and walls of New Earendam.  Paved with cobblestones
+long worn smooth by the feet of travelers entering the city from the Arien
+road, the center of the square lies eastward, where an ornate fountain
+serves as a resting place for the main body of the populace in the immediate
+area.  Shops line the northern edge of the square, while southward the plaza
+eventually terminates in a stone wall.  
+
+[Exits: north east south west]
+A hulking alatharya porter carries goods for a merchant.
+A merchant from Var Bandor strolls through the plaza.
+
+<466hp 220m 228mv> 
+The Center of Arien Plaza
+  The Arien plaza stretches in all directions around this point.  From
+here, you can make out the locations on the periphery of this almost
+perfectly square plaza.  Travelers head to and from a gate to the west,
+filling the square with merchants and others, passing through the city by
+way of the Arien road.  Further east, the square eventually leads to the
+eastern portion of the city, while a similar passage cuts through a wall a
+ways to the south.  The north wall of the plaza is dominated by a series of
+shops and taverns, mainly devoted to providing for the merchants who pass
+through here.  The exact center of the plaza houses a sizeable granite
+fountain, its circular base surrounding a pool whose water source is a
+statue of tall caladaran.  The cobblestone ground of the plaza bears shows
+many signs of wear and use, the fountain being a popular gathering place for
+merchants newly arrived in the city.  A small, square grate sits at the
+eastern side of the base of the fountain.  
+
+[Exits: north east south west (down)]
+A muscular protector is loitering here, surveying the area casually.
+
+<466hp 220m 227mv> 
+n
+n
+You gained 1 exploration point and 50 experience points!
+The Northern Arien Plaza
+  The northern half of the Arien Plaza bustles with activity as merchants
+and travelers pass through the plaza to and from the west gate of the city,
+which lies to the southwest.  The plaza continues in every direction except
+the north, where an open shop front advertises provisions for passing
+travellers.  Of particular note is the center of the plaza to the south,
+where a statue and fountain are visible.  
+
+[Exits: north east south west]
+
+<466hp 220m 226mv> 
+You gained 1 exploration point and 50 experience points!
+Jalith's Provisions
+  Jalith's shop provides provisions to the travellers coming to and from
+the plaza along the Arien road.  Crowded with barrels of flour, along with
+jars of preserved meats and other spices, the shop does a brisk enough
+business to demand that these supplies be on hand.  A stone building with a
+wooden ceiling, the shop is built in the more modern mercantile style which
+dominates this party of the city, known colloquially as "New Earendam."  
+
+[Exits: south]
+Jalith stands here, offering provisions for sale.
+
+<466hp 220m 225mv> 
+list
+Jalith says, 'Sorry, I am closed.  Come back at 8:00am.'
+
+<466hp 220m 225mv> 
+s
+The Northern Arien Plaza
+  The northern half of the Arien Plaza bustles with activity as merchants
+and travelers pass through the plaza to and from the west gate of the city,
+which lies to the southwest.  The plaza continues in every direction except
+the north, where an open shop front advertises provisions for passing
+travellers.  Of particular note is the center of the plaza to the south,
+where a statue and fountain are visible.  
+
+[Exits: north east south west]
+
+e
+<466hp 228m 252mv> 
+n
+You gained 1 exploration point and 50 experience points!
+The Northeastern Arien Plaza
+  The northeastern corner of the Arien Plaza bustles with activity as
+merchants and travelers pass through the area, heading to and from the west
+gate of the city, which lies southwest.  The open expanse of the plaza
+gradually comes to an end here, eventually terminating in a series of shops
+to the north, and the wall of a tall building to the east.  Most prominent
+among the shops to the north is a supply house of some sort, from which
+merchants trickle in and out, gathering supplies for their journeys along
+the Arien.  
+
+[Exits: north south west]
+A merchant's bodyguard scans the crowd, watchful of his charge.
+A merchant of Earendam mills about the plaza.
+
+<466hp 228m 251mv> 
+time
+You gained 1 exploration point and 50 experience points!
+Kantilus's General Store
+  An older building of stone, Kantilus's shop provides for the needs of
+travelers who pass to and from the plaza along the Arien road.  Amidst the
+racks of bridles and backpacks, the smell of fresh leather hangs in the air.
+Rather cramped with the occasional barrel or row of metal tools, the shop
+still is a common stopping place for those who come to this part of the
+city.  
+
+[Exits: south]
+Kantilus is here, tending to his shop.
+
+<466hp 228m 250mv> 
+It is 10:30pm, Nimensday, 2nd day of Valectis.
+It is autumn of the year 1762.
+The bright moon of Lunus is waning gibbous in the sky.
+The medium red form of Rhos is waxing in the sky.
+
+<466hp 228m 250mv> 
+whe
+Notables in Avendar (currently in Earendam):
+  (PK) Rhuinzek              Kantilus's General Store          [present]    
+
+Total found: 1
+
+who
+<466hp 228m 250mv> 
+[17 Fig] Rhuinzek v'Eda the Phalanx Recruit
+[ 9 VTe] Xoggameth il'Nharazet the Initiate of the Serpent
+
+Players found: 2
+
+<466hp 228m 250mv> 
+mutter
+You mutter quietly to yourself.
+
+<466hp 228m 250mv> 
+l
+Kantilus's General Store
+  An older building of stone, Kantilus's shop provides for the needs of
+travelers who pass to and from the plaza along the Arien road.  Amidst the
+racks of bridles and backpacks, the smell of fresh leather hangs in the air.
+Rather cramped with the occasional barrel or row of metal tools, the shop
+still is a common stopping place for those who come to this part of the
+city.  
+
+[Exits: south]
+Kantilus is here, tending to his shop.
+
+<466hp 228m 250mv> 
+s
+The Northeastern Arien Plaza
+  The northeastern corner of the Arien Plaza bustles with activity as
+merchants and travelers pass through the area, heading to and from the west
+gate of the city, which lies southwest.  The open expanse of the plaza
+gradually comes to an end here, eventually terminating in a series of shops
+to the north, and the wall of a tall building to the east.  Most prominent
+among the shops to the north is a supply house of some sort, from which
+merchants trickle in and out, gathering supplies for their journeys along
+the Arien.  
+
+[Exits: north south west]
+A merchant's bodyguard scans the crowd, watchful of his charge.
+A merchant of Earendam mills about the plaza.
+
+<466hp 228m 249mv> 
+w
+The Northern Arien Plaza
+  The northern half of the Arien Plaza bustles with activity as merchants
+and travelers pass through the plaza to and from the west gate of the city,
+which lies to the southwest.  The plaza continues in every direction except
+the north, where an open shop front advertises provisions for passing
+travellers.  Of particular note is the center of the plaza to the south,
+where a statue and fountain are visible.  
+
+[Exits: north east south west]
+
+w
+<466hp 228m 248mv> 
+The Northwestern Arien Plaza
+  The northwestern corner of the Arien Plaza bustles with activity as it
+approaches the city walls of Earendam to the west.  Travelers and merchants
+wander through the area, mainly heading to, or coming from the west gate of
+Earendam to the south.  The edge of the plaza lines a row of shops to the
+east, but comes to an end here, where a large inn sits in the crook between
+the city wall and the shops to the east, and is marked by the sign of a
+flagon and bedroll.  
+
+[Exits: north east south]
+A city watchman patrols the streets of Earendam.
+A merchant's bodyguard scans the crowd, watchful of his charge.
+A merchant of Earendam mills about the plaza.
+
+w
+<466hp 228m 247mv> 
+Alas, you cannot go that way.
+
+w
+<466hp 228m 247mv> 
+Alas, you cannot go that way.
+
+s
+<466hp 228m 247mv> The Western Arien Plaza
+  The Arien Plaza comes to an end here as it approaches the western gate of
+Earendam.  Travelers and merchants head out through this gate onto the
+Arien road, bringing goods to and from the lands to the west.  Set in the
+northwestern portion of the city, this plaza is a square ringed on all
+sides by the buildings and walls of New Earendam.  Paved with cobblestones
+long worn smooth by the feet of travelers entering the city from the Arien
+road, the center of the square lies eastward, where an ornate fountain
+serves as a resting place for the main body of the populace in the immediate
+area.  Shops line the northern edge of the square, while southward the plaza
+eventually terminates in a stone wall.  
+
+[Exits: north east south west]
+A hulking alatharya porter carries goods for a merchant.
+A merchant from Var Bandor strolls through the plaza.
+
+w
+<466hp 228m 246mv> 
+The West Gate of Earendam
+  Earendam's west gates are made of sturdy iron, built between two tall
+stone pillars.  Reinforcing these gates are several stout bars of iron,
+treated to preserve them from wear.  Outside the gates, the Arien Road heads
+west, cutting across the plains which give it its namesake.  Inside, the
+Arien Plaza opens, marking the beginning of Earendam proper.  
+
+[Exits: east west]
+An Earendam gate guard stands at attention.
+An Earendam gate guard stands at attention.
+
+<466hp 228m 245mv> 
+whe
+Notables in Avendar (currently in Earendam):
+  (PK) Rhuinzek              The West Gate of Earendam         [present]    
+
+Total found: 1
+
+who
+<466hp 228m 245mv> [17 Fig] Rhuinzek v'Eda the Phalanx Recruit
+[ 9 VTe] Xoggameth il'Nharazet the Initiate of the Serpent
+
+Players found: 2
+
+<466hp 228m 245mv> 
+rest
+You rest.
+
+<466hp 228m 245mv> 
+in
+You are carrying:
+     an old shovel
+     a worn great axe
+     a pair of patched leather trousers
+     a jerkin of chainmail and leather
+     a spiked leather collar
+     an ivory-hilted dirk
+     a notched battleaxe
+     a blackened jawbone
+     some strips of raw meat
+( 3) (Glowing) a potion of transportation
+     a milky potion
+     an uncut sapphire pendant
+( 2) a patched cloak
+     a pair of green boots
+     a pair of leather gloves
+     a black leather belt
+     a felt hat
+     a wrapped parcel
+     a small piece of paper
+     a pair of hide boots
+     a small, green gourd
+     a bag of candied almonds
+( 2) a spicy, glazed bjorcha steak
+(23) a thick slice of herb bread
+     a canoe
+
+<466hp 228m 245mv> 
+whe
+Notables in Avendar (currently in Earendam):
+  (PK) Rhuinzek              The West Gate of Earendam         [present]    
+
+Total found: 1
+
+who
+<466hp 228m 245mv> 
+[17 Fig] Rhuinzek v'Eda the Phalanx Recruit
+[ 9 VTe] Xoggameth il'Nharazet the Initiate of the Serpent
+
+Players found: 2
+
+<466hp 228m 245mv> 
+help thief
+/---------------------------------------------------------------------------\
+|          Thief                                                            |
+\---------------------------------------------------------------------------/
+
+One of the first professions to arise in history as people became more
+civilized, many races lay claim to the original thieves. It is likely that
+there is no real answer to the question; the earliest srryn were just as
+inclined to be picking pockets amongst their huts as the aelin swindled each
+other in the shadows of their growing cities. The nefortu, ever fond of their
+tricks, as well took to this work as they emerged, and the shuddeni too enjoy
+such exploitation of others. Even the ch'taren have taken to these roguish
+practices, using them to subtly work a greater good upon the world.
+
+Above all other weapons, thieves specialize in daggers, using them to slice
+and stab at foes, often inflicting unparalleled amounts of damage with them.
+They do also learn to use swords, and occasionally utilize whips as well; the
+former to better defend themselves. Most thieves learn swiftly the benefit of
+rapidly shifting their weapons about. Thieves have also developed their own
+method of communication through complex hand gestures, known as cant.
+
+Coming from all walks of life, thieves may be of any alignment and may follow
+any god or none; even Iandir and Jolinn have welcomed the faith of thieves
+who apply their copious talents in appropriate ways. Among aelin theives,
+Serachel is often the source of many a swift prayer, as his dominance over
+shadows places much of their work under his aegis.
+
+<466hp 228m 245mv> 
+sk
+
+Level  1: flail               75%        mace                75%        
+          spear               75%        sword               80%        
+          parry               75%        rescue              75%        
+          recover             75%        
+Level  2: enhanced damage     77%        
+Level  3: second attack       76%        
+Level  4: dodge               76%        
+Level  5: hand to hand        75%        
+Level  6: fast healing        75%        
+Level  7: endurance           77%        
+Level  8: shield block        76%        kick                80%        
+Level  9: bandage             75%        
+Level 10: grip                75%        
+Level 11: shield bash         75%        
+Level 12: third attack        75%        
+Level 13: lunge               78%        
+Level 14: haggle              75%( 90%)  defensive stance    75%        
+Level 15: trip                75%        
+Level 16: forced march        75%        
+Level 17: readiness           76%        
+Level 18: gash               n/a      
+Level 19: disarm             n/a      
+Level 20: flank              n/a      throw              n/a      
+Level 21: fend               n/a      
+Level 22: guard              n/a      
+Level 23: pommel             n/a      
+Level 24: meditation         n/a      withdraw           n/a      
+Level 25: fourth attack      n/a      
+Level 26: drive              n/a      sweep              n/a      
+Level 27: phalanx            n/a      
+Level 28: rally              n/a      
+Level 29: counterattack      n/a      
+Level 30: counter            n/a      
+Level 31: Kalysian cunning   n/a      
+Level 33: cover              n/a      
+Level 35: scouting           n/a      
+Level 38: reach mastery      n/a      
+Level 40: rout               n/a      
+
+<466hp 228m 245mv> 
+whe
+Notables in Avendar (currently in Earendam):
+  (PK) Rhuinzek              The West Gate of Earendam         [present]    
+
+Total found: 1
+
+who
+<466hp 228m 253mv> [17 Fig] Rhuinzek v'Eda the Phalanx Recruit
+[ 9 VTe] Xoggameth il'Nharazet the Initiate of the Serpent
+
+Players found: 2
+
+<466hp 228m 253mv> 
+help barbarian
+/---------------------------------------------------------------------------\
+|          Barbarian                                                        |
+\---------------------------------------------------------------------------/
+
+The oldest of Avendar's warrior creeds, the barbarian has been a fixture of 
+the wild since the earliest ages of man. The first of the fallen alatharya 
+shamans were eager to call upon their strength and fury in times of need; the 
+the feral kankoran, the brutal srryn, and young humanity would all seek power 
+through similar means. The terrifying vision of the horde which broke the 
+Republic is never far from cityfolk who encounter the modern barbarian, 
+ensuring that their guilds are never exulted in civilized city-states. 
+  
+The barbarian's methods are as crude and harsh as the ancient world which 
+shaped him; the axe, the mace, and the wilderness are his steadfast 
+companions. He is most well-known for his mighty hews, which have broken the 
+bodies of adventurer and creature alike. His skill with the mace allow him to 
+shatter bone or daze his foes, striking fear into the hearts of spellcasters 
+who might oppose him. He can create simple, ad-hoc weapons and necessities in 
+forests. Finally, he can feast upon the flesh of the defeated, and craft 
+clothing from their hides. 
+  
+Barbarians may be of any alignment, but due to their wild, roaming natures, 
+they may never be lawful. Kankoran deities are the primary patrons of those 
+who wish to destroy the cities of men, and thus many barbarians find value in 
+their creeds. Enirra and Dolgrael are often popular amongst humans and 
+alatharya, while srryn are near-universally heed the call of Sythrak. However, 
+barbarians are as diverse and free-natured as the great beasts who roam 
+Avendar's vast wilderness, leading many to serve only their own personal 
+whims. 
+  
+See also: ENIRRA, DOLGRAEL, SYTHRAK, LILUNE
+
+<466hp 228m 253mv> 
+whe
+Notables in Avendar (currently in Earendam):
+  (PK) Rhuinzek              The West Gate of Earendam         [present]    
+
+Total found: 1
+
+who
+<466hp 228m 253mv> 
+[17 Fig] Rhuinzek v'Eda the Phalanx Recruit
+[ 9 VTe] Xoggameth il'Nharazet the Initiate of the Serpent
+
+Players found: 2
+
+<466hp 228m 253mv> 
+help gladiator
+/---------------------------------------------------------------------------\
+|          Gladiator                                                        |
+\---------------------------------------------------------------------------/
+
+Trained for the arena-fighting that is common throughout Avendar, gladiators
+transform the gruesome structure into a spectacle of showmanship.  Arising
+from the slave culture of Ashta Harrud, gladiatorial combat grew in popularity
+as word spread along northern trade routes.  With the emergence of the
+shuddeni into the racial mix of Avendar, gladiatorial bouts have become both
+more humane and less.  Cities such as Earendam the Grand have outlawed the use
+of slaves and brought a measure of self-determination to the practice.
+Meanwhile, its brutality has simultaneously increased with the growing number
+of chaja and introduction of overworlders into the high-risk arenas of
+Yithoul.
+
+It is common for srryn to come north from their native swamps to ply their
+bloodthirst in Earendam, the potential rewards outweighing the indignities of
+competing against (and for the entertainment of) warmbloods.  Harrudim
+gladiators are nearly exclusively human, whereas the shuddeni favor making
+their chaja subordinates fight for pleasure.  The massive size of the
+alatharya frequently make them a fan-favorite, their racial proclivity for
+both resilience and force giving them notable advantages.  Kankoran often
+train as gladiators, although the radical fringe of pack society may shun them
+for embracing this product of highly civilized life.
+
+Dolgrael is a favored deity among gladiators, as their lifestyle puts them
+frequently against the odds in battle.  The arena calls to no one faith or
+alignment, and gladiators often pray to whatever god they feel most likely to
+grant them victory.  However, such prayers are a privilege paid for in blood.
+
+Gladiators are trained in a variety of weapons, as well as techniques to put
+them to good use-- a lesson hard-learned from the restrictions of the arena.
+The spear, the sword, the whip, and the flail are often weapons of choice for
+a skilled gladiator, as each carries unique, tactical advantages.
+
+<466hp 228m 253mv> 
+[ INFO ]  - Split-screen scrollback activated. Press <CTRL>+<ENTER> to cancel.
+sk
+
+Level  1: flail               75%        mace                75%        
+          spear               75%        sword               80%        
+          parry               75%        rescue              75%        
+          recover             75%        
+Level  2: enhanced damage     77%        
+Level  3: second attack       76%        
+Level  4: dodge               76%        
+Level  5: hand to hand        75%        
+Level  6: fast healing        75%        
+Level  7: endurance           77%        
+Level  8: shield block        76%        kick                80%        
+Level  9: bandage             75%        
+Level 10: grip                75%        
+Level 11: shield bash         75%        
+Level 12: third attack        75%        
+Level 13: lunge               78%        
+Level 14: haggle              75%( 90%)  defensive stance    75%        
+Level 15: trip                75%        
+Level 16: forced march        75%        
+Level 17: readiness           76%        
+Level 18: gash               n/a      
+Level 19: disarm             n/a      
+Level 20: flank              n/a      throw              n/a      
+Level 21: fend               n/a      
+Level 22: guard              n/a      
+Level 23: pommel             n/a      
+Level 24: meditation         n/a      withdraw           n/a      
+Level 25: fourth attack      n/a      
+Level 26: drive              n/a      sweep              n/a      
+Level 27: phalanx            n/a      
+Level 28: rally              n/a      
+Level 29: counterattack      n/a      
+Level 30: counter            n/a      
+Level 31: Kalysian cunning   n/a      
+Level 33: cover              n/a      
+Level 35: scouting           n/a      
+Level 38: reach mastery      n/a      
+Level 40: rout               n/a      
+
+<466hp 228m 253mv> 
+whe
+Notables in Avendar (currently in Earendam):
+  (PK) Rhuinzek              The West Gate of Earendam         [present]    
+
+Total found: 1
+
+<466hp 228m 253mv> 
+who
+[17 Fig] Rhuinzek v'Eda the Phalanx Recruit
+[ 9 VTe] Xoggameth il'Nharazet the Initiate of the Serpent
+
+Players found: 2
+
+<466hp 228m 253mv> 
+
+With the passing of midnight, it is now Thethelsday, 3rd day of Valectis.
+
+<466hp 228m 253mv> 
+
+You feel less prepared for combat.
+
+<466hp 228m 253mv> 
+
+You are thirsty.
+
+<466hp 228m 253mv> 
+
+You are thirsty.
+
+<466hp 228m 253mv> 
+
+[TIPS] Counterattacks are unable to be blocked, making them particularly effective against targets
+with high damage mitigation.
+
+<466hp 228m 253mv> 
+
+You are thirsty.
+
+<466hp 228m 253mv> 
+l
+The West Gate of Earendam
+  Earendam's west gates are made of sturdy iron, built between two tall
+stone pillars.  Reinforcing these gates are several stout bars of iron,
+treated to preserve them from wear.  Outside the gates, the Arien Road heads
+west, cutting across the plains which give it its namesake.  Inside, the
+Arien Plaza opens, marking the beginning of Earendam proper.  
+
+[Exits: east west]
+An Earendam gate guard stands at attention.
+An Earendam gate guard stands at attention.
+
+<466hp 228m 253mv> 
+in
+You are carrying:
+     an old shovel
+     a worn great axe
+     a pair of patched leather trousers
+     a jerkin of chainmail and leather
+     a spiked leather collar
+     an ivory-hilted dirk
+     a notched battleaxe
+     a blackened jawbone
+     some strips of raw meat
+( 3) (Glowing) a potion of transportation
+     a milky potion
+     an uncut sapphire pendant
+( 2) a patched cloak
+     a pair of green boots
+     a pair of leather gloves
+     a black leather belt
+     a felt hat
+     a wrapped parcel
+     a small piece of paper
+     a pair of hide boots
+     a small, green gourd
+     a bag of candied almonds
+( 2) a spicy, glazed bjorcha steak
+(23) a thick slice of herb bread
+     a canoe
+
+<466hp 228m 253mv> 
+whe
+Notables in Avendar (currently in Earendam):
+  (PK) Rhuinzek              The West Gate of Earendam         [present]    
+  Xoggameth                  Nendor                            [a ways off, west]
+
+Total found: 2
+
+<466hp 228m 253mv> 
+who
+[17 Fig] Rhuinzek v'Eda the Phalanx Recruit
+[ 9 VTe] Xoggameth il'Nharazet the Initiate of the Serpent
+
+Players found: 2
+
+<466hp 228m 253mv> 
+e
+e
+Nah... You feel too relaxed...
+
+<466hp 228m 253mv> Nah... You feel too relaxed...
+
+<466hp 228m 253mv> 
+drink
+Drink what?
+
+<466hp 228m 253mv> 
+st
+You stand up.
+
+e
+<466hp 228m 253mv> The Western Arien Plaza
+  The Arien Plaza comes to an end here as it approaches the western gate of
+Earendam.  Travelers and merchants head out through this gate onto the
+Arien road, bringing goods to and from the lands to the west.  Set in the
+northwestern portion of the city, this plaza is a square ringed on all
+sides by the buildings and walls of New Earendam.  Paved with cobblestones
+long worn smooth by the feet of travelers entering the city from the Arien
+road, the center of the square lies eastward, where an ornate fountain
+serves as a resting place for the main body of the populace in the immediate
+area.  Shops line the northern edge of the square, while southward the plaza
+eventually terminates in a stone wall.  
+
+[Exits: north east south west]
+A hulking alatharya porter carries goods for a merchant.
+A merchant from Var Bandor strolls through the plaza.
+
+e
+<466hp 228m 252mv> 
+The Center of Arien Plaza
+  The Arien plaza stretches in all directions around this point.  From
+here, you can make out the locations on the periphery of this almost
+perfectly square plaza.  Travelers head to and from a gate to the west,
+filling the square with merchants and others, passing through the city by
+way of the Arien road.  Further east, the square eventually leads to the
+eastern portion of the city, while a similar passage cuts through a wall a
+ways to the south.  The north wall of the plaza is dominated by a series of
+shops and taverns, mainly devoted to providing for the merchants who pass
+through here.  The exact center of the plaza houses a sizeable granite
+fountain, its circular base surrounding a pool whose water source is a
+statue of tall caladaran.  The cobblestone ground of the plaza bears shows
+many signs of wear and use, the fountain being a popular gathering place for
+merchants newly arrived in the city.  A small, square grate sits at the
+eastern side of the base of the fountain.  
+
+[Exits: north east south west (down)]
+A muscular protector is loitering here, surveying the area casually.
+
+drink
+<466hp 228m 251mv> 
+drink
+You drink water from a granite fountain.
+You are full.
+Your thirst is quenched.
+
+drink
+<466hp 228m 251mv> You drink water from a granite fountain.
+You are full.
+Your thirst is quenched.
+
+<466hp 228m 251mv> You drink water from a granite fountain.
+You are full.
+Your thirst is quenched.
+
+<466hp 228m 251mv> 
+whe
+Notables in Avendar (currently in Earendam):
+  (PK) Rhuinzek              The Center of Arien Plaza         [present]    
+  Xoggameth                  Nendor                            [far away, west]
+
+Total found: 2
+
+who
+<466hp 228m 251mv> 
+[17 Fig] Rhuinzek v'Eda the Phalanx Recruit
+[ 9 VTe] Xoggameth il'Nharazet the Initiate of the Serpent
+
+Players found: 2
+
+<466hp 228m 251mv> 
+whe
+Notables in Avendar (currently in Earendam):
+  (PK) Rhuinzek              The Center of Arien Plaza         [present]    
+  Xoggameth                  Nendor                            [far away, west]
+
+Total found: 2
+
+<466hp 228m 251mv> 
+w
+w
+The Western Arien Plaza
+  The Arien Plaza comes to an end here as it approaches the western gate of
+Earendam.  Travelers and merchants head out through this gate onto the
+Arien road, bringing goods to and from the lands to the west.  Set in the
+northwestern portion of the city, this plaza is a square ringed on all
+sides by the buildings and walls of New Earendam.  Paved with cobblestones
+long worn smooth by the feet of travelers entering the city from the Arien
+road, the center of the square lies eastward, where an ornate fountain
+serves as a resting place for the main body of the populace in the immediate
+area.  Shops line the northern edge of the square, while southward the plaza
+eventually terminates in a stone wall.  
+
+[Exits: north east south west]
+A hulking alatharya porter carries goods for a merchant.
+A merchant from Var Bandor strolls through the plaza.
+
+w
+w
+<466hp 228m 250mv> 
+The West Gate of Earendam
+  Earendam's west gates are made of sturdy iron, built between two tall
+stone pillars.  Reinforcing these gates are several stout bars of iron,
+treated to preserve them from wear.  Outside the gates, the Arien Road heads
+west, cutting across the plains which give it its namesake.  Inside, the
+Arien Plaza opens, marking the beginning of Earendam proper.  
+
+[Exits: east west]
+An Earendam gate guard stands at attention.
+An Earendam gate guard stands at attention.
+
+<466hp 228m 249mv> 
+The Arien Road
+  Outside the western gates of Earendam, the Arien Road stretches into the
+distance to the west.  Leading through the Plains of Arien to Var Bandor,
+the broad strip of stones accomodates a great number of caravans, travelers
+and merchants.  
+
+[Exits: north east south west]
+
+<466hp 228m 248mv> 
+The Arien Road
+  Outside the western gates of Earendam, the Arien Road stretches into the
+distance to the west.  Leading through the Plains of Arien to Var Bandor,
+the broad strip of stones accomodates a great number of caravans, travelers
+and merchants.
+
+[Exits: north east south west]
+
+w
+w
+<466hp 228m 247mv> 
+w
+The Arien Road
+  The broad strip of stones known to travelers as the Arien Road stretches
+into the distance to the west.  The flat monotony of the Plains of Arien are
+the only view to the north and south.  In the distance the gray walls of
+Earendam rise, strikingly different from the otherwise featureless
+landscape.  
+
+[Exits: north east south west]
+
+w
+<466hp 228m 252mv> 
+The Arien Road
+  The broad strip of stones known to travelers as the Arien Road stretches
+into the distance to the west.  The flat monotony of the Plains of Arien are
+the only view to the north and south.  In the distance the gray walls of
+Earendam rise, strikingly different from the otherwise featureless
+landscape.
+
+[Exits: north east south west]
+
+w
+<466hp 228m 251mv> 
+w
+The Arien Road
+  The broad strip of stones known to travelers as the Arien Road stretches
+into the distance to the west.  The flat monotony of the Plains of Arien are
+the only view to the north and south.  In the distance the gray walls of
+Earendam rise, strikingly different from the otherwise featureless
+landscape.
+
+[Exits: north east south west]
+A woman trudges along the road to Earendam.
+
+w
+<466hp 228m 250mv> 
+The Arien Road
+  The broad strip of stones known to travelers as the Arien Road stretches
+into the distance to the west.  The flat monotony of the Plains of Arien are
+the only view to the north and south.  In the distance the gray walls of
+Earendam rise, strikingly different from the otherwise featureless
+landscape.
+
+[Exits: north east south west]
+A man of Earendam walks along the road, heading for Var Bandor.
+
+<466hp 228m 249mv> 
+The Arien Road
+  The broad strip of stones known to travelers as the Arien Road stretches
+into the distance to the west.  The flat monotony of the Plains of Arien are
+the only view to the north and south.  In the distance the gray walls of
+Earendam rise, strikingly different from the otherwise featureless
+landscape.
+
+[Exits: north east south west]
+
+w
+<466hp 228m 248mv> 
+w
+The Arien Road
+  The broad strip of stones known to travelers as the Arien Road stretches
+into the distance to the west.  The flat monotony of the Plains of Arien are
+the only view to the north and south.  Far to the east, the gray walls of
+the city Earendam rise, barely visible in the distance.  
+
+[Exits: north east south west]
+
+w
+<466hp 228m 247mv> 
+The Arien Road
+  The broad strip of stones known to travelers as the Arien Road stretches
+into the distance to the west.  The flat monotony of the Plains of Arien are
+the only view to the north and south.  Far to the east, the gray walls of
+the city Earendam rise, barely visible in the distance.
+
+[Exits: north east south west]
+
+<466hp 228m 246mv> 
+The Arien Road
+  The broad strip of stones known to travelers as the Arien Road stretches
+into the distance to the west, curving slightly to the south at this bend. 
+The flat monotony of the Plains of Arien are the only view to the north and
+south.  Far to the east, the gray walls of the city Earendam rise, barely
+visible in the distance.  
+
+[Exits: north east south west]
+
+<466hp 228m 245mv> 
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: north east south west]
+
+<466hp 228m 244mv> 
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south west]
+
+w
+<466hp 228m 243mv> 
+w
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south west]
+
+<466hp 228m 242mv> 
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south west]
+
+<466hp 228m 241mv> 
+w
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south west]
+A dusty brown goose waddles about nervously.
+
+w
+<466hp 228m 240mv> 
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south west]
+
+<466hp 228m 239mv> 
+w
+The Brintor Road
+  The wide dirt way known as the Brintor Road leads north through the Arien
+Plains, gashing a brown line through the monotony of the prairies.  Deep ruts
+carved into the road indicate the passing of carts and caravans seeking
+trade with the people of the Brintor Mountains to the north.  South, the
+Arien Road leads between Earendam and Var Bandor.  
+
+[Exits: north east south west]
+
+w
+w
+<466hp 228m 238mv> 
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south west]
+
+<466hp 228m 237mv> 
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south west]
+
+w
+<466hp 228m 236mv> 
+w
+w
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: east south]
+
+w
+<466hp 228m 235mv> 
+Alas, you cannot go that way.
+
+<466hp 228m 235mv> Alas, you cannot go that way.
+
+s
+<466hp 228m 235mv> Alas, you cannot go that way.
+
+s
+<466hp 228m 235mv> The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the south, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: north east south west]
+
+s
+s
+<466hp 228m 234mv> 
+The Arien Road
+  The broad strip of stone known to travelers as the Arien Road stretches
+into the distance to the east and west, curving north at this bend.  The
+flat monotony of the Plains of Arien are the only view to the north and
+south, the neatly laid stones of the road providing the only change.
+
+[Exits: north east south west]
+
+<466hp 228m 233mv> 
+w
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the north, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: north east west]
+
+<466hp 228m 232mv> 
+Alas, you cannot go that way.
+
+<466hp 228m 232mv> The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the north, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: north east west]
+
+w
+w
+<466hp 228m 231mv> 
+w
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the north, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: north east west]
+
+w
+w
+<466hp 228m 230mv> 
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the north, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: north east west]
+
+<466hp 228m 229mv> 
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the north, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: north east west]
+
+<466hp 228m 228mv> 
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the north, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: north east west]
+
+<466hp 228m 227mv> 
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the north, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: north east west]
+
+<466hp 228m 226mv> 
+w
+w
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the north, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: north east west]
+
+w
+w
+<466hp 228m 225mv> 
+w
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the north, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: north east west]
+
+<466hp 228m 224mv> 
+The Arien Plains
+  The flat Arien Plains stretch before you, gray, vast and unchanging. 
+Small shrubs grow here and there, surrounded by patches of dry grass, but
+for the most part the Plains are unvegetated.  To the north, the Arien Road
+travels between Var Bandor and Earendam.  
+
+[Exits: north east west]
+
+<466hp 228m 223mv> 
+The Arien Plains
+  The broad stone strip known as the Arien Road turns to the south at this
+point, leading to the waters of the Dantaron River, and beyond to Var
+Bandor. The Arien Plains spread to the north and west, their unbroken
+monotony extending as far as eye can see.
+
+[Exits: north east south]
+
+w
+<466hp 228m 222mv> 
+w
+Alas, you cannot go that way.
+
+<466hp 228m 222mv> Alas, you cannot go that way.
+
+s
+s
+<466hp 228m 222mv> Alas, you cannot go that way.
+
+s
+<466hp 228m 222mv> A Ferry Station
+  The waters of the Dantaron River flow placidly to the south, a muddy
+brown barrier to merchants, carts, and foot travelers.  A small wooden dock
+has been erected at the water's edge, and several large ferries run by
+riverfolk carry passengers back and forth between the Arien Road and the
+outskirts of Var Bandor.  
+A wooden sign stands at the edge of the docks.
+
+[Exits: north south]
+A ferryman stands on the docks, offering his services for gold.
+
+<466hp 228m 221mv> 
+The Dantaron River
+  The winding Dantaron River turns to the east, flowing by the city of Var
+Bandor.  The placid, muddy waters ripple gently as they run their course,
+eventually leading to Earendam eastward.  The stone walls of Var Bandor
+tower menacingly to the south, and north and south of the river ferry
+stations have been set up.  
+
+[Exits: north east south west]
+
+<466hp 228m 220mv> 
+A Ferry Station
+  The waters of the Dantaron River flow placidly to the north, a muddy
+brown barrier to merchants, carts, and foot travelers.  A small wooden dock
+has been erected at the water's edge, and several large ferries run by
+riverfolk carry passengers back and forth between the Arien Road and the
+outskirts of Var Bandor.
+
+[Exits: north south]
+The ferryman stands along the river, offering to transport travelers.
+
+s
+s
+<466hp 228m 219mv> 
+s
+The Outskirts of Var Bandor
+  You stand outside the north wall of Var Bandor.  In the distance to the
+north, the Dantaron river splits into two forks which flow around Var Bandor
+on either side.  The ground here is muddy and level, with little grass
+growing. Behind you to the south, the stone wall of the city overshadows
+the outskirts. 
+
+[Exits: north east south west]
+
+<466hp 228m 218mv> 
+Outside the Northern Gatehouse
+  The towering gates of Var Bandor rise to the south.  Huge, heavy wooden
+doors reinforced with iron bars, the gates are maintained rigorously.  The
+walls to the east and west are solid stone, with murder slits.  To the
+north, the river Dantaron splits into two mighty forks which flow by Var
+Bandor on either side.  
+
+[Exits: north east south west]
+
+<466hp 228m 217mv> 
+whe
+Inside the Northern Gatehouse
+  This gatehouse house is built behind the gates of Sadrent, the oldest of
+the gates into Var Bandor.  Outside, to the north, a ferry leads across the
+Dantaron river, while to the south Sadrent road snakes its way into the
+city.  The gatehouse is ill-tended, leading in to the poorest section of the
+city, and consequently little attention is paid to the traffic of riff-raff
+and n'er-do-wells through these wrought iron gates.  
+
+[Exits: north south]
+A soldier of the Var Bandor Guard watches the gatehouse.
+
+<466hp 228m 216mv> 
+who
+Notables in Avendar (currently in Var Bandor):
+  (PK) Rhuinzek              Inside the Northern Gatehouse     [present]    
+  Xoggameth                  Nendor                            [nearby, north]
+
+Total found: 2
+
+<466hp 228m 216mv> [17 Fig] Rhuinzek v'Eda the Phalanx Recruit
+[ 9 VTe] Xoggameth il'Nharazet the Initiate of the Serpent
+
+Players found: 2
+
+<466hp 228m 216mv> 
+w
+Alas, you cannot go that way.
+
+w
+w
+<466hp 228m 216mv> Alas, you cannot go that way.
+
+<466hp 228m 216mv> Alas, you cannot go that way.
+
+<466hp 228m 216mv> 
+w
+Alas, you cannot go that way.
+
+s
+s
+<466hp 228m 216mv> Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.  To the east and west is a squalid
+alley.  
+
+[Exits: north east south west]
+A young man clad in soiled clothes grins menacingly at passersby.
+
+s
+<466hp 228m 215mv> 
+s
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.  The road turns north and west here.  
+
+[Exits: north west]
+An enforcer of Var Bandor patrols here, scrutinizing every passing face.
+
+s
+<466hp 228m 214mv> 
+s
+Alas, you cannot go that way.
+
+s
+<466hp 228m 214mv> Alas, you cannot go that way.
+
+<466hp 228m 214mv> Alas, you cannot go that way.
+
+<466hp 228m 214mv> Alas, you cannot go that way.
+
+<466hp 228m 214mv> Alas, you cannot go that way.
+
+drink
+<466hp 228m 214mv> Drink what?
+
+<466hp 228m 214mv> 
+w
+s
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.  The road turns east and south.  
+
+[Exits: east south]
+An enforcer of Var Bandor patrols here, scrutinizing every passing face.
+
+s
+<466hp 228m 213mv> 
+s
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.  To the east, Dretch street leads into
+the most notorious neighborhoods of Var Bandor.  
+
+[Exits: north east south]
+An armed enforcer of Var Bandor patrols here.
+
+s
+s
+<466hp 228m 212mv> 
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.  To the west, Iron Street leads
+through the industrial section of Var Bandor.  To the east, the scent of
+fresh bread wafts from a corner bakery.  
+
+[Exits: north east south west]
+An armed enforcer of Var Bandor patrols here.
+
+s
+s
+<466hp 228m 211mv> 
+s
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.
+
+[Exits: north south]
+
+<466hp 228m 210mv> 
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.  To the west, Iron Street leads into
+the industrial section of Var Bandor, and to the east, Raddin street winds
+through some run-down buildings.  
+
+[Exits: north east south west]
+
+drink
+<466hp 228m 209mv> 
+drink
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.
+
+[Exits: north south]
+
+drink
+<466hp 228m 208mv> 
+whe
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.
+
+[Exits: north south]
+
+<466hp 228m 207mv> 
+who
+Sadrent Road
+  Sadrent Road runs the length of northern Var Bandor, winding its way
+through the worst parts of town.  Built on the delta when Var Bandor was
+founded, the northern buildings are the oldest, and consequently have become
+the slum area.  Sadrent Road itself is a wide band of filthy cobblestones
+winding between the ruined buildings.  To the south is the central square of
+Var Bandor.  
+
+[Exits: north south]
+
+<466hp 228m 251mv> 
+Center Square
+  A burbling fountain dominates the center of the square.  The fountain is
+made of gray marble veined with blue.  Large sculptures of dancing otters
+and leaping trout, gazing skyward and spouting water from their mouths, sit
+within the circular basin.  The rim of the basin appears designed for
+seating, but is sprinkled with water.  The square is mortared with rounded
+cobblestone radiating outwards from the fountain.  The sounds and smells of
+the market and other popular locales nearby mingle in the air.  
+
+[Exits: north east south west]
+     A large marble fountain gurgles peacefully here.
+A grey pigeon walks about tentatively, looking for scraps of food.
+An armed enforcer of Var Bandor stands here.
+An armed enforcer of Var Bandor stands here.
+
+<466hp 228m 250mv> 
+You drink water from the marble fountain.
+You are full.
+Your thirst is quenched.
+
+<466hp 228m 250mv> You drink water from the marble fountain.
+You are full.
+Your thirst is quenched.
+
+<466hp 228m 250mv> You drink water from the marble fountain.
+You are full.
+Your thirst is quenched.
+
+<466hp 228m 250mv> Notables in Avendar (currently in Var Bandor):
+  (PK) Rhuinzek              Center Square                     [present]    
+  Xoggameth                  Nendor                            [nearby, west]
+
+Total found: 2
+
+<466hp 228m 250mv> [17 Fig] Rhuinzek v'Eda the Phalanx Recruit
+[ 9 VTe] Xoggameth il'Nharazet the Initiate of the Serpent
+
+Players found: 2
+
+<466hp 228m 250mv> 
+s
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.  The Var Bandor Center Square is to the north.  
+
+[Exits: north south]
+An armed enforcer of Var Bandor patrols here.
+
+<466hp 228m 249mv> 
+s
+s
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.  To the west is the guild of watchers, while Naidji Alley lies to
+the east.  
+
+[Exits: north east south west]
+
+s
+<466hp 228m 248mv> 
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.
+
+[Exits: north south]
+
+<466hp 228m 247mv> 
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.  To the east, Arcanos Street winds among the scholars' towers,
+and to the west Commerce Street leads to the merchant quarter.  
+
+[Exits: north east south west]
+An enforcer of Var Bandor patrols here, scrutinizing every passing face.
+
+<466hp 228m 246mv> 
+w
+Commerce Street
+  Surrounded by newly constructed buildings, Commerce Street winds through
+the merchant quarter of Var Bandor.  All around are signs of great wealth,
+the gold that flows from the prosperous trade evident in the buildings, the
+clothing of the citizens, and the meticulous maintenance of the streets.  To
+the north is an elegant inn, and to the east is Ilrin Street.  
+
+[Exits: north east west]
+
+<466hp 228m 245mv> 
+e
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.  To the east, Arcanos Street winds among the scholars' towers,
+and to the west Commerce Street leads to the merchant quarter.  
+
+[Exits: north east south west]
+An enforcer of Var Bandor patrols here, scrutinizing every passing face.
+
+s
+<466hp 228m 244mv> 
+s
+s
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.
+
+[Exits: north south]
+An armed enforcer of Var Bandor patrols here.
+
+<466hp 228m 243mv> 
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.
+
+[Exits: north west]
+
+<466hp 228m 242mv> 
+Alas, you cannot go that way.
+
+<466hp 228m 242mv> 
+w
+s
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.
+
+[Exits: east south]
+
+s
+<466hp 228m 241mv> 
+s
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.  A golden plaque is set near the gilded door of a nearby
+building.  
+
+[Exits: north south (west)]
+
+<466hp 228m 240mv> 
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.  To the west, Commerce Street winds around the merchant quarter.
+
+[Exits: north south west]
+An armed enforcer of Var Bandor patrols here.
+
+<466hp 228m 239mv> 
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.
+
+[Exits: north south]
+
+s
+<466hp 228m 238mv> 
+s
+Ilrin Street
+  A wide street composed of black stones and carefully-arranged curbs,
+Ilrin Street runs the length of southern Var Bandor, winding among the
+gloriously rich houses of the merchants and the eccentrically constructed
+towers of the scholars.  Here and there, baskets of flowers hang from the
+sides of buildings, and hired servants tend to shaped shrubs.  The streets
+in the southern part of town are swept clean, and all animal traffic is
+prohibited.  To the east, Arcanos Street leads to the scholars' towers.  
+
+[Exits: north east south]
+A young scholar of Var Bandor walks along the street.
+
+<466hp 228m 237mv> 
+Inside the Southern Gatehouse
+  The southern gatehouse of Var Bandor is an elaborate affair,
+well-maintained and proper.  A close watch is kept on the kind of traveler
+allowed to enter the finest districts of the city, and a roster of those
+banned from the area is kept nearby.  The immense granite walls rise to
+either side of the gates, and to the south, the outskirts of Var Bandor run
+into a thickly wooded area.  North, Ilrin Street leads into the heart of the
+city.  
+
+[Exits: north south]
+A soldier of the Var Bandor Guard watches the gatehouse.
+A soldier of the Var Bandor Guard watches the gatehouse.
+
+<466hp 228m 236mv> 
+s
+Outside the Southern Gatehouse
+  You stand outside the southern wall of Var Bandor.  To the south, the
+twin forks of the River Dantaron curve eastward and westard, and between the
+silvery lines of water a lush forested area is visible.  In the distance you
+hear sounds of commerce, yelling and the noises of people working.
+
+[Exits: north east south west]
+
+s
+<466hp 228m 235mv> 
+The Outskirts of Var Bandor
+  You stand outside the southern wall of Var Bandor.  To the south, the
+twin forks of the River Dantaron curve eastward and westard, and between the
+silvery lines of water a lush forested area is visible.  In the distance you
+hear sounds of commerce, yelling and the noises of people working.
+
+[Exits: north east south west]
+A merchant of Var Bandor is here, attending to business.
+
+<466hp 228m 234mv> 
+whe
+Notables in Avendar (currently in The Docks of Var Bandor):
+  (PK) Rhuinzek              The Outskirts of Var Bandor       [present]    
+  Xoggameth                  Nendor                            [very close, south]
+
+Total found: 2
+
+<466hp 228m 234mv> 
+s
+Trail into the Forest
+  This trail winds its way southward, through the downland south of Var
+Bandor, toward the Forest of Nendor.  The edges of the dirt path are lined
+with smooth stones.  Stony grassland spreads to either side beyond the chalk
+stone border, and the Nendorin woods spread before you to the south.  Back
+northward the walls of Var Bandor are still visible, albeit barely.  
+
+[Exits: north south]
+
+s
+s
+<466hp 228m 233mv> 
+The Forest Path
+  A thin but well worn path winds through the forest of Nendor.  Stones
+inscribed with odd runic markings dot the side of the path every now and
+again, standing on the border between road and forest.  Large oaks line the
+path on either side, leaves casting shade upon the path below.  The singing
+of birds echoes through the forest, providing a constant murmur of sound.  The
+path runs south from the north, leading deeper into the forest.  To the
+east and west, breaks in the thick treeline are visible.  
+
+[Exits: north east south west]
+A druid of the Nendorin order walks quietly though the woods.
+A druid of the Nendorin order walks quietly though the woods.
+A ranger of the Nendor Woods stalks through the forest.
+
+whe
+<466hp 228m 232mv> 
+The Forest Path
+  A thin but well worn path winds through the forest of Nendor.  Stones
+inscribed with odd runic markings dot the side of the path every now and
+again, standing on the border between road and forest.  Large oaks line the
+path on either side, leaves casting shade upon the path below.  The singing
+of birds echoes through the forest, providing a constant murmur of sound.  The
+path runs south from the north, leading deeper into the forest.  To the
+east, a break in the thick treeline is visible.  
+
+[Exits: north east south]
+
+<466hp 228m 231mv> 
+Notables in Avendar (currently in Nendor):
+  (PK) Rhuinzek              The Forest Path                   [present]    
+  Xoggameth                  Furrier's Outpost                 [very close, south]
+
+Total found: 2
+
+<466hp 228m 231mv> 
+s
+The Forest Path
+  A thin but well worn path winds through the forest of Nendor.  Stones
+inscribed with odd runic markings dot the side of the path every now and
+again, standing on the border between road and forest.  Large oaks line the
+path on either side, leaves casting shade upon the path below.  The singing
+of birds echoes through the forest, providing a constant murmur of sound.  A
+road branches off to the west, marked by many footfalls and wagon wheels.  
+
+[Exits: north south west]
+     A small wooden sign is planted in the soil by the trail.
+
+s
+<466hp 228m 230mv> 
+You gained 1 exploration point and 50 experience points!
+The Forest Path
+  A thin but well worn path winds through the forest of Nendor.  Stones
+inscribed with odd runic markings dot the side of the path every now and
+again, standing on the border between road and forest.  Large oaks line the
+path on either side, leaves casting shade upon the path below.  The singing
+of birds echoes through the forest, providing a constant murmur of sound.  The
+path curves east from the north, leading deeper into the forest.  
+
+[Exits: north east]
+A grizzly bear trundles through the woods.
+
+<466hp 228m 229mv> 
+s
+s
+whe
+Alas, you cannot go that way.
+
+<466hp 228m 229mv> Alas, you cannot go that way.
+
+<466hp 228m 229mv> Notables in Avendar (currently in Nendor):
+  (PK) Rhuinzek              The Forest Path                   [present]    
+  Xoggameth                  Furrier's Outpost                 [very close, north]
+
+Total found: 2
+
+<466hp 228m 229mv> 
+e
+You gained 1 exploration point and 50 experience points!
+The Forest Path
+  A thin but well worn path winds through the forest of Nendor.  Stones
+inscribed with odd runic markings dot the side of the path every now and
+again, standing on the border between road and forest.  Large oaks line the
+path on either side, leaves casting shade upon the path below.  The singing
+of birds echoes through the forest, providing a constant murmur of sound.  The
+path curves south from the west, leading deeper into the forest.  
+
+[Exits: south west]
+
+<466hp 228m 228mv> 
+w
+The Forest Path
+  A thin but well worn path winds through the forest of Nendor.  Stones
+inscribed with odd runic markings dot the side of the path every now and
+again, standing on the border between road and forest.  Large oaks line the
+path on either side, leaves casting shade upon the path below.  The singing
+of birds echoes through the forest, providing a constant murmur of sound.  The
+path curves east from the north, leading deeper into the forest.  
+
+[Exits: north east]
+A grizzly bear trundles through the woods.
+
+w
+<466hp 228m 227mv> 
+Alas, you cannot go that way.
+
+<466hp 228m 227mv> 
+e
+The Forest Path
+  A thin but well worn path winds through the forest of Nendor.  Stones
+inscribed with odd runic markings dot the side of the path every now and
+again, standing on the border between road and forest.  Large oaks line the
+path on either side, leaves casting shade upon the path below.  The singing
+of birds echoes through the forest, providing a constant murmur of sound.  The
+path curves south from the west, leading deeper into the forest.  
+
+[Exits: south west]
+
+s
+<466hp 228m 226mv> 
+You gained 1 exploration point and 50 experience points!
+The Forest Path
+  A thin but well worn path winds through the forest of Nendor.  Stones
+inscribed with odd runic markings dot the side of the path every now and
+again, standing on the border between road and forest.  Large oaks line the
+path on either side, leaves casting shade upon the path below.  The singing
+of birds echoes through the forest, providing a constant murmur of sound.  The
+path runs north and south through the forest, and a break in the trees about
+you is visible to the east. 
+
+[Exits: north east south]
+
+<466hp 228m 225mv> 
+scan s
+You peer intently south.
+The blowing snow prevents you from seeing any reasonable distance.
+
+<466hp 228m 225mv> 
+scan e
+You peer intently east.
+The blowing snow prevents you from seeing any reasonable distance.
+
+<466hp 228m 225mv> 
+ex
+Obvious exits:
+North - The Forest Path
+East  - Within a Forest of Oak
+South - The Forest Path
+
+s
+<466hp 228m 225mv> 
+You gained 1 exploration point and 50 experience points!
+The Forest Path
+  A thin but well worn path winds through the forest of Nendor.  Stones
+inscribed with odd runic markings dot the side of the path every now and
+again, standing on the border between road and forest.  Large oaks line the
+path on either side, leaves casting shade upon the path below.  The singing
+of birds echoes through the forest, providing a constant murmur of sound.  The
+path runs north and west through the forest.  Animal tracks lead through a
+break in the trees to the south.  
+
+[Exits: north south west]
+
+<466hp 228m 224mv> 
+s
+
+Snow stops falling around you.
+
+<466hp 228m 246mv> You are promoted!!  You gain 22 hit points, 8 mana, and 8 movement.
+You gained 1 exploration point and 50 experience points!
+A Small Clearing
+  This grassy clearing is obviously frequented by animal life.  The grass
+is trampled down by the many animal tracks leading into and out of the
+underbrush surrounding the clearing.  The bark upon the trunks of one of the
+nearby elms is slashed, a marker of some sort.  Through the trees
+surrounding the clearing you can see a forest path to the north and west.  
+
+[Exits: north west]
+A druid of the Nendorin order walks quietly though the woods.
+
+<466hp 228m 245mv> 
+w
+You gained 1 exploration point and 50 experience points!
+The Forest Path
+  A thin but well worn path winds through the forest of Nendor.  Stones
+inscribed with odd runic markings dot the side of the path every now and
+again, standing on the border between road and forest.  Large oaks line the
+path on either side, leaves casting shade upon the path below.  The singing
+of birds echoes through the forest, providing a constant murmur of sound. 
+Animal tracks lead east into the trees.  
+
+[Exits: north east south]
+A druid of the Nendorin order walks quietly though the woods.
+A large gray wolf looks out into the forest.
+
+s
+<466hp 228m 244mv> 
+You gained 1 exploration point and 50 experience points!
+The Forest Path
+  A thin but well worn path winds through the forest of Nendor.  Stones
+inscribed with odd runic markings dot the side of the path every now and
+again, standing on the border between road and forest.  Large oaks line the
+path on either side, leaves casting shade upon the path below.  The singing
+of birds echoes through the forest, providing a constant murmur of sound. 
+Another trail branches off to the east, a large, rune inscribed stone laying
+beside it.  
+
+[Exits: north east south]
+A ranger of the Nendor Woods stalks through the forest.
+
+<466hp 228m 243mv> 
+s
+You gained 1 exploration point and 50 experience points!
+The Forest Path
+  A thin but well worn path winds through the forest of Nendor.  Stones
+inscribed with odd runic markings dot the side of the path every now and
+again, standing on the border between road and forest.  Large oaks line the
+path on either side, leaves casting shade upon the path below.  The singing
+of birds echoes through the forest, providing a constant murmur of sound.  
+
+[Exits: north south]
+A druid of the Nendorin order walks quietly though the woods.
+
+<466hp 228m 242mv> 
+s
+You gained 1 exploration point and 50 experience points!
+The Forest Path
+  A thin but well worn path winds through the forest of Nendor.  Stones
+inscribed with odd runic markings dot the side of the path every now and
+again, standing on the border between road and forest.  Large oaks line the
+path on either side, leaves casting shade upon the path below.  The singing
+of birds echoes through the forest, providing a constant murmur of sound.  To
+the west the trees seem slightly more crooked, branches and trunks slightly
+twisted.  There seems to be a break to the west, into the twisted growth.  
+
+[Exits: north south west]
+
+<466hp 228m 241mv> 
+n
+The Forest Path
+  A thin but well worn path winds through the forest of Nendor.  Stones
+inscribed with odd runic markings dot the side of the path every now and
+again, standing on the border between road and forest.  Large oaks line the
+path on either side, leaves casting shade upon the path below.  The singing
+of birds echoes through the forest, providing a constant murmur of sound.  
+
+[Exits: north south]
+A druid of the Nendorin order walks quietly though the woods.
+
+n
+<466hp 228m 240mv> 
+The Forest Path
+  A thin but well worn path winds through the forest of Nendor.  Stones
+inscribed with odd runic markings dot the side of the path every now and
+again, standing on the border between road and forest.  Large oaks line the
+path on either side, leaves casting shade upon the path below.  The singing
+of birds echoes through the forest, providing a constant murmur of sound. 
+Another trail branches off to the east, a large, rune inscribed stone laying
+beside it.  
+
+[Exits: north east south]
+A ranger of the Nendor Woods stalks through the forest.
+
+<466hp 228m 239mv> 
+e
+You gained 1 exploration point and 50 experience points!
+A Rock Lined Path
+  Smooth, gray stones line this path through the trees.  Runic markings
+adorn the rocks.  All manner of trees and shrubs line the path.  Wildflowers
+grow around the stones.  The forest gives the impression of a well-tended
+garden.  The path joins with another running through the woods to the west,
+while itself continuing to the east.  
+
+[Exits: east west]
+
+e
+e
+<466hp 228m 238mv> 
+e
+You gained 1 exploration point and 50 experience points!
+A Rock Lined Path
+  Smooth, gray stones line this path through the trees.  Runic markings
+adorn the rocks.  All manner of trees and shrubs line the path.  Wildflowers
+grow around the stones.  The forest gives the impression of a well-tended
+garden.  You notice the low branches of an oak near the path, offering firm
+purchase for climbing.  The trail continues to the west and south.  
+
+[Exits: south west]
+
+<466hp 228m 237mv> 
+Alas, you cannot go that way.
+
+<466hp 228m 237mv> Alas, you cannot go that way.
+
+<466hp 228m 237mv> 
+A brown rabbit has arrived from the south.
+
+<466hp 228m 237mv> 
+climb tree
+You climb up the tree!
+You gained 1 exploration point and 50 experience points!
+Atop a Tall Oak
+  The splendor of the Woods of Nendor sprawls all around.  Towering oaks
+and elms jut into the sky like great, green-tipped spears.  You can hear the
+calls of birds sounding from the canopy about you, the sound merging with
+the soft rustle of the leaves in the breeze.  From your perch you can see
+the walls of Var Bandor to the north.  To the southeast, Mount Enrien
+thrusts into the sky, savannah visible beyond.
+
+[Exits: none]
+
+<466hp 228m 237mv> 
+whe
+Notables in Avendar (currently in Nendor):
+  (PK) Rhuinzek              Atop a Tall Oak                   [present]    
+
+Total found: 1
+
+<466hp 228m 237mv> 
+who
+[18 Fig] Rhuinzek v'Eda the Phalanx Trooper
+[ 9 VTe] Xoggameth il'Nharazet the Initiate of the Serpent
+
+Players found: 2
+
+<466hp 228m 237mv> 
+frust
+You throw your hands up in frustration.
+
+l
+<466hp 228m 237mv> 
+Atop a Tall Oak
+  The splendor of the Woods of Nendor sprawls all around.  Towering oaks
+and elms jut into the sky like great, green-tipped spears.  You can hear the
+calls of birds sounding from the canopy about you, the sound merging with
+the soft rustle of the leaves in the breeze.  From your perch you can see
+the walls of Var Bandor to the north.  To the southeast, Mount Enrien
+thrusts into the sky, savannah visible beyond.
+
+[Exits: none]
+
+<466hp 228m 237mv> 
+save
+Saving.  Remember that Avendar will save you automatically.
+
+<466hp 228m 237mv> 
+l
+Atop a Tall Oak
+  The splendor of the Woods of Nendor sprawls all around.  Towering oaks
+and elms jut into the sky like great, green-tipped spears.  You can hear the
+calls of birds sounding from the canopy about you, the sound merging with
+the soft rustle of the leaves in the breeze.  From your perch you can see
+the walls of Var Bandor to the north.  To the southeast, Mount Enrien
+thrusts into the sky, savannah visible beyond.
+
+[Exits: none]
+
+<466hp 228m 237mv> 
+scan n
+You peer intently north.
+
+l
+<466hp 228m 237mv> 
+Atop a Tall Oak
+  The splendor of the Woods of Nendor sprawls all around.  Towering oaks
+and elms jut into the sky like great, green-tipped spears.  You can hear the
+calls of birds sounding from the canopy about you, the sound merging with
+the soft rustle of the leaves in the breeze.  From your perch you can see
+the walls of Var Bandor to the north.  To the southeast, Mount Enrien
+thrusts into the sky, savannah visible beyond.
+
+[Exits: none]
+
+<466hp 228m 237mv> 
+d
+Alas, you cannot go that way.
+
+<466hp 228m 237mv> 
+climb down
+You climb down the tree.
+A Rock Lined Path
+  Smooth, gray stones line this path through the trees.  Runic markings
+adorn the rocks.  All manner of trees and shrubs line the path.  Wildflowers
+grow around the stones.  The forest gives the impression of a well-tended
+garden.  You notice the low branches of an oak near the path, offering firm
+purchase for climbing.  The trail continues to the west and south.  
+
+[Exits: south west]
+
+<466hp 228m 237mv> 
+e
+Alas, you cannot go that way.
+
+w
+<466hp 228m 237mv> A Rock Lined Path
+  Smooth, gray stones line this path through the trees.  Runic markings
+adorn the rocks.  All manner of trees and shrubs line the path.  Wildflowers
+grow around the stones.  The forest gives the impression of a well-tended
+garden.  The path joins with another running through the woods to the west,
+while itself continuing to the east.  
+
+[Exits: east west]
+A brown rabbit hops about.
+A brown rabbit leaves west.
+
+<466hp 228m 236mv> 
+w
+The Forest Path
+  A thin but well worn path winds through the forest of Nendor.  Stones
+inscribed with odd runic markings dot the side of the path every now and
+again, standing on the border between road and forest.  Large oaks line the
+path on either side, leaves casting shade upon the path below.  The singing
+of birds echoes through the forest, providing a constant murmur of sound. 
+Another trail branches off to the east, a large, rune inscribed stone laying
+beside it.  
+
+[Exits: north east south]
+A brown rabbit hops about.
+A druid of the Nendorin order walks quietly though the woods.
+A ranger of the Nendor Woods stalks through the forest.
+A brown rabbit leaves east.
+
+<466hp 228m 235mv> 
+s
+The Forest Path
+  A thin but well worn path winds through the forest of Nendor.  Stones
+inscribed with odd runic markings dot the side of the path every now and
+again, standing on the border between road and forest.  Large oaks line the
+path on either side, leaves casting shade upon the path below.  The singing
+of birds echoes through the forest, providing a constant murmur of sound.  
+
+[Exits: north south]
+A druid of the Nendorin order walks quietly though the woods.
+
+<466hp 228m 234mv> 
+s
+The Forest Path
+  A thin but well worn path winds through the forest of Nendor.  Stones
+inscribed with odd runic markings dot the side of the path every now and
+again, standing on the border between road and forest.  Large oaks line the
+path on either side, leaves casting shade upon the path below.  The singing
+of birds echoes through the forest, providing a constant murmur of sound.  To
+the west the trees seem slightly more crooked, branches and trunks slightly
+twisted.  There seems to be a break to the west, into the twisted growth.  
+
+[Exits: north south west]
+
+<466hp 228m 233mv> 
+w
+You gained 1 exploration point and 50 experience points!
+A Thickly Wooded Forest
+  Thick undergrowth packed between dense trees makes movement through this
+part of the forest difficult, and in some places impossible.  Bits of light
+finding their way through the verdant foliage provide adequate illumination
+and allow the growth of the brambles and weeds that spread around the trees.
+The forest continues all about you, too dense for passage in some places. 
+Southwards, the trees seem more crooked than is usual, branches and trunks
+twisting.  A faint breeze carries the smell of decay to your nostrils.  No
+footprints or animal tracks whatsoever lead to the south...  It seems as
+though all life forms shun the area.  
+
+[Exits: east south]
+     A small wooden sign is planted in the soil by the trail.
+A brown buck walks quietly through the woods.
+
+<466hp 228m 232mv> 
+e
+The Forest Path
+  A thin but well worn path winds through the forest of Nendor.  Stones
+inscribed with odd runic markings dot the side of the path every now and
+again, standing on the border between road and forest.  Large oaks line the
+path on either side, leaves casting shade upon the path below.  The singing
+of birds echoes through the forest, providing a constant murmur of sound.  To
+the west the trees seem slightly more crooked, branches and trunks slightly
+twisted.  There seems to be a break to the west, into the twisted growth.  
+
+[Exits: north south west]
+
+<466hp 228m 231mv> 
+s
+You gained 1 exploration point and 50 experience points!
+The Forest Path
+  A thin but well worn path winds through the forest of Nendor.  Stones
+inscribed with odd runic markings dot the side of the path every now and
+again, standing on the border between road and forest.  Large oaks line the
+path on either side, leaves casting shade upon the path below.  The singing
+of birds echoes through the forest, providing a constant murmur of sound. 
+To the west and south the trees seem slightly more crooked, branches and
+trunks slightly twisted.  There seems to be a break to the south, into the
+twisted growth.  
+
+[Exits: north east south]
+     A small wooden sign is planted in the soil by the trail.
+
+<466hp 228m 230mv> 
+e
+You gained 1 exploration point and 50 experience points!
+The Forest Path
+  A thin but well worn path winds through the forest of Nendor.  Stones
+inscribed with odd runic markings dot the side of the path every now and
+again, standing on the border between road and forest.  Large oaks line the
+path on either side, leaves casting shade upon the path below.  The singing
+of birds echoes through the forest, providing a constant murmur of sound. 
+The path curves south to west through the Nendorin woods.  
+
+[Exits: south west]
+
+<466hp 228m 229mv> 
+s
+You gained 1 exploration point and 50 experience points!
+The Forest Path
+  A thin but well worn path winds through the forest of Nendor.  Stones
+inscribed with odd runic markings dot the side of the path every now and
+again, standing on the border between road and forest.  Large oaks line the
+path on either side, leaves casting shade upon the path below.  The singing
+of birds echoes through the forest, providing a constant murmur of sound. 
+To the west the trees seem slightly more crooked, branches and trunks
+slightly twisted.  
+
+[Exits: north south]
+
+<466hp 228m 228mv> 
+s
+You gained 1 exploration point and 50 experience points!
+The Forest Path
+  A thin but well worn path winds through the forest of Nendor.  Stones
+inscribed with odd runic markings dot the side of the path every now and
+again, standing on the border between road and forest.  Large oaks line the
+path on either side, leaves casting shade upon the path below.  The singing
+of birds echoes through the forest, providing a constant murmur of sound. 
+The path curves around a sickly, twisted growth of trees to the northwest as
+it continues.  
+
+[Exits: north west]
+
+s
+<466hp 228m 227mv> 
+Alas, you cannot go that way.
+
+whe
+<478hp 236m 261mv> Notables in Avendar (currently in Nendor):
+  (PK) Rhuinzek              The Forest Path                   [present]    
+  Xoggameth                  Furrier's Outpost                 [very close, north]
+
+Total found: 2
+
+who
+<478hp 236m 261mv> 
+[18 Fig] Rhuinzek v'Eda the Phalanx Trooper
+[ 9 VTe] Xoggameth il'Nharazet the Initiate of the Serpent
+
+Players found: 2
+
+s
+<478hp 236m 261mv> Alas, you cannot go that way.
+
+<478hp 236m 261mv> 
+s
+s
+Alas, you cannot go that way.
+
+s
+<478hp 236m 261mv> Alas, you cannot go that way.
+
+<478hp 236m 261mv> Alas, you cannot go that way.
+
+<478hp 236m 261mv> 
+w
+s
+You gained 1 exploration point and 50 experience points!
+The Forest Path
+  A thin but well worn path winds through the forest of Nendor.  Stones
+inscribed with odd runic markings dot the side of the path every now and
+again, standing on the border between road and forest.  Large oaks line the
+path on either side, leaves casting shade upon the path below.  The singing
+of birds echoes through the forest, providing a constant murmur of sound. 
+To the north the trees seem slightly more crooked, branches and trunks
+slightly twisted.  
+
+[Exits: east south]
+
+<478hp 236m 260mv> 
+You gained 1 exploration point and 50 experience points!
+The Edge of the Forest
+  A thin but well worn path winds through the forest of Nendor.  Stones
+inscribed with odd runic markings dot the side of the path every now and
+again, standing on the border between road and forest.  Large oaks line the
+path on either side, leaves casting shade upon the path below.  The singing
+of birds echoes through the forest, providing a constant murmur of sound. 
+To the south the thick undergrowth ceases, giving way to an open savannah.  
+
+[Exits: north south]
+
+<478hp 236m 259mv> 
+s
+You gained 1 exploration point and 50 experience points!
+The Savannah Road
+  Connecting the savannah with Nendor to the north, this road cuts a wide
+path north and south through the grass.  Small white stones line both sides
+of the path, a thin boundary separating the road from the intruding grass. 
+The grass on either side of the path is thick and lush, but remains
+passable. The trees of the forest end here abruptly, forming a clean
+division between woods and grasslands.  The savannah spreads out away from
+the forest to the south.
+
+[Exits: north south]
+A fat vulture circles through the sky.
+
+s
+<478hp 236m 258mv> 
+You gained 1 exploration point and 50 experience points!
+The Savannah Road
+  Running north and south through the savannah, this road cuts a wide path
+through the surrounding grass.  Small white stones line both sides of the
+path, a thin boundary separating the road from the intruding grass.  The
+grass on either side of the path is thick and lush, but remains passable. 
+Off to the north, the edge of a forest is visible, while to the northeast
+the peak of Mount Enrien is visible rising into the clouds.  The savannah
+itself continues in all directions.  
+
+[Exits: north east south west]
+
+<478hp 236m 257mv> 
+scan e
+You peer intently east.
+=== 1 east ===
+A fat vulture circles through the sky.
+A brown fox hunts for prey.
+A thin gazelle nibbles on the lush grass.
+
+=== 2 east ===
+A small brown ground squirrel forages amid the grass.
+
+=== 3 east ===
+A lion steps silently through the grass in search of prey.
+
+
+<478hp 236m 257mv> 
+e
+You gained 1 exploration point and 50 experience points!
+The Edge of a Forest
+  Colliding with the thick wall of the forest to the north, the savannah
+has reached its northern end.  A clear division exists between the forest
+and the grass, the trees forming a solid impassable border.  The grass of
+the savannah is thick and lush, but remains passable.  To the west, a wide
+road passes through the savannah, while to the northeast the peak of Mount
+Enrien rises into the clouds above the accompanying hills.  The savannah
+continues to the east, west, and south.  
+
+[Exits: east south west]
+A fat vulture circles through the sky.
+A brown fox hunts for prey.
+A thin gazelle nibbles on the lush grass.
+
+e
+<478hp 236m 256mv> 
+You gained 1 exploration point and 50 experience points!
+The Base of the Hills
+  The rolling hills of Nendor meet the savannah here, bringing the savannah
+to its northern end.  The hills rise steeply to the north, preventing
+access.  The grass of the savannah is thick and lush, but remains passable. 
+To the northwest, the forest wall meets the grass of the savannah, while the
+peak of Mount Enrien rises into the clouds to the northeast.  The savannah
+continues to the east, west, and south.  
+
+[Exits: east south west]
+A small brown ground squirrel forages amid the grass.
+
+e
+<478hp 236m 255mv> 
+You gained 1 exploration point and 50 experience points!
+The Base of the Hills
+  The rolling hills of Nendor meet the savannah here, bringing the savannah
+to its northern end.  The hills rise steeply to the north, preventing
+access.  The grass of the savannah is thick and lush, but remains passable. 
+The peak of Mount Enrien dominates the hills, rising into the clouds to the
+north.  The savannah continues to the east, west, and south.  
+
+[Exits: east south west]
+A lion steps silently through the grass in search of prey.
+
+s
+<478hp 236m 254mv> 
+You gained 1 exploration point and 50 experience points!
+The Middle of the Savannah
+  Spreading out over the land, the savannah continues in every direction. 
+The grass of the savannah is thick and lush, but remains passable.  Small
+rocks and bushes are interspersed amidst the grass, and an occasional tree
+dots the landscape, providing meager shelter.  In the distance to the north
+the peak of Mount Enrien is visible rising into the clouds, towering over
+the hills which surround it, but no other landmarks are visible.  
+
+[Exits: north east south west]
+A lion steps silently through the grass in search of prey.
+An average-sized ethron man scans the savannah.
+A large, muscular alatharya towers up amid the grass.
+A tall brunette calmly surveys the savannah.
+
+<478hp 236m 253mv> 
+s
+You gained 1 exploration point and 50 experience points!
+The Middle of the Savannah
+  Spreading out over the land, the savannah continues in every direction. 
+The grass of the savannah is thick and lush, but remains passable.  Small
+rocks and bushes are interspersed amidst the grass and an occasional tree
+dots the landscape, providing meager shelter.  Far off in the distance to
+the north the peak of Mount Enrien is distinguishable rising into the
+clouds, but no other landmarks are visible.  
+
+[Exits: north east south west]
+A wild horse searches for food.
+A brown fox hunts for prey.
+
+n
+<478hp 236m 252mv> 
+The Middle of the Savannah
+  Spreading out over the land, the savannah continues in every direction. 
+The grass of the savannah is thick and lush, but remains passable.  Small
+rocks and bushes are interspersed amidst the grass, and an occasional tree
+dots the landscape, providing meager shelter.  In the distance to the north
+the peak of Mount Enrien is visible rising into the clouds, towering over
+the hills which surround it, but no other landmarks are visible.  
+
+[Exits: north east south west]
+A lion steps silently through the grass in search of prey.
+An average-sized ethron man scans the savannah.
+A large, muscular alatharya towers up amid the grass.
+A tall brunette calmly surveys the savannah.
+
+<478hp 236m 251mv> 
+l alatharya
+Towering above the surrounding grass, Mahgeld is a tall alatharya with
+broad shoulders and a well-muscled body.  His skin is pale, tinted with a
+rich silver.  His face is rigid and stern, his nose protruding prominently
+from his face.  Long white hair falls down in waves past his shoulders, a
+few stray strands waft across his face.  
+Mahgeld is in excellent condition.
+
+Mahgeld is using:
+<worn on torso>   some thick hide armor
+<worn about body> a lionskin cape
+<wielded>         a barb-tipped javelin carved from oak
+<held>            an iron-weighted net
+
+<478hp 236m 251mv> 
+s
+The Middle of the Savannah
+  Spreading out over the land, the savannah continues in every direction. 
+The grass of the savannah is thick and lush, but remains passable.  Small
+rocks and bushes are interspersed amidst the grass and an occasional tree
+dots the landscape, providing meager shelter.  Far off in the distance to
+the north the peak of Mount Enrien is distinguishable rising into the
+clouds, but no other landmarks are visible.  
+
+[Exits: north east south west]
+A wild horse searches for food.
+A brown fox hunts for prey.
+
+<478hp 236m 250mv> 
+scan n
+You peer intently north.
+=== 1 north ===
+A lion steps silently through the grass in search of prey.
+An average-sized ethron man scans the savannah.
+A large, muscular alatharya towers up amid the grass.
+A tall brunette calmly surveys the savannah.
+
+=== 2 north ===
+A lion steps silently through the grass in search of prey.
+
+
+<478hp 236m 250mv> 
+w
+You gained 1 exploration point and 50 experience points!
+The Middle of the Savannah
+  Spreading out over the land, the savannah continues in every direction. 
+The grass of the savannah is thick and lush, but remains passable.  Small
+rocks and bushes are interspersed amidst the grass and an occasional tree
+dots the landscape, providing meager shelter.  Far off in the distance to
+the northeast the peak of Mount Enrien is distinguishable rising into the
+clouds, while to the west a wide road passes through the savannah, a large
+building standing at its edge to the northwest.  
+
+[Exits: north east south west]
+A fat vulture circles through the sky.
+A brown fox hunts for prey.
+A wild horse searches for food.
+
+<478hp 236m 249mv> 
+n
+You gained 1 exploration point and 50 experience points!
+The Middle of the Savannah
+  Spreading out over the land, the savannah continues in every direction. 
+The grass of the savannah is thick and lush, but remains passable.  Small
+rocks and bushes are interspersed amidst the grass, and an occasional tree
+dots the landscape, providing meager shelter.  In the distance to the
+northeast the peak of Mount Enrien is visible rising into the clouds,
+towering over the hills which surround it, while a large building sits at
+the edge of a wide road to the southwest.  
+
+[Exits: north east south west]
+
+<478hp 236m 248mv> 
+scan e
+You peer intently east.
+=== 1 east ===
+A lion steps silently through the grass in search of prey.
+An average-sized ethron man scans the savannah.
+A large, muscular alatharya towers up amid the grass.
+A tall brunette calmly surveys the savannah.
+
+=== 2 east ===
+A wild horse searches for food.
+A large bison roams the savannah.
+A thin gazelle nibbles on the lush grass.
+
+=== 3 east ===
+A chaja hunter moves through the grass, alert for game.
+
+
+<478hp 236m 248mv> 
+whe
+Notables in Avendar (currently in The Savannah):
+  (PK) Rhuinzek              The Middle of the Savannah        [present]    
+  Xoggameth                  Nendor                            [nearby, north]
+
+Total found: 2
+
+who
+<478hp 236m 248mv> 
+[18 Fig] Rhuinzek v'Eda the Phalanx Trooper
+[ 9 VTe] Xoggameth il'Nharazet the Initiate of the Serpent
+
+Players found: 2
+
+<478hp 236m 248mv> 
+save
+Saving.  Remember that Avendar will save you automatically.
+
+<478hp 236m 248mv> 
+in
+You are carrying:
+     an old shovel
+     a worn great axe
+     a pair of patched leather trousers
+     a jerkin of chainmail and leather
+     a spiked leather collar
+     an ivory-hilted dirk
+     a notched battleaxe
+     a blackened jawbone
+     some strips of raw meat
+( 3) (Glowing) a potion of transportation
+     a milky potion
+     an uncut sapphire pendant
+( 2) a patched cloak
+     a pair of green boots
+     a pair of leather gloves
+     a black leather belt
+     a felt hat
+     a wrapped parcel
+     a small piece of paper
+     a pair of hide boots
+     a small, green gourd
+     a bag of candied almonds
+( 2) a spicy, glazed bjorcha steak
+(23) a thick slice of herb bread
+     a canoe
+
+<478hp 236m 248mv> 
+alias
+Your current aliases are:
+    1:  exam altar
+    h:  k srryn
+
+<488hp 236m 261mv> 
+
+A ground squirrel has arrived from the north.
+
+<488hp 236m 261mv> 
+alias qp quaff transportation
+qp is now aliased to 'quaff transportation'.
+
+<488hp 236m 261mv> 
+scan e
+You peer intently east.
+=== 1 east ===
+A lion steps silently through the grass in search of prey.
+An average-sized ethron man scans the savannah.
+A large, muscular alatharya towers up amid the grass.
+A tall brunette calmly surveys the savannah.
+
+=== 2 east ===
+A wild horse searches for food.
+A large bison roams the savannah.
+A thin gazelle nibbles on the lush grass.
+
+=== 3 east ===
+A chaja hunter moves through the grass, alert for game.
+
+
+<488hp 236m 261mv> 
+l
+The Middle of the Savannah
+  Spreading out over the land, the savannah continues in every direction. 
+The grass of the savannah is thick and lush, but remains passable.  Small
+rocks and bushes are interspersed amidst the grass, and an occasional tree
+dots the landscape, providing meager shelter.  In the distance to the
+northeast the peak of Mount Enrien is visible rising into the clouds,
+towering over the hills which surround it, while a large building sits at
+the edge of a wide road to the southwest.  
+
+[Exits: north east south west]
+A small brown ground squirrel forages amid the grass.
+
+<488hp 236m 261mv> 
+e
+The Middle of the Savannah
+  Spreading out over the land, the savannah continues in every direction. 
+The grass of the savannah is thick and lush, but remains passable.  Small
+rocks and bushes are interspersed amidst the grass, and an occasional tree
+dots the landscape, providing meager shelter.  In the distance to the north
+the peak of Mount Enrien is visible rising into the clouds, towering over
+the hills which surround it, but no other landmarks are visible.  
+
+[Exits: north east south west]
+A lion steps silently through the grass in search of prey.
+An average-sized ethron man scans the savannah.
+A large, muscular alatharya towers up amid the grass.
+A tall brunette calmly surveys the savannah.
+
+<488hp 236m 260mv> 
+list
+You can't do that here.
+
+<488hp 236m 260mv> 
+e
+You gained 1 exploration point and 50 experience points!
+The Middle of the Savannah
+  Spreading out over the land, the savannah continues in every direction. 
+The grass of the savannah is thick and lush, but remains passable.  Small
+rocks and bushes are interspersed amidst the grass, and an occasional tree
+dots the landscape, providing meager shelter.  In the distance to the
+northwest the peak of Mount Enrien is visible rising into the clouds,
+towering over the hills which surround it, but no other landmarks are
+visible.  
+
+[Exits: north east south west]
+A hunter walks through the grass in search of game.
+A wild horse searches for food.
+A large bison roams the savannah.
+A thin gazelle nibbles on the lush grass.
+
+<488hp 236m 259mv> 
+list
+You can't do that here.
+
+e
+<488hp 236m 259mv> 
+You gained 1 exploration point and 50 experience points!
+The Middle of the Savannah
+  Spreading out over the land, the savannah continues in every direction. 
+The grass of the savannah is thick and lush, but remains passable.  Small
+rocks and bushes are interspersed amidst the grass and an occasional tree
+dots the landscape, providing meager shelter.  In the distance to the
+northwest the peak of Mount Enrien is visible rising into the clouds,
+towering over the hills which surround it, while the hills stick out into
+the savannah to the northeast.  The shore of a lake is visible to the
+southeast.  
+
+[Exits: north east south west]
+A chaja hunter moves through the grass, alert for game.
+
+list
+<488hp 236m 258mv> 
+You can't do that here.
+
+e
+<488hp 236m 258mv> You gained 1 exploration point and 50 experience points!
+The Base of the Hills
+  The rolling hills of Nendor meet the savannah here, bringing the savannah
+to its northern end.  The hills rise steeply to the north, preventing
+access.  The grass of the savannah is thick and lush, but remains passable. 
+The peak of Mount Enrien rises into the clouds to the northwest, and the
+shore of a lake is visible to the south.  To the east the grass thickens and
+becomes impassable, but the savannah continues to the west and south.  
+
+[Exits: south west]
+A lion steps silently through the grass in search of prey.
+
+<488hp 236m 257mv> 
+list
+You can't do that here.
+
+<488hp 236m 257mv> 
+w
+The Middle of the Savannah
+  Spreading out over the land, the savannah continues in every direction. 
+The grass of the savannah is thick and lush, but remains passable.  Small
+rocks and bushes are interspersed amidst the grass and an occasional tree
+dots the landscape, providing meager shelter.  In the distance to the
+northwest the peak of Mount Enrien is visible rising into the clouds,
+towering over the hills which surround it, while the hills stick out into
+the savannah to the northeast.  The shore of a lake is visible to the
+southeast.  
+
+[Exits: north east south west]
+A chaja hunter moves through the grass, alert for game.
+
+<488hp 236m 256mv> 
+w
+w
+The Middle of the Savannah
+  Spreading out over the land, the savannah continues in every direction. 
+The grass of the savannah is thick and lush, but remains passable.  Small
+rocks and bushes are interspersed amidst the grass, and an occasional tree
+dots the landscape, providing meager shelter.  In the distance to the
+northwest the peak of Mount Enrien is visible rising into the clouds,
+towering over the hills which surround it, but no other landmarks are
+visible.  
+
+[Exits: north east south west]
+A hunter walks through the grass in search of game.
+A wild horse searches for food.
+A large bison roams the savannah.
+A thin gazelle nibbles on the lush grass.
+
+<488hp 236m 255mv> 
+The Middle of the Savannah
+  Spreading out over the land, the savannah continues in every direction. 
+The grass of the savannah is thick and lush, but remains passable.  Small
+rocks and bushes are interspersed amidst the grass, and an occasional tree
+dots the landscape, providing meager shelter.  In the distance to the north
+the peak of Mount Enrien is visible rising into the clouds, towering over
+the hills which surround it, but no other landmarks are visible.  
+
+[Exits: north east south west]
+A small brown ground squirrel forages amid the grass.
+A lion steps silently through the grass in search of prey.
+An average-sized ethron man scans the savannah.
+A large, muscular alatharya towers up amid the grass.
+A tall brunette calmly surveys the savannah.
+
+<488hp 236m 254mv> 
+w
+The Middle of the Savannah
+  Spreading out over the land, the savannah continues in every direction. 
+The grass of the savannah is thick and lush, but remains passable.  Small
+rocks and bushes are interspersed amidst the grass, and an occasional tree
+dots the landscape, providing meager shelter.  In the distance to the
+northeast the peak of Mount Enrien is visible rising into the clouds,
+towering over the hills which surround it, while a large building sits at
+the edge of a wide road to the southwest.  
+
+[Exits: north east south west]
+
+w
+w
+<488hp 236m 253mv> 
+You gained 1 exploration point and 50 experience points!
+The Middle of the Savannah
+  Spreading out over the land, the savannah continues in every direction. 
+The grass of the savannah is thick and lush, but remains passable.  Small
+rocks and bushes are interspersed amidst the grass, and an occasional tree
+dots the landscape, providing meager shelter.  Off to the north, the edge of
+a forest is visible, while in the distance to the northeast the peak of
+Mount Enrien is visible rising into the clouds.  To the west and south, a
+wide road passes through the savannah.  
+
+[Exits: north east south west]
+A thin gazelle nibbles on the lush grass.
+
+<488hp 236m 252mv> 
+You gained 1 exploration point and 50 experience points!
+The Savannah Road
+  Running north and south through the savannah, this road cuts a wide path
+through the surrounding grass.  Small white stones line both sides of the
+path, a thin boundary separating the road from the intruding grass.  The
+grass on either side of the path is thick and lush, but remains passable. 
+In the distance to the northeast, the peak of Mount Enrien is visible rising
+into the clouds, while the savannah itself continues in all directions.  
+
+[Exits: north east south west]
+
+<488hp 236m 251mv> 
+s
+You gained 1 exploration point and 50 experience points!
+A Turn in the Road
+  Turning to the north and east, this road cuts a wide path through the
+surrounding grass.  Small white stones line both sides of the path, a thin
+boundary separating the road from the intruding grass.  The grass on either
+side of the path is thick and lush, but remains passable.  In the distance
+to the northeast, the peak of Mount Enrien is distinguishable rising into
+the clouds, while off to the east a large building is visible.  The savannah
+itself continues in all directions, but to the west a large boulder prevents
+further movement.  
+
+[Exits: north east south]
+
+<488hp 236m 250mv> 
+ex
+Obvious exits:
+North - The Savannah Road
+East  - Outside the Trading Post
+South - The Middle of the Savannah
+
+<488hp 236m 250mv> 
+e
+You gained 1 exploration point and 50 experience points!
+Outside the Trading Post
+  Turning to the west and south, this road cuts a wide path through the
+surrounding grass.  Small white stones line both sides of the path, a thin
+boundary separating the road from the intruding grass.  A trading post lies
+to the east, its large doorway offering entrance to hunters and merchants. 
+Near the trading post the grass has been cut away, but elsewhere is thick
+and lush.  In the distance to the northeast, the peak of Mount Enrien is
+distinguishable rising into the clouds, while the savannah continues to the
+north, west, and south.  
+
+[Exits: north east south west]
+A pale green snake slithers through the grass.
+A merchant stands around impatiently.
+A merchant stands around impatiently.
+A merchant stands here, inspecting his goods.
+A bored merchant guard waits silently.
+A bored merchant guard waits silently.
+
+<488hp 236m 249mv> 
+ex
+Obvious exits:
+North - The Middle of the Savannah
+East  - The Hunter's Refuge
+South - The Savannah Road
+West  - A Turn in the Road
+
+<488hp 236m 249mv> 
+e
+You gained 1 exploration point and 50 experience points!
+The Hunter's Refuge
+  With a high roof to accommodate even the tallest of the races, the
+entryway of the trading post is poorly lit, the only light coming from a
+pair of dim torches.  A low counter runs along the south wall, the thin
+wooden door designed to stop access to the other side lying open against the
+surface of the counter.  The common room of the trading post is accessible
+through the eastern doorway, while a dim hallway opens opposite the counter.
+The entrance to the trading post stands along the western wall.  
+
+[Exits: north east west]
+A middle-aged nefortu stands behind the counter.
+
+<488hp 236m 248mv> 
+list
+[Qty Price] Item
+[---    1g] a small iron key
+[---    1g] a small iron key
+[---    1g] a small iron key
+[---    2s] a cast-iron lantern
+[---    8s] a thick fur blanket
+[--- 7s 5c] a piece of bison jerky
+[--- 4s 5c] a hard leather waterskin
+[--- 1g 5c] a large canvas backpack
+
+<488hp 236m 248mv> 
+
+Your skill at endurance improves, and you receive 79 experience points.
+
+<488hp 236m 261mv> 
+buy blankey
+Djolak tells you, 'That isn't something I have for sale.'
+[OOC] Djolak: Use list to see what my shop sells.
+
+<488hp 236m 261mv> 
+buy blanket
+You haggle over the price.
+You buy a thick fur blanket for 7 silver, 3 copper.
+
+<488hp 236m 261mv> 
+buy waterskin
+You haggle over the price.
+You buy a hard leather waterskin for 3 silver, 9 copper.
+
+<488hp 236m 261mv> 
+buy backpack
+You haggle over the price.
+You buy a large canvas backpack for 9 silver, 8 copper.
+
+<488hp 236m 261mv> 
+put all backpack
+You put a hard leather waterskin in a large canvas backpack.
+You put a thick fur blanket in a large canvas backpack.
+You put an old shovel in a large canvas backpack.
+You put a worn great axe in a large canvas backpack.
+You put a pair of patched leather trousers in a large canvas backpack.
+You put a jerkin of chainmail and leather in a large canvas backpack.
+You put a spiked leather collar in a large canvas backpack.
+You put an ivory-hilted dirk in a large canvas backpack.
+You put a notched battleaxe in a large canvas backpack.
+You put a blackened jawbone in a large canvas backpack.
+You put some strips of raw meat in a large canvas backpack.
+You put a potion of transportation in a large canvas backpack.
+You put a potion of transportation in a large canvas backpack.
+You put a potion of transportation in a large canvas backpack.
+You put a milky potion in a large canvas backpack.
+You put an uncut sapphire pendant in a large canvas backpack.
+You put a patched cloak in a large canvas backpack.
+You put a pair of green boots in a large canvas backpack.
+You put a pair of leather gloves in a large canvas backpack.
+You put a black leather belt in a large canvas backpack.
+You put a felt hat in a large canvas backpack.
+You put a small piece of paper in a large canvas backpack.
+You put a pair of hide boots in a large canvas backpack.
+You put a small, green gourd in a large canvas backpack.
+You put a spicy, glazed bjorcha steak in a large canvas backpack.
+You put a spicy, glazed bjorcha steak in a large canvas backpack.
+You put a thick slice of herb bread in a large canvas backpack.
+You put a thick slice of herb bread in a large canvas backpack.
+You put a thick slice of herb bread in a large canvas backpack.
+You put a thick slice of herb bread in a large canvas backpack.
+You put a thick slice of herb bread in a large canvas backpack.
+You put a thick slice of herb bread in a large canvas backpack.
+You put a thick slice of herb bread in a large canvas backpack.
+You put a thick slice of herb bread in a large canvas backpack.
+You put a thick slice of herb bread in a large canvas backpack.
+You put a thick slice of herb bread in a large canvas backpack.
+You put a thick slice of herb bread in a large canvas backpack.
+You put a thick slice of herb bread in a large canvas backpack.
+You put a thick slice of herb bread in a large canvas backpack.
+You put a thick slice of herb bread in a large canvas backpack.
+You put a thick slice of herb bread in a large canvas backpack.
+You put a thick slice of herb bread in a large canvas backpack.
+You put a thick slice of herb bread in a large canvas backpack.
+You put a thick slice of herb bread in a large canvas backpack.
+You put a thick slice of herb bread in a large canvas backpack.
+You put a thick slice of herb bread in a large canvas backpack.
+You put a thick slice of herb bread in a large canvas backpack.
+You put a thick slice of herb bread in a large canvas backpack.
+You put a thick slice of herb bread in a large canvas backpack.
+You put a patched cloak in a large canvas backpack.
+You put a canoe in a large canvas backpack.
+
+<488hp 236m 261mv> 
+buy waterskin
+You haggle over the price.
+You buy a hard leather waterskin for 4 silver, 1 copper.
+
+<488hp 236m 261mv> 
+l
+The Hunter's Refuge
+  With a high roof to accommodate even the tallest of the races, the
+entryway of the trading post is poorly lit, the only light coming from a
+pair of dim torches.  A low counter runs along the south wall, the thin
+wooden door designed to stop access to the other side lying open against the
+surface of the counter.  The common room of the trading post is accessible
+through the eastern doorway, while a dim hallway opens opposite the counter.
+The entrance to the trading post stands along the western wall.  
+
+[Exits: north east west]
+A middle-aged nefortu stands behind the counter.
+
+<488hp 236m 261mv> 
+get canoe backpack
+You get a canoe from a large canvas backpack.
+
+<488hp 236m 261mv> 
+l 2.
+Robed in fine clothing made from expensive materials, Djolak stands
+behind the counter of his trading post.  He is a middle-aged nefortu, his
+black leathery skin starting to become very wrinkled.  As owner of the
+trading post, Djolak has a hand in most of the trade that moves along the
+savannah road and is known to store large quantities of goods until the
+prices rise.  
+Djolak is in excellent condition.
+
+Djolak is using:
+<worn around neck> a thin steel key on a silver chain
+<two-handed>       (Humming) a staff entwined with steel
+
+e
+<488hp 236m 261mv> You gained 1 exploration point and 50 experience points!
+A Poorly Lit Common Room
+  Tables and chairs fill this large room which continues to the east and
+south.  A few dim torches line the walls, providing small amounts of light. 
+The floor of the common room is cleaned infrequently, bits of food and
+stains left by spilt drinks littering the floor.  The heads of several
+animals decorate the walls, assorted ornamental weaponry accompanying them. 
+A doorway along the western wall leads back to entryway of the trading post.
+
+[Exits: east south west]
+     A heavy wooden table stands in the common room.
+A drunken merchant lies collapsed in a chair.
+A drunken hunter sits awkwardly in his chair.
+A drunken hunter has fallen asleep at his table.
+
+<488hp 236m 260mv> 
+list
+You can't do that here.
+
+e
+<488hp 236m 260mv> You gained 1 exploration point and 50 experience points!
+A Poorly Lit Common Room
+  Tables and chairs fill this large room which continues to the west and
+south.  A few dim torches line the walls, providing small amounts of light. 
+The floor of the common room is cleaned infrequently, bits of food and
+stains left by spilt drinks littering the floor.  The heads of several
+animals decorate the walls, assorted ornamental weaponry accompanying them. 
+
+[Exits: south west]
+     A heavy wooden table stands in the common room.
+A young barmaid carries her tray through the common room.
+A drunken hunter sits awkwardly in his chair.
+A drunken hunter sits awkwardly in his chair.
+A drunken hunter sits awkwardly in his chair.
+
+<488hp 236m 259mv> 
+e
+Alas, you cannot go that way.
+
+<488hp 236m 259mv> 
+s
+You gained 1 exploration point and 50 experience points!
+A Poorly Lit Common Room
+  Tables and chairs fill this large room which continues to the north and
+west.  A few dim torches line the walls, providing small amounts of light. 
+The floor of the common room is cleaned infrequently, bits of food and
+stains left by spilt drinks littering the floor.  The heads of several
+animals decorate the walls, assorted ornamental weaponry accompanying them. 
+
+[Exits: north west]
+     A heavy wooden table stands in the common room.
+A gruff-looking bodyguard stands against the wall.
+A merchant sits in the corner of the common room.
+A drunken hunter has fallen asleep at his table.
+
+<488hp 236m 258mv> 
+l 2.
+A gruff-looking man of average height and dark complexion, this bodyguard
+is also quite muscular.  His dark hair is cut short, and his dark clothing
+hangs loose over his body.  His eyes carefully scan the common room,
+watching for trouble.  
+A bodyguard is in excellent condition.
+
+a bodyguard is using:
+<two-handed> a simple steel voulge
+
+<488hp 236m 258mv> 
+list
+A merchant says, 'Alright.'
+
+<488hp 236m 261mv> 
+e
+Alas, you cannot go that way.
+
+s
+<488hp 236m 261mv> Alas, you cannot go that way.
+
+<488hp 236m 261mv> 
+list
+
+<488hp 236m 261mv> 
+
+A merchant says, 'For 25 copper and the pelt of a ground squirrel,'
+A merchant says, 'I'll give you a pair of thin hide boots.'
+
+<488hp 236m 261mv> 
+save
+Saving.  Remember that Avendar will save you automatically.
+
+<488hp 236m 261mv> 
+s
+Alas, you cannot go that way.
+
+w
+<488hp 236m 261mv> You gained 1 exploration point and 50 experience points!
+A Poorly Lit Common Room
+  Tables and chairs fill this large room which continues to the north and
+east.  A few dim torches line the walls, providing small amounts of light. 
+The floor of the common room is cleaned infrequently, bits of food and
+stains left by spilt drinks littering the floor.  The heads of several
+animals decorate the walls, assorted ornamental weaponry accompanying them. 
+
+[Exits: north east]
+     A heavy wooden table stands in the common room.
+An overworked bard entertains the common room.
+A drunken merchant lies collapsed in a chair.
+A drunken merchant lies collapsed in a chair.
+A drunken hunter has fallen asleep at his table.
+
+<488hp 236m 260mv> 
+s
+Alas, you cannot go that way.
+
+<488hp 236m 260mv> 
+n
+A Poorly Lit Common Room
+  Tables and chairs fill this large room which continues to the east and
+south.  A few dim torches line the walls, providing small amounts of light. 
+The floor of the common room is cleaned infrequently, bits of food and
+stains left by spilt drinks littering the floor.  The heads of several
+animals decorate the walls, assorted ornamental weaponry accompanying them. 
+A doorway along the western wall leads back to entryway of the trading post.
+
+[Exits: east south west]
+     A heavy wooden table stands in the common room.
+A drunken merchant lies collapsed in a chair.
+A drunken hunter sits awkwardly in his chair.
+A drunken hunter has fallen asleep at his table.
+
+w
+<488hp 236m 259mv> 
+The Hunter's Refuge
+  With a high roof to accommodate even the tallest of the races, the
+entryway of the trading post is poorly lit, the only light coming from a
+pair of dim torches.  A low counter runs along the south wall, the thin
+wooden door designed to stop access to the other side lying open against the
+surface of the counter.  The common room of the trading post is accessible
+through the eastern doorway, while a dim hallway opens opposite the counter.
+The entrance to the trading post stands along the western wall.  
+
+[Exits: north east west]
+A middle-aged nefortu stands behind the counter.
+Djolak nods at you.
+
+<488hp 236m 258mv> 
+s
+Alas, you cannot go that way.
+
+<488hp 236m 258mv> 
+w
+Outside the Trading Post
+  Turning to the west and south, this road cuts a wide path through the
+surrounding grass.  Small white stones line both sides of the path, a thin
+boundary separating the road from the intruding grass.  A trading post lies
+to the east, its large doorway offering entrance to hunters and merchants. 
+Near the trading post the grass has been cut away, but elsewhere is thick
+and lush.  In the distance to the northeast, the peak of Mount Enrien is
+distinguishable rising into the clouds, while the savannah continues to the
+north, west, and south.  
+
+[Exits: north east south west]
+A pale green snake slithers through the grass.
+A merchant stands around impatiently.
+A merchant stands around impatiently.
+A merchant stands here, inspecting his goods.
+A bored merchant guard waits silently.
+A bored merchant guard waits silently.
+
+s
+<488hp 236m 257mv> 
+You gained 1 exploration point and 50 experience points!
+The Savannah Road
+  Running north and south through the savannah, this road cuts a wide path
+through the surrounding grass.  Small white stones line both sides of the
+path, a thin boundary separating the road from the intruding grass.  The
+grass on either side of the path is thick and lush, but remains passable. 
+Off to the north a large building is visible, while the savannah continues
+in all directions.  
+
+[Exits: north east south west]
+A thin gazelle nibbles on the lush grass.
+
+<488hp 236m 256mv> 
+e
+The Middle of the Savannah
+  Spreading out over the land, the savannah continues in every direction. 
+The grass of the savannah is thick and lush, but remains passable.  Small
+rocks and bushes are interspersed amidst the grass and an occasional tree
+dots the landscape, providing meager shelter.  Far off in the distance to
+the northeast the peak of Mount Enrien is distinguishable rising into the
+clouds, while to the west a wide road passes through the savannah, a large
+building standing at its edge to the northwest.  
+
+[Exits: north east south west]
+A wild horse searches for food.
+
+e
+<488hp 236m 255mv> 
+e
+The Middle of the Savannah
+  Spreading out over the land, the savannah continues in every direction. 
+The grass of the savannah is thick and lush, but remains passable.  Small
+rocks and bushes are interspersed amidst the grass and an occasional tree
+dots the landscape, providing meager shelter.  Far off in the distance to
+the north the peak of Mount Enrien is distinguishable rising into the
+clouds, but no other landmarks are visible.  
+
+[Exits: north east south west]
+A fat vulture circles through the sky.
+A wild horse searches for food.
+
+<488hp 236m 254mv> 
+You gained 1 exploration point and 50 experience points!
+The Middle of the Savannah
+  Spreading out over the land, the savannah continues in every direction. 
+The grass of the savannah is thick and lush, but remains passable.  Small
+rocks and bushes are interspersed amidst the grass and an occasional tree
+dots the landscape, providing meager shelter.  Far off in the distance to
+the northwest the peak of Mount Enrien is distinguishable rising into the
+clouds, while the shore of a lake is visible to the southeast.  
+
+[Exits: north east south west]
+A brown fox hunts for prey.
+
+<488hp 236m 253mv> 
+scan n
+You peer intently north.
+=== 1 north ===
+A hunter walks through the grass in search of game.
+A wild horse searches for food.
+A large bison roams the savannah.
+A thin gazelle nibbles on the lush grass.
+
+=== 2 north ===
+A lion steps silently through the grass in search of prey.
+
+
+<488hp 236m 253mv> 
+n
+The Middle of the Savannah
+  Spreading out over the land, the savannah continues in every direction. 
+The grass of the savannah is thick and lush, but remains passable.  Small
+rocks and bushes are interspersed amidst the grass, and an occasional tree
+dots the landscape, providing meager shelter.  In the distance to the
+northwest the peak of Mount Enrien is visible rising into the clouds,
+towering over the hills which surround it, but no other landmarks are
+visible.  
+
+[Exits: north east south west]
+A hunter walks through the grass in search of game.
+A wild horse searches for food.
+A large bison roams the savannah.
+A thin gazelle nibbles on the lush grass.
+
+s
+<488hp 236m 252mv> 
+The Middle of the Savannah
+  Spreading out over the land, the savannah continues in every direction. 
+The grass of the savannah is thick and lush, but remains passable.  Small
+rocks and bushes are interspersed amidst the grass and an occasional tree
+dots the landscape, providing meager shelter.  Far off in the distance to
+the northwest the peak of Mount Enrien is distinguishable rising into the
+clouds, while the shore of a lake is visible to the southeast.  
+
+[Exits: north east south west]
+A brown fox hunts for prey.
+
+<488hp 236m 251mv> 
+n
+The Middle of the Savannah
+  Spreading out over the land, the savannah continues in every direction. 
+The grass of the savannah is thick and lush, but remains passable.  Small
+rocks and bushes are interspersed amidst the grass, and an occasional tree
+dots the landscape, providing meager shelter.  In the distance to the
+northwest the peak of Mount Enrien is visible rising into the clouds,
+towering over the hills which surround it, but no other landmarks are
+visible.  
+
+[Exits: north east south west]
+A hunter walks through the grass in search of game.
+A wild horse searches for food.
+A large bison roams the savannah.
+A thin gazelle nibbles on the lush grass.
+
+e
+<488hp 236m 250mv> 
+The Middle of the Savannah
+  Spreading out over the land, the savannah continues in every direction. 
+The grass of the savannah is thick and lush, but remains passable.  Small
+rocks and bushes are interspersed amidst the grass and an occasional tree
+dots the landscape, providing meager shelter.  In the distance to the
+northwest the peak of Mount Enrien is visible rising into the clouds,
+towering over the hills which surround it, while the hills stick out into
+the savannah to the northeast.  The shore of a lake is visible to the
+southeast.  
+
+[Exits: north east south west]
+
+<488hp 236m 249mv> 
+scan n
+You peer intently north.
+=== 1 north ===
+A pale green snake slithers through the grass.
+
+
+whe
+<488hp 236m 249mv> Notables in Avendar (currently in The Savannah):
+  (PK) Rhuinzek              The Middle of the Savannah        [present]    
+  Xoggameth                  Nendor                            [close, north]
+
+Total found: 2
+
+<488hp 236m 249mv> 
+n
+You gained 1 exploration point and 50 experience points!
+The Base of the Hills
+  The rolling hills of Nendor meet the savannah here, bringing the savannah
+to its northern end.  Rising steeply, the hills turn sharply to the south
+here, preventing access to the north and east.  The grass of the savannah is
+thick and lush, but remains passable.  The peak of Mount Enrien rises into
+the clouds off to the northwest, while the savannah continues to the west
+and south.  
+
+[Exits: south west]
+A pale green snake slithers through the grass.
+
+w
+<488hp 236m 248mv> 
+You gained 1 exploration point and 50 experience points!
+The Base of the Hills
+  The rolling hills of Nendor meet the savannah here, bringing the savannah
+to its northern end.  The hills rise steeply to the north, preventing
+access.  The grass of the savannah is thick and lush, but remains passable. 
+The peak of Mount Enrien rises into the clouds to the northwest, while the
+savannah continues to the east, west, and south.  
+
+[Exits: east south west]
+A lion steps silently through the grass in search of prey.
+
+<488hp 236m 247mv> 
+scan s
+You peer intently south.
+=== 1 south ===
+A hunter walks through the grass in search of game.
+A wild horse searches for food.
+A large bison roams the savannah.
+A thin gazelle nibbles on the lush grass.
+
+=== 2 south ===
+A brown fox hunts for prey.
+
+=== 3 south ===
+A small brown ground squirrel forages amid the grass.
+
+
+s
+<488hp 236m 247mv> 
+The Middle of the Savannah
+  Spreading out over the land, the savannah continues in every direction. 
+The grass of the savannah is thick and lush, but remains passable.  Small
+rocks and bushes are interspersed amidst the grass, and an occasional tree
+dots the landscape, providing meager shelter.  In the distance to the
+northwest the peak of Mount Enrien is visible rising into the clouds,
+towering over the hills which surround it, but no other landmarks are
+visible.  
+
+[Exits: north east south west]
+A hunter walks through the grass in search of game.
+A wild horse searches for food.
+A large bison roams the savannah.
+A thin gazelle nibbles on the lush grass.
+
+<488hp 236m 246mv> 
+scan w
+You peer intently west.
+=== 1 west ===
+A small brown ground squirrel forages amid the grass.
+A lion steps silently through the grass in search of prey.
+An average-sized ethron man scans the savannah.
+A large, muscular alatharya towers up amid the grass.
+A tall brunette calmly surveys the savannah.
+
+=== 2 west ===
+A lion steps silently through the grass in search of prey.
+
+=== 3 west ===
+A thin gazelle nibbles on the lush grass.
+
+
+<488hp 236m 246mv> 
+scan s
+You peer intently south.
+=== 1 south ===
+A brown fox hunts for prey.
+
+=== 2 south ===
+A small brown ground squirrel forages amid the grass.
+
+=== 3 south ===
+A tiny quail looks for food.
+A tiny quail looks for food.
+
+
+<488hp 236m 246mv> 
+w
+The Middle of the Savannah
+  Spreading out over the land, the savannah continues in every direction. 
+The grass of the savannah is thick and lush, but remains passable.  Small
+rocks and bushes are interspersed amidst the grass, and an occasional tree
+dots the landscape, providing meager shelter.  In the distance to the north
+the peak of Mount Enrien is visible rising into the clouds, towering over
+the hills which surround it, but no other landmarks are visible.  
+
+[Exits: north east south west]
+A small brown ground squirrel forages amid the grass.
+A lion steps silently through the grass in search of prey.
+An average-sized ethron man scans the savannah.
+A large, muscular alatharya towers up amid the grass.
+A tall brunette calmly surveys the savannah.
+
+<488hp 236m 245mv> 
+whe
+Notables in Avendar (currently in The Savannah):
+  (PK) Rhuinzek              The Middle of the Savannah        [present]    
+  Xoggameth                  Nendor                            [close, north]
+
+Total found: 2
+
+<488hp 236m 245mv> 
+quit
+This place is too hostile for that.
+

@@ -1,0 +1,28 @@
+# Harris Wildlands Reborn: Eternal Truth Chamber
+# Core Dependencies
+
+# Neo4j
+neo4j>=5.0.0
+py2neo>=2021.1
+
+# LangChain/LangGraph for agent orchestration
+langchain>=0.1.0
+langgraph>=0.0.20
+langchain-community>=0.0.10
+
+# Document processing for Canon ingestion
+python-docx>=0.8.11
+pypdf>=3.0.0
+
+# Embeddings (optional - for semantic search)
+sentence-transformers>=2.2.0
+
+# Environment
+python-dotenv>=1.0.0
+
+# Scheduling for distillation cron
+schedule>=1.2.0
+
+# Utilities
+pydantic>=2.0.0
+tenacity>=8.2.0
