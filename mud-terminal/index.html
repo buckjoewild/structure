@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Harris Wilderness MUD - Retro Terminal</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            background: #000;
+            color: #0f0;
+            font-family: 'VT323', 'Courier New', monospace;
+            font-size: 18px;
+            line-height: 1.4;
+            height: 100vh;
+            overflow: hidden;
+            text-shadow: 0 0 5px #0f0, 0 0 10px #0f0;
+        }
+        
+        /* CRT Monitor Effects */
+        .crt-container {
+            position: relative;
+            height: 100vh;
+            background: #000;
+            overflow: hidden;
+        }
+        
+        .crt-container::before {
+            content: " ";
+            display: block;
+            position: absolute;
+            top: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            background: linear-gradient(
+                rgba(18, 16, 16, 0) 50%,
+                rgba(0, 0, 0, 0.25) 50%
+            );
+            background-size: 100% 4px;
+            z-index: 10;
+            pointer-events: none;
+        }
+        
+        .crt-container::after {
+            content: " ";
+            display: block;
+            position: absolute;
+            top: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            background: rgba(18, 16, 16, 0.1);
+            opacity: 0;
+            z-index: 10;
+            pointer-events: none;
+            animation: flicker 0.15s infinite;
+        }
+        
+        @keyframes flicker {
+            0% { opacity: 0.02; }
+            50% { opacity: 0.05; }
+            100% { opacity: 0.02; }
+        }
+        
+        /* Scanline effect */
+        .scanline {
+            width: 100%;
+            height: 2px;
+            background: rgba(0, 255, 0, 0.1);
+            position: absolute;
+            z-index: 20;
+            animation: scanline 8s linear infinite;
+            pointer-events: none;
+        }
+        
+        @keyframes scanline {
+            0% { top: 0%; }
+            100% { top: 100%; }
+        }
+        
+        /* Terminal Content */
+        #terminal {
+            height: calc(100vh - 50px);
+            overflow-y: auto;
+            padding: 20px;
+            padding-bottom: 60px;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+        }
+        
+        .terminal-line {
+            margin-bottom: 4px;
+            animation: typeIn 0.01s ease-out;
+        }
+        
+        @keyframes typeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+        
+        /* Input Line */
+        .input-container {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: #000;
+            border-top: 2px solid #0f0;
+            padding: 10px 20px;
+            display: flex;
+            align-items: center;
+            z-index: 30;
+            box-shadow: 0 -5px 20px rgba(0, 255, 0, 0.2);
+        }
+        
+        .prompt {
+            color: #0f0;
+            margin-right: 10px;
+            font-weight: bold;
+            text-shadow: 0 0 10px #0f0;
+        }
+        
+        #command-input {
+            background: transparent;
+            border: none;
+            color: #0f0;
+            font-family: 'VT323', 'Courier New', monospace;
+            font-size: 18px;
+            flex: 1;
+            outline: none;
+            text-shadow: 0 0 5px #0f0;
+            caret-color: #0f0;
+        }
+        
+        /* Message Types */
+        .system-message {
+            color: #0ff;
+            text-shadow: 0 0 5px #0ff;
+        }
+        
+        .agent-message {
+            color: #ff0;
+            text-shadow: 0 0 5px #ff0;
+        }
+        
+        .chat-message {
+            color: #f0f;
+            text-shadow: 0 0 5px #f0f;
+        }
+        
+        .broadcast-message {
+            color: #fa0;
+            text-shadow: 0 0 5px #fa0;
+        }
+        
+        .error-message {
+            color: #f00;
+            text-shadow: 0 0 5px #f00;
+        }
+        
+        .room-name {
+            color: #0f0;
+            font-weight: bold;
+            text-shadow: 0 0 10px #0f0;
+            border-bottom: 1px solid #0f0;
+            padding-bottom: 5px;
+            margin-bottom: 10px;
+        }
+        
+        .timestamp {
+            color: #0a0;
+            font-size: 14px;
+        }
+        
+        /* Scrollbar */
+        ::-webkit-scrollbar {
+            width: 12px;
+        }
+        
+        ::-webkit-scrollbar-track {
+            background: #000;
+        }
+        
+        ::-webkit-scrollbar-thumb {
+            background: #0f0;
+            border: 2px solid #000;
+        }
+        
+        ::-webkit-scrollbar-thumb:hover {
+            background: #0a0;
+        }
+        
+        /* Cursor blink */
+        .cursor {
+            display: inline-block;
+            width: 10px;
+            height: 18px;
+            background: #0f0;
+            animation: blink 1s infinite;
+            vertical-align: bottom;
+        }
+        
+        @keyframes blink {
+            0%, 50% { opacity: 1; }
+            51%, 100% { opacity: 0; }
+        }
+        
+        /* Header */
+        .header {
+            text-align: center;
+            border-bottom: 2px solid #0f0;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+            font-size: 24px;
+            text-shadow: 0 0 15px #0f0;
+        }
+        
+        /* Connection Status */
+        #status-bar {
+            position: fixed;
+            top: 0;
+            right: 0;
+            padding: 5px 10px;
+            background: #000;
+            border-left: 2px solid #0f0;
+            border-bottom: 2px solid #0f0;
+            font-size: 14px;
+            z-index: 40;
+        }
+        
+        .connected {
+            color: #0f0;
+        }
+        
+        .disconnected {
+            color: #f00;
+        }
+        
+        /* Agent Control Panel */
+        #agent-panel {
+            position: fixed;
+            top: 40px;
+            right: 10px;
+            background: rgba(0, 0, 0, 0.9);
+            border: 2px solid #ff0;
+            padding: 10px;
+            width: 200px;
+            z-index: 40;
+            display: none;
+        }
+        
+        #agent-panel.visible {
+            display: block;
+        }
+        
+        .agent-btn {
+            background: #000;
+            border: 1px solid #ff0;
+            color: #ff0;
+            padding: 5px 10px;
+            margin: 5px 0;
+            cursor: pointer;
+            font-family: 'VT323', monospace;
+            width: 100%;
+        }
+        
+        .agent-btn:hover {
+            background: #ff0;
+            color: #000;
+        }
+        
+        /* Boot Sequence Animation */
+        .boot-text {
+            animation: bootSequence 3s steps(20) forwards;
+            overflow: hidden;
+            white-space: nowrap;
+        }
+    </style>
+</head>
+<body>
+    <div class="crt-container">
+        <div class="scanline"></div>
+        
+        <div id="status-bar">
+            <span id="connection-status" class="disconnected">● DISCONNECTED</span>
+        </div>
+        
+        <div id="agent-panel">
+            <h3 style="color: #ff0; text-align: center; margin-bottom: 10px;">OPENCLAW CONTROL</h3>
+            <button class="agent-btn" onclick="toggleAgent()">TOGGLE AUTONOMY</button>
+            <button class="agent-btn" onclick="agentCommand('explore')">EXPLORE</button>
+            <button class="agent-btn" onclick="agentCommand('create')">CREATE ROOM</button>
+            <button class="agent-btn" onclick="agentCommand('socialize')">SOCIALIZE</button>
+            <button class="agent-btn" onclick="agentCommand('status')">AGENT STATUS</button>
+        </div>
+        
+        <div id="terminal">
+            <div class="header">
+                ╔══════════════════════════════════════════╗
+                ║      HARRIS WILDERNESS MUD v1.0          ║
+                ║         [RETRO TERMINAL MODE]             ║
+                ╚══════════════════════════════════════════╝
+            </div>
+        </div>
+        
+        <div class="input-container">
+            <span class="prompt">></span>
+            <input type="text" id="command-input" placeholder="Enter command..." autocomplete="off" autofocus>
+            <span class="cursor"></span>
+        </div>
+    </div>
+    
+    <script>
+        // Terminal State
+        const terminal = document.getElementById('terminal');
+        const input = document.getElementById('command-input');
+        const statusBar = document.getElementById('connection-status');
+        let websocket = null;
+        let playerName = '';
+        let agentActive = false;
+        
+        // Sound effects (optional - using Web Audio API)
+        const audioContext = new (window.AudioContext || window.webkitAudioContext)();
+        
+        function playBeep(frequency = 800, duration = 50) {
+            const oscillator = audioContext.createOscillator();
+            const gainNode = audioContext.createGain();
+            
+            oscillator.connect(gainNode);
+            gainNode.connect(audioContext.destination);
+            
+            oscillator.frequency.value = frequency;
+            oscillator.type = 'square';
+            
+            gainNode.gain.setValueAtTime(0.1, audioContext.currentTime);
+            gainNode.gain.exponentialRampToValueAtTime(0.01, audioContext.currentTime + duration / 1000);
+            
+            oscillator.start(audioContext.currentTime);
+            oscillator.stop(audioContext.currentTime + duration / 1000);
+        }
+        
+        // Add line to terminal
+        function addLine(text, type = 'normal') {
+            const line = document.createElement('div');
+            line.className = 'terminal-line';
+            
+            const timestamp = new Date().toLocaleTimeString();
+            
+            let className = '';
+            switch(type) {
+                case 'system': className = 'system-message'; break;
+                case 'agent': className = 'agent-message'; break;
+                case 'chat': className = 'chat-message'; break;
+                case 'broadcast': className = 'broadcast-message'; break;
+                case 'error': className = 'error-message'; break;
+                case 'room': className = 'room-name'; break;
+            }
+            
+            line.innerHTML = `<span class="timestamp">[${timestamp}]</span> <span class="${className}">${escapeHtml(text)}</span>`;
+            terminal.appendChild(line);
+            
+            // Auto-scroll
+            terminal.scrollTop = terminal.scrollHeight;
+            
+            // Play sound for important messages
+            if (type === 'agent' || type === 'broadcast') {
+                playBeep(600, 30);
+            }
+        }
+        
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+        
+        // Connect to MUD Server
+        function connect() {
+            websocket = new WebSocket('ws://localhost:4008');
+            
+            websocket.onopen = () => {
+                statusBar.textContent = '● CONNECTED';
+                statusBar.className = 'connected';
+                playBeep(1000, 100);
+            };
+            
+            websocket.onclose = () => {
+                statusBar.textContent = '● DISCONNECTED';
+                statusBar.className = 'disconnected';
+                addLine('Connection lost. Reconnecting in 5 seconds...', 'error');
+                setTimeout(connect, 5000);
+            };
+            
+            websocket.onmessage = (event) => {
+                const data = JSON.parse(event.data);
+                
+                switch(data.type) {
+                    case 'system':
+                        addLine(data.text, 'system');
+                        break;
+                    case 'room':
+                        addLine(data.text, 'room');
+                        break;
+                    case 'response':
+                        addLine(data.text, 'normal');
+                        break;
+                    case 'broadcast':
+                        addLine(data.text, 'broadcast');
+                        break;
+                    case 'error':
+                        addLine(data.text, 'error');
+                        break;
+                }
+            };
+        }
+        
+        // Send command
+        function sendCommand(command) {
+            if (websocket && websocket.readyState === WebSocket.OPEN) {
+                websocket.send(JSON.stringify({ command }));
+                playBeep(400, 20);
+            } else {
+                addLine('Not connected to MUD server!', 'error');
+            }
+        }
+        
+        // Handle input
+        input.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') {
+                const command = input.value.trim();
+                if (command) {
+                    // Show command in terminal
+                    addLine(`> ${command}`, 'normal');
+                    
+                    // Special commands
+                    if (command === '!!agent') {
+                        document.getElementById('agent-panel').classList.toggle('visible');
+                    } else if (command === '!!clear') {
+                        terminal.innerHTML = '<div class="header">...</div>';
+                    } else {
+                        sendCommand(command);
+                    }
+                    
+                    input.value = '';
+                }
+            }
+        });
+        
+        // Agent Control Functions
+        function toggleAgent() {
+            agentActive = !agentActive;
+            addLine(`Agent autonomy: ${agentActive ? 'ENABLED' : 'DISABLED'}`, 'agent');
+            
+            if (agentActive) {
+                sendCommand('!!autopilot on');
+            } else {
+                sendCommand('!!autopilot off');
+            }
+        }
+        
+        function agentCommand(action) {
+            addLine(`[AGENT] Executing: ${action}`, 'agent');
+            sendCommand(`!!agent ${action}`);
+        }
+        
+        // Boot sequence
+        function bootSequence() {
+            const lines = [
+                ['BIOS DATE 02/01/26 14:22:51 VER 1.0.2', 'system'],
+                ['CPU: HarrisWildlands Virtual Core @ 3.33GHz', 'system'],
+                ['RAM: 640K OK', 'system'],
+                ['', 'system'],
+                ['INITIALIZING RETRO TERMINAL...', 'system'],
+                ['LOADING WEBSOCKET MODULE...', 'system'],
+                ['CONNECTING TO MUD SERVER...', 'system'],
+                ['', 'system'],
+                ['PRESS ENTER TO CONNECT...', 'system'],
+            ];
+            
+            let delay = 0;
+            lines.forEach(([text, type]) => {
+                setTimeout(() => addLine(text, type), delay);
+                delay += 300;
+            });
+            
+            setTimeout(() => {
+                connect();
+                input.focus();
+            }, delay + 500);
+        }
+        
+        // Start
+        window.onload = () => {
+            bootSequence();
+            input.focus();
+        };
+        
+        // Keep focus on input
+        document.addEventListener('click', () => {
+            input.focus();
+        });
+        
+        // Keyboard shortcuts
+        document.addEventListener('keydown', (e) => {
+            if (e.ctrlKey && e.key === 'a') {
+                e.preventDefault();
+                document.getElementById('agent-panel').classList.toggle('visible');
+            }
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,62 @@
+{
+  "skills": {
+    "install": {
+      "nodeManager": "npm"
+    },
+    "entries": {
+      "goplaces": {
+        "apiKey": "AIzaSyAWrF55MQqCc9NtySXI354ELRdKl6fQoRw"
+      },
+      "local-places": {
+        "apiKey": "AIzaSyAWrF55MQqCc9NtySXI354ELRdKl6fQoRw"
+      },
+      "nano-banana-pro": {
+        "apiKey": "AIzaSyAQenCa49GkE9zpfC7elIe9nvjxE88Ca8s"
+      },
+      "bruceops": {
+        "enabled": true,
+        "config": {
+          "apiBase": "http://localhost:5000"
+        }
+      }
+    },
+    "load": {
+      "extraDirs": [],
+      "watch": true,
+      "watchDebounceMs": 250
+    }
+  },
+  "llm": {
+    "models": {
+      "anthropic:brucebruce": {
+        "provider": "anthropic",
+        "mode": "token"
+      }
+    }
+  },
+  "channels": {
+    "discord": {
+      "enabled": true,
+      "token": "YOUR_DISCORD_BOT_TOKEN_HERE",
+      "allowBots": false,
+      "groupPolicy": "open",
+      "dm": {
+        "enabled": true,
+        "policy": "open",
+        "allowFrom": ["*"]
+      },
+      "accounts": {}
+    }
+  },
+  "gateway": {
+    "enabled": true,
+    "bind": "loopback",
+    "auth": {
+      "mode": "token",
+      "token": "YOUR_OPENCLAW_TOKEN_HERE"
+    },
+    "tailscale": {
+      "enabled": false
+    }
+  }
+}
